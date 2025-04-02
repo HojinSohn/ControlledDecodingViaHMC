@@ -10,7 +10,7 @@ DEBUG_ACCEPT = False
 class HMCSampler:
     
     # sequence_embeddings = embeddings of the output tokens
-    def __init__(self, sequence_energy, rng, device, alpha=0.1):
+    def __init__(self, sequence_energy, rng, device, alpha=0.1, args):
         self.sequence_energy = sequence_energy
         
         self.rng = rng
@@ -18,6 +18,11 @@ class HMCSampler:
         self.alpha = alpha
         
         self.device = device
+
+        if args.debug:
+            self.debug = True
+        else:
+            self.debug = False
 
     def get_sampled_velocities(self, stddv):
         """
@@ -34,7 +39,11 @@ class HMCSampler:
         velocities : list of tensors with the same shape as each shape in self.shape sampled velocities for all parameters.
 
         """
-        velocities = [torch.normal(mean=0, std=stddv, size=self.embedding_space_size, device=self.device) for _ in self.seq_length]
+        # list of velocity, each velocity has same shape of token embedding space
+        velocities = [torch.normal(mean=0, std=stddv, size=(self.sequence_energy.embedding_space_size,), device=self.device) for _ in range(self.sequence_energy.seq_length)]
+        
+        # convert list to tensor. Shape: (seq_len, token_embedding_space)
+        velocities = torch.stack(velocities)
         return velocities
         
         # raise NotImplementedError("Complete Implementation")
@@ -64,7 +73,27 @@ class HMCSampler:
         """
 
         # Half-step update for velocities
-        emb_grad, lambda_grad = self.sequence_energy.compute_gradient()
+        emb_grad, lambda_grad = self.sequence_energy.compute_gradients()
+
+        '''
+        emb_grad:           torch.Size([1, 20, 768])
+        lambda_grad:        scalar value
+        velocities:         list [20, 768]
+        embeddings:         torch.Size([1, 20, 768])
+        '''
+
+        # DEBUG
+        if self.debug:
+            print(f"emb_grad shape: {emb_grad.shape}")
+            print(f"lambda_grad shape: {lambda_grad.shape}")
+            print(f"lambda_grad: {lambda_grad}")
+            print(f"velocities len: {velocities.shape}")
+            print(f"self.sequence_energy.embeddings shape : {self.sequence_energy.embeddings.shape}")
+
+        # Remove batch dimension
+        emb_grad = emb_grad.squeeze(0)
+
+        # Half step update for velocity / lambda update
         velocities_half = velocities - 0.5 * delta * emb_grad
         new_lambda = self.sequence_energy.lambda_energy + 0.5 * self.alpha * lambda_grad # right?
 
@@ -72,7 +101,11 @@ class HMCSampler:
         self.sequence_energy.embeddings = self.sequence_energy.embeddings + delta * velocities_half
 
         # Another half-step update for velocities
-        emb_grad, lambda_grad = self.sequence_energy.compute_gradient()
+        emb_grad, lambda_grad = self.sequence_energy.compute_gradients()
+
+        emb_grad = emb_grad.squeeze(0)
+
+        # Half step update for velocity / lambda update
         velocities = velocities_half - 0.5 * delta * emb_grad
         new_lambda = new_lambda + 0.5 * self.alpha * lambda_grad # right?
         self.sequence_energy.lambda_energy = max(new_lambda, 0)
@@ -108,7 +141,7 @@ class HMCSampler:
 
         """
         
-        alpha = min(1, np.exp(potential_energy_previous + kinetic_energy_previous - potential_energy_current - kinetic_energy_current))
+        alpha = min(1, torch.exp(potential_energy_previous + kinetic_energy_previous - potential_energy_current - kinetic_energy_current))
         if np.random.uniform(low=0, high=1) <= alpha:
             return True
         else:
@@ -144,8 +177,13 @@ class HMCSampler:
         # Initialize buffer.
         samples = []
         potentials = []
+
+
+        samples.append(self.sequence_energy.embeddings)
         
         Y = self.sequence_energy.embeddings.clone()  # Current state
+
+        num_accepts = 0
 
         for i in range(n):
             curr_velocities = self.get_sampled_velocities(std_dev)
@@ -171,23 +209,25 @@ class HMCSampler:
                 # Accept new samples.
                 samples.append(self.sequence_energy.embeddings)
                 potentials.append(potential_energy_current)
-                print(
-                    "{:>3d} {:>6s} {:>8s}"
-                    .format(i, "Accept", "{:.6f}".format(potential_energy_current)),
-                )
+                # print(
+                #     "{:>3d} {:>6s} {:>8s}"
+                #     .format(i, "Accept", "{:.6f}".format(potential_energy_current)),
+                # )
                 Y = self.sequence_energy.embeddings
             else:
                 # Reject new samples.
                 # Need to recover model parameters back to the last sample.
-                samples.append(samples[-1])
+                # samples.append(samples[-1])
                 potentials.append(potential_energy_previous)
-                print(
-                    "{:>3d} {:>6s} {:>8s}"
-                    .format(i, "Reject", "{:.6f}".format(potential_energy_previous)),
-                )
+                # print(
+                #     "{:>3d} {:>6s} {:>8s}"
+                #     .format(i, "Reject", "{:.6f}".format(potential_energy_previous)),
+                # )
                 Y = Y_old
             self.sequence_energy.embeddings = Y  # Update for next iteration
             samples.append(Y.clone().detach())
             num_accepts = num_accepts + int(accept_new)
+            
+        return samples
 
     

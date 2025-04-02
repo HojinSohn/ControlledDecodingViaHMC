@@ -1,0 +1,1 @@
+python main.py --device cpu --lambda_energy 2.0 --epsilon 0.02 --n_steps 500 --std_dev 0.2 --delta 0.3 --num_leapfrog 5

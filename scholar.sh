@@ -14,4 +14,4 @@
 module load conda
 conda activate /home/sohn31/.conda/envs/cent7/2024.02-py311/CS587
 
-python model/setup.py
+srun "$@"

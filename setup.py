@@ -1,5 +1,13 @@
 import torch
-from transformers import GPT2Tokenizer, GPT2LMHeadModel
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, DistilBertForSequenceClassification, DistilBertTokenizer
+import numpy as np
+
+import sys
+import os
+
+from sampler.SequenceEnergy import SequenceEnergy
+from sampler.HMCSampler import HMCSampler
+
 
 # Load GPT-2 model and tokenizer
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
