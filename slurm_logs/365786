@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/sohn31/ControlledLLM_HMC/model/setup.py", line 6, in <module>
+    curious_emb = get_word_embedding("curious")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohn31/ControlledLLM_HMC/model/setup.py", line 2, in get_word_embedding
+    token_ids = tokenizer.encode(word, add_special_tokens=False)
+                ^^^^^^^^^
+NameError: name 'tokenizer' is not defined
