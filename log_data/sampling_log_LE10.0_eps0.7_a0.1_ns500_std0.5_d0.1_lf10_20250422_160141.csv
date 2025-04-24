@@ -1,0 +1,1480 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,44.060302734375,16.42340666118421,10.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theakia『world is one",0,0,77.29927062988281,17.879853258634867,9.94311809539795,"tensor([1.1144e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.】
+
+The moment the 『world is a",0,0,50.60152816772461,20.17848992598684,9.94311809539795,"tensor([4.5726e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing    』
+
+The moment the 『arted is a",0,0,73.57821655273438,20.66754728618421,9.94311809539795,"tensor([2.4776e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The skelet is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.07699584960938,18.09322959498355,9.94311809539795,"tensor([1.0716e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Rewcheon is a beautiful thing.』
+
+The moment the 『world is a",0,0,79.37183380126953,16.298317999588814,9.94311809539795,"tensor([5.3003e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingason』
+
+The moment the 『world is a",0,0,63.589088439941406,17.898298725328946,9.94311809539795,"tensor([9.1425e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『emies world is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.7611312866211,22.978572162828947,9.94311809539795,"tensor([2.0764e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,44.076534271240234,16.373098273026315,9.94311809539795,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『sonian is a",0,0,67.93739318847656,19.886543996710525,9.94311809539795,"tensor([1.7621e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,44.07653045654297,24.883760793585527,9.94311809539795,"tensor([2.3910e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulciating.』
+
+The moment the 『world is a",0,0,66.1922378540039,16.49552066200658,4.532288074493408,"tensor([1.2266e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『ward is a",0,0,62.45249938964844,19.018820672286182,4.532288074493408,"tensor([4.2062e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,45.61961364746094,22.02336554276316,4.532288074493408,"tensor([2.9832e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,45.61956787109375,18.017557565789474,4.532288074493408,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『cms is a",0,0,71.13935852050781,25.446438116776314,4.532288074493408,"tensor([1.3035e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is the beautiful thing.』
+
+The moment the 『world is a",0,0,53.235801696777344,21.78224969161184,4.532288074493408,"tensor([2.9117e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,45.61957550048828,17.968552117598684,4.532288074493408,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the creat『world is a",0,0,69.81861877441406,14.776223273026316,4.532288074493408,"tensor([1.9354e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldMSN a beautiful thing.』
+
+The moment the 『opoly is a",0,0,97.76571655273438,13.348291015625,4.532288074493408,"tensor([5.0095e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+In moment the 『worm is a",0,0,68.15252685546875,19.598781866776314,4.532288074493408,"tensor([7.3889e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,16.38141961348684,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,18.657429584703948,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,20.039041940789474,0.0,"tensor([2.7585e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912105560302734,13.223469623766446,0.0,"tensor([0.0236], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Pal world is a beautiful thing.』
+
+The moment the 『world is a",0,0,71.65727996826172,17.55301449424342,0.0,"tensor([5.7755e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Ghhered is a beautiful thingicum』
+
+The moment the 『 ""$:/ is a",0,0,117.58150482177734,17.106070106907893,0.0,"tensor([9.1158e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Chocobo is a beautiful thing.』
+
+The moment the 『world is a",0,0,63.85860824584961,20.30705694901316,0.0,"tensor([1.0581e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91204833984375,32.488368626644736,0.0,"tensor([9.6916e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,18.73550447162829,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the plural『world is a",0,0,66.34915161132812,18.368819387335527,0.0,"tensor([4.9250e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『hist� is a beautiful thing.』
+
+The moment the 『world is a",0,0,89.11839294433594,17.563270970394736,0.0,"tensor([1.5520e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.ickr
+
+The moment the 『world is a",0,0,80.08515167236328,17.816158254523025,0.0,"tensor([1.0358e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『rium world is a beautiful thing.』
+
+The moment the 『world is a",0,0,74.00585174560547,20.102316766036182,0.0,"tensor([4.6009e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』full
+The moment the 『world is a",0,0,68.72067260742188,15.931548108552631,0.0,"tensor([5.4446e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『ugi is a",0,0,67.97535705566406,20.434639699835525,0.0,"tensor([1.3081e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Metropolitan is a beautiful thing.』
+
+The moment the 『world is a",0,0,69.03440856933594,17.428718647203947,0.0,"tensor([1.1788e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world marks a beautiful thing.』
+
+The moment the 『world is a",0,0,63.82844543457031,15.382632606907894,0.0,"tensor([1.2191e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『 the worldkeeper "" beautiful thing.』
+
+The moment the 『world is a",0,0,88.62943267822266,17.651809210526316,0.0,"tensor([2.5679e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『 haun is a",0,0,73.27424621582031,23.847396689967105,0.0,"tensor([2.2059e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,17.032958984375,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theopia is a beautiful thing.』
+
+The moment the 『world is a",0,0,65.24462127685547,15.55826351768092,0.0,"tensor([2.9056e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91204833984375,19.903281763980264,0.0,"tensor([3.7095e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,19.306397769325656,0.0,"tensor([6.3108e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912109375,21.64306640625,0.0,"tensor([4.9691e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Droid.』
+
+The moment the 『world is a",0,0,63.894744873046875,33.52226305509868,0.0,"tensor([1.5617e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldness a beautiful thing.』
+
+The moment the rall『world is a",0,0,101.46121978759766,14.332351202713815,0.0,"tensor([1.9245e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,21.742732319078947,0.0,"tensor([5.1862e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+arcThe moment the 『world is a",0,0,78.13762664794922,22.471314761513156,0.0,"tensor([7.4504e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.}』
+
+The moment the 『world is a",0,0,51.480106353759766,19.440152138157895,0.0,"tensor([6.6234e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,12.624690326891447,0.0,"tensor([0.0474], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theyrinth is a beautiful Tanz.』
+
+The moment the�『world is a",0,0,106.51427459716797,15.502133018092104,0.0,"tensor([3.6429e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+Theolog the 『world is a",0,0,66.79854583740234,19.625734991776316,0.0,"tensor([1.2353e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifullot.』
+
+The moment the 『world is a",0,0,62.332984924316406,21.111039011101973,0.0,"tensor([1.8060e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206741333008,17.30189144736842,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,20.355547131990132,0.0,"tensor([2.3000e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+Theラン the 『world is a",0,0,67.18092346191406,16.59802760074013,0.0,"tensor([1.4074e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『world is a",0,0,50.07902145385742,16.956740851151316,0.0,"tensor([2.7488e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Wonderland is a beautiful thing.』
+
+The Flavoring the 『world is a",0,0,85.14576721191406,29.077968236019736,0.0,"tensor([8.7506e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『peak world is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.4677963256836,15.61219418174342,0.0,"tensor([1.4879e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『rose world is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.5537109375,20.316775030838816,0.0,"tensor([1.5353e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is , beautiful thing.』
+
+The moment the 『world is a",0,0,68.24197387695312,24.06283408717105,0.0,"tensor([2.7455e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,23.335331003289472,0.0,"tensor([1.1558e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『edom ups is a beautiful thing.』
+
+The moment the Onion『world is a",0,0,98.21311950683594,33.886806126644736,0.0,"tensor([1.7541e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,17.85588507401316,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,15.538402035361841,0.0,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is deserts beautiful thing.』
+
+The moment the 『world is a",0,0,72.83135986328125,14.94991519325658,0.0,"tensor([2.9958e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,18.900971422697367,0.0,"tensor([8.2552e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206741333008,17.430568976151314,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is the beautiful thing.』
+
+The moment the retri『world is a",0,0,85.81394958496094,14.570985814144736,0.0,"tensor([9.4586e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『thanks world is a beautiful thing.]』
+
+The moment the 『world is a",0,0,71.5194091796875,19.631905324835525,0.0,"tensor([9.3395e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『world is a",0,0,50.079017639160156,20.609696237664473,0.0,"tensor([7.3137e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『taboola is a",0,0,68.51155090332031,16.050105365953947,0.0,"tensor([6.4968e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world isases",0,0,63.063072204589844,18.885341282894736,0.0,"tensor([1.0784e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Nig- a beautiful thing.』
+
+The momentモ 『world is a",0,0,92.48947143554688,13.996010228207236,0.0,"tensor([1.8944e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,17.84409693667763,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is wh",0,0,56.835472106933594,16.50914884868421,0.0,"tensor([5.0796e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world corresponds a wonderful thing.』
+
+The moment the 『world is a",0,0,65.88654327392578,16.293779553865132,0.0,"tensor([7.8906e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theidium is a beautiful thing.』
+
+The moment the 『world is a",0,0,67.72896575927734,15.820004111842104,0.0,"tensor([1.6323e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is top",0,0,56.03850555419922,13.74259611430921,0.0,"tensor([1.4715e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is cel beautifulstellar.』
+
+The moment the 『world is a",0,0,88.78585815429688,14.240653268914473,0.0,"tensor([6.4278e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Contin world is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.9178695678711,28.411006887335525,0.0,"tensor([1.2355e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Themares is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.42890930175781,19.139113898026316,0.0,"tensor([4.9704e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The seiz is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.96244812011719,20.31705900493421,0.0,"tensor([1.1095e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,18.992981599506578,0.0,"tensor([8.0430e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world isocide beautiful thing.』
+
+The moment the puck『world is a",0,0,108.01199340820312,26.75305047286184,0.0,"tensor([9.8955e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theWinged『tackle is a",0,0,89.36923217773438,18.56673648231908,0.0,"tensor([6.0514e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『thood is a",0,0,69.58797454833984,17.543490439967105,0.0,"tensor([4.5445e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『soDeliveryDate is a",0,0,70.32144165039062,16.39615028782895,0.0,"tensor([8.2263e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『ministussian is a beautiful thing.』
+
+The moment the 『world is a",0,0,81.07435607910156,15.335400390624999,0.0,"tensor([5.2032e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world iseson beautiful bom Posted』
+
+The moment the 『world is a",0,0,103.57492065429688,15.87145353618421,0.0,"tensor([4.6927e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulpace.』
+
+The moment the 『world is a",0,0,60.61865234375,21.48346653988487,0.0,"tensor([6.2782e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,18.482631321957236,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the rite『world is a",0,0,70.88215637207031,19.663386615953947,0.0,"tensor([1.5419e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theaston is a beautiful thing.』
+
+The moment the 『tracks is a",0,0,84.07113647460938,18.12886384662829,0.0,"tensor([1.2931e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a consuming thing.』
+
+The moment the 『world is a",0,0,54.18255615234375,17.248541581003288,0.0,"tensor([3.6047e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『osphere world listens a beautiful thing.』
+
+The moment the 『world is a",0,0,95.92252349853516,19.349185341282894,0.0,"tensor([2.3124e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,17.762087530838816,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment theabad『world is a",0,0,76.73936462402344,19.96291375411184,0.0,"tensor([3.6858e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Kingworld is a beautiful thinggie』
+
+The moment the 『world is a",0,0,86.75648498535156,14.881684313322369,0.0,"tensor([2.4121e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,15.998996453536185,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『puter world Kidd añ thing.』
+
+Thehelm the 『world is a",0,0,125.94544982910156,15.455282432154604,0.0,"tensor([1.2252e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,18.91447882401316,0.0,"tensor([8.9049e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『subject world is a beautiful thingirable』
+
+The moment the 『world is a",0,0,85.54435729980469,13.73944027549342,0.0,"tensor([2.7408e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,17.083555201480262,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『Else is a",0,0,63.621803283691406,19.68502261513158,0.0,"tensor([2.3327e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Gravity is a beautiful thing.』
+
+The moment the 『world is a",0,0,62.935707092285156,19.950326377467103,0.0,"tensor([3.7176e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the skelet『world is a",0,0,75.12113952636719,21.290352590460525,0.0,"tensor([4.1819e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,18.252415707236842,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『parent world is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.71215057373047,14.402158717105262,0.0,"tensor([2.4683e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theacerb『isoft is a",0,0,95.46484375,20.268361944901315,0.0,"tensor([2.2234e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206741333008,15.088936574835525,0.0,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『shock is a",0,0,60.79017639160156,22.291537314967105,0.0,"tensor([3.0477e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91204833984375,19.713913445723684,0.0,"tensor([4.6943e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful simultane.』
+
+The moment the 『incible is a",0,0,85.53246307373047,18.04332082648026,0.0,"tensor([3.6319e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Official world is a beautiful atom.』
+
+The moment the 『world is a",0,0,74.43899536132812,21.209012643914473,0.0,"tensor([1.1466e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,15.815491365131578,0.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Compass is a beautiful thing.』
+
+The moment the 『world is a",0,0,65.75355529785156,15.226345343338815,0.0,"tensor([2.0333e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,17.800922594572366,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Robo is a beautiful thing.』
+
+The moment the 『world is a",0,0,67.39685821533203,18.250588507401314,0.0,"tensor([2.2377e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ZenThe world is a beautiful thing.』
+
+The moment the 『world is a",0,0,85.96321105957031,14.123388671875,0.0,"tensor([1.0634e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91204833984375,18.537082391036183,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,19.733809621710527,0.0,"tensor([3.8235e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,16.850819798519737,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,22.167305715460525,0.0,"tensor([3.7770e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theether is a beautiful thingpolit』
+
+The moment the 『world is a",0,0,91.10997772216797,21.545551500822366,0.0,"tensor([4.7358e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,17.500742701480263,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theusterity is a wonderful thing.』
+
+Theyll the 『world is a",0,0,85.07525634765625,18.932204718338816,0.0,"tensor([2.2811e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The fielder is a beautiful thing.』
+
+The PLUS the 『world is a",0,0,85.46498107910156,20.774740439967104,0.0,"tensor([2.3723e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Msandel is a beautiful thing.』
+
+The moment the 『world is a",0,0,76.3795166015625,17.288856907894736,0.0,"tensor([8.5534e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.…]
+
+The moment the 『world is a",0,0,58.26039123535156,17.34871247944079,0.0,"tensor([4.9610e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91212463378906,18.92117341694079,0.0,"tensor([8.8594e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,22.679520456414473,0.0,"tensor([2.0819e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『worldstop a",0,0,62.48912048339844,19.70122712787829,0.0,"tensor([5.9922e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,16.298305150082236,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『UX world is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.57780456542969,15.813626901726973,0.0,"tensor([1.0706e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theloo is vice beautiful thing.』
+
+The moment the 『world is a",0,0,89.8295669555664,16.44857627467105,0.0,"tensor([2.3760e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the testers『world is's",0,0,86.99761962890625,20.582217567845394,0.0,"tensor([7.2017e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『theless is a",0,0,67.12777709960938,19.999100534539473,0.0,"tensor([5.1899e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingllular』
+
+The moment the 『world is a",0,0,66.7037582397461,20.595047800164473,0.0,"tensor([4.0266e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Wordwo is a beautiful thing.』
+
+The moment the 『world is a",0,0,75.86400604248047,18.98079769736842,0.0,"tensor([2.7663e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,22.95767886513158,0.0,"tensor([1.6449e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is their beautiful thing.』
+
+The moment the 『world is a",0,0,62.96369552612305,18.263407175164474,0.0,"tensor([2.4717e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world isalled beautiful thing,』
+
+The moment the 『world is a",0,0,79.75678253173828,17.503389699835527,0.0,"tensor([1.9059e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,15.456381064967104,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The VIDEOS is a beautiful thingsth』
+
+The moment the 『world is a",0,0,102.02619934082031,15.990045487253289,0.0,"tensor([2.4230e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The momentese 『world is a",0,0,60.761470794677734,18.870497532894735,0.0,"tensor([8.5303e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the guiActiveUnfocused『world is a",0,0,71.08367919921875,17.029804430509866,0.0,"tensor([1.9936e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Swiss is a beautiful thing.』
+
+The moment the 『world is a",0,0,65.34223175048828,17.914943976151314,0.0,"tensor([2.4958e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+『The world is a beautiful thing.』effolThe moment the 『world is a,0,0,77.05533599853516,11.827567331414473,0.0,"tensor([8.5273e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The telecommunications is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.01402282714844,20.378799599095395,0.0,"tensor([1.7714e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theschild is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.17870330810547,17.387039987664473,0.0,"tensor([2.6067e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,24.625886615953945,0.0,"tensor([3.5151e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world locks a beautiful thingEEE』
+
+The moment the 『world is a",0,0,91.10568237304688,16.590164987664473,0.0,"tensor([5.3559e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.DragonMagazine
+
+The moment the 『world is a",0,0,86.72445678710938,17.512470446134866,0.0,"tensor([2.0525e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『 Scenes world is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.7628402709961,19.560384971217104,0.0,"tensor([9.8174e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the luc『world is a",0,0,73.19900512695312,15.696566611842105,0.0,"tensor([9.1186e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Leia.』
+
+The moment the 『world is a",0,0,62.8906135559082,20.018007298519738,0.0,"tensor([3.2550e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+   The moment the 『taboola is a",0,0,84.42930603027344,18.86094392475329,0.0,"tensor([4.7626e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+at thepas the 『world is a",0,0,78.77415466308594,18.83567023026316,0.0,"tensor([1.4564e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,18.91247430098684,0.0,"tensor([8.1766e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『force clipboardlay a beautiful thing.』
+
+The moment the 『world is a",0,0,99.8227767944336,19.568752569901314,0.0,"tensor([5.3996e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,20.476257966694078,0.0,"tensor([1.7600e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theuxe is a beautiful thing.』
+
+The moment the 『world is a",0,0,71.5814208984375,18.88103541324013,0.0,"tensor([1.8793e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,22.908786492598683,0.0,"tensor([1.3950e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,23.070723684210527,0.0,"tensor([1.2992e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,19.116055458470395,0.0,"tensor([7.2600e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theク is a beautiful thing.』
+
+The revelation the 『world is a",0,0,74.92195892333984,20.686986019736842,0.0,"tensor([1.0359e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,32.307735402960525,0.0,"tensor([1.4540e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,22.63828125,0.0,"tensor([2.1665e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『child world is a beautiful thing.』
+
+The moment the 『tein is a",0,0,88.25439453125,16.39188296669408,0.0,"tensor([1.2577e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulassium.』
+
+The moment the 『world is a",0,0,66.47457885742188,21.564854029605264,0.0,"tensor([2.1791e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theisations is a beautiful thing.}』
+
+The moment the hindsight『world is a",0,0,95.36592102050781,38.77776521381579,0.0,"tensor([1.7948e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the coun『 condem is a",0,0,89.39929962158203,19.001462273848684,0.0,"tensor([2.4492e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful ledger.』
+
+Theessen the 『world is a",0,0,78.89678955078125,16.936330694901315,0.0,"tensor([7.5811e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theraft is the beautiful thing.』
+
+The moment the 『world is a",0,0,72.54744720458984,17.24470857319079,0.0,"tensor([3.8482e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+Theointed the 『world is Shades",0,0,79.65058898925781,22.075776110197367,0.0,"tensor([2.1476e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205978393555,19.636013312088814,0.0,"tensor([4.8985e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Shape world isphia beautiful thing.』
+
+The moment the 『world is a",0,0,97.90690612792969,14.077238384046053,0.0,"tensor([8.5616e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing:[』
+
+The moment thevale『world is a",0,0,94.38681030273438,25.28443667763158,0.0,"tensor([4.5169e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Article worldisationico beautiful thingFF』
+
+The moment the 『world is a",0,0,124.2395248413086,16.13239103618421,0.0,"tensor([3.9847e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,14.253736636513157,0.0,"tensor([0.0108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『$$ world is a beautiful thing.』izen
+Theeger the​​『world is a",0,0,120.7431640625,16.539014956825657,0.0,"tensor([9.0789e-36], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.9120979309082,14.63328279194079,0.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Lear is a beautiful thing.』
+
+Thefigure the 『world is a",0,0,84.39627838134766,20.42984683388158,0.0,"tensor([1.1278e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The momentarth 『world is a",0,0,67.6881103515625,18.87354029605263,0.0,"tensor([8.7886e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the Elys『world is a",0,0,75.83305358886719,17.00433927837171,0.0,"tensor([1.8939e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Worlds is a beautiful thing.』
+
+The moment the 『world is a",0,0,58.76154327392578,21.644135485197367,0.0,"tensor([4.2710e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Vit.』
+
+The moment the 『world is a",0,0,63.976654052734375,22.17538291529605,0.0,"tensor([1.5805e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theestro is a beautiful thing.』
+
+Labour moment thenaire『world is a",0,0,111.36729431152344,17.012021998355262,0.0,"tensor([7.0231e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『morning world is a beautifulhold.』
+
+The moment the 『world is a",0,0,80.69664764404297,14.665013363486842,0.0,"tensor([1.1561e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The World is the beautiful thingAH』
+
+The rainy the 『world is a",0,0,84.46627807617188,22.450282689144736,0.0,"tensor([1.4386e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingicken』
+
+The moment the 『world is a",0,0,63.97677230834961,22.943672902960525,0.0,"tensor([6.1811e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulvre.』
+
+The moment the 『world is a",0,0,65.66411590576172,20.395253392269737,0.0,"tensor([1.2554e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,21.019924444901314,0.0,"tensor([9.0610e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theenegger is a beautiful thing.』
+
+The moment the Chains『world is a",0,0,98.84503173828125,15.907784231085525,0.0,"tensor([5.6144e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『henko is a",0,0,69.21139526367188,20.593343955592104,0.0,"tensor([4.4261e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,23.622396689967104,0.0,"tensor([7.3859e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,18.048495322779605,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912052154541016,21.660618832236842,0.0,"tensor([6.7728e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Craft world is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.7512435913086,15.671521638569079,0.0,"tensor([8.3838e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,22.259876130756577,0.0,"tensor([2.7605e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,19.709033203125,0.0,"tensor([4.3085e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+ SandwichThe moment the 『world is a",0,0,79.91543579101562,17.787593801398025,0.0,"tensor([1.4023e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Prophe.』
+
+The moment the 『world is a",0,0,66.70098114013672,17.44326814350329,0.0,"tensor([8.3121e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,22.28544921875,0.0,"tensor([2.9432e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,18.691506476151314,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The comprom was a beautiful thing.』
+
+The moment the 『 rall is a",0,0,91.7785415649414,16.246168277138157,0.0,"tensor([3.9849e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,22.149563116776314,0.0,"tensor([3.6450e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment thebleacher『world is a",0,0,74.78368377685547,25.974336965460527,0.0,"tensor([6.3595e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,15.441962633634867,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Ban world is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.13542175292969,18.05330746299342,0.0,"tensor([2.1318e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『pooruala is a beautiful thing.』
+
+The moment the 『world is a",0,0,78.77549743652344,14.692396946957237,0.0,"tensor([9.7631e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『world is a",0,0,50.07903289794922,17.091978053042762,0.0,"tensor([1.9911e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,13.354391961348684,0.0,"tensor([0.0239], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theafort is ajar thing.』
+
+The moment theifa『world is a",0,0,114.12037658691406,16.657988538240133,0.0,"tensor([5.9105e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Valhalla is a beautiful thingework』
+
+The moment the 『world is a",0,0,83.49528503417969,19.168502004523027,0.0,"tensor([9.0550e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theitol is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.51693725585938,15.759580592105262,0.0,"tensor([9.3419e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The underworld is a beautiful thing.』
+
+The moment the 『agents is a",0,0,74.47454833984375,18.185041889391446,0.0,"tensor([1.6435e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theominated is a beautiful thing.』
+
+The moment the 『world is a",0,0,76.21533203125,23.621294202302632,0.0,"tensor([1.6458e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,18.077450400904606,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,16.125790244654606,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worlditar a beautiful thingaminer』
+
+The moment the 『psons is a",0,0,112.77311706542969,16.578116005345393,0.0,"tensor([2.4546e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,19.072950503700657,0.0,"tensor([7.2177e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,13.423599403782895,0.0,"tensor([0.0215], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205978393555,16.238808079769736,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulktop.』
+
+The moment the 『world is a",0,0,66.71749877929688,27.620173725328947,0.0,"tensor([3.0620e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,31.66697933799342,0.0,"tensor([2.7153e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.'』
+
+ the moment theuminati『world is a",0,0,91.01437377929688,22.549046566611842,0.0,"tensor([1.9925e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,18.440145713404604,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『interrupted world is the beautiful thing,』
+
+The moment the faculties『world is a",0,0,101.06460571289062,18.911245888157893,0.0,"tensor([2.6689e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,18.231925884046053,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The stimulation is a beautiful thing.』
+
+The moment the 『world is a",0,0,66.24443054199219,15.877883429276315,0.0,"tensor([6.8210e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,16.388096217105264,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,17.811898643092103,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Remember comrade is a beautiful thing.』
+
+The moment the 『world isana",0,0,87.26774597167969,20.681641909950656,0.0,"tensor([4.0029e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91210174560547,18.708055355674343,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,21.232456568667764,0.0,"tensor([7.7057e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world istheless",0,0,63.154335021972656,16.51911492598684,0.0,"tensor([9.8037e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,19.213473992598683,0.0,"tensor([6.9068e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingaken』
+
+The moment the 『world is a",0,0,60.90547180175781,21.315567177220395,0.0,"tensor([6.4086e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Merit world is a veilputer,』
+
+The moment the 『world is a",0,0,93.39201354980469,14.837807103207236,0.0,"tensor([3.2519e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is the beautiful thing.』
+
+The moment the 『world is a",0,0,54.482154846191406,19.983738949424342,0.0,"tensor([1.7506e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Building world is the beautiful thing,』
+
+The moment thezeb『world is a",0,0,102.38955688476562,20.15704923930921,0.0,"tensor([1.7810e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Reloaded world is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.67596435546875,20.19557976973684,0.0,"tensor([7.0906e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldwood the beautiful thing.』
+
+The moment Lifetime 『world is a",0,0,99.20182800292969,25.20700041118421,0.0,"tensor([3.0264e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulEngineDebug.』
+
+TheDH the 『world is a",0,0,86.6363525390625,20.12839869449013,0.0,"tensor([1.4362e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theaird is a beautiful thing.』
+
+The moment the 『world is a",0,0,74.21244049072266,21.627109888980264,0.0,"tensor([7.7272e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Ther world isovere beautiful thing.』
+
+The moment the 『world is a",0,0,98.5450210571289,18.162397203947368,0.0,"tensor([6.6821e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,24.013754111842104,0.0,"tensor([4.9601e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulRL.』
+
+The moment the 『world is a",0,0,65.62039947509766,19.03932976973684,0.0,"tensor([5.2401e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The unveiling is a beautiful thing.』
+
+The moment the 『world is a",0,0,66.02944946289062,22.995091488486842,0.0,"tensor([7.8669e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+ the moment the 『world is a",0,0,59.3731689453125,26.633257092927632,0.0,"tensor([1.3606e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a fict plur.』
+
+The moment the 『world is a",0,0,69.95137023925781,22.067333984375,0.0,"tensor([4.5488e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,16.26901084498355,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theynt is a beautiful thing.』
+
+The moment thetions『world is a",0,0,94.49397277832031,30.520199424342106,0.0,"tensor([1.8117e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+Theuddenly theillin『world is a",0,0,83.27812194824219,24.156607216282893,0.0,"tensor([6.8456e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Thesonian is a beautiful thing.』
+
+The moment the 『world is a",0,0,75.16168212890625,18.119520970394735,0.0,"tensor([1.1281e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Reviewer world is a beautiful thing.』
+
+The moment the 『world is a",0,0,76.43856811523438,19.207911441200658,0.0,"tensor([1.0974e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldishes a beautiful thingors』
+
+The moment the 『world is a",0,0,88.28732299804688,19.716300884046053,0.0,"tensor([4.2464e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,30.51967002467105,0.0,"tensor([8.6281e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,16.410949064555922,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Adin is a beautiful thing.』
+
+The moment the 『world is a",0,0,71.87471008300781,16.840925678453946,0.0,"tensor([9.0321e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Rush world is a wonderful thing.』
+
+The moment the 『world is a",0,0,71.50886535644531,16.413558799342105,0.0,"tensor([2.5179e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912109375,18.003199527138158,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『rav world is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.27433776855469,22.896409847861843,0.0,"tensor([1.3124e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』 barrier
+The moment the 『world is a",0,0,66.10609436035156,20.33700400904605,0.0,"tensor([9.8920e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment Ner 『world is a",0,0,70.84284973144531,20.157252261513158,0.0,"tensor([1.0000e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,19.461513157894736,0.0,"tensor([4.9825e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is like beautiful thing.』
+
+The moment the 『world is a",0,0,61.975555419921875,19.674606805098684,0.0,"tensor([1.4515e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theenders is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.4365463256836,18.758548776726972,0.0,"tensor([5.7108e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『amera world is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.5413818359375,16.088530530427633,0.0,"tensor([1.0677e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldnc the beautiful thing.""]=>
+
+The moment the 『world is a",0,0,98.16404724121094,14.559003649259868,0.0,"tensor([3.2835e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,23.026570209703948,0.0,"tensor([1.5634e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『龍契士 world is a beautifulophon.』
+
+The moment the 『world is a",0,0,97.0701904296875,13.891452508223685,0.0,"tensor([2.0047e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『 Glaciate is a Vive thing.』ato
+The moment the 『cean is a",0,0,113.60542297363281,22.28327508223684,0.0,"tensor([2.9686e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Paste is a beautiful thing.』
+
+The moment theACP『world is a",0,0,97.73968505859375,19.357889597039474,0.0,"tensor([5.4978e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206741333008,24.095790501644736,0.0,"tensor([6.2161e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91210174560547,20.191744192023027,0.0,"tensor([2.5037e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『TheAMP is a beautiful thing.』
+
+ The moment the 『world is a",0,0,81.44619750976562,17.164717824835527,0.0,"tensor([5.1704e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Messassic is a beautiful thing.』
+
+The moment theeus『world is a",0,0,102.82437133789062,23.357869037828948,0.0,"tensor([6.6571e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『ilion is a",0,0,67.029052734375,17.486470754523026,0.0,"tensor([6.2947e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,20.121506219161184,0.0,"tensor([3.1779e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldaffinityngth thing.』
+
+The moment the 『world is a",0,0,88.99187469482422,16.357393606085527,0.0,"tensor([5.4286e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『黒 yes a",0,0,73.88419342041016,16.254836554276316,0.0,"tensor([2.3945e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The mund is a beautiful thing.』
+
+The moment the 『world is a",0,0,65.12800598144531,16.782676295230264,0.0,"tensor([8.1990e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『record world is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.08401489257812,19.985020045230264,0.0,"tensor([1.9872e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,16.54258840460526,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world awaits a beautifulyz.』
+
+The moment the 『world is a",0,0,75.87403869628906,29.86591282894737,0.0,"tensor([4.2229e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worlds is a beautiful thing.』
+
+The moment the 『world is a",0,0,54.37400817871094,25.42041529605263,0.0,"tensor([7.7814e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theername means a beautiful thing.』
+
+The moment the 『world is a",0,0,81.73796081542969,16.730484169407895,0.0,"tensor([5.3684e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209030151367,16.366123560855264,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,17.48021946957237,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91210174560547,16.497676809210525,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Robot is a beautiful thing.』
+
+The moment the 『world is a",0,0,64.77963256835938,18.723784436677633,0.0,"tensor([1.8053e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『¢ILA is a beautiful thing.』
+
+The moment the 『world is a",0,0,81.248291015625,12.959512489720394,0.0,"tensor([4.7336e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment Kyoto 『world is a",0,0,63.70151901245117,16.31788394325658,0.0,"tensor([6.5093e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『THESHIP is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.82561492919922,13.772544459292764,0.0,"tensor([2.9427e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulutenberg.』
+
+The moment the 『world is a",0,0,63.79191589355469,18.872507195723685,0.0,"tensor([4.2509e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91210174560547,22.14340049342105,0.0,"tensor([3.7582e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The weap is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.4099349975586,19.65483912417763,0.0,"tensor([1.7001e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,15.011554276315788,0.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,15.77939453125,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『the world is the beautiful rhy.』
+
+The moment the 『world is a",0,0,67.05897521972656,19.89490902549342,0.0,"tensor([7.3855e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,20.899849660773025,0.0,"tensor([1.1705e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,22.96093236019737,0.0,"tensor([1.4735e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.inventoryQuantity
+
+The moment the 『world is a",0,0,79.80616760253906,12.50224609375,0.0,"tensor([2.6206e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,15.355556126644737,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Thepload provides a beautiful thing.』
+
+The moment the 『world is a",0,0,79.96331787109375,23.648481188322368,0.0,"tensor([3.2781e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingptions』
+
+The moment the 『world is a",0,0,66.95458984375,24.168503289473684,0.0,"tensor([9.3613e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the fortun『world is a",0,0,75.93421173095703,18.93853053042763,0.0,"tensor([1.9865e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Booworld is a beautiful thing.』
+
+The moment the 『worldapo a",0,0,92.92010498046875,16.197056178042764,0.0,"tensor([1.3421e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,16.794529965049342,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,18.630499588815788,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206741333008,24.116031044407894,0.0,"tensor([6.3737e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,32.894263980263155,0.0,"tensor([7.0998e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.inventoryQuantity
+
+The moment the 『world is a",0,0,79.80619049072266,16.344063527960525,0.0,"tensor([6.3721e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing flyer』
+
+The moment the 『world is a",0,0,63.103065490722656,14.78633326480263,0.0,"tensor([4.6238e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Lost world is a beautiful thing.』
+
+The moment the 『world is a",0,0,67.12925720214844,19.008162006578946,0.0,"tensor([1.1068e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment theaez『sky is a",0,0,79.34945678710938,17.320849609375,0.0,"tensor([3.7911e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,26.462515419407893,0.0,"tensor([4.5563e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,14.417959755345395,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theitiveness is a beautiful thing,』
+
+The moment theren『world is a",0,0,97.26675415039062,16.80968595805921,0.0,"tensor([1.0162e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+CityThe moment the 『world is a",0,0,75.4358139038086,19.17449372944079,0.0,"tensor([3.2923e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+ⓘ Last moment the 『world is a",0,0,75.1102066040039,18.165786903782895,0.0,"tensor([1.0713e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『TheERA is a beautiful thing.』
+
+The moment the 『world is a",0,0,71.30941772460938,23.398339843749998,0.0,"tensor([2.6352e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91212844848633,15.339881013569078,0.0,"tensor([0.0030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,13.211618523848683,0.0,"tensor([0.0222], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,16.625082236842104,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,18.948637952302633,0.0,"tensor([7.4502e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The achie the 『world is a",0,0,67.46178436279297,16.41289576480263,0.0,"tensor([1.2746e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,17.33279965049342,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『ThePandgemony a beautiful thing.』
+
+The moment the 『world is a",0,0,95.82112884521484,15.605720600328947,0.0,"tensor([1.5039e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world isogyn",0,0,64.08595275878906,16.99155787417763,0.0,"tensor([1.9259e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,32.308881578947364,0.0,"tensor([1.4167e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the Afgh『world is a",0,0,82.14236450195312,21.74018040707237,0.0,"tensor([2.5000e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,24.253065892269735,0.0,"tensor([4.2826e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,17.29521484375,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209030151367,19.22538420024671,0.0,"tensor([7.0093e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theombat is a beautiful thingiers』
+
+The moment the 『� is a",0,0,104.94298553466797,18.36451480263158,0.0,"tensor([1.0753e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theql is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.631591796875,20.524496299342104,0.0,"tensor([9.1457e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingwork』
+
+The moment the 『world is a",0,0,59.697181701660156,18.96789422286184,0.0,"tensor([2.4700e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theeri is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.9845199584961,21.846109169407896,0.0,"tensor([1.5322e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Wonderland is a beautiful thing.』
+
+The moment the 『world is a",0,0,63.11574172973633,22.206820518092105,0.0,"tensor([2.8079e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,18.028245785361843,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,17.25049342105263,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+Thevant theoya『world is a",0,0,87.46333312988281,30.784452097039473,0.0,"tensor([1.4051e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world isoots beautiful thingvity』
+
+The moment the 『world is a",0,0,96.26282501220703,15.826643451891448,0.0,"tensor([7.2528e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theemen『world is a",0,0,76.56475830078125,17.812862356085525,0.0,"tensor([3.3227e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a magnificent thing.』
+
+The moment the 『world is a",0,0,48.730838775634766,17.470854749177633,0.0,"tensor([7.3577e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,18.362276418585527,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,18.83481959292763,0.0,"tensor([9.3804e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91211700439453,19.446767064144737,0.0,"tensor([5.3582e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,19.11360505756579,0.0,"tensor([7.1181e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,15.730106393914474,0.0,"tensor([0.0021], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,20.514936266447368,0.0,"tensor([1.5282e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『facts world is a beautiful thing.』
+
+The moment thenaires『world is a",0,0,97.09107971191406,16.618369654605264,0.0,"tensor([1.4662e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『feed is a",0,0,64.1796875,16.21455078125,0.0,"tensor([4.0670e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209030151367,17.868125513980264,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulIO.』
+
+The moment the 『erning is a",0,0,87.2288818359375,19.410670230263158,0.0,"tensor([2.1079e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theuria is a beautiful thing.』
+
+The moment the 『world is a",0,0,66.63468933105469,24.82590460526316,0.0,"tensor([5.5642e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『punk world levels a beautiful rehearsal.』
+
+The moment the 『world is a",0,0,99.73988342285156,21.182560649671053,0.0,"tensor([1.2017e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912052154541016,21.954422800164473,0.0,"tensor([4.6724e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The Prol the 『world is a",0,0,67.80577087402344,19.22908999794408,0.0,"tensor([5.5190e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The World is a beautiful thing.』
+
+The moment the 『world is a",0,0,50.42389678955078,28.617110402960527,0.0,"tensor([1.5967e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『watch is a",0,0,59.26641082763672,17.775886615953947,0.0,"tensor([1.1557e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theNewsletter『world is a",0,0,74.708984375,25.380191200657894,0.0,"tensor([1.1175e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912109375,18.0920166015625,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』los
+The moment the 『world is a",0,0,70.04804992675781,14.946152857730263,0.0,"tensor([4.9355e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The Satoshi the 『world is a",0,0,65.25343322753906,14.21309878700658,0.0,"tensor([1.0536e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment thefilm『world is a",0,0,71.95652770996094,16.794454152960526,0.0,"tensor([9.3929e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Sketch is a beautiful thing.』
+
+The moment the 『world is a",0,0,66.5252685546875,15.6509765625,0.0,"tensor([6.1546e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Insideyout is a beautiful thing.』
+
+The moment the 『world is a",0,0,81.38275909423828,19.295697985197368,0.0,"tensor([6.9449e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『 Deliverworld is a beautiful thing.』
+
+The moment the 『world is a",0,0,74.00831604003906,16.578357576069077,0.0,"tensor([1.2611e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Bak is a beautiful posit.』
+
+The moment the 『world is a",0,0,83.72378540039062,14.208281506990131,0.0,"tensor([1.0993e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulhenkoasus』
+
+The moment the 『world is a",0,0,76.49967193603516,17.640298622532896,0.0,"tensor([3.8553e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,20.426462273848685,0.0,"tensor([1.9152e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,22.296623149671053,0.0,"tensor([2.9219e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,40.21310649671052,0.0,"tensor([5.4972e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,20.489755088404603,0.0,"tensor([1.6401e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,17.4547607421875,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulolor.』
+
+The moment the Meteor『world is a",0,0,89.53710174560547,16.076323499177633,0.0,"tensor([4.3248e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』 Competitive
+The moment the 『world is a",0,0,70.52806854248047,17.65778294613487,0.0,"tensor([1.4868e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『worldatar a",0,0,67.30076599121094,38.98900082236842,0.0,"tensor([2.8285e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Studio world is a beautiful thing.』
+
+The moment the disadvantages『world is a",0,0,92.34519958496094,14.77545744243421,0.0,"tensor([1.1917e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingng』
+
+The moment the 『world is a",0,0,63.75904846191406,27.441796874999998,0.0,"tensor([9.4065e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The circ is a beautiful thing.』
+RewThe moment the 『world is a",0,0,97.30618286132812,19.203310032894738,0.0,"tensor([8.3758e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,15.767195209703948,0.0,"tensor([0.0021], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Thearre is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.33545684814453,22.083511513157895,0.0,"tensor([3.0555e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Register.』
+
+The moment the 『world is a",0,0,60.27326202392578,20.63402677837171,0.0,"tensor([2.6934e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『utterstock is a",0,0,74.45977020263672,20.36266961348684,0.0,"tensor([2.5816e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,21.36854826274671,0.0,"tensor([7.3220e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『grave world is a beautiful thing.』
+
+The moment the 『world is a",0,0,70.6780014038086,16.373348838404606,0.0,"tensor([4.9221e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Labor Twain is a beautiful thing.』
+
+The moment the 『world is a",0,0,80.80763244628906,14.618184621710526,0.0,"tensor([1.1182e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theال『world is a",0,0,70.67196655273438,21.543343955592103,0.0,"tensor([2.6844e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『シャ world is a beautiful thing,』
+
+The moment theROR『world is a",0,0,98.98121643066406,19.807424444901315,0.0,"tensor([9.2686e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a wond thing.』
+
+The moment the 『world is a",0,0,57.99658966064453,37.176611328125,0.0,"tensor([1.8693e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,18.832881887335525,0.0,"tensor([8.2326e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,19.22004266036184,0.0,"tensor([7.9848e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingrice』
+
+The moment the 『world is a",0,0,61.65699768066406,25.151983963815788,0.0,"tensor([7.5405e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,22.308565481085527,0.0,"tensor([3.4234e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theisms『world is a",0,0,73.39494323730469,14.234678248355262,0.0,"tensor([3.3074e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulurat.』
+
+The moment the 『world is a",0,0,64.5257797241211,14.327882144325658,0.0,"tensor([2.0320e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Scrollworld is a beautifulcourse.』
+
+The moment theorld『world is a",0,0,108.95944213867188,17.100840357730263,0.0,"tensor([5.0778e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful Niet.』
+
+The moment the 『world is a",0,0,65.30786895751953,17.944795949835527,0.0,"tensor([2.2964e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world purs the beautiful thing.』
+
+The moment the 『eer is a",0,0,108.356201171875,19.196932822779605,0.0,"tensor([1.5291e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Jagu is enforced beautiful thing.』 Scale
+The moment the 『world is a",0,0,115.16051483154297,26.217202919407892,0.0,"tensor([1.4423e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+Thegone the 『world is a",0,0,66.27477264404297,26.242012746710525,0.0,"tensor([2.3499e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world treats a beautiful thing.』
+
+The moment the 『world is a",0,0,68.8745346069336,24.876752672697368,0.0,"tensor([5.1500e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,13.822358141447369,0.0,"tensor([0.0150], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,26.830936472039472,0.0,"tensor([3.0649e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91206359863281,19.66446468955592,0.0,"tensor([4.6175e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world isnt",0,0,58.3440055847168,15.42488306949013,0.0,"tensor([3.1524e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『olas world is a beautiful thingplaces』
+
+The moment the 『world is a",0,0,88.7692642211914,14.847843852796052,0.0,"tensor([4.4117e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world looks a",0,0,55.5907096862793,23.27357113486842,0.0,"tensor([1.7071e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『world is a",0,0,50.07898712158203,16.69198447779605,0.0,"tensor([4.2198e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,16.43821957236842,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,39.82823293585526,0.0,"tensor([7.2577e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+�The momentscl 『world is a",0,0,100.3059310913086,14.39664884868421,0.0,"tensor([5.5480e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingeous』
+
+The moment the 『world is a",0,0,63.88380432128906,20.121584601151316,0.0,"tensor([1.3851e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912109375,17.85417608963816,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,19.406528834292764,0.0,"tensor([4.2500e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,17.506166478207238,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,20.558114463404603,0.0,"tensor([1.3964e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205596923828,15.200038548519737,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『DragonMagazine is a",0,0,67.59135437011719,24.109521484374998,0.0,"tensor([5.3768e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『kasヘ is the beautiful Faust.』
+
+The illusions the 『world is a",0,0,103.18073272705078,14.497169253700658,0.0,"tensor([2.8792e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Hague is a beautiful thing.』
+
+The moment the 『world is a",0,0,64.67536926269531,23.76647306743421,0.0,"tensor([1.6090e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『haar is a",0,0,69.25091552734375,19.322128135279605,0.0,"tensor([1.3178e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209411621094,13.379173519736842,0.0,"tensor([0.0244], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『ヴァ world is a beautiful thing.』
+
+The moment the 『world is a",0,0,75.21691131591797,19.319132915296052,0.0,"tensor([3.4032e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209030151367,18.07533408717105,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The adolesc is a beautiful thing.』
+
+The moment the 『world is a",0,0,72.95724487304688,21.153495065789475,0.0,"tensor([4.4598e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.9120979309082,18.92841282894737,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Emirates is a wonderful thing.』
+
+The moment the 『world is a",0,0,64.32316589355469,20.126698704769737,0.0,"tensor([5.9156e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the王『world is a",0,0,68.25044250488281,16.5526123046875,0.0,"tensor([5.0854e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulMerit.』
+
+The moment the 『world is a",0,0,66.05140686035156,15.878574732730263,0.0,"tensor([9.3192e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91209030151367,33.75120785361842,0.0,"tensor([3.2480e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Released world is a beautiful thing.』
+
+The moment the 『world is a",0,0,73.59278869628906,20.20537623355263,0.0,"tensor([5.5373e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing narration』
+
+The moment the 『world is a",0,0,65.42001342773438,20.265966796875,0.0,"tensor([2.7239e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,16.091658100328946,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,21.7693359375,0.0,"tensor([6.5952e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』し
+The moment the 『world is a",0,0,64.81060791015625,16.302993935032895,0.0,"tensor([2.5444e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912109375,17.830282432154604,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Universe is Parade beautiful thing.SourceFile
+
+The moment the 『world is a",0,0,116.66217803955078,18.469484991776316,0.0,"tensor([6.3412e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91204833984375,16.572054893092105,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world isness",0,0,59.100669860839844,42.45439967105263,0.0,"tensor([2.7272e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,16.167025596217105,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulcca.』
+
+The moment the 『world is a",0,0,59.12200164794922,14.200964997944078,0.0,"tensor([4.8119e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldurai a beautiful trad.』 Image
+The moment the 『world is a",0,0,112.47207641601562,16.709836297286184,0.0,"tensor([3.0913e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world PRES a beautiful thing.』
+
+The moment the 『world is a",0,0,76.98528289794922,15.93903166118421,0.0,"tensor([1.4838e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,17.523833264802633,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205978393555,20.68587710731908,0.0,"tensor([1.4391e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『ワatsuki is a beautiful thing.』
+
+The moment reasonbart『world is a",0,0,115.12972259521484,23.013553659539472,0.0,"tensor([3.9601e-36], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『 encount is a",0,0,75.4547119140625,14.558433131167762,0.0,"tensor([3.6308e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The momentraint 『world is a",0,0,66.35896301269531,18.212634919819077,0.0,"tensor([6.3659e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,18.540576171875,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Flowento is a beautiful thing.]』
+
+The moment the 『world is a",0,0,87.59587097167969,15.771860865542763,0.0,"tensor([5.4498e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,20.313438013980264,0.0,"tensor([1.8933e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『──Austral is a beautiful thing.』
+
+The moment theiso『world is a",0,0,97.65178680419922,20.36100431743421,0.0,"tensor([1.5037e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theination is a beautiful thing.』
+
+The moment the 『world is a",0,0,68.73478698730469,17.121886564555922,0.0,"tensor([2.1799e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautifulhops.』
+
+The moment the 『worldly is a",0,0,83.87413024902344,15.74004420230263,0.0,"tensor([1.6057e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91205978393555,21.387633634868422,0.0,"tensor([7.4069e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theresses『world is a",0,0,75.4788589477539,18.732545230263156,0.0,"tensor([3.9578e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,15.359183542351973,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,18.07571957236842,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Armageddon is a beautiful thing.』
+
+The moment the 『world is a",0,0,64.61774444580078,13.356790964226974,0.0,"tensor([4.1727e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Templ clears a beautiful thing.』
+
+The moment the 『world is a",0,0,91.833984375,24.563291529605262,0.0,"tensor([1.0007e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing,』
+
+The moment the 『world is a",0,0,50.079036712646484,20.502066200657893,0.0,"tensor([8.0499e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The Lumpur is a beautiful thing.』
+
+The moment the 『world is a",0,0,69.47792053222656,19.381070106907895,0.0,"tensor([9.1366e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful lesson.』
+
+The moment the 『Reviewer is a",0,0,71.17140197753906,23.38894685444079,0.0,"tensor([2.9765e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The universe is a beautiful thing.』bra
+The moment the 『world is a",0,0,74.02116394042969,14.36160824424342,0.0,"tensor([1.4862e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Theilater is a beautiful thing.』
+
+The moment the 『world is a",0,0,76.09136199951172,24.66916632401316,0.0,"tensor([6.6843e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingolicy』
+
+The moment the 『world is a",0,0,71.4195556640625,18.755765573601973,0.0,"tensor([3.0599e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,18.153782894736842,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,16.413088507401316,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The haze is Panda beautiful thing.』
+
+The moment the 『world is a",0,0,93.68183135986328,15.49625822368421,0.0,"tensor([1.2152e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thingasha』
+
+The moment the 『world is a",0,0,59.428802490234375,14.776315789473683,0.0,"tensor([1.7225e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldケ a beautiful thing.』
+
+The moment the 『world is a",0,0,75.636474609375,19.304276315789473,0.0,"tensor([2.1158e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful independ.』
+
+Har moment the 『world is a",0,0,86.12298583984375,14.836635228207237,0.0,"tensor([3.7236e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the er『world is a",0,0,64.64705657958984,16.305581825657896,0.0,"tensor([2.7581e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912078857421875,17.060751182154604,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment theinen『world is a",0,0,69.69102478027344,15.509071751644736,0.0,"tensor([3.1536e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.9120979309082,18.90526829769737,0.0,"tensor([9.4045e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『case boycot is heaven beautiful thing.』
+
+The moment the 『anski is a",0,0,111.1147232055664,18.384213096217106,0.0,"tensor([1.8072e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The conven is a beautiful thing.』
+
+The moment the 『world is a",0,0,71.82847595214844,13.54668482730263,0.0,"tensor([2.8303e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the nucle『world is a",0,0,81.2813720703125,14.516311163651315,0.0,"tensor([6.8522e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The dolphin is a beautiful thing.』
+
+The moment the 『world is a",0,0,62.93824768066406,18.05391781455592,0.0,"tensor([2.3504e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The worldgery a beautiful thing.』
+
+The moment the 『world is a",0,0,83.12310028076172,13.780670487253289,0.0,"tensor([2.7273e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing').』
+
+rawdownloadcloneembedreportprint momentuz 『world is a",0,0,98.23931884765625,19.896314761513157,0.0,"tensor([1.5466e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment thelicts『world is a",0,0,77.1885757446289,17.893818102384866,0.0,"tensor([1.6392e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『王 world is a beautiful thing.』
+
+Thehak the 『world is a",0,0,85.12258911132812,25.405736019736842,0.0,"tensor([3.4373e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world isot",0,0,60.173404693603516,20.154427939967103,0.0,"tensor([4.1295e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,25.630977590460525,0.0,"tensor([1.1725e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『Thecific is a beautifulrahim.』
+-The listener theong『ć is a",0,0,138.83018493652344,17.67565789473684,0.0,"tensor([4.2039e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,20.13434416118421,0.0,"tensor([3.0268e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91207504272461,15.233799342105263,0.0,"tensor([0.0039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912086486816406,23.575984272203947,0.0,"tensor([7.7321e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.912071228027344,18.67894222861842,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『The world is a beautiful thing.』
+
+The moment the 『world is a",0,0,46.91208267211914,21.492678351151316,0.0,"tensor([5.9920e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0

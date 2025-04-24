@@ -1,0 +1,1000 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" I felt like I was inbidNarr¯.
+But my mind's still working,",0,0,99.94169616699219,97.70307360197368,10.0,"tensor([1.4013e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inacityragonbral.
+But my mind's still working,",0,0,91.66204071044922,65.54474198190789,10.037014961242676,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in antibioticsragonbral.
+Butergic mind's still working,",0,0,117.62496185302734,58.18491724917763,10.037014961242676,"tensor([5.3011e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in antibioticsragonbral.
+But my mind's still working,",0,0,92.00875091552734,59.09775904605263,10.037014961242676,1,1
+" I felt like I was in foragonFUL.
+But my mind's still working,",0,0,91.96544647216797,56.78721217105263,10.037014961242676,"tensor([8.9826e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in foragonbral.
+But my mind's still working,",0,0,91.2302017211914,64.4947509765625,10.037014961242676,"tensor([2.6981e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in foolybral.
+But my mind's still working,",0,0,89.46028137207031,79.1552734375,10.037014961242676,"tensor([1.3293e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in phenolybral.
+But my mind's still working,",0,0,84.67485046386719,77.52345034950658,10.037014961242676,"tensor([1.7944e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in foolybral.
+But my mind's still working,",0,0,89.46033477783203,63.49507863898026,10.037014961242676,"tensor([9.6637e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inmonaryolybral.
+But my mind's still working,",0,0,98.44678497314453,71.22193025287828,10.037014961242676,"tensor([1.0805e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in fo Podbral.
+But my mind's still working,",0,0,89.91931915283203,62.57993678042763,10.037014961242676,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like Ifalse in foldebral.
+But my mind's still working,",0,0,106.89192962646484,76.00876336348684,14.292779922485352,"tensor([1.1915e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in foldebral.
+But my mind's still working,",0,0,86.32643127441406,69.03839432565789,14.292779922485352,1,1
+" I felt like I was in folde fra.
+But my mind's still working,",0,0,85.90310668945312,63.028577302631575,14.292779922485352,"tensor([7.7870e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde fra.
+But my mind's still working,",0,0,85.90306854248047,73.83650287828947,14.292779922485352,"tensor([6.0892e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde psych.
+But my mind's still working,",0,0,82.11997985839844,60.284520199424335,14.292779922485352,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde psych.
+But my mind's still working,",0,0,82.11997985839844,61.58979235197368,14.292779922485352,"tensor([1.3607e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde psych.
+But my mind's still working,",0,0,82.1199722290039,58.613820929276315,14.292779922485352,"tensor([3.4281e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde trance.
+But my mind's still working,",0,0,76.220703125,65.73623817845395,14.292779922485352,"tensor([8.1259e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in fo Mare trance.
+But my mind's still working,",0,0,83.42457580566406,80.94388620476973,14.292779922485352,"tensor([1.7574e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde trance.
+But my mind's still working,",0,0,76.22067260742188,66.72246350740132,14.292779922485352,"tensor([7.4823e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in folde trance.
+But my mind's still working,",0,0,77.13338470458984,75.16395970394737,22.220996856689453,"tensor([8.8741e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in tholde trance.
+But my mind's still working,",0,0,77.56209564208984,77.0866634971217,22.220996856689453,"tensor([1.3762e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in tholde trance.
+But my mind's still working,",0,0,77.56204986572266,64.43115234375,22.220996856689453,"tensor([9.5219e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in tholde trance.
+But my mind's still working,",0,0,77.56209564208984,67.33223684210526,22.220996856689453,"tensor([8.8400e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,73.79069519042969,60.51955694901316,22.220996856689453,"tensor([8.0703e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke trance.
+But my mind's still working,",0,0,75.33956146240234,55.64448627672697,22.220996856689453,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke trance.
+But my mind's still working,",0,0,75.33951568603516,59.056203741776315,22.220996856689453,"tensor([4.8979e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,73.79073333740234,60.19921875,22.220996856689453,"tensor([1.1829e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,73.79069519042969,56.39621453536184,22.220996856689453,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke unconscious.
+But my mind's still working,",0,0,78.99735260009766,56.045037520559205,22.220996856689453,"tensor([4.7891e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke trance.
+But my mind's still working,",0,0,75.63971710205078,71.7142269736842,31.682865142822266,"tensor([5.0056e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,74.5880355834961,61.14630448190789,31.682865142822266,"tensor([7.9710e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I GSL like I was in thoke trance.
+But my mind's still working,",0,0,110.07645416259766,60.10183233963816,31.682865142822266,"tensor([9.0378e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,74.58802795410156,67.45282946134868,31.682865142822266,1,1
+" I felt like I was in thoke trance.
+But my mind's still working,",0,0,74.58800506591797,65.31558388157895,31.682865142822266,"tensor([8.7710e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+ula my mind's still working,",0,0,97.34635925292969,67.94455437911184,31.682865142822266,"tensor([7.1016e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,87.3319320678711,60.41183311060855,31.682865142822266,"tensor([0.0524], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,87.33192443847656,80.14223118832237,31.682865142822266,"tensor([7.4373e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,87.33193969726562,60.869236996299335,31.682865142822266,"tensor([3.1389e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,87.33194732666016,62.12986353824013,31.682865142822266,"tensor([7.0845e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke trance.
+. my mind's still working,",0,0,87.69744110107422,70.79100277549341,43.048988342285156,"tensor([8.1205e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke trance.
+. my mind's still working,",0,0,87.69744110107422,72.44605777138158,43.048988342285156,"tensor([2.5495e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,88.89533233642578,67.31832082648026,43.048988342285156,"tensor([1.8620e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke trance.
+. my mind's still working,",0,0,88.89533233642578,75.0103117290296,43.048988342285156,"tensor([8.6311e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+. my mind's still working,",0,0,85.24528503417969,70.40614720394737,43.048988342285156,"tensor([5.2330e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's still working,",0,0,97.53631591796875,67.37143426192434,43.048988342285156,"tensor([2.1467e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's still working,",0,0,97.08914184570312,70.58286646792763,43.048988342285156,"tensor([1.4725e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke spirituality.
+People my mind'selight working,",0,0,105.42536926269531,82.09926886307565,43.048988342285156,"tensor([2.6648e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke spirituality.
+People my mind's spirit working,",0,0,92.61244201660156,67.72774465460526,43.048988342285156,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit working,",0,0,92.80215454101562,59.59043482730263,43.048988342285156,"tensor([6.9996e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit working,",0,0,91.70296478271484,61.487401058799335,55.23367691040039,"tensor([4.8868e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit working,",0,0,91.70292663574219,64.91129985608552,55.23367691040039,"tensor([7.3539e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit working,",0,0,91.70296478271484,65.25274979440789,55.23367691040039,"tensor([4.0548e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke spirituality.
+People my soul's spirit working,",0,0,90.97158813476562,63.303274054276315,55.23367691040039,"tensor([2.6269e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit working,",0,0,90.64219665527344,60.62101022820723,55.23367691040039,"tensor([2.7267e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit working,",0,0,90.64220428466797,64.68437756990132,55.23367691040039,"tensor([1.3272e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit bonded,",0,0,88.14542388916016,59.70175010279605,55.23367691040039,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit bonded,",0,0,88.14547729492188,57.87697239925986,55.23367691040039,"tensor([6.1630e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta spirituality.
+People my mind's spirit bonded,",0,0,89.4371337890625,60.185437654194075,55.23367691040039,"tensor([6.1177e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit bonded,",0,0,87.46768951416016,59.03632555509868,55.23367691040039,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's spirit together,",0,0,82.26945495605469,61.27793482730263,63.855712890625,"tensor([4.0323e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit together,",0,0,81.951904296875,54.63928865131579,63.855712890625,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit spirits,",0,0,83.6640396118164,62.44059673108552,63.855712890625,"tensor([5.4397e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit spirits,",0,0,83.66407012939453,63.65982858758223,63.855712890625,"tensor([5.0156e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's forge spirits,",0,0,86.92684173583984,64.19985480057565,63.855712890625,"tensor([4.7255e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit spirits,",0,0,83.6640396118164,62.549798262746705,63.855712890625,"tensor([1.2114e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's spirit spirits,",0,0,83.6640396118164,67.55145584909539,63.855712890625,"tensor([3.2713e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's fres spirits,",0,0,95.16221618652344,62.46467670641447,63.855712890625,"tensor([8.4444e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's fres spirits,",0,0,95.16224670410156,72.38548519736841,63.855712890625,"tensor([5.2700e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experienke meditation.
+People my mind's fostering spirits,",0,0,87.24629211425781,84.55735377261513,63.855712890625,"tensor([3.8485e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's forge partnership,",0,0,89.2091064453125,67.6762631064967,68.34439849853516,"tensor([1.1315e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's strengthened unity,",0,0,86.01310729980469,57.80847810444079,68.34439849853516,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's strengthened unity,",0,0,86.0130844116211,56.006360505756575,68.34439849853516,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thoke meditation.
+People my mind's strengthened unity,",0,0,86.01309967041016,55.38026829769736,68.34439849853516,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my mind's strengthened unity,",0,0,85.78007507324219,54.99701891447368,68.34439849853516,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.1199951171875,56.25180535567434,68.34439849853516,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.12001037597656,56.18758994654605,68.34439849853516,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.12001037597656,62.81820518092105,68.34439849853516,"tensor([5.5193e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inardlesssta meditation.
+People my heart's strengthened unity,",0,0,96.90094757080078,55.62854646381579,68.34439849853516,"tensor([1.6582e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.12004089355469,55.745759662828945,68.34439849853516,1,1
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.32965087890625,57.09125077097039,67.5697250366211,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened Together,",0,0,85.87816619873047,55.35852693256579,67.5697250366211,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's strengthened unity,",0,0,85.32965087890625,56.11405222039473,67.5697250366211,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inLynsta harmony.
+People my heart's strengthened unity,",0,0,93.62896728515625,55.82719341077302,67.5697250366211,"tensor([1.1295e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inLynsta meditation.
+People my heart's strengthened unity,",0,0,92.50117492675781,53.1707121196546,67.5697250366211,"tensor([0.0045], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inLynsta meditation.
+People my heart's strengthened unity,",0,0,92.50117492675781,54.85066303453947,67.5697250366211,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inLynsta meditation.
+People my heart's strengthened unity,",0,0,92.50113677978516,55.979119551809205,67.5697250366211,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inLynsta meditation.
+People my heart's forge unity,",0,0,89.29137420654297,56.3021818462171,67.5697250366211,"tensor([0.0066], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in experiensta meditation.
+People my heart's forge unity,",0,0,85.76837921142578,57.61782355057566,67.5697250366211,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's forge unity,",0,0,82.92493438720703,58.2601318359375,67.5697250366211,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's sustainability unity,",0,0,92.81314849853516,58.393933747944075,61.294002532958984,"tensor([7.9384e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thosta meditation.
+People my heart's forge unity,",0,0,84.66664123535156,58.7775236430921,61.294002532958984,"tensor([0.1512], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31230163574219,55.03010639391447,61.294002532958984,"tensor([0.0073], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31229400634766,56.71159282483552,61.294002532958984,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31232452392578,55.79709344161184,61.294002532958984,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31230163574219,53.79257684004934,61.294002532958984,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31229400634766,54.958303351151315,61.294002532958984,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.31232452392578,54.64563630756579,61.294002532958984,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,82.3122787475586,53.895315069901315,61.294002532958984,"tensor([0.0021], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my soul's strengthened unity,",0,0,83.66156768798828,58.74211040296052,61.294002532958984,"tensor([5.3104e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53636932373047,54.81726716694079,49.52049255371094,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.5363540649414,55.42405941611842,49.52049255371094,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.5363998413086,54.757928145559205,49.52049255371094,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,92.16157531738281,54.06880268297697,49.52049255371094,"tensor([1.9029e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53636169433594,55.98050729851973,49.52049255371094,"tensor([0.9425], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53638458251953,53.84850752981085,49.52049255371094,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53638458251953,53.83667313425164,49.52049255371094,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53636932373047,55.29842979029605,49.52049255371094,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53636169433594,58.23005114103618,49.52049255371094,"tensor([2.0910e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,85.53636932373047,54.024953741776315,49.52049255371094,"tensor([0.0021], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,90.26085662841797,54.5891691509046,32.267982482910156,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,90.26081848144531,53.69193950452302,32.267982482910156,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,90.26081085205078,55.04659231085526,32.267982482910156,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,90.2608413696289,55.888787520559205,32.267982482910156,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,96.87964630126953,55.11973170230263,32.267982482910156,"tensor([1.8059e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,96.8796615600586,59.969533819901315,32.267982482910156,"tensor([1.0401e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,96.87963104248047,58.094392475328945,32.267982482910156,"tensor([3.1578e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,90.26079559326172,55.22573370682566,32.267982482910156,1,1
+" I felt like I was in Slovensta meditation.
+People my heart's fostering unity,",0,0,99.88050842285156,57.944798519736835,32.267982482910156,"tensor([8.8053e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's embod unity,",0,0,107.80867004394531,60.295178865131575,32.267982482910156,"tensor([5.7226e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's fostering unity,",0,0,95.18118286132812,58.33841745476973,9.535299301147461,1,1
+" I felt like I was in Krysta meditation.
+People my heart's fostering unity,",0,0,95.18119812011719,54.35331003289473,9.535299301147461,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.4859848022461,56.4901123046875,9.535299301147461,"tensor([4.5631e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Slovensta meditation.
+People my heart's strengthened unity,",0,0,106.90172576904297,53.833181280838815,9.535299301147461,"tensor([1.3714e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48602294921875,53.84336772717927,9.535299301147461,1,1
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48599243164062,54.19770893297697,9.535299301147461,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48599243164062,54.19631476151316,9.535299301147461,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48600769042969,57.972791169819075,9.535299301147461,"tensor([4.3714e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48600006103516,53.93345883018092,9.535299301147461,"tensor([0.0047], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,96.48599243164062,53.374116596422695,9.535299301147461,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's fostering unity,",0,0,97.8416519165039,53.13880358244243,0.0,"tensor([0.0122], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's fostering unity,",0,0,97.84165954589844,54.396008943256575,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inktopsta Revival.
+People my heart's strengthened unity,",0,0,117.00116729736328,54.43178196957236,0.0,"tensor([1.0301e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Revival.
+People my heart's strengthened unity,",0,0,99.96051025390625,52.815339740953945,0.0,1,1
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09719848632812,52.1392179790296,0.0,"tensor([0.0155], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Slovensta meditation.
+People my heart's strengthened unity,",0,0,109.5030288696289,56.63796515213816,0.0,"tensor([5.6250e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712982177734,53.81711939761513,0.0,1,1
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09706115722656,54.00096371299342,0.0,"tensor([0.0026], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,53.79274709601151,0.0,"tensor([0.0029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709930419922,53.28946725945723,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09711456298828,56.238396895559205,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,54.69815866570723,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,53.66032650596217,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,52.96201685855263,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09715270996094,54.06271201685855,0.0,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09715270996094,54.322927374588815,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09715270996094,54.75339226973684,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,53.68814890008223,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,54.64421001233552,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,58.9469572368421,0.0,"tensor([2.2470e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,59.97495631167763,0.0,"tensor([3.8938e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,53.38315943667763,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,53.15771484375,0.0,"tensor([0.0042], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,53.410554584703945,0.0,"tensor([0.0044], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712982177734,53.76095099198191,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709930419922,54.61493883634868,0.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,60.95130037006579,0.0,"tensor([2.2896e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,54.15138646175986,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09711456298828,52.799634431537825,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,54.21017937911184,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,54.41803942228618,0.0,"tensor([0.0030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,54.42802348889802,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712982177734,54.35957416735197,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,87.85746684827302,0.0,"tensor([9.1646e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,53.94020482113486,0.0,"tensor([0.0029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,53.18345883018092,0.0,"tensor([0.0048], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09715270996094,54.602204975328945,0.0,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,53.24874717310855,0.0,"tensor([0.0029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712982177734,52.87236263877467,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09713745117188,54.23159308182566,0.0,"tensor([0.0036], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712982177734,54.84436677631579,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,105.70402526855469,56.79864823190789,0.0,"tensor([2.3730e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista meditation.
+People my heart's strengthened unity,",0,0,105.70404052734375,56.437493575246705,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,58.67961040296052,0.0,"tensor([0.0203], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kryslave meditation.
+People my heart's strengthened unity,",0,0,108.96659088134766,52.870534796463815,0.0,"tensor([2.2141e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09711456298828,55.62040630139802,0.0,1,1
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.0970687866211,57.95914499383223,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09712219238281,56.8820158305921,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09711456298828,58.68149928042763,0.0,"tensor([2.3946e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09711456298828,56.994885896381575,0.0,"tensor([9.7130e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,59.13021047491776,0.0,"tensor([2.8142e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09710693359375,63.89408794202302,0.0,"tensor([9.8324e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,58.780247738486835,0.0,"tensor([1.7294e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's Ens unity,",0,0,106.60540771484375,77.04438219572368,0.0,"tensor([1.3188e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta meditation.
+People my heart's strengthened unity,",0,0,99.09709167480469,80.79190224095395,0.0,"tensor([8.7239e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta prayer.
+People my heart's strengthened unity,",0,0,104.27442169189453,58.81362433182566,0.0,"tensor([2.3794e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta prayer.
+People my heart's strengthened unity,",0,0,104.27439880371094,57.383763363486835,0.0,"tensor([4.9168e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inktopsta prayer.
+People my heart's strengthened unity,",0,0,114.30513000488281,59.31455592105263,0.0,"tensor([8.6426e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta prayer.
+People my heart's strengthened unity,",0,0,98.94990539550781,59.034436677631575,0.0,1,1
+" I felt like I was in Krysta prayer.
+People my heart's strengthened unity,",0,0,98.9499282836914,53.615716231496705,0.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta prayer.
+People my heart's strengthened unity,",0,0,98.94987487792969,54.64460192228618,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta prayer.
+People my heart's strengthened unity,",0,0,98.94990539550781,53.399202045641445,0.0,"tensor([0.0045], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta prayer.
+People my heart's strengthened unity,",0,0,98.94992065429688,52.92433568050986,0.0,"tensor([0.0032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,54.57443719161184,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,55.147390265213815,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,54.5238037109375,0.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95045471191406,54.52946391858552,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,54.79799933182566,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,55.02442048725329,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95038604736328,54.106201171875,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,53.54803788034539,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,60.867097553453945,0.0,"tensor([2.8211e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95047760009766,54.80976305509868,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,53.937673468338815,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95037841796875,54.11369243421052,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95039367675781,54.90302477384868,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,54.40322394120066,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,53.914178145559205,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,55.402478669819075,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Mosque.
+People my heart's strengthened unity,",0,0,101.73780059814453,54.06009714226973,0.0,"tensor([7.3651e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95043182373047,55.14462119654605,0.0,"tensor([0.1297], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista Mosque.
+People my heart's strengthened unity,",0,0,104.35474395751953,57.9954191509046,0.0,"tensor([8.5442e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,54.23378392269736,0.0,1,1
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,53.695855391652955,0.0,"tensor([0.0026], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,54.44303813733552,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,53.87076929995888,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,54.03239360608552,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,62.141897101151315,0.0,"tensor([3.8583e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040130615234,60.72523900082236,0.0,"tensor([2.4696e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,54.14809056332236,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,58.078587582236835,0.0,"tensor([4.3403e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.9504165649414,58.00885331003289,0.0,"tensor([7.5692e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Mosque.
+People my heart's strengthened unity,",0,0,104.12353515625,55.20002826891447,0.0,"tensor([4.2105e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,55.07124408922697,0.0,"tensor([0.6860], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95044708251953,58.9500089946546,0.0,"tensor([4.2356e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,58.189465974506575,0.0,"tensor([2.7555e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,67.70523231907895,0.0,"tensor([1.9688e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Slovensta Mosque.
+People my heart's strengthened unity,",0,0,106.08961486816406,57.901726973684205,0.0,"tensor([1.2033e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.950439453125,57.18830951891447,0.0,"tensor([0.7458], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95037841796875,92.5697599712171,0.0,"tensor([1.5310e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Sloven mosque Mosque.
+People my heart's strengthened unity,",0,0,111.20640563964844,59.904296875,0.0,"tensor([1.3405e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Slovensta Mosque.
+People my heart's strengthened unity,",0,0,106.0896224975586,67.68478875411184,0.0,"tensor([5.7928e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,67.79739540501645,0.0,"tensor([1.1735e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Mosque.
+People my heart's strengthened unity,",0,0,104.12348175048828,62.74372301603618,0.0,"tensor([1.5582e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Raista Verse.
+People my heart's strengthened unity,",0,0,106.84225463867188,64.40064761513158,0.0,"tensor([4.6471e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95043182373047,66.294677734375,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's guarant unity,",0,0,110.48159790039062,77.26324784128289,0.0,"tensor([1.4848e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95037078857422,77.27706106085526,0.0,"tensor([8.3031e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95037841796875,62.96320543791118,0.0,"tensor([2.2537e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Slovensta Mosque.
+People my heart's strengthened unity,",0,0,106.08961486816406,71.63894813939145,0.0,"tensor([2.6167e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95036315917969,62.51243189761513,0.0,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95038604736328,65.68094675164474,0.0,"tensor([2.5437e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95036315917969,68.17079564144737,0.0,"tensor([1.3614e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inktopsta Mosque.
+People my heart's strengthened unity,",0,0,113.00808715820312,62.278782894736835,0.0,"tensor([1.3624e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95040893554688,59.881013569078945,0.0,1,1
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95042419433594,76.27688116776315,0.0,"tensor([5.2632e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Mosque.
+People my heart's strengthened unity,",0,0,97.95046997070312,110.13436729029604,0.0,"tensor([1.1815e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta hearts.
+People my heart's strengthened unity,",0,0,98.00420379638672,79.44599994860197,0.0,"tensor([1.3301e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's strengthened unity,",0,0,100.0833740234375,61.98450349506579,0.0,"tensor([5.1445e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's strengthened unity,",0,0,100.0833969116211,69.2359619140625,0.0,"tensor([8.7912e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's strengthened unity,",0,0,100.0833740234375,65.2631193462171,0.0,"tensor([3.2608e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's strengthened unity,",0,0,100.0833969116211,82.06256424753289,0.0,"tensor([8.9749e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's reinforced unity,",0,0,101.55612182617188,64.45126824629934,0.0,"tensor([1.8302e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Verse.
+People my heart's reinforced unity,",0,0,109.73486328125,63.76975611636513,0.0,"tensor([3.5580e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People my heart's reinforced unity,",0,0,101.55607604980469,73.66889391447368,0.0,"tensor([2.7873e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Verse.
+People my heart's reinforced unity,",0,0,109.73483276367188,68.443603515625,0.0,"tensor([2.0832e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta Verse.
+People I heart's reinforced unity,",0,0,109.12959289550781,93.0349056846217,0.0,"tensor([2.7174e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart'sisSpecialOrderable unity,",0,0,122.74927520751953,68.03725071957237,0.0,"tensor([1.1871e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12388610839844,74.69794664884868,0.0,"tensor([1.5897e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12382507324219,76.76828484786184,0.0,"tensor([1.3106e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12383270263672,72.35843056126645,0.0,"tensor([5.0571e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12384033203125,78.30885074013158,0.0,"tensor([1.8921e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12381744384766,77.38119988692434,0.0,"tensor([1.1271e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta Verse.
+People I heart's reinforced unity,",0,0,114.12380981445312,79.85041246916118,0.0,"tensor([2.2459e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurdsta unity.
+People I heart my reinforced unity,",0,0,108.48654174804688,69.47983912417763,0.0,"tensor([5.4448e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was ingangsta Verse.
+People I heart my fost unity,",0,0,121.17768859863281,95.76094777960526,0.0,"tensor([1.8498e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was ingangsta Verse.
+People I heart my Supports unity,",0,0,119.63664245605469,117.12952302631578,0.0,"tensor([1.1535e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Verse.
+People I heart my Supports unity,",0,0,116.09854888916016,85.37526983963815,0.0,"tensor([2.0675e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Verse.
+People I heart my salv unity,",0,0,116.0361099243164,102.40046129728618,0.0,"tensor([4.0224e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta este hearts.
+People I heart my salv unity,",0,0,113.95487213134766,87.55841385690789,0.0,"tensor([4.0341e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta hearts.
+People I heart my salv unity,",0,0,107.344482421875,82.44883326480263,0.0,"tensor([2.4001e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I album in Krysta hearts.
+People I heart my salv unity,",0,0,123.92488861083984,85.2701994243421,0.0,"tensor([1.6152e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krysta hearts.
+People I heart my salv unity,",0,0,107.3444595336914,91.49646638569078,0.0,"tensor([1.7398e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta hearts.
+People I heart my Trin unity,",0,0,112.05767822265625,73.63454075863487,0.0,"tensor([4.7327e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry este hearts.
+People I heart my Trin unity,",0,0,116.68930053710938,89.04384894120065,0.0,"tensor([1.5773e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Krykefeller hearts.
+People I heart my Trin unity,",0,0,120.16057586669922,80.19743266858552,0.0,"tensor([8.9739e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry Amer unity.
+People I heart my underpin unity,",0,0,120.20594024658203,72.04255756578947,0.0,"tensor([3.5882e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry Amer unity.
+People Itha my Trin unity,",0,0,119.68646240234375,75.60605982730263,0.0,"tensor([1.7737e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry este unity.
+People Itha my Trin unity,",0,0,119.135009765625,76.54300729851973,0.0,"tensor([4.1726e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry este unity.
+People Itha my Trin unity,",0,0,119.13501739501953,77.58718390213815,0.0,"tensor([1.0097e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kry Amer unity.
+People Itha my Trin unity,",0,0,119.68647766113281,74.41890676398026,0.0,"tensor([1.4650e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer unity.
+People Itha my Trin unity,",0,0,112.26338958740234,93.42888440583882,0.0,"tensor([2.6648e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer unity.
+People Itha my strengthened unity,",0,0,109.72662353515625,75.68213533100328,0.0,"tensor([1.9366e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Verse.
+People Itha my strengthened unity,",0,0,113.99623107910156,68.94986765008224,0.0,"tensor([1.1666e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Verse.
+People Itha my Trin unity,",0,0,115.91606140136719,74.25863486842105,0.0,"tensor([4.0771e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Verse.
+People Itha my Trin unity,",0,0,115.91607666015625,75.87027780633223,0.0,"tensor([7.9831e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Verse.
+People Itha my Trin unity,",0,0,115.91604614257812,77.69679019325658,0.0,"tensor([1.4512e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer unity.
+People Itha my Trin unity,",0,0,112.26333618164062,77.51840049342105,0.0,"tensor([8.1504e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Mosque.
+People Itha my Trin unity,",0,0,114.34832000732422,74.16744834498355,0.0,"tensor([5.5140e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Mosque.
+People Itha mySupplement unity,",0,0,119.23905944824219,79.37213456003289,0.0,"tensor([2.7824e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Mosque.
+People Itha my Trin unity,",0,0,114.3482666015625,80.2053800884046,0.0,"tensor([9.2049e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer unity.
+People Itha your Trinaterial,",0,0,120.32443237304688,79.70139674136513,0.0,"tensor([3.2086e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Amer Mosque.
+People Itha your Trinaterial,",0,0,120.76116943359375,83.78427605879934,0.0,"tensor([1.4286e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Kurd Amer Mosque.
+People Itha your Trinaterial,",0,0,124.12926483154297,80.94095651726973,0.0,"tensor([5.0384e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman mosque Mosque.
+People Itha your fostaterial,",0,0,123.72124481201172,70.71314761513158,0.0,"tensor([1.9028e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman nig Mosque.
+People Itha yourSupplementaterial,",0,0,134.30526733398438,77.5877685546875,0.0,"tensor([5.1659e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman mosque Mosque.
+People Itha your fostfresh,",0,0,124.89028930664062,96.9805908203125,0.0,"tensor([3.9004e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman mosque Mosque.
+People Itha your Trinfresh,",0,0,124.02864074707031,73.17581979851974,0.0,"tensor([1.0732e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman mosque Mosque.
+People Itha your Trinfresh,",0,0,124.02864074707031,73.22823293585526,0.0,"tensor([1.8739e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Negro Mosque.
+People Itha your Trinfresh,",0,0,122.8859634399414,75.93051629317434,0.0,"tensor([2.2332e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Negro Mosque.
+People Itha your Trinfresh,",0,0,122.88599395751953,78.3973966899671,0.0,"tensor([8.4361e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman mosque Mosque.
+People Itha your Trinfresh,",0,0,124.02864074707031,70.73129754317434,0.0,"tensor([2.4450e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Negro Mosque.
+People Itha your indofresh,",0,0,123.63739013671875,73.86362818667763,0.0,"tensor([8.3661e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Aman Negro Mosque.
+People Iess your indofresh,",0,0,121.6427993774414,81.46793405633223,0.0,"tensor([1.5977e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu mosque Mosque.
+People Iess your Trinfresh,",0,0,127.11685943603516,74.87077893708882,0.0,"tensor([4.4470e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86227416992188,73.2921078330592,0.0,"tensor([8.0999e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86231231689453,77.93643349095395,0.0,"tensor([2.1795e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86231231689453,86.71145148026315,0.0,"tensor([1.3016e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ️ felt like I was inKu Mosque Mosque.
+People Iess your indofresh,",0,0,143.55226135253906,76.43647203947368,0.0,"tensor([1.0511e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86228942871094,89.99324115953947,0.0,"tensor([2.7621e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86227416992188,76.49024079975328,0.0,"tensor([4.6363e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.86222839355469,75.84491930509868,0.0,"tensor([1.1413e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu mosque Mosque.
+People Iess your indofresh,",0,0,126.06581115722656,73.58807694284539,0.0,"tensor([2.3391e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Omar Negro Mosque.
+People Iess your indofresh,",0,0,122.71045684814453,125.82310084292763,0.0,"tensor([2.6762e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Omar mosque Mosque.
+People Iess your indofresh,",0,0,121.24467468261719,88.67445775082237,0.0,"tensor([1.1522e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inKu Negro Mosque.
+People Iess your indofresh,",0,0,123.8622817993164,83.19016627261513,0.0,"tensor([3.1741e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Jamal mosque Mosque.
+People Iess your indofresh,",0,0,119.10888671875,75.31053402549341,0.0,"tensor([1.3596e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess your indofresh,",0,0,122.09415435791016,84.9011808696546,0.0,"tensor([1.9274e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Jamal mosque Mosque.
+People Iess yourIntegfresh,",0,0,123.87239074707031,81.20418508429276,0.0,"tensor([3.0356e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess your indofresh,",0,0,122.09412384033203,72.79109914679276,0.0,"tensor([7.7168e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Jamal mosque Mosque.
+People Iess your indofresh,",0,0,119.10892486572266,72.18003443667763,0.0,"tensor([4.9627e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess yourIntegfresh,",0,0,126.54069519042969,73.38188733552632,0.0,"tensor([5.9319e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess yourIntegfresh,",0,0,126.54068756103516,78.771728515625,0.0,"tensor([1.6178e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess your indofresh,",0,0,122.09410095214844,82.07730263157895,0.0,"tensor([9.6715e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak mosque Mosque.
+People Iess your indofresh,",0,0,122.09407806396484,92.92551783511513,0.0,"tensor([2.2066e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess yourIntegfresh,",0,0,122.38211822509766,101.61835680509868,0.0,"tensor([5.7917e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indofresh,",0,0,117.65017700195312,75.01277240953947,0.0,"tensor([6.4747e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indofresh,",0,0,117.65016174316406,82.48135536595395,0.0,"tensor([7.2032e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indofresh,",0,0,117.6501693725586,79.90260716488487,0.0,"tensor([1.4864e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indofresh,",0,0,117.65019226074219,86.4542172080592,0.0,"tensor([4.6430e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubarak Allaah Mosque.
+People Iess your indofresh,",0,0,125.6356201171875,85.5504086143092,0.0,"tensor([2.1571e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your indofresh,",0,0,118.70063781738281,75.04106702302632,0.0,"tensor([4.0921e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess yourIntegfresh,",0,0,123.66761779785156,71.25122712787828,0.0,"tensor([5.1914e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Mosque.
+People Iess your indofresh,",0,0,118.76407623291016,73.72716000205591,0.0,"tensor([1.6552e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess yourIntegfresh,",0,0,123.66757202148438,67.8406918174342,0.0,"tensor([1.3998e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your indofresh,",0,0,118.70065307617188,67.41746761924341,0.0,"tensor([4.6361e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your indofresh,",0,0,118.70066833496094,72.83846242804276,0.0,"tensor([1.7158e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess yourInteg fres,",0,0,126.54154205322266,86.74403782894737,0.0,"tensor([7.4900e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess yourInteg fres,",0,0,126.54153442382812,76.68815532483552,0.0,"tensor([7.4106e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indo fres,",0,0,118.28770446777344,99.96292917351973,0.0,"tensor([9.5772e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your indo Forth,",0,0,118.90274047851562,138.5109220805921,0.0,"tensor([2.9462e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indo Forth,",0,0,118.46070098876953,73.36482319078947,0.0,"tensor([1.2044e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your Ens Forth,",0,0,116.62857055664062,80.80001027960526,0.0,"tensor([2.8853e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your indo Forth,",0,0,118.46070861816406,72.37954872532895,0.0,"tensor([2.2727e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your Ens Forth,",0,0,116.62857055664062,72.89994089226974,0.0,"tensor([6.3420e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your Ens Forth,",0,0,117.95072174072266,70.09463661595395,0.0,"tensor([4.8615e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iess your Ens Forth,",0,0,117.95077514648438,67.26051089638158,0.0,"tensor([2.8339e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your Ens Forth,",0,0,116.62857055664062,69.281005859375,0.0,"tensor([2.9909e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Mubaraksta Mosque.
+People Iess your Ens Forth,",0,0,116.62861633300781,75.71945672286184,0.0,"tensor([1.8339e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakrsta Mosque.
+People Istic your Ens Forth,",0,0,120.48922729492188,75.79114412006578,0.0,"tensor([1.4336e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Istic your Ens Forth,",0,0,119.11592864990234,76.42279373972039,0.0,"tensor([1.4481e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Istic your Ens Forth,",0,0,119.11591339111328,71.62646484375,0.0,"tensor([1.3744e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakrsta Mosque.
+People I Wit your Ens Forth,",0,0,119.45317077636719,75.78171900699013,0.0,"tensor([3.6415e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakr Mosque Mosque.
+People I Wit your Ens Forth,",0,0,120.07366943359375,75.48683568050987,0.0,"tensor([4.7913e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakr Mosque Mosque.
+People I Wit your Ens fres,",0,0,123.15478515625,81.54313579358552,0.0,"tensor([1.5224e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakrsta Mosque.
+People I Wit your Ens Forth,",0,0,119.45318603515625,70.9937101665296,0.0,"tensor([2.2486e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Mosque.
+People I Wit your Ens Forth,",0,0,119.80303955078125,96.19186240748354,0.0,"tensor([7.5243e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens fres,",0,0,120.55271911621094,70.41072162828947,0.0,"tensor([9.3434e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23589324951172,67.72229646381578,0.0,"tensor([1.5260e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23588562011719,72.7652523643092,0.0,"tensor([3.9250e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPak Mosque Mosque.
+People I Wit your Ens fres,",0,0,125.21722412109375,69.76604260896382,0.0,"tensor([4.8088e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23587799072266,69.56471011513158,0.0,"tensor([6.1490e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakrsta Mosque.
+People I Wit your Ens Forth,",0,0,119.45320129394531,86.8486906352796,0.0,"tensor([1.0740e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23590087890625,83.88648103412828,0.0,"tensor([1.4614e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Ingth your Ens Forth,",0,0,121.96321105957031,73.90799753289474,0.0,"tensor([3.0911e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People I Wit your Ens Forth,",0,0,118.6919174194336,75.46873072574013,0.0,"tensor([8.0768e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23594665527344,79.32227847450658,0.0,"tensor([3.3314e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inDubsta Mosque.
+People I Wit your Ens Forth,",0,0,119.80304718017578,72.66114566200658,0.0,"tensor([3.5305e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People Iverty your Ens Forth,",0,0,121.2796630859375,78.77345677425987,0.0,"tensor([4.1884e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People Iverty your Ens Forth,",0,0,120.32149505615234,82.51886307565789,0.0,"tensor([1.7170e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPak Allaah Mosque.
+People I Wit your Ens Forth,",0,0,126.22350311279297,92.33751156455591,0.0,"tensor([2.2026e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People Iverty your Ens Forth,",0,0,121.27960968017578,81.59617855674341,0.0,"tensor([4.6334e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People Iverty your Ens Forth,",0,0,121.27960205078125,95.86879368832237,0.0,"tensor([3.0091e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Ens Forth,",0,0,118.23591613769531,75.59869706003289,0.0,"tensor([6.8537e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.
+People I Wit your Ens Forth,",0,0,120.21270751953125,76.20085063733552,0.0,"tensor([6.0464e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.
+People I Wit your Enshemer,",0,0,120.29622650146484,101.73319284539473,0.0,"tensor([9.5781e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.
+People I Wit your Enshemer,",0,0,120.29618835449219,105.94819078947368,0.0,"tensor([6.1784e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta Mosque.
+People I Wit your Enshemer,",0,0,118.09872436523438,87.3631527549342,0.0,"tensor([2.1447e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.linkPeople I Wit your Enshemer,",0,0,138.97015380859375,82.11972527754934,0.0,"tensor([8.5807e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed Mosque Mosque.
+People I Wit your Enshemer,",0,0,123.4921875,102.35071443256578,0.0,"tensor([3.1994e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People Iverty your Enshemer,",0,0,121.97412872314453,86.11978952508223,0.0,"tensor([1.1958e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta Mosque Mosque.
+People Iverty your Enshemer,",0,0,121.27876281738281,99.63475277549341,0.0,"tensor([1.5640e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.
+People Ingth your Enshemer,",0,0,122.96269226074219,99.86335192228618,0.0,"tensor([3.7911e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta Mosque Mosque.
+People Iverty your Enshemer,",0,0,121.27874755859375,103.88173314144736,0.0,"tensor([2.8008e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta Mosque.
+People Iverty your Menshemer,",0,0,124.31169891357422,99.82518246299341,0.0,"tensor([1.8404e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta Mosque.
+People Iverty your Enshemer,",0,0,121.97412872314453,93.96134225945723,0.0,"tensor([8.4980e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta anthem.
+People I Wit your Enshemer,",0,0,120.81417846679688,88.79509534333882,0.0,"tensor([1.3147e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta anthem.
+People Iverty your Ens Forth,",0,0,122.29357147216797,65.71720163445724,0.0,"tensor([4.3030e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta anthem.
+People Iverty your Ens Forth,",0,0,122.2936019897461,74.05594675164474,0.0,"tensor([1.7065e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta anthem.
+People I Wit your Ens Forth,",0,0,119.8243179321289,71.72834858141447,0.0,"tensor([3.4373e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta anthem.
+People I Wit your Ens forth,",0,0,118.69284057617188,69.6062589946546,0.0,"tensor([2.8935e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta anthem.
+People I Wit your Ens forth,",0,0,116.7684097290039,74.35172954358552,0.0,"tensor([1.1383e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta anthem.
+People I Wit your Mens Forth,",0,0,118.90755462646484,71.624267578125,0.0,"tensor([3.9466e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta anthem.
+People I Wit your laun Forth,",0,0,122.64038848876953,81.66835423519737,0.0,"tensor([2.6604e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta anthem.
+People I streng your laun Forth,",0,0,122.35855102539062,76.97354929070723,0.0,"tensor([2.6353e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta anthem.
+People I Wit your laun Forth,",0,0,122.28951263427734,74.57181589226973,0.0,"tensor([3.0636e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your laun Forth,",0,0,125.07796478271484,76.22042043585526,0.0,"tensor([3.2754e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your laun Forth,",0,0,125.07795715332031,74.49867007606908,0.0,"tensor([3.4594e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed didnt anthem.
+People I streng your laun Forth,",0,0,131.1002197265625,67.88845343338815,0.0,"tensor([7.1775e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta anthem.
+People I Wit your laun Forth,",0,0,122.64037322998047,75.98384817023026,0.0,"tensor([4.6988e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta anthem.
+People I streng your laun Forth,",0,0,121.6047592163086,81.84477153577302,0.0,"tensor([6.3420e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your laun Forth,",0,0,125.07795715332031,72.68848298725328,0.0,"tensor([1.1348e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your laun Forth,",0,0,125.07797241210938,76.43613795230263,0.0,"tensor([1.3635e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I Wit your launhemer,",0,0,126.36249542236328,72.8479582134046,0.0,"tensor([6.1897e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your laun Forth,",0,0,125.07797241210938,70.62006578947368,0.0,"tensor([1.2189e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed didntUnity.
+People I Wit your launhemer,",0,0,133.85040283203125,68.37268708881578,0.0,"tensor([3.9666e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your launhemer,",0,0,125.09077453613281,64.20642732319078,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed didnt anthem.
+People I streng your launhemer,",0,0,130.6572265625,88.10877107319078,0.0,"tensor([9.7059e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your launhemer,",0,0,125.09074401855469,66.94704718338815,0.0,"tensor([1.2651e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed didnt anthem.
+People I streng your launhemer,",0,0,130.65719604492188,66.37515419407895,0.0,"tensor([7.7053e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your launhemer,",0,0,125.09077453613281,66.60170384457237,0.0,"tensor([2.3105e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your launhemer,",0,0,125.09073638916016,73.41185238486841,0.0,"tensor([5.0225e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt anthem.
+People I streng your launhemer,",0,0,125.09075927734375,72.12862998560855,0.0,"tensor([1.9216e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt manifest.
+People I streng your launhemer,",0,0,121.00139617919922,61.98964329769736,0.0,"tensor([1.2106e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed didnt manifest.
+People I streng your launhemer,",0,0,129.27040100097656,62.51786081414473,0.0,"tensor([1.0386e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta Mosque manifest.
+People I streng your launhemer,",0,0,127.34589385986328,62.29822419819079,0.0,"tensor([4.2117e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swed Mosque manifest.
+People I streng your launhemer,",0,0,132.52316284179688,70.08442768297697,0.0,"tensor([9.9442e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta didnt manifest.
+People I streng your launhemer,",0,0,121.00140380859375,59.778435958059205,0.0,"tensor([0.3433], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ Mosque manifest.
+People I streng your launhemer,",0,0,128.90286254882812,63.019685444078945,0.0,"tensor([1.1552e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ didnt manifest.
+People I streng your launhemer,",0,0,122.66366577148438,62.56302682976973,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was insta Mosque manifest.
+People I streng your launhemer,",0,0,127.34590911865234,62.096776058799335,0.0,"tensor([1.3372e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ didnt manifest.
+People Iverty your launhemer,",0,0,124.62712097167969,60.74117881373355,0.0,"tensor([5.1045e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ Mosque manifest.
+People I streng your launhemer,",0,0,128.90289306640625,63.592786287006575,0.0,"tensor([2.4845e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People Iverty your laun forth,",0,0,121.62399291992188,75.07373046875,0.0,"tensor([4.2613e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People Iverty your laun forth,",0,0,121.62399291992188,115.95820055509867,0.0,"tensor([1.1581e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I Wit your laun forth,",0,0,122.74857330322266,75.0567626953125,0.0,"tensor([6.0813e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I streng your laun forth,",0,0,120.21206665039062,76.97831645764802,0.0,"tensor([3.5757e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta manifest.
+People I Wit your laun forth,",0,0,123.2511215209961,80.72476356907895,0.0,"tensor([4.5108e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta manifest.
+People I streng your laun forth,",0,0,121.31971740722656,70.12474300986841,0.0,"tensor([6.6660e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17768859863281,70.10322008634868,0.0,"tensor([4.3778e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17767333984375,97.06379780016447,0.0,"tensor([5.8190e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17767333984375,89.5494320518092,0.0,"tensor([1.0665e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69511413574219,69.5601164165296,0.0,"tensor([7.5703e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69511413574219,68.83187705592105,0.0,"tensor([1.6207e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People Iverty your laun forth,",0,0,121.62396240234375,69.52334112870065,0.0,"tensor([3.2864e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I streng your laun forth,",0,0,120.21208953857422,72.46423982319078,0.0,"tensor([1.4006e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.1776123046875,73.72087016858552,0.0,"tensor([3.1648e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17762756347656,103.00596217105263,0.0,"tensor([9.5111e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I streng your laun forth,",0,0,120.21205139160156,73.08101613898026,0.0,"tensor([4.4338e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta manifest.
+People I streng your laun forth,",0,0,121.31974792480469,68.59193179481908,0.0,"tensor([2.4189e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I Wit your laun forth,",0,0,122.74857330322266,68.42744526110197,0.0,"tensor([5.2155e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I streng your laun forth,",0,0,120.21205139160156,74.75407329358552,0.0,"tensor([3.7956e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I Wit your laun forth,",0,0,122.330810546875,77.83932976973684,0.0,"tensor([2.9545e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69512176513672,89.56104158100328,0.0,"tensor([1.3620e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17765045166016,69.71817177220395,0.0,"tensor([3.8239e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I streng your laun forth,",0,0,120.21212005615234,76.8969084087171,0.0,"tensor([2.8830e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta manifest.
+People I Wit your laun forth,",0,0,123.25115966796875,65.89586117393091,0.0,"tensor([6.5863e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inPaksta manifest.
+People I streng your laun forth,",0,0,121.31977844238281,67.17264597039474,0.0,"tensor([4.1214e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was ingangsta manifest.
+People I streng your laun forth,",0,0,121.39136505126953,82.98762592516447,0.0,"tensor([9.7170e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instasta manifest.
+People I streng your laun forth,",0,0,119.17767333984375,90.31291760896382,0.0,"tensor([3.4486e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was ingangstaiverse.
+People I streng your laun forth,",0,0,124.04682159423828,86.83481959292763,0.0,"tensor([1.3452e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instastaiverse.
+People I streng your laun forth,",0,0,117.27902221679688,84.1513607627467,0.0,"tensor([6.0474e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirstaiverse.
+People I streng your laun forth,",0,0,117.55587768554688,69.4212582236842,0.0,"tensor([5.0939e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirstaiverse.
+People I streng your laun forth,",0,0,117.55585479736328,64.62534693667763,0.0,"tensor([9.3070e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" mixerI felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,144.2991943359375,70.63186163651315,0.0,"tensor([2.9164e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21369171142578,90.83363743832237,0.0,"tensor([1.8757e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21373748779297,75.71170847039473,0.0,"tensor([1.3771e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirstaiverse.
+People I streng your laun forth,",0,0,117.5558853149414,77.71835166529605,0.0,"tensor([6.1306e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21371459960938,67.34234940378289,0.0,"tensor([2.7521e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inOADstaiverse.
+People I streng your laun forth,",0,0,120.1604995727539,67.84774619654605,0.0,"tensor([7.8218e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21372985839844,65.7404142680921,0.0,"tensor([7.2176e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inOADstaiverse.
+People I Wit your laun forth,",0,0,123.29984283447266,68.30921052631578,0.0,"tensor([4.1325e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21372985839844,91.96273643092104,0.0,"tensor([1.0532e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ didntiverse.
+People I streng your laun forth,",0,0,120.12628173828125,70.1193205180921,0.0,"tensor([2.9966e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ didntiverse.
+People I streng your laun forth,",0,0,120.12628936767578,76.39292506167763,0.0,"tensor([7.4129e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21366882324219,72.14531506990132,0.0,"tensor([1.5304e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍ didntiverse.
+People I streng your laun forth,",0,0,120.126220703125,71.6251798930921,0.0,"tensor([2.7366e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69508361816406,68.77763286389802,0.0,"tensor([5.3508e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirsta manifest.
+People I streng your laun forth,",0,0,119.0222396850586,69.48018606085526,0.0,"tensor([3.2787e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.6950454711914,65.79443359375,0.0,"tensor([2.4857e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaUnity.
+People I streng your laun forth,",0,0,120.69612121582031,69.49617084703947,0.0,"tensor([6.6955e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69506072998047,67.98411800986841,0.0,"tensor([3.5616e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirsta manifest.
+People I streng your laun forth,",0,0,119.02220916748047,68.39615028782895,0.0,"tensor([1.8508e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your laun forth,",0,0,118.69506072998047,66.77870579769737,0.0,"tensor([1.0373e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I streng your laun forth,",0,0,116.21368408203125,69.64221833881578,0.0,"tensor([3.3641e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I Wit your laun forth,",0,0,120.0618896484375,72.88684724506578,0.0,"tensor([5.7196e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was instastaiverse.
+People I streng your launver,",0,0,114.6959228515625,71.4410336143092,0.0,"tensor([9.5017e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirstaiverse.
+People I streng your launver,",0,0,113.94981384277344,71.66138980263158,0.0,"tensor([1.0108e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaiverse.
+People I¯ your launver,",0,0,117.54209899902344,69.88420024671052,0.0,"tensor([7.5311e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaUnity.
+People I¯ your launver,",0,0,121.22982788085938,129.59403268914474,0.0,"tensor([1.2064e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inOADstaUnity.
+People I Wit your launver,",0,0,123.67033386230469,101.93954307154604,0.0,"tensor([4.3024e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍstaUnity.
+People I Wit your launver,",0,0,120.4451675415039,78.90199681332237,0.0,"tensor([5.1498e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta manifest.
+People I streng your launver,",0,0,115.94911193847656,70.08365671258224,0.0,"tensor([1.5252e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inÍsta hateful.
+People I streng your launver,",0,0,120.1304931640625,68.14414576480263,0.0,"tensor([2.4949e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Swedsta manifest.
+People I¯ your launver,",0,0,126.0943603515625,68.80789987664474,0.0,"tensor([1.4925e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Okay felt like I was inÍsta manifest.
+People I streng your launver,",0,0,132.14512634277344,86.56516627261513,0.0,"tensor([4.8682e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta manifest.
+People I streng your launver,",0,0,116.328857421875,73.13956491570724,0.0,"tensor([6.7712e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in confirsta manifest.
+People I streng your launver,",0,0,115.95228576660156,124.28718647203947,0.0,"tensor([5.0960e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was inOADstaiverse.
+People I streng your launver,",0,0,117.10355377197266,64.55939684416118,0.0,"tensor([2.3739e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thastaiverse.
+People I streng your launver,",0,0,118.3438720703125,144.4786312705592,0.0,"tensor([1.4433e-43], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thastaUnity.
+People I¯ your launver,",0,0,131.07711791992188,255.86153371710526,0.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta Oath.
+People I streng your launver,",0,0,120.28008270263672,299.53204666940786,0.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta Oath.
+People I fert your Ensver,",0,0,118.01678466796875,151.5877107319079,0.0,"tensor([1.1210e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta Oath.
+People I fert your launver,",0,0,117.15272521972656,137.4055818256579,0.0,"tensor([3.1853e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta Oath.
+People I fert your Ensver,",0,0,118.01671600341797,145.89774362664474,0.0,"tensor([2.0319e-43], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta Oath.
+People I fert your launver,",0,0,117.15267944335938,138.82121196546052,0.0,"tensor([1.2898e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta manifest.
+People I fert your Ensver,",0,0,114.56748962402344,124.81726716694078,0.0,"tensor([1.5100e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in Bakrsta manifest.
+People I fert your launver,",0,0,117.75611114501953,109.61078844572368,0.0,"tensor([8.4857e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I felt like I was in thasta manifest.
+People I streng your Ensver,",0,0,118.56049346923828,73.8155453330592,0.0,"tensor([1.5138e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0

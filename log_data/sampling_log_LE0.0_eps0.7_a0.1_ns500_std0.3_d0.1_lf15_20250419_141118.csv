@@ -1,0 +1,638 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" the people of Israel were the most innocent. 
+""Even though we can not yet",0,0,62.643150329589844,10.440564607319079,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the people of Israel were the most innocent. 
+""Even though we can not yet",0,0,62.64320755004883,4.363107781661184,0.0,"tensor([0.3980], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the people of Israel were the most innocent. 
+""Even though we can not yet",0,0,62.6431770324707,4.275088982833059,0.0,"tensor([0.4839], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the people of Israel were the most innocent. 
+""Even though we are not yet",0,0,58.07667922973633,6.850549958881579,0.0,1,1
+" the people of Israel were the most innocent. 
+""Even though we are not yet",0,0,58.07666015625,4.0547636333264805,0.0,"tensor([0.5207], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the people of Israel were the most innocent. 
+""Even though we are not yet",0,0,58.076698303222656,4.069438091077303,0.0,"tensor([0.5229], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the people of Israel were the most innocent. 
+""Even though we are not yet",0,0,58.07670593261719,5.867626310649671,0.0,"tensor([0.0895], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the people of Israel were the most innocent. 
+""Even though we are not yet",0,0,58.07666015625,4.861645186574836,0.0,"tensor([0.2622], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" OTA people of Israel were the most innocent, 
+""Even though we are not yet",0,0,87.05030822753906,5.820836117393092,0.0,"tensor([2.4510e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ashtra people of Israel were the most innocent, 
+""Even though we are not yet",0,0,91.65213012695312,11.784374999999999,0.0,"tensor([2.3653e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" OTA people of Israel were the most innocent, 
+""Even though we are not yet",0,0,87.05029296875,11.683918842516448,0.0,"tensor([0.0260], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" OTA people of Israel were the most innocent, 
+""Even though we are not yet",0,0,87.0502700805664,12.493341385690789,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" OTA people of Israel were the most innocent, 
+""Even though we are not yet",0,0,87.05024719238281,10.891020764802631,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" OTA people of Israel were the most innocent, 
+""Even though we are not yet",0,0,87.05033874511719,14.13759765625,0.0,"tensor([2.2553e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"DEMISH people of Israel were the most innocent, 
+""Even though we are not yet",0,0,98.20093536376953,14.082524671052632,0.0,"tensor([3.1675e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" synagogueISH people of Israel were the most innocent, 
+""Even though we are not yet",0,0,100.62646484375,10.753085166529605,0.0,"tensor([6.1149e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  ISH people of Israel were the most innocent, 
+""Even though we are not yet",0,0,92.04692077636719,9.471203613281249,0.0,1,1
+"  ISH people of Israel were the most innocent, 
+""Even though we are not yet",0,0,92.04693603515625,6.453777754934211,0.0,"tensor([0.0514], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" irgin people of Israel were the most innocent, 
+""Even though we are not yet",0,0,84.03201293945312,5.948627030222039,0.0,1,1
+" irgin people of Israel were the most innocent, 
+""Even though we are not yet",0,0,84.03202056884766,6.696629574424342,0.0,"tensor([0.0398], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" irgin people of Israel were the most innocent, 
+""Even though we are not yet",0,0,84.03202819824219,6.73124421772204,0.0,"tensor([0.0392], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israel people of Israel were the most innocent, 
+""Even though we are not yet",0,0,78.257080078125,7.637467876233552,0.0,1,1
+" Israel people of Israel were the most innocent, 
+""Even though we are not yet",0,0,78.2570571899414,5.892498458059211,0.0,"tensor([0.0867], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptized people of Israel were the most innocent, 
+""Even though we are not yet",0,0,81.51875305175781,5.7420500102796055,0.0,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israel people of Israel were the most innocent, 
+""Even though we are not yet",0,0,78.25703430175781,5.79108244243421,0.0,1,1
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33590698242188,10.241286749588815,0.0,"tensor([0.4230], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33592224121094,6.603701942845395,0.0,"tensor([0.0414], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33590698242188,6.7094167608963815,0.0,"tensor([0.0397], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33592224121094,6.693304764597039,0.0,"tensor([0.0401], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.3359375,8.386513157894736,0.0,"tensor([0.0072], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33590698242188,6.524659488075658,0.0,"tensor([0.0464], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel were the most innocent, 
+""Even though we are not yet",0,0,89.56134033203125,6.393408845600328,0.0,"tensor([1.7713e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.3359375,13.805849095394736,0.0,1,1
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33596801757812,8.752597527754935,0.0,"tensor([0.0046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.33595275878906,9.56249935752467,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent,.#
+""Even though we are not yet",0,0,84.97071838378906,9.340944952713816,0.0,"tensor([9.4745e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  seedites of Israel were the most innocent, 
+""Even though we are not yet",0,0,94.90657043457031,7.813213147615131,0.0,"tensor([6.0659e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.3359603881836,8.649754574424342,0.0,1,1
+" Israelites of Israel were the most innocent, 
+""Even though we are not yet",0,0,72.3359375,10.60557925575658,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  seed citizens of Israel were the most innocent, np""Even though we are not yet",0,0,111.14874267578125,9.4152099609375,0.0,"tensor([3.8818e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Christites of Israelwagon the most innocent, 
+""Even though we are not yet",0,0,108.55966186523438,10.671688682154604,0.0,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  seedites of Israel ranch the most innocent, 
+""Even though we are not yet",0,0,111.91840362548828,12.546050061677631,0.0,"tensor([3.6525e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel ranch the most innocent, 
+""Even though we are not yet",0,0,107.30984497070312,15.059883840460525,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel ranch the most innocent, 
+""Even though we are not yet",0,0,92.60498809814453,20.0237548828125,0.0,"tensor([0.1455], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  seedites of Israelwd the most innocent, 
+""Even though we are not yet",0,0,113.01950073242188,14.51295744243421,0.0,"tensor([2.1253e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel deserve the most innocent, 
+""Even though we are not yet",0,0,99.45401763916016,13.945127467105262,0.0,1,1
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.01454162597656,6.612568102384868,0.0,1,1
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.01454162597656,6.940768914473684,0.0,"tensor([0.0325], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,97.74427032470703,6.202544202302631,0.0,"tensor([2.5716e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.01457214355469,6.677769711143092,0.0,1,1
+"  Saulites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,95.63697052001953,7.999398643092105,0.0,"tensor([3.4622e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,89.65457916259766,8.579638671875,0.0,1,1
+" bidites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,89.65460205078125,8.013644248560855,0.0,"tensor([0.0106], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,89.65460968017578,7.139039370888158,0.0,"tensor([0.0245], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the most loved,-----
+""Even though we are not yet",0,0,91.21398162841797,7.29448884662829,0.0,"tensor([0.0048], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.01448059082031,6.883290501644737,0.0,1,1
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.0145263671875,6.799694181743421,0.0,"tensor([0.0352], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.0145263671875,6.457373689350328,0.0,"tensor([0.0463], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the most loved, 
+""Even though we are not yet",0,0,83.01451110839844,6.479532020970394,0.0,"tensor([0.0497], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,99.92633056640625,7.271281352796052,0.0,"tensor([1.0066e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21064758300781,7.905638363486842,0.0,1,1
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21060180664062,10.103384560032895,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21060180664062,8.951248972039474,0.0,"tensor([0.0039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,94.45155334472656,9.746240234375,0.0,"tensor([1.2555e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,94.45157623291016,9.314499383223684,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,94.45155334472656,9.524262438322369,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Christites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,98.85747528076172,9.980648000616776,0.0,"tensor([1.7352e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,94.45152282714844,9.540673828125,0.0,"tensor([0.1951], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bid Evangel of Israel deserve the same loved, 
+""Even though we are not yet",0,0,109.70588684082031,8.771835166529605,0.0,"tensor([1.2134e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,94.45152282714844,8.833210834703948,0.0,1,1
+"  Judahites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,98.80583190917969,11.077134303042763,0.0,"tensor([6.3055e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21057891845703,7.726108912417763,0.0,1,1
+" Israelites of Israel deserve the sameiah, 
+""Even though we are not yet",0,0,88.25276184082031,9.573444567228618,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21063232421875,8.9609619140625,0.0,"tensor([0.0110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21058654785156,9.673388029399671,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.2105712890625,9.353040193256579,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,99.02365112304688,8.067656506990131,0.0,"tensor([7.1866e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, 
+""Even though we are not yet",0,0,87.21055603027344,8.110613049958882,0.0,1,1
+" NASites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,113.83003234863281,11.603154553865132,0.0,"tensor([8.2341e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.7579345703125,10.338292172080592,0.0,1,1
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.75801086425781,8.73528346011513,0.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.75802612304688,8.769091154399671,0.0,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.75798034667969,8.699880499588815,0.0,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.75806427001953,8.672074809827302,0.0,"tensor([0.0055], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.758056640625,8.7512451171875,0.0,"tensor([0.0053], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same loved, gasp
+""Even though we are not yet",0,0,100.75804138183594,8.224014442845395,0.0,"tensor([0.0087], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98313903808594,7.244004420230263,0.0,"tensor([0.3849], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faithites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,106.35294342041016,7.18853181537829,0.0,"tensor([5.8137e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98313903808594,7.098928351151316,0.0,1,1
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98318481445312,7.87057462993421,0.0,"tensor([0.0119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.9831314086914,7.832650596217105,0.0,"tensor([0.0129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faithites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,106.35292053222656,7.443692819695723,0.0,"tensor([4.6303e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98309326171875,7.181529476768092,0.0,1,1
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98306274414062,10.72644685444079,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Saulites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,111.66114807128906,9.76363525390625,0.0,"tensor([2.1862e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,105.26982116699219,11.237019428453948,0.0,"tensor([0.2398], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, gasp
+""Even though we are not yet",0,0,97.98316955566406,9.770091488486841,0.0,1,1
+" faithites of Israel deserve the same enduring, gasp .""Even though we are not yet",0,0,116.84123229980469,12.250740131578947,0.0,"tensor([1.0048e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same steadfast, GOODMAN .""Even though we are not yet",0,0,111.40779113769531,11.905435341282894,0.0,"tensor([0.0499], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same inspire, GOODMAN
+""Even though we are not yet",0,0,102.48125457763672,10.570063219572368,0.0,1,1
+" faithites of Israel deserve the same inspire, GOODMAN
+""Even though we are not yet",0,0,110.0667495727539,6.677267295435855,0.0,"tensor([1.9982e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" faithites of Israel deserve the same inspire,ECA
+""Even though we are not yet",0,0,110.78292846679688,7.325185032894737,0.0,"tensor([0.0100], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same inspire, GOODMAN
+""Even though we are not yet",0,0,102.48123931884766,7.050143914473684,0.0,1,1
+" Israelites of Israel deserve the same inspire,ECA
+""Even though we are not yet",0,0,102.76083374023438,9.545150596217105,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same inspire, GOODMAN
+""Even though we are not yet",0,0,102.481201171875,10.299631219161183,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  baptites of Israel deserve the same inspire,ECA
+""Even though we are not yet",0,0,116.2755126953125,8.624088969983552,0.0,"tensor([5.7908e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same inspire, UD
+""Even though we are not yet",0,0,101.95108795166016,11.533547491776316,0.0,1,1
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74504089355469,6.854073293585526,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74505615234375,6.891929224917763,0.0,"tensor([0.0320], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74510955810547,7.1369384765624995,0.0,"tensor([0.0251], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74507141113281,7.056203099300987,0.0,"tensor([0.0283], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.7451171875,6.8865202251233555,0.0,"tensor([0.0322], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74507904052734,7.017506167763158,0.0,"tensor([0.0311], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" faithites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,112.83881378173828,6.249103104440789,0.0,"tensor([1.7582e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74516296386719,6.866708855879934,0.0,1,1
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74510955810547,6.85554777446546,0.0,"tensor([0.0327], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74508666992188,6.852560906661184,0.0,"tensor([0.0321], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.133544921875,6.56376953125,0.0,"tensor([6.5847e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13351440429688,10.25651919716283,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13348388671875,9.348969469572369,0.0,"tensor([0.0026], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13345336914062,9.158490953947368,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13348388671875,9.493081825657894,0.0,"tensor([0.0025], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13349914550781,9.40502865439967,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13346099853516,9.5389892578125,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13346862792969,9.579445929276316,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.1334228515625,8.846839663856908,0.0,"tensor([0.0046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13350677490234,9.14869962993421,0.0,"tensor([0.0035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13352966308594,8.416812294407894,0.0,"tensor([0.0069], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13341522216797,8.41318359375,0.0,"tensor([0.0071], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  seedites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,125.45126342773438,8.267079564144737,0.0,"tensor([5.8329e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NASites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,118.13349151611328,8.376617110402961,0.0,1,1
+" bidites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,111.42658996582031,7.754909796463815,0.0,1,1
+" bidites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,111.42652893066406,7.621806255139802,0.0,"tensor([0.0148], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,111.42654418945312,7.8274799547697365,0.0,"tensor([0.0118], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" bidites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,111.42657470703125,7.444980982730263,0.0,"tensor([0.0185], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Israelites of Israel deserve the same Reb, UD
+""Even though we are not yet",0,0,104.74507904052734,7.929929070723684,0.0,1,1
+" bidites of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,114.94007873535156,6.718674187911184,0.0,"tensor([1.4196e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelites of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,105.32373046875,12.44632504111842,0.0,1,1
+" NASites of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,120.50406646728516,11.367253032483552,0.0,"tensor([9.3626e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" NAS Evangel of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,124.14471435546875,10.253274696751644,0.0,"tensor([2.9548e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israel Evangel of Israel deserve the same Cind, UD
+""Even though we are not yet",0,0,123.22367858886719,8.608331620065789,0.0,"tensor([0.0151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israelfore of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,117.79437255859375,8.625174753289473,0.0,1,1
+" Israelfore of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,115.66825866699219,8.706447882401315,0.0,"tensor([0.0447], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,114.62626647949219,5.059682424444901,0.0,"tensor([0.5488], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Israeleth of Israel echoed the same Carmen, UD
+""Even though we are not yet",0,0,111.06680297851562,6.01214021381579,0.0,1,1
+" Israeleth of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,116.75506591796875,6.735048314144737,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,114.62628936767578,9.208415141858552,0.0,"tensor([0.0274], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,114.62632751464844,6.091116493626645,0.0,"tensor([0.0730], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israel Evangel of Israel deserve the same Carmen, UD
+""Even though we are not yet",0,0,120.61222839355469,5.91354337993421,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,116.75514221191406,10.192299290707236,0.0,"tensor([0.0540], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same Tanz, UD
+""Even though we are not yet",0,0,116.75515747070312,11.834349300986842,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.3170394897461,8.550192742598684,0.0,"tensor([0.2025], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31696319580078,8.1004638671875,0.0,"tensor([0.0096], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.3170166015625,8.147346576891447,0.0,"tensor([0.0092], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.3169937133789,8.165103310032894,0.0,"tensor([0.0095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31702423095703,8.027616159539473,0.0,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31695556640625,8.14244898745888,0.0,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31698608398438,8.449814324629934,0.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31697082519531,7.955374948601974,0.0,"tensor([0.0111], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31695556640625,7.992970034950658,0.0,"tensor([0.0110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+ItEven though we are not yet",0,0,124.95703125,8.044559518914474,0.0,"tensor([9.3532e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31698608398438,7.9684897974917765,0.0,1,1
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31700134277344,10.856834652549342,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the same partName, UD
+""Even though we are not yet",0,0,113.31695556640625,10.93176912006579,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel JUSTICE the same partName, UD
+""Even though we are not yet",0,0,120.89337158203125,10.819135485197368,0.0,"tensor([3.0539e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05329895019531,11.648099557976973,0.0,1,1
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05329895019531,7.2192537006578945,0.0,"tensor([0.0238], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05326843261719,7.328619706003289,0.0,"tensor([0.0195], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05326080322266,7.439901572779605,0.0,"tensor([0.0176], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05320739746094,7.353013851768092,0.0,"tensor([0.0193], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05329895019531,6.546426552220394,0.0,"tensor([0.0435], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05322265625,7.3600920024671055,0.0,"tensor([0.0216], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05326843261719,7.381257709703947,0.0,"tensor([0.0199], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05326080322266,7.230798982319079,0.0,"tensor([0.0219], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05329132080078,7.416890676398026,0.0,"tensor([0.0204], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05318450927734,7.4706979851973685,0.0,"tensor([0.0193], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05326843261719,7.270728181537828,0.0,"tensor([0.0208], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05322265625,7.2620695415296055,0.0,"tensor([0.0235], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.05317687988281,7.217503597861842,0.0,"tensor([0.0224], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+""Even though we are not yet",0,0,110.0532455444336,7.299725020559211,0.0,"tensor([0.0198], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59893798828125,6.691032329358553,0.0,"tensor([1.0664e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59892272949219,6.62892423930921,0.0,"tensor([0.0402], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59893035888672,6.5920564350328945,0.0,"tensor([0.0421], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59893035888672,6.522066457648026,0.0,"tensor([0.0471], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59896850585938,6.725770327919408,0.0,"tensor([0.0394], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59901428222656,6.737032920435855,0.0,"tensor([0.0387], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.5989761352539,6.639262952302632,0.0,"tensor([0.0416], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59891510009766,6.819165681537829,0.0,"tensor([0.0333], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59902954101562,6.648136179070724,0.0,"tensor([0.0407], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59893798828125,6.718067691200658,0.0,"tensor([0.0368], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59889221191406,6.54913330078125,0.0,"tensor([0.0452], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59896850585938,6.6936594109786185,0.0,"tensor([0.0383], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59898376464844,6.67781339946546,0.0,"tensor([0.0406], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Israeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,120.59893798828125,6.735884174547698,0.0,"tensor([0.0346], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel deserve the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,125.70380401611328,6.560463353207236,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,131.1759796142578,6.742932771381579,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,131.17591857910156,8.351472553453947,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27066040039062,7.7618459601151315,0.0,"tensor([0.0894], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.196981650904606,0.0,"tensor([0.0088], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2706756591797,8.171725303248355,0.0,"tensor([0.0086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27061462402344,8.207486122532895,0.0,"tensor([0.0084], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.217225406044408,0.0,"tensor([0.0092], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27064514160156,8.390865285773026,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27072143554688,8.257600483141447,0.0,"tensor([0.0081], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27073669433594,8.30213044819079,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27066040039062,8.33683439555921,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2706298828125,8.09411556846217,0.0,"tensor([0.0092], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.380644788240131,0.0,"tensor([0.0073], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27064514160156,8.079573139391448,0.0,"tensor([0.0098], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2707061767578,8.045901007401316,0.0,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Cosponsors, UD
+TheEven though we are not yet",0,0,130.30416870117188,8.24155915912829,0.0,"tensor([0.0031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27072143554688,7.817877518503289,0.0,"tensor([0.0347], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.66502749794408,0.0,"tensor([0.0058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2707061767578,8.277925832648027,0.0,"tensor([0.0082], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,7.936229183799342,0.0,"tensor([0.0119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.38597926089638,0.0,"tensor([0.0079], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Cosponsors, UD
+TheEven though we are not yet",0,0,130.30419921875,8.048090563322368,0.0,"tensor([0.0035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Cosponsors, UD
+TheEven though we are not yet",0,0,130.30419921875,8.357958984375,0.0,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,8.157633249383224,0.0,"tensor([0.0253], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raelウ of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,134.613037109375,7.932807360197368,0.0,"tensor([5.5224e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2706756591797,6.852792197779605,0.0,1,1
+" ramenteth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,132.16262817382812,10.859030633223684,0.0,"tensor([3.1782e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27069091796875,10.347474429481908,0.0,"tensor([0.0192], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Cosponsors, UD
+TheEven though we are not yet",0,0,130.30419921875,10.408651572779606,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27081298828125,11.29993832236842,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27076721191406,11.245444849917764,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27088928222656,11.534097450657894,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2707977294922,11.265010793585526,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.2707977294922,10.732427014802632,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27084350585938,11.362065686677632,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,129.27084350585938,11.044556949013158,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameexternalActionCode, UD
+TheEven though we are not yet",0,0,131.1760711669922,11.801151315789474,0.0,"tensor([3.4729e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Cosponsors, UD
+TheEven though we are not yet",0,0,130.30430603027344,11.016555304276315,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same Cosponsors, UD
+TheMoreover though we are not yet",0,0,137.00865173339844,9.596968158922698,0.0,"tensor([2.6506e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel echoed the same partName, UD
+TheEven though we are not yet",0,0,128.2876434326172,7.413736122532894,0.0,1,1
+" cipleseth of Israel echoed the same Cosponsors, Amon
+TheEven though we are not yet",0,0,129.58956909179688,6.5033203125,0.0,"tensor([0.0126], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.42007446289062,6.419124563116776,0.0,"tensor([0.4514], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, AmonquTheEven though we are not yet",0,0,137.22068786621094,7.1906892475328945,0.0,"tensor([1.2796e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.02200317382812,7.299349814967105,0.0,1,1
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.02203369140625,7.101576634457237,0.0,"tensor([0.0243], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.02200317382812,7.197801449424342,0.0,"tensor([0.0243], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98558044433594,8.401078716077302,0.0,"tensor([0.0553], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.0220184326172,7.434425113075657,0.0,"tensor([0.0025], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98550415039062,7.180903705797697,0.0,"tensor([0.1833], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98551177978516,8.998866673519737,0.0,"tensor([0.0040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98548889160156,7.355481599506579,0.0,"tensor([0.0214], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.9854965209961,8.644202945106908,0.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.81585693359375,8.505205335115132,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.9854736328125,8.011955180921053,0.0,"tensor([0.0240], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.02206420898438,7.870240542763158,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98554229736328,6.676911364103618,0.0,"tensor([0.3086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.9854965209961,8.691862407483553,0.0,"tensor([0.0056], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.81582641601562,7.533765933388158,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,130.02197265625,7.463533100328947,0.0,"tensor([0.0060], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98546600341797,6.878123715049342,0.0,"tensor([0.2423], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,128.69769287109375,7.523909076891448,0.0,"tensor([0.0085], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ramenteth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,131.7283172607422,7.246089895148026,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98543548583984,7.582967336554276,0.0,"tensor([0.6432], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98538208007812,8.963529887952303,0.0,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98532104492188,9.28770173725329,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.9853744506836,8.523503032483552,0.0,"tensor([0.0060], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,128.69766235351562,8.071633429276316,0.0,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98541259765625,8.344846705386512,0.0,"tensor([0.0154], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,129.91146850585938,6.3596750359786185,0.0,"tensor([0.0082], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98545837402344,6.0454461348684205,0.0,"tensor([0.5164], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lamb eth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,134.67584228515625,8.524464175575657,0.0,"tensor([7.7231e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,127.98535919189453,8.32154476768092,0.0,1,1
+" rael eth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,128.6976776123047,11.774173776726974,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  redeseth of Israel echoed the same partName, Amon
+TheEven though we are not yet",0,0,142.62448120117188,8.945944695723684,0.0,"tensor([3.5922e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel repeat the sameUntitled, Amon
+TheEven though we are not yet",0,0,126.81027221679688,8.392954615542763,0.0,1,1
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.8157501220703,6.8035837273848685,0.0,"tensor([0.0047], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.8158416748047,7.863627544202302,0.0,"tensor([0.0115], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.81581115722656,9.58649259868421,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.81564331054688,7.806242290296052,0.0,"tensor([0.0136], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.8157958984375,7.397156404194079,0.0,"tensor([0.0211], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.8157196044922,8.154352127878289,0.0,"tensor([0.0089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.8157196044922,7.777446546052631,0.0,"tensor([0.0124], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,128.81570434570312,7.866944001850329,0.0,"tensor([0.0116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the sameUntitled, Amon
+TheEven though we are not yet",0,0,127.65892791748047,7.141754471628289,0.0,"tensor([0.0810], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same experien, Amon.'TheEven though we are not yet",0,0,130.93385314941406,7.663811934621711,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same experien, Amon.'TheEven though we are not yet",0,0,130.7654571533203,8.76363525390625,0.0,"tensor([0.0063], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same experien, Amon.'TheEven though we are not yet",0,0,130.93380737304688,8.06616853412829,0.0,"tensor([0.0083], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same experien, Amon.'TheEven though we are not yet",0,0,130.93389892578125,9.522488563939145,0.0,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,122.53978729248047,7.946501721833881,0.0,1,1
+" raeleth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,121.52626037597656,10.376251541940789,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,122.53978729248047,7.4636596679687495,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,121.5262451171875,6.452717670641447,0.0,"tensor([0.1403], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ciples eth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,132.00108337402344,7.363416169819079,0.0,"tensor([6.0348e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ciples eth of Israel repeat the same Amon, Amon.'TheEven though we are not yet",0,0,132.39425659179688,13.5463134765625,0.0,"tensor([2.6647e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" rael eth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,122.53976440429688,6.785674085115131,0.0,1,1
+" raeleth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,121.52626037597656,9.31766935649671,0.0,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same partName, Amon.'TheEven though we are not yet",0,0,134.34686279296875,9.315481728001645,0.0,"tensor([8.4653e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'TheEven though we are not yet",0,0,123.6055908203125,10.186915347450658,0.0,1,1
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.18174743652344,8.527443976151316,0.0,"tensor([1.2298e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel appl the same Amon, Amon.'Thephas though we are not yet",0,0,141.8312225341797,11.707591488486841,0.0,"tensor([1.6563e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.18167114257812,11.756984991776315,0.0,1,1
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.18173217773438,11.685875822368422,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.1816864013672,11.85631681743421,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.181640625,12.060487767269736,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.18177795410156,12.077323190789473,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same partName, Amon.'Thephas though we are not yet",0,0,143.86590576171875,10.572728207236842,0.0,"tensor([7.3433e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,132.18177795410156,9.682143683182565,0.0,1,1
+"  Lambeth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,130.4205322265625,20.02168611225329,0.0,"tensor([3.5934e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,130.42056274414062,22.95094058388158,0.0,"tensor([3.0750e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same partName, Amon.'Thephas though we are not yet",0,0,142.2569122314453,22.75589535361842,0.0,"tensor([2.9139e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same Amon, Amon.'Thephas though we are not yet",0,0,130.42054748535156,27.11305509868421,0.0,"tensor([7.9670e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same Amon, Amon.'Theras though we are not yet",0,0,127.71491241455078,21.12289396587171,0.0,"tensor([3.0405e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same Amon, Amon.'Theras though we are not yet",0,0,127.71495819091797,18.025015419407893,0.0,"tensor([4.7633e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel echoed the same Amon, Amon.'Theras though we are not yet",0,0,127.71501159667969,17.653482216282896,0.0,"tensor([6.4652e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel echoed the same Amon, Amon.'Theras though we are not yet",0,0,130.99118041992188,14.752490234375,0.0,"tensor([4.6107e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,128.13169860839844,11.996979081003289,0.0,"tensor([0.0032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.88671875,14.232556794819079,0.0,"tensor([1.2646e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,128.13180541992188,12.841408819901316,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same partName, Amon.'Theras though we are not yet",0,0,140.4557647705078,13.172598427220395,0.0,"tensor([2.4321e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12452697753906,9.239376027960526,0.0,1,1
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.1244659423828,7.465014005962171,0.0,"tensor([0.0178], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12451171875,7.573185649671053,0.0,"tensor([0.0162], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same partName, Amon.'Theras though we are not yet",0,0,140.45578002929688,6.669251130756579,0.0,"tensor([1.4245e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12449645996094,6.565453459087171,0.0,1,1
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.1244659423828,10.850961143092105,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12449645996094,10.142867881373355,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12448120117188,9.584455951891448,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel repeat the same partName, Amon.'Theras though we are not yet",0,0,140.85708618164062,8.829634817023026,0.0,"tensor([1.0580e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12442016601562,8.197525185032895,0.0,1,1
+"  Genteth of Israel repeat the same partName, Amon.'Theras though we are not yet",0,0,140.85723876953125,10.456028346011513,0.0,"tensor([2.0202e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12451171875,10.916258480674342,0.0,1,1
+" cipleseth of Israel repeat the same partName, Amon.'Theras though we are not yet",0,0,140.45562744140625,14.999672337582236,0.0,"tensor([3.2847e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" cipleseth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.12451171875,14.896209395559211,0.0,"tensor([0.3124], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" raeleth of Israel Summoner the same Amon, Amon.'Theras though we are not yet",0,0,134.31019592285156,13.437296977796052,0.0,"tensor([7.1350e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel repeat the same Amon, Amon.'Theras though we are not yet",0,0,130.3951873779297,16.04354697779605,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Sonseth of Israel repeat the same Amon, Amon.'Theras contemplated we are not yet",0,0,137.85289001464844,16.102407997532893,0.0,"tensor([2.0213e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Amon,APTER.'Theras though we are not yet",0,0,139.8599090576172,19.207861328125,0.0,"tensor([2.1009e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Qiao,APTER.'Theras though we are not yet",0,0,146.4058837890625,25.179299444901314,0.0,"tensor([4.8755e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Amon,APTER.'Theras though we are not yet",0,0,139.8598175048828,25.826192434210526,0.0,"tensor([1.3381e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Qiao,APTER.'Theras though we are not yet",0,0,146.4058837890625,21.292805561266448,0.0,"tensor([2.6177e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel recite the same Qiao,APTER.'Theras though we are not yet",0,0,149.06625366210938,19.912974146792763,0.0,"tensor([5.2198e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel repeat the sameUntitled,APTER.'Theras though we are not yet",0,0,146.06399536132812,14.721900699013158,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" phabeteth of Israel repeat the sameUntitled,APTER.'Theras though we are not yet",0,0,149.46275329589844,14.531239720394737,0.0,"tensor([4.8878e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel repeat the same Amon,APTER.'Theras though we are not yet",0,0,139.9773712158203,30.37598170230263,0.0,"tensor([2.6167e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" phabeteth of Israel repeat the sameUntitled,APTER.'Theras though we are not yet",0,0,149.46279907226562,20.05480314555921,0.0,"tensor([4.7347e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the sametheless,APTER.'Theras though we are not yet",0,0,150.63641357421875,24.016820004111842,0.0,"tensor([3.8185e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" phabeteth of Israel repeat the same Amon,APTER.'Theras though we are not yet",0,0,143.17762756347656,20.361578690378288,0.0,"tensor([9.0462e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Amon,APTER.'Theras though we are not yet",0,0,139.85986328125,33.16025390625,0.0,"tensor([3.6065e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel repeat the same Amon,APTER.'Theras though we are not yet",0,0,139.97726440429688,21.457014545641446,0.0,"tensor([1.4916e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel repeat the same Amon,APTER.'Theras though we are not yet",0,0,142.3870849609375,14.616900956003288,0.0,"tensor([1.3381e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel repeat the same Amon,appa.'Theras though we are not yet",0,0,140.78756713867188,14.322726922286185,0.0,"tensor([9.2712e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel recall the same Amon,appa.'Theras though we are not yet",0,0,140.06817626953125,14.71602847450658,0.0,"tensor([2.7170e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel repeat the same Amon,APTER.'Theras though we are not yet",0,0,142.38705444335938,14.131848787006579,0.0,"tensor([2.3510e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  soulphe of Israel repeat the same Amon,appa.' Theras though we are not yet",0,0,144.86862182617188,12.508835320723684,0.0,"tensor([9.6313e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,138.20297241210938,12.344736842105263,0.0,"tensor([0.1036], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Souleth of Israel recite the same Amon,appa.' Theras contemplated we are not yet",0,0,139.65208435058594,14.546592310855262,0.0,"tensor([3.5818e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Lambeth of Israel Summoner the same Carbuncle,APTER.' Theras though we are not yet",0,0,145.64022827148438,25.641262335526314,0.0,"tensor([5.6675e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Souleth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,133.1291961669922,21.58434416118421,0.0,"tensor([0.0035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  souleth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,138.20291137695312,25.31800472861842,0.0,"tensor([1.9548e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  soulphe of Israel recite the same Amon,iox.' Theras though we are not yet",0,0,148.91452026367188,13.886667351973683,0.0,"tensor([6.2457e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Gentphe of Israel Summoner the same Amon,appa.' Theras though we are not yet",0,0,153.8727569580078,15.818094675164474,0.0,"tensor([3.0149e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" phabeteh of Israel recite the same Amon,appa.' Therasthough we are not yet",0,0,148.87237548828125,18.723990028782893,0.0,"tensor([3.5006e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteh of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,141.0994110107422,19.533791632401314,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" phabeteh of Israeliris the same Amon,appa.' Theras though we are not yet",0,0,150.94293212890625,22.170430715460526,0.0,"tensor([3.7292e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,134.9119110107422,18.83257478412829,0.0,1,1
+"  Genteth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,134.91192626953125,11.37236328125,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Genteth of Israel recite the same Amon,appa.' Theras though we are not yet",0,0,134.91180419921875,11.053540039062499,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0

@@ -1,0 +1,228 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50680541992188,3.6197214226973684,0.0,"tensor([9.8551e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50679016113281,3.497360711348684,0.0,"tensor([0.1393], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50679779052734,3.735543662623355,0.0,"tensor([0.1120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50682067871094,3.054816958778783,0.0,"tensor([0.2181], device='cuda:0', grad_fn=<ExpBackward0>)",1
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50679779052734,3.020812345805921,0.0,"tensor([0.2237], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a raised- this world. This is where we can learn how we can,0,0,81.50679016113281,5.98878173828125,0.0,"tensor([0.0117], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a raised- a world. This is where we will learn how we can,0,0,77.60912322998047,3.2629805715460525,0.0,1,1
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24951171875,3.249817537006579,0.0,1,1
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24951171875,3.67975142629523,0.0,"tensor([0.1148], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24951934814453,3.93236373098273,0.0,"tensor([0.0922], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24950408935547,3.308188669305099,0.0,"tensor([0.1714], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24948120117188,3.296708920127467,0.0,"tensor([0.1722], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.2494888305664,3.7519749691611843,0.0,"tensor([0.1096], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24949645996094,3.433679841694079,0.0,"tensor([0.1523], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24951171875,5.033386872944079,0.0,"tensor([0.0290], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.24954223632812,3.9352696468955592,0.0,"tensor([0.0887], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.2494888305664,3.9079744037828945,0.0,"tensor([0.0926], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run- a world. This is where we will learn how we can,0,0,71.2494888305664,3.4655646073190787,0.0,"tensor([0.1446], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-phrase world. This is where we will learn how we can,0,0,73.479248046875,4.581129535875823,0.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-phrase world. This is where we will learn how we can,0,0,73.479248046875,3.769811369243421,0.0,"tensor([0.1081], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchinsamic have a run-phrase map. This is where they will learn how we can,0,0,100.22244262695312,3.909472013774671,0.0,"tensor([2.2836e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-phrase map. This is where they will learn how we can,0,0,75.72308349609375,5.057290167557566,0.0,1,1
+urchins will have a run-phrase map. This is where they will learn how we can,0,0,75.72308349609375,4.39808927837171,0.0,"tensor([0.0563], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where they will learn how we can,0,0,73.39990997314453,3.620722078022204,0.0,1,1
+urchins will have a run-hash map. This is where they will learn how we can,0,0,73.39991760253906,3.9949038856907895,0.0,"tensor([0.0847], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where they will learn how we can,0,0,73.39988708496094,3.576877312911184,0.0,"tensor([0.1285], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.949462890625,3.458050537109375,0.0,"tensor([0.2307], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.9494400024414,3.5113862690172697,0.0,"tensor([0.1380], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.949462890625,3.378538111636513,0.0,"tensor([0.1550], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.949462890625,3.3935855263157895,0.0,"tensor([0.1567], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.94949340820312,3.4358163934004935,0.0,"tensor([0.1493], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.94949340820312,3.738874897203947,0.0,"tensor([0.1110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.94945526123047,4.3891254625822365,0.0,"tensor([0.0561], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.94947814941406,3.3954178659539473,0.0,"tensor([0.1564], device='cuda:0', grad_fn=<ExpBackward0>)",1
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.949462890625,3.697394441303454,0.0,"tensor([0.1173], device='cuda:0', grad_fn=<ExpBackward0>)",0
+urchins will have a run-hash map. This is where you will learn how we can,0,0,72.94950866699219,3.403006784539474,0.0,"tensor([0.1557], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, This is where you will learn how we can",0,0,79.8045654296875,4.095618639494243,0.0,"tensor([7.9056e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, This is where you will learn how we can",0,0,79.8045425415039,4.146110775596217,0.0,"tensor([0.0744], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how we can",0,0,89.94448852539062,4.249645674856086,0.0,"tensor([2.6396e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how we can",0,0,89.94447326660156,4.452169639185855,0.0,"tensor([0.0554], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"urchins will have a run-hash map, post is where you will learn how we can",0,0,89.94450378417969,4.093780838815789,0.0,"tensor([0.0807], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how we can",0,0,89.94448852539062,5.029397743626645,0.0,"tensor([0.0309], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how we can",0,0,89.94448852539062,3.868181088096217,0.0,"tensor([0.0958], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.2584457397461,4.7636564555921055,0.0,"tensor([0.2151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25843811035156,5.607251619037829,0.0,"tensor([0.0176], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25843811035156,5.392448344983553,0.0,"tensor([0.0206], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.2584228515625,4.223185649671053,0.0,"tensor([0.0689], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25841522216797,4.088463070518092,0.0,"tensor([0.0779], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25840759277344,4.2349692896792765,0.0,"tensor([0.0679], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25838470458984,4.802036646792763,0.0,"tensor([0.0381], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25839233398438,4.5046039782072365,0.0,"tensor([0.0517], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25843811035156,4.436122854132401,0.0,"tensor([0.0538], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how they can",0,0,88.25839233398438,4.1764375385485195,0.0,"tensor([0.0706], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51109313964844,4.250876978824013,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.5111083984375,3.839077276932566,0.0,"tensor([0.1004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.5111083984375,4.111260022615132,0.0,"tensor([0.0737], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.5111083984375,3.813576467413651,0.0,"tensor([0.1002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51109313964844,3.873179224917763,0.0,"tensor([0.0955], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51113891601562,3.8882221422697367,0.0,"tensor([0.0930], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51115417480469,3.765940455386513,0.0,"tensor([0.1062], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51113891601562,4.822511371813322,0.0,"tensor([0.0371], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51113891601562,3.8537822522615133,0.0,"tensor([0.0998], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51114654541016,3.9593917043585525,0.0,"tensor([0.0869], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51109313964844,4.079285952919408,0.0,"tensor([0.0792], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchinsBM have a run-hash map, post is where you will learn how the can",0,0,115.74874114990234,3.8432289525082237,0.0,"tensor([5.9659e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51115417480469,5.13056640625,0.0,1,1
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51112365722656,3.9666214792351973,0.0,"tensor([0.0859], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51113891601562,3.8939112613075655,0.0,"tensor([0.0974], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51115417480469,4.438822856702303,0.0,"tensor([0.0544], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins will have a run-hash map, post is where you will learn how the can",0,0,111.01400756835938,3.8823319284539473,0.0,"tensor([6.6768e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.51112365722656,4.195482755962171,0.0,1,1
+"urchins will have a run-hash map, post is where you will learn how the can",0,0,94.5111083984375,5.302037289268092,0.0,"tensor([0.0223], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hes map, post is where you will learn how the can",0,0,103.22600555419922,6.888842130962171,0.0,"tensor([7.6705e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hes map, post is where you will learn how the can",0,0,103.22599792480469,6.916820646587171,0.0,"tensor([0.0047], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89190673828125,6.138044176603619,0.0,"tensor([0.0367], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,5.984056974712171,0.0,"tensor([0.0116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.8919448852539,6.782108989514803,0.0,"tensor([0.0054], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89192199707031,6.520852179276315,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Borderlandsins will have a run-hesgame, post is where you will learn how the can",0,0,128.38037109375,4.183915630139802,0.0,"tensor([2.1604e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89191436767578,4.494951428865131,0.0,1,1
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.8919448852539,9.13677914268092,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,6.121129086143092,0.0,"tensor([0.0101], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,8.457761744449012,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89192199707031,6.492644299958881,0.0,"tensor([0.0071], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesworld, post is where you will learn how the can",0,0,101.44859313964844,6.865383429276315,0.0,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89189910888672,5.408067562705592,0.0,"tensor([0.0138], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchaseins will have a run-hesworld, post is where you will learn how the can",0,0,123.42018127441406,7.110370194284539,0.0,"tensor([1.6815e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesworld, post is where you will learn how the can",0,0,101.44853210449219,5.143330142372533,0.0,1,1
+"urchins will have a run-hesworld, post is where you will learn how the can",0,0,101.44857025146484,3.9812088815789473,0.0,"tensor([0.0868], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesworld, post is where you will learn how the can",0,0,101.44859313964844,3.928158087479441,0.0,"tensor([0.0899], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89195251464844,4.013811292146381,0.0,"tensor([0.0525], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.8919448852539,4.240253970497533,0.0,"tensor([0.0688], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89195251464844,4.483029656661184,0.0,"tensor([0.0519], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins will have a run-hesgame, post is where you will learn how the can",0,0,119.62618255615234,4.312915360300164,0.0,"tensor([1.2498e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins will have a run-hesgame, post is where you will learn how the can",0,0,119.62615966796875,7.213950066817434,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,3.940223452919408,0.0,1,1
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.8919677734375,4.170776045949835,0.0,"tensor([0.0727], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,4.2620078638980265,0.0,"tensor([0.0662], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,5.119700221011513,0.0,"tensor([0.0277], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89192199707031,4.260960629111842,0.0,"tensor([0.0667], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89195251464844,5.207782303659539,0.0,"tensor([0.0256], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins will have a run-hesgame, post is where you will learn how the can",0,0,101.89193725585938,4.259153346011513,0.0,"tensor([0.0667], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"urchins will have a run-hesworld, post is where you will learn how the can",0,0,101.44862365722656,10.064423571134869,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hesgame, post is where you will learn how the can",0,0,122.60763549804688,5.517188784950657,0.0,"tensor([1.2384e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hes quests, post is where you will learn how the can",0,0,121.73870849609375,7.113527960526316,0.0,"tensor([0.0093], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hes quests, post is where you will learn how the can",0,0,121.73870086669922,8.452072625411184,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run- Shant quests, post is where you will learn how the can",0,0,126.38456726074219,6.7762104235197365,0.0,"tensor([5.0720e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hes quests, post is where you will learn how the can",0,0,121.73871612548828,7.148349480879934,0.0,"tensor([0.3901], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"urchins Crusade have a map-hes quests, post is where you will learn how the can",0,0,123.582763671875,4.895900043688322,0.0,"tensor([0.0053], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hes quests, post is where you will learn how the can",0,0,121.7386703491211,4.932749858655428,0.0,"tensor([0.2068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins Crusade have a run-hes quests, postage where you will learn how the can",0,0,125.23845672607422,4.959004291735197,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins combo have a run-ench quests, postage where you will learn how the can",0,0,117.28663635253906,5.684377569901316,0.0,1,1
+"loadsins combo have a run-ench quests, postage where you will learn how the can",0,0,142.8658447265625,15.383916272615132,0.0,"tensor([7.5096e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Borderlandsins combo have a run-ench quests, postage where you will learn how the can",0,0,145.6468505859375,13.28770173725329,0.0,"tensor([4.9261e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Borderlandsins combo have a run-ench quests, postage where you will learn how the can",0,0,145.6468505859375,16.715846011513158,0.0,"tensor([2.4481e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Borderlandsins combo have a run-ench quests, postage where you will learn how the can",0,0,145.64688110351562,16.660706208881578,0.0,"tensor([2.6746e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"MQins combo have a run-ench quests, postage where you will see how the he",0,0,133.8860321044922,16.977667557565788,0.0,"tensor([0.0258], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"MQins combo have a run-ench quests, postage where you will see how the he",0,0,133.88601684570312,21.08683439555921,0.0,"tensor([3.1446e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins combo have a run-ench quests, postage where you will see how the he",0,0,116.96245574951172,18.963644891036182,0.0,"tensor([0.6034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Borderlandsins combo have a run-ench quests, postage where you will see how the he",0,0,145.951904296875,16.525609066611842,0.0,"tensor([7.9559e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins combo have a run-ench tutorial, postage where you will see how the he",0,0,114.07070922851562,13.650460012335525,0.0,1,1
+"urchins combo have a run-ench tutorial, postage where you will see how the he",0,0,114.07069396972656,14.27769839638158,0.0,"tensor([2.9632e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"alysedins combo have a run-ench tutorial, postage where you will see how the he",0,0,132.40904235839844,12.285316868832236,0.0,"tensor([2.3247e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"urchins combo have a run-ench tutorial, postage where you will see how the he",0,0,114.07075500488281,14.67170924136513,0.0,1,1
+"alysedins combo have a run-ell tutorial, postage where you will see how the can",0,0,128.77586364746094,13.765377004523026,0.0,"tensor([2.0640e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.43666076660156,9.524191766036184,0.0,"tensor([0.0254], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.43668365478516,8.174678762335526,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.43661499023438,8.11363589638158,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walIns combo have a run-ell tutorial, postage where you will see how the can",0,0,135.7691650390625,9.822759046052632,0.0,"tensor([3.0864e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.43666076660156,8.308990157277961,0.0,1,1
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.4366455078125,5.6652478669819075,0.0,"tensor([0.0158], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins combo have a run-ell tutorial, postage where you will see how the can",0,0,124.43667602539062,5.513277395148026,0.0,"tensor([0.0191], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see how the can",0,0,122.53797912597656,5.222632799650493,0.0,"tensor([0.1693], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"walins wont have a run-ell tutorial, postage where you will see how the can",0,0,122.53797912597656,6.130028011924342,0.0,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see how the can",0,0,122.53797912597656,5.403083881578947,0.0,"tensor([0.0203], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ench spoiler, postage where you will see how the can",0,0,126.55769348144531,6.723072574013158,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell spoiler, postage where you will see how the can",0,0,125.3665771484375,10.208072060032894,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.77570343017578,5.535157534950658,0.0,"tensor([0.2420], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"mobiins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.40748596191406,4.855837530838816,0.0,"tensor([0.0532], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ench tutorial, postage where you will see what the can",0,0,126.92707061767578,5.132648990028783,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.77565002441406,5.991248201069078,0.0,"tensor([0.7417], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"mobiins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.40747833251953,5.817955900493421,0.0,"tensor([0.0203], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.77569580078125,5.82695954975329,0.0,"tensor([0.0095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"mobiins wont have a run-ench tutorial, postage where you will see what the can",0,0,126.73815155029297,7.525747198807566,0.0,"tensor([4.7737e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.775634765625,7.692509380139803,0.0,"tensor([0.1133], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.77566528320312,7.445231548108552,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.77567291259766,7.442294150904605,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell forums, postage where you will see what the can",0,0,122.87882995605469,6.4576467413651315,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"walins wont have a run-ell spoiler, postage where you will see what the can",0,0,125.06720733642578,7.336331337376644,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell spoiler, postage where you will see what the can",0,0,125.59414672851562,8.193125513980263,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ench tutorial, postage where you will see what the can",0,0,126.45716857910156,6.60919767680921,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you will see what the can",0,0,122.78644561767578,6.819446443256579,0.0,"tensor([0.1913], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21977996826172,5.166757041529605,0.0,"tensor([0.0460], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21977233886719,5.225982023540296,0.0,"tensor([0.0250], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21978759765625,5.136802914268092,0.0,"tensor([0.0264], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21978759765625,5.324083508943256,0.0,"tensor([0.0236], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21977233886719,3.9181027061060854,0.0,"tensor([0.0916], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21978759765625,3.8867836400082236,0.0,"tensor([0.0981], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21978759765625,3.8467548571134866,0.0,"tensor([0.0977], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21981811523438,3.8993967156661182,0.0,"tensor([0.0949], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21980285644531,3.8052168996710525,0.0,"tensor([0.0997], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21981048583984,3.903381990131579,0.0,"tensor([0.0966], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell Forums, postage where you'll see what the can",0,0,124.818359375,3.819361636513158,0.0,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21978759765625,3.8246720163445724,0.0,1,1
+" KSins wont have a run-ell tutorial, postage where you'll see what the can",0,0,122.21980285644531,5.2483976665296055,0.0,"tensor([0.0246], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51036071777344,4.628347296463816,0.0,"tensor([0.0923], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51036834716797,5.0140531841077305,0.0,"tensor([0.0312], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51041412353516,5.028208521792763,0.0,"tensor([0.0313], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell blog, postage where you'll see what the can",0,0,121.06780242919922,4.788181023848684,0.0,"tensor([0.0602], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell blog, postage where you'll see what the can",0,0,121.06781005859375,4.941712068256579,0.0,"tensor([0.0332], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51038360595703,4.4272827148437495,0.0,"tensor([0.0366], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell blog, postage where you'll see what the can",0,0,121.06778717041016,4.754616506476151,0.0,"tensor([0.0637], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.5103759765625,4.694793701171875,0.0,"tensor([0.0270], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51036071777344,4.645426860608553,0.0,"tensor([0.0444], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.51036071777344,5.052257015830592,0.0,"tensor([0.0293], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.5103759765625,4.7294973273026315,0.0,"tensor([0.0411], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" KSins playlist have a run-ell forum, postage where you'll see what the can",0,0,128.1248321533203,3.48952347604852,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins wont have a run-ell forum, postage where you'll see what the can",0,0,121.5103988647461,3.459481008429276,0.0,1,1
+" KSinsngth have a run-ell forum, postage where you'll see what the can",0,0,126.83340454101562,4.693601266961348,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see what the can",0,0,125.89913940429688,5.169105610094572,0.0,"tensor([0.0672], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell forum, postage where you'll see what the can",0,0,126.83338928222656,19.08284333881579,0.0,"tensor([9.3120e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell forum, postage where you'll see what the can",0,0,126.83341979980469,10.084727718955591,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see what the can",0,0,125.89915466308594,5.046295487253289,0.0,"tensor([0.0763], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Buyableinsngth have a run-ell blog, postage where you'll see what the can",0,0,127.59727478027344,5.135673442639803,0.0,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPinsngth have a run-ell forum, postage where you'll see what the can",0,0,128.0402069091797,6.900957288240131,0.0,"tensor([0.0030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see what the can",0,0,125.89916229248047,4.465914756373355,0.0,"tensor([0.4543], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" RPinsngth have a run-ell blog, postage where you'll see what the can",0,0,127.03851318359375,3.6419838353207235,0.0,"tensor([0.0388], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see what the can",0,0,125.89910888671875,3.644761256167763,0.0,"tensor([0.3832], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" KSinsngth have a run-ell blog, postage where you'll see how the can",0,0,125.5439453125,5.025420178865131,0.0,"tensor([0.0432], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see how the can",0,0,125.54395294189453,5.080798982319079,0.0,"tensor([0.0298], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPinsngth have a run-ell blog, postage where you'll see how the can",0,0,126.47467041015625,4.826349519428454,0.0,"tensor([0.0148], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSinsngth have a run-ell blog, postage where you'll see how the can",0,0,125.5439453125,4.785862009148849,0.0,"tensor([0.0985], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07669067382812,4.136880975020559,0.0,1,1
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07667541503906,3.6941920230263157,0.0,"tensor([0.1177], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" KSins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.014404296875,3.301953125,0.0,"tensor([0.1796], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" KSins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.01437377929688,3.345730751439145,0.0,"tensor([0.1637], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" KSins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.014404296875,4.390541799444901,0.0,"tensor([0.0567], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins gonna have a run-ell blog, postage where you'll see how the can",0,0,117.90232849121094,5.05713468852796,0.0,"tensor([0.0330], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07667541503906,4.993489476254112,0.0,"tensor([0.0255], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell booklet, postage where you'll see how the can",0,0,119.72926330566406,4.608590537623355,0.0,"tensor([0.0091], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46774291992188,5.501062654194079,0.0,"tensor([0.4986], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46765899658203,9.960059878700658,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31024169921875,7.619687371504934,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"accompanins'll have a run-ell blog, postage where you'll see how the can",0,0,117.28945922851562,3.5696183054070723,0.0,"tensor([0.0494], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31027221679688,6.5946815892269735,0.0,"tensor([0.0172], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46768188476562,5.600577585320724,0.0,"tensor([0.0145], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31022644042969,4.34166259765625,0.0,"tensor([0.0712], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46769714355469,3.934808992084704,0.0,"tensor([0.0768], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07667541503906,3.8776669150904604,0.0,"tensor([0.0190], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31024932861328,3.373282020970395,0.0,"tensor([0.9234], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" RPins'll have a run-ell booklet, postage where you'll see how the can",0,0,121.36073303222656,7.784677605879934,0.0,"tensor([1.2357e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46770477294922,8.055463610197368,0.0,"tensor([0.2007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07667541503906,3.9413474635074013,0.0,"tensor([0.0179], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"accompanins'll have a run-ell blog, postage where you'll see how the can",0,0,117.2895736694336,4.610124447471217,0.0,"tensor([0.1014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"accompanins'll have a run-ell blog, postage where you'll see how the can",0,0,117.28948974609375,6.82777677837171,0.0,"tensor([0.0050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"accompanins'll have a run-ell blog, postage where you'll see how the can",0,0,117.28950500488281,8.533818616365132,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31024169921875,3.5843155710320724,0.0,"tensor([0.3456], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"accompanins gonna have a run-ell blog, postage where you'll see how the can",0,0,120.33694458007812,4.216388260690789,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins'll have a run-ell blog, postage where you'll see how the can",0,0,116.31024932861328,4.376265033922698,0.0,1,1
+"accompanins'll have a run-ell blog, postage where you'll see how the can",0,0,117.28946685791016,4.398337916324013,0.0,"tensor([0.0216], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07666778564453,5.29604781301398,0.0,"tensor([0.0108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46770477294922,5.685081722861842,0.0,"tensor([0.0777], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07667541503906,8.603661466899672,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flavoringins'll have a run-ell blog, postage where you'll see how the can",0,0,116.46769714355469,5.103288188733552,0.0,"tensor([0.1370], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" RPins gonna have a run-ell blog, postage where you'll see how the can",0,0,118.07669830322266,5.122257272820724,0.0,"tensor([0.0054], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Cummins'll have a run-ell blog, postage where you'll see how the can",0,0,107.63551330566406,4.018186227898848,0.0,1,1
+" Cummins'll have a run-ell blog, postage where you'll see how the can",0,0,107.63551330566406,3.239755730879934,0.0,"tensor([0.1833], device='cuda:0', grad_fn=<ExpBackward0>)",0

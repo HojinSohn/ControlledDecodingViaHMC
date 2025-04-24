@@ -1,0 +1,229 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+ the savior was at peace and the Lord had sent the savior,0,0,54.81356430053711,2.269823576274671,0.0,"tensor([0.4826], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.81358337402344,2.7216106214021383,0.0,"tensor([0.3089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.81358337402344,4.639778538754112,0.0,"tensor([0.0444], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.81355667114258,2.3347550241570723,0.0,"tensor([0.4419], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the savior was at peace and the Lord had sent the savior,0,0,54.813560485839844,2.6661609850431742,0.0,"tensor([0.3177], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.813594818115234,2.2878395482113487,0.0,"tensor([0.4656], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the savior was at peace and the Lord had sent the savior,0,0,54.81357955932617,2.773812063116776,0.0,"tensor([0.2886], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.813575744628906,3.0660978618421053,0.0,"tensor([0.2161], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the savior was at peace and the Lord had sent the savior,0,0,54.81356430053711,3.1056277626439144,0.0,"tensor([0.2125], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the savior was at peace and the Lord had sent the savior,0,0,54.81357955932617,3.672024054276316,0.0,"tensor([0.1175], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lazarussavior was at peace and the Lord had sent the savior,0,0,80.84947204589844,3.6707670512952304,0.0,"tensor([5.9002e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ theHellsavior was at peace and the Lord had sent the savior,0,0,78.22555541992188,9.080757863898025,0.0,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Passsavior was at peace rotation the Lord had sent the savior,0,0,99.51132202148438,6.850922594572368,0.0,"tensor([2.7913e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent the savior,0,0,74.07354736328125,4.463724557976974,0.0,1,1
+ the Lordsavior was at peace and the Lord had sent the savior,0,0,74.07353210449219,3.81461181640625,0.0,"tensor([0.1037], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lordsavior was at peace and the Lord had sent the savior,0,0,74.07356262207031,5.117892295435855,0.0,"tensor([0.0277], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Siddsavior was at peace and the Lord had sent a savior,0,0,75.24298858642578,5.001970150596217,0.0,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent a savior,0,0,74.87199401855469,4.739714933696546,0.0,"tensor([0.0582], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent a savior,0,0,74.87195587158203,5.15314009817023,0.0,"tensor([0.0269], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent a savior,0,0,74.87196350097656,6.38226896587171,0.0,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent a savior,0,0,74.87198638916016,5.082093570106908,0.0,"tensor([0.0292], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lordsavior was at peace and the Lord had sent a savior,0,0,74.87199401855469,4.95479447214227,0.0,"tensor([0.0326], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lordsavior was at peace and the Lord had sent a savior,0,0,77.39419555664062,4.621878854851974,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lords cove was at peace and the Lord had sent a savior,0,0,89.5521011352539,5.796832596628289,0.0,"tensor([7.2083e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lords cove was at peace and the Lord had sent a savior,0,0,89.55209350585938,12.362739000822367,0.0,"tensor([2.0487e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's valley was at peace and the Lord had sent a savior,0,0,71.78218078613281,9.911680201480262,0.0,1,1
+ the lord's cove was at peace and the Lord had sent a savior,0,0,77.8446273803711,3.255538779810855,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's valley was at peace and the Lord had sent a savior,0,0,71.78221893310547,5.1860817357113485,0.0,1,1
+ the lord's cove was at peace and the Lord had sent a savior,0,0,77.84458923339844,3.9784555535567434,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's cove was at peace and the Lord had sent a savior,0,0,77.8446044921875,5.0585693359374995,0.0,"tensor([0.0290], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ helicopthe lord's valley was at peace and the Lord had sent a savior,0,0,98.29496765136719,3.83441162109375,0.0,"tensor([1.3296e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's covenant was at peace and the Lord had sent a savior,0,0,69.63581085205078,3.0943953664679276,0.0,1,1
+ the lord's covenant was at peace and the Lord had sent a savior,0,0,69.63582611083984,2.5413686651932563,0.0,"tensor([0.3602], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's covenant was at peace and the Lord had sent a savior,0,0,69.63580322265625,2.550123676500822,0.0,"tensor([0.3629], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent a savior,0,0,64.4776382446289,2.337057013260691,0.0,1,1
+ the Lord's covenant was at peace and the Lord had sent a savior,0,0,64.47764587402344,3.1736617238898024,0.0,"tensor([0.1931], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71662139892578,2.344837710731908,0.0,"tensor([0.9652], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71665954589844,2.4139246890419406,0.0,"tensor([0.4153], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.716651916503906,3.088649388363487,0.0,"tensor([0.2119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71666717529297,2.864548853824013,0.0,"tensor([0.2650], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71664047241211,3.7202103464226974,0.0,"tensor([0.1120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71665573120117,3.9629648309004932,0.0,"tensor([0.0897], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the goats's covenant was at peace and the Lord had sent the savior,0,0,79.61660766601562,3.333447265625,0.0,"tensor([2.0803e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.7166633605957,2.8777626439144735,0.0,1,1
+ the Lord's covenantcific was at peace and the Lord had sent the savior,0,0,83.7255859375,3.8054102847450655,0.0,"tensor([2.0531e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the lord's covenant  was at peace and the Lord had sent the savior,0,0,72.77094268798828,8.943135793585526,0.0,1,1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92125701904297,2.5106048583984375,0.0,1,1
+ contracethe Lord's covenant  was at peace and the Lord had sent the savior,0,0,95.18698120117188,2.5556208560341283,0.0,"tensor([5.2043e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,4.404054019325658,0.0,1,1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,3.302946070620888,0.0,"tensor([0.1728], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127227783203,3.1208104183799343,0.0,"tensor([0.2001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,3.084623959189967,0.0,"tensor([0.2180], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92129516601562,3.1274992290296053,0.0,"tensor([0.2063], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127227783203,3.154880242598684,0.0,"tensor([0.1986], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ DISTRICTthe Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.08049011230469,3.611244924444901,0.0,"tensor([4.9961e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127227783203,5.691785310444079,0.0,1,1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92124938964844,4.481173545435855,0.0,"tensor([0.0535], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,10.34090640419408,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92123413085938,5.873222270764803,0.0,"tensor([0.0129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the son's covenant    was at peace and the Lord had sent the savior,0,0,77.9473876953125,6.29815095600329,0.0,"tensor([3.8303e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92122650146484,3.670466372841283,0.0,1,1
+ the God's covenant    was at peace and the Lord had sent the savior,0,0,72.56497192382812,6.202999074835526,0.0,"tensor([9.0302e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the son's covenant  was at peace and the Lord had sent the savior,0,0,76.43560791015625,8.768340743215461,0.0,"tensor([1.5261e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,6.343962016858552,0.0,1,1
+ trancethe Godutions covenant    was at peace and the Lord had sent the savior,0,0,120.37225341796875,11.86715152138158,0.0,"tensor([5.5952e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confirthe God's covenant  was at peace and the Lord had sent the savior,0,0,92.72697448730469,10.470384457236841,0.0,1,1
+ confirthe God's covenant  was at peace and the Lord had sent the savior,0,0,92.72698211669922,2.7191788522820723,0.0,"tensor([0.3046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confirthe Lord's covenant  was at peace and the Lord had sent the savior,0,0,91.46974182128906,2.6778052079050165,0.0,1,1
+ confirthe Lord's covenant  was at peace and the Lord had sent the savior,0,0,91.46976470947266,2.9201698704769736,0.0,"tensor([0.2481], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,5.299888851768092,0.0,1,1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92124938964844,2.465786421926398,0.0,"tensor([0.3880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127990722656,2.6173681961862663,0.0,"tensor([0.3408], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92123413085938,2.4704024465460526,0.0,"tensor([0.3860], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212875366211,2.505219790810033,0.0,"tensor([0.3802], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92124938964844,2.4667470831620064,0.0,"tensor([0.3979], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92124938964844,3.122410824424342,0.0,"tensor([0.2080], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92125701904297,3.095701197574013,0.0,"tensor([0.2153], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,3.3286470112047697,0.0,"tensor([0.1685], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.9212646484375,5.370210346422697,0.0,"tensor([0.0217], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127227783203,3.698201711554276,0.0,"tensor([0.1145], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92125701904297,3.162054443359375,0.0,"tensor([0.1982], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ crusthe Lord's covenant  was at peace and the Lord had sent the savior,0,0,92.59783935546875,3.078836541426809,0.0,"tensor([4.1227e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant  was at peace and the Lord had sent the savior,0,0,67.92127227783203,3.0128369783100326,0.0,1,1
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71669006347656,5.050413432874177,0.0,1,1
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.716644287109375,2.486421605160362,0.0,"tensor([0.3712], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71662902832031,2.855872866981908,0.0,"tensor([0.2688], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.716644287109375,3.563882928145559,0.0,"tensor([0.1325], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ the God's covenant was at peace and the Lord had sent the savior,0,0,65.85108184814453,3.203904322574013,0.0,"tensor([0.0218], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ the Lord's covenant was at peace and the Lord had sent the savior,0,0,63.71664810180664,3.789085629111842,0.0,"tensor([0.8711], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ encountthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.04425048828125,4.510551372327303,0.0,"tensor([1.4207e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58940124511719,3.816866904810855,0.0,"tensor([0.0605], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58943176269531,3.877586605674342,0.0,"tensor([0.0957], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ encountthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.04424285888672,4.023530016447368,0.0,"tensor([0.1470], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58940124511719,4.296240876850329,0.0,"tensor([0.0370], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58941650390625,3.9373727898848685,0.0,"tensor([0.0922], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58941650390625,5.560554584703947,0.0,"tensor([0.0174], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ encountthe Lord's Gardens was at peace and the Lord had sent the savior,0,0,94.82379150390625,3.7716780813116775,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxotal Lord's covenant was at peace and the Lord had sent the savior,0,0,104.50312042236328,4.044594212582237,0.0,"tensor([5.0378e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58941650390625,4.060334858141447,0.0,1,1
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58940124511719,2.3238236276726973,0.0,"tensor([0.4589], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58943176269531,2.6761561343544407,0.0,"tensor([0.3181], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58943176269531,2.675818352950247,0.0,"tensor([0.3186], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58941650390625,3.1809814453125,0.0,"tensor([0.1972], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58940887451172,3.3591186523437497,0.0,"tensor([0.1600], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58938598632812,3.3438251696134866,0.0,"tensor([0.1685], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58944702148438,6.867928274054276,0.0,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Imam's covenant was at peace and the Lord had sent the savior,0,0,99.23362731933594,3.1985239129317433,0.0,"tensor([4.4359e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58939361572266,3.2061125102796053,0.0,1,1
+ climaxthe Lord's covenant surprwas at peace and the Lord had sent the savior,0,0,116.86675262451172,7.95331388774671,0.0,"tensor([8.6786e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58940124511719,5.848884662828947,0.0,1,1
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58943939208984,5.043084395559211,0.0,"tensor([0.0292], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climthe Lord's covenant was at peace and the Lord had sent the savior,0,0,89.82382202148438,4.414192280016447,0.0,"tensor([0.0162], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's temple was at peace and the Lord had sent the savior,0,0,89.2508544921875,4.394887502569901,0.0,"tensor([0.1051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe barley's covenant was at peace and the Lord had sent the savior,0,0,107.79572296142578,10.00705502158717,0.0,"tensor([1.8539e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58941650390625,8.410866185238486,0.0,1,1
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58939361572266,7.37637296977796,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant was at peace and the Lord had sent the savior,0,0,88.58938598632812,13.19688784950658,0.0,"tensor([8.6859e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ iodthe Lord's temple was at peace and the Lord had sent the savior,0,0,92.85525512695312,8.034267706620065,0.0,"tensor([2.0750e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climaxthe Lord's covenant contestantwas at peace and the Lord had sent the savior,0,0,109.1657485961914,5.354422800164474,0.0,"tensor([1.8377e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ clim the Lord's covenant contestantwas at peace and the Lord had sent the savior,0,0,109.95330047607422,8.21869538959704,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Rabbi's covenant  was at peace and the Lord had sent the savior,0,0,97.22837829589844,7.412995348478618,0.0,1,1
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52809143066406,3.202548699629934,0.0,1,1
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52806854248047,3.5558584112870064,0.0,"tensor([0.1349], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.5280532836914,3.0927866082442432,0.0,"tensor([0.2180], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52808380126953,3.0725508840460525,0.0,"tensor([0.2125], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant contestant was at peace and the Lord had sent the savior,0,0,100.16081237792969,3.091085333573191,0.0,"tensor([1.9216e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79645538330078,2.9358212119654605,0.0,1,1
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.7964859008789,2.974159963507401,0.0,"tensor([0.2419], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52806091308594,2.574578214946546,0.0,"tensor([0.4701], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52803039550781,3.0660355417351974,0.0,"tensor([0.2118], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52806091308594,2.9335568076685856,0.0,"tensor([0.2503], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52804565429688,3.113815146998355,0.0,"tensor([0.2046], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52806091308594,3.865015933388158,0.0,"tensor([0.1017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ clim the Lord's covenant  was at peace and the Lord had sent the savior,0,0,90.74417114257812,3.850603605571546,0.0,"tensor([0.0110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ clim the Lord's temple  was at peace and the Lord had sent the savior,0,0,91.17240905761719,4.8517211914062495,0.0,"tensor([0.0235], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52803802490234,3.484478117290296,0.0,1,1
+ culmin the Lord's covenant  was atrest and the Lord had sent the savior,0,0,99.6343994140625,5.92400544819079,0.0,"tensor([1.8419e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ climax the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.52806091308594,5.497085089432566,0.0,1,1
+ concluding the Mormons's covenantcest was at peace and the Lord had sent the savior,0,0,126.60383605957031,7.155416067023026,0.0,"tensor([1.0708e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.9241714477539,8.590175909745065,0.0,1,1
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.92416381835938,4.062617572985197,0.0,"tensor([0.0792], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.92420196533203,3.9882391678659537,0.0,"tensor([0.0826], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.92418670654297,4.049980725740132,0.0,"tensor([0.0827], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.92416381835938,3.951529733758224,0.0,"tensor([0.0888], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenantcest was at peace and the Lord had sent the savior,0,0,108.92418670654297,4.056918816817434,0.0,"tensor([0.0814], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant Borough was at peace and the Lord had sent the savior,0,0,103.20756530761719,3.7506026418585527,0.0,1,1
+ concluding the Lord's covenant Borough was at peace and the Lord had sent the savior,0,0,103.20753479003906,2.991050961143092,0.0,"tensor([0.2322], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant Borough was at peace and the Lord had sent the savior,0,0,103.20758056640625,2.8797215511924343,0.0,"tensor([0.2557], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ concluding the Imam's covenant Borough was at peace and the Lord had sent the savior,0,0,114.53077697753906,3.4320903577302633,0.0,"tensor([1.8105e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79637908935547,2.8771336605674342,0.0,1,1
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79643249511719,2.9362259714226973,0.0,"tensor([0.2464], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79640197753906,2.967845394736842,0.0,"tensor([0.2375], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79641723632812,2.925109220805921,0.0,"tensor([0.2475], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ concluding the Lord's covenant  was at peace and the Lord had sent the savior,0,0,88.79643249511719,2.914907997532895,0.0,"tensor([0.2504], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01188659667969,3.505757221422697,0.0,"tensor([0.8578], device='cuda:0', grad_fn=<ExpBackward0>)",1
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01187896728516,2.92691650390625,0.0,"tensor([0.2555], device='cuda:0', grad_fn=<ExpBackward0>)",1
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01187133789062,3.3352866724917765,0.0,"tensor([0.1618], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.0118637084961,3.9138697574013155,0.0,"tensor([0.0923], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01187133789062,3.2817710474917763,0.0,"tensor([0.1763], device='cuda:0', grad_fn=<ExpBackward0>)",1
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01190185546875,4.539102654708059,0.0,"tensor([0.0504], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01192474365234,4.569995759662829,0.0,"tensor([0.0482], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01183319091797,6.285084292763158,0.0,"tensor([0.0086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01185607910156,4.254305227179276,0.0,"tensor([0.0662], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,103.77985382080078,6.654050164473684,0.0,"tensor([3.1600e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar the Lord's covenant  was at peace and the Lord had sent the savior,0,0,87.01190185546875,3.757412880345395,0.0,1,1
+lar the Lord's covenantconservancy was att peace and the Lord had sent the savior,0,0,124.66809844970703,4.711122854132401,0.0,"tensor([1.8840e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantconservancy was at peace and the Lord had sent the savior,0,0,127.82589721679688,6.039668996710526,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55732727050781,8.17099609375,0.0,"tensor([0.6873], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55731964111328,3.1766530890213813,0.0,"tensor([0.1890], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55729675292969,3.058186420641447,0.0,"tensor([0.2133], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55726623535156,3.1750025699013156,0.0,"tensor([0.1962], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55731201171875,3.1784835012335524,0.0,"tensor([0.1988], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55734252929688,3.0954808285361843,0.0,"tensor([0.2094], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55733489990234,4.179242907072369,0.0,"tensor([0.0718], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir decre Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,121.55731201171875,5.184490003083882,0.0,"tensor([0.0262], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confirlayer Lord's covenantzynski was at peace and the Lord had sent the savior,0,0,120.00889587402344,5.005656995271382,0.0,"tensor([0.1424], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenantzynski wasizabethat peace and the Lord had sent the savior,0,0,148.41807556152344,5.291464715254934,0.0,"tensor([1.0959e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir decre Lord's covenant  was at peace and the Lord had sent the savior,0,0,106.0531997680664,5.982340280633224,0.0,1,1
+ confir decre Lord's covenant  was at peace and the Lord had sent the savior,0,0,106.05319213867188,3.089584832442434,0.0,"tensor([0.2141], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir decre Lord's covenant  was at peace and the Lord had sent the savior,0,0,106.05320739746094,4.166850200452303,0.0,"tensor([0.0728], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir Lad Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.11709594726562,7.01689453125,0.0,"tensor([0.5913], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir Lad Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.11711120605469,3.089332339638158,0.0,"tensor([0.2090], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir Lad Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.11711120605469,3.1919607062088815,0.0,"tensor([0.1915], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir Lad Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.11711120605469,3.1925620631167764,0.0,"tensor([0.1897], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir Lad Lord's covenant  was at peace and the Lord had sent the savior,0,0,101.11708068847656,3.1497224506578947,0.0,"tensor([0.1964], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ confir Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.04253387451172,4.959990812602796,0.0,"tensor([0.2560], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ confir Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.04257202148438,4.110546232524671,0.0,"tensor([0.0775], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.38081359863281,3.788878752055921,0.0,"tensor([0.0763], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ covenant Lad God's covenant  was at peace and the Lord had sent the savior,0,0,95.96018981933594,5.240236944901316,0.0,"tensor([0.7197], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.38079833984375,4.7805124383223685,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.380859375,4.7714182000411185,0.0,"tensor([0.0381], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ covenant Lad God's covenant  was at peace and the Lord had sent the savior,0,0,95.960205078125,8.927206260279606,0.0,"tensor([0.0187], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.3808364868164,4.448219700863487,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.38081359863281,6.5003919099506575,0.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+lar Lad God's covenant  was at peace and the Lord had sent the savior,0,0,99.38086700439453,5.211263234991776,0.0,"tensor([0.0241], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lad God, covenant  was at peace and the Lord had sent the savior",0,0,106.17149353027344,7.26503263774671,0.0,"tensor([3.7189e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lad God, covenant  was at peace and the Lord had sent the savior",0,0,106.17143249511719,5.671226099917763,0.0,"tensor([0.0163], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lad God, covenant  was at peace and the Lord had sent the savior",0,0,106.17146301269531,5.751349840666118,0.0,"tensor([0.0145], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87255859375,5.457541375411184,0.0,1,1
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87255859375,5.331396163137335,0.0,"tensor([0.0223], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87258911132812,5.408085552014803,0.0,"tensor([0.0207], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.8725814819336,5.062714586759868,0.0,"tensor([0.0293], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87261962890625,5.2735656738281245,0.0,"tensor([0.0241], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87263488769531,5.296730764288651,0.0,"tensor([0.0239], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87260437011719,6.007179019325657,0.0,"tensor([0.0113], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87261199951172,5.357918508429276,0.0,"tensor([0.0215], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87260437011719,5.258186420641447,0.0,"tensor([0.0246], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" confir Lord God, covenant  was at peace and the Lord had sent the savior",0,0,98.12895202636719,4.5391389545641445,0.0,"tensor([0.2807], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87261962890625,4.441093364514803,0.0,"tensor([0.0095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87265014648438,5.226487330386513,0.0,"tensor([0.0244], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87261962890625,5.265940455386513,0.0,"tensor([0.0240], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87260437011719,4.994240208675987,0.0,"tensor([0.0317], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" confir earthly God, Dominion  was at peace and the Lord had sent the savior",0,0,102.49026489257812,4.196726588199013,0.0,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" confir prophes God, covenant  was at peace and the Lord had sent the savior",0,0,107.02052307128906,3.218247584292763,0.0,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God,ima  was at peace and the Lord had sent the savior",0,0,105.11381530761719,3.829311651932566,0.0,"tensor([0.6789], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87261962890625,4.9184011358963815,0.0,1,1
+"lar prophes God, covenant  was at peace and the Lord had sent the savior",0,0,111.03916931152344,5.243854723478618,0.0,"tensor([3.4495e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87258911132812,4.832780697471217,0.0,1,1
+"lar Lord God, covenantワン was at peace and the Lord had sent the savior",0,0,121.26277160644531,6.833891858552631,0.0,"tensor([2.5670e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ende Lord God, covenantワン was at peace and the Lord had sent the savior",0,0,121.03033447265625,6.083638723273026,0.0,"tensor([0.0130], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" doctr Lord God, covenant     was at peace and the Lord had sent the savior",0,0,113.97418212890625,8.608139519942434,0.0,"tensor([0.9983], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"lar Lord God, covenant     was at peace and the Lord had sent the savior",0,0,109.06484985351562,4.216719456722862,0.0,1,1
+"lar Lord God, covenant     was at peace and the Lord had sent the savior",0,0,109.06489562988281,5.344879471628289,0.0,"tensor([0.0220], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar earthly God, covenant     was at peace and the Lord had sent the savior",0,0,111.31143188476562,4.297855096114309,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant     was at peace and the Lord had sent the savior",0,0,109.06483459472656,3.901206247430099,0.0,"tensor([0.8900], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"lar prophes God, covenant  was at peace and the Lord had sent the savior",0,0,111.03917694091797,6.276364617598684,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"lar Lord God, covenant  was at peace and the Lord had sent the savior",0,0,99.87257385253906,4.843680612664474,0.0,1,1
+"lar God God, covenant  was at peace and the Lord had sent the savior",0,0,98.77018737792969,4.706096448396382,0.0,"tensor([0.1207], device='cuda:0', grad_fn=<ExpBackward0>)",0

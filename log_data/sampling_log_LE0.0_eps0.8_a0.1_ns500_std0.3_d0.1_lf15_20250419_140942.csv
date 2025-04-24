@@ -1,0 +1,228 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+ all  is not as it should be.  And the  people who,0,0,43.193138122558594,11.088002415707237,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,43.2647705078125,6.520031095805921,0.11787181347608566,"tensor([0.0472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,44.431419372558594,3.9095083136307567,2.037003993988037,"tensor([0.5845], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,46.706687927246094,4.090223774157073,5.779836654663086,"tensor([0.5212], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,50.1149787902832,3.898469302528783,11.386507034301758,"tensor([0.6015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,54.64005661010742,4.939751554790296,18.83026123046875,"tensor([0.2340], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,60.28995895385742,4.628369783100329,28.124483108520508,"tensor([0.3032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,67.05943298339844,5.836839535361842,39.26025390625,"tensor([0.0884], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,74.91389465332031,9.735192228618422,52.18092346191406,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  is not as it should be.  And the  people who,0,0,83.898681640625,8.855909488075657,66.96097564697266,"tensor([0.0046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  is not as it should be.  And the  people,",0,0,70.97750091552734,23.73252981085526,83.47496032714844,1,1
+ all  is not as it should be.  And the  people the,0,0,89.97297668457031,17.950637335526316,100.0,"tensor([3.6978e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  ev not as it should be.  And the  people who,0,0,123.67434692382812,18.600370065789473,100.0,"tensor([5.8936e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎all  ev men as it shall be,  Therefore the  men P",0,0,135.50523376464844,20.975875051398027,100.0,"tensor([1.8589e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev men as it will be,  Therefore the  people O",0,0,93.36309814453125,13.551277240953947,100.0,1,1
+" all  ev men as the shall be,  Therefore the  men that",0,0,101.85662841796875,12.938784950657894,100.0,"tensor([1.5237e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all   radiant servant as the shall be,  Therefore the  men that",0,0,99.05392456054688,13.311423211348684,100.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev men as the will be,  Therefore the  men that",0,0,88.58293914794922,11.586649362664474,100.0,1,1
+" all  ev not as a will be,  Therefore the  men that",0,0,97.3492431640625,11.385632966694079,100.0,"tensor([5.6599e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev men as a will be,  Therefore the  men that",0,0,101.25337219238281,11.48248869243421,100.0,"tensor([6.4300e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  wn men loved a will be,  Therefore the  men that",0,0,86.43569946289062,10.964278371710526,100.0,1,1
+" all  ev not loved a will be,  Therefore the  men that",0,0,100.2183609008789,15.189891293174341,100.0,"tensor([8.3330e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev not gifts a Lord be,  Therefore the  men that",0,0,94.1122055053711,14.65228207236842,100.0,"tensor([0.0063], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev not gifts a will be,  Therefore the  men that",0,0,87.9863510131836,8.42327174136513,100.0,1,1
+" all  ev not wond a will be,  Therefore the  men that",0,0,90.95976257324219,9.095309930098685,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ all  ev not gifts a will be.  Therefore the  people that,0,0,82.33494567871094,9.97462736430921,100.0,1,1
+" all  ev men perfection a will be,  Therefore the  people,",0,0,87.33747863769531,8.22821044921875,100.0,"tensor([5.7317e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev cove Solomon a will be,  Therefore the  people,",0,0,91.97638702392578,10.49415925678454,100.0,"tensor([8.0545e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the luc a will be,  Therefore the  people,",0,0,81.55484771728516,9.345751310649671,100.0,1,1
+" all  ev the wond a will be,  Therefore the  people,",0,0,79.35680389404297,10.689979312294408,100.0,"tensor([0.0065], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the wond a will be,  Therefore the  people,",0,0,79.35684967041016,11.665470805921052,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the wond a will be,  Therefore the  people,",0,0,79.35681915283203,11.936162366365132,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the beaut a will be,  Therefore the  people,",0,0,80.50398254394531,11.188575503700658,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the beaut the will be,  Each the  people,",0,0,85.07955169677734,9.632951274671052,100.0,"tensor([2.1068e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.9620590209961,6.818850226151316,100.0,1,1
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96206665039062,6.769589072779605,100.0,"tensor([0.0380], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96207427978516,6.682996247944079,100.0,"tensor([0.0404], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96204376220703,7.121063553659539,100.0,"tensor([0.0257], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96204376220703,9.769046181126644,100.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96205139160156,6.470356188322368,100.0,"tensor([0.0495], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the kingdom the will be,  Each the  people,",0,0,78.84943389892578,6.356187679893092,100.0,"tensor([0.0222], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96205139160156,6.47816162109375,100.0,"tensor([0.1223], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96209716796875,6.887688887746711,100.0,"tensor([0.0337], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64199829101562,6.5271362304687495,100.0,"tensor([0.0084], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,87.33464050292969,6.180013877467105,100.0,"tensor([2.8829e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a spotlight the will be,  Each the  people,",0,0,86.63392639160156,7.081364360608553,100.0,"tensor([0.0520], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96208953857422,6.740310187088816,100.0,1,1
+" all  ev the Creator the will be,  Each the  people,",0,0,77.9620590209961,9.564315635279605,100.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96205139160156,8.630732164884868,100.0,"tensor([0.0061], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96209716796875,10.458839175575658,100.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.96208190917969,11.308615594161184,100.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev the Creator the will be,  Each the  people,",0,0,77.9620361328125,8.97090486225329,100.0,"tensor([0.0042], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a spotlight the will be,  Each the  people,",0,0,86.63395690917969,8.138791375411184,100.0,"tensor([1.4636e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64198303222656,9.959974429481907,100.0,1,1
+" all  ev a spotlight the will be,  Each the  people,",0,0,86.6339340209961,6.72791748046875,100.0,"tensor([3.4556e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64202880859375,7.8100746556332235,100.0,1,1
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64205932617188,10.0121337890625,100.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a spotlight the will be,  Each the  people,",0,0,86.63391876220703,9.281712582236842,100.0,"tensor([2.9888e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64202880859375,10.189576480263158,100.0,1,1
+" all  ev a Creator the will be,  Each the  people,",0,0,79.64198303222656,13.720158305921052,100.0,"tensor([3.4311e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all   skate a spotlight the will be,  Each the  people,",0,0,98.63609313964844,13.761179070723683,100.0,"tensor([1.8056e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all   skate a Kingdom the will be,  Together the  people,",0,0,83.75276947021484,20.259701377467106,100.0,"tensor([0.1513], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60977172851562,8.636681486430922,100.0,1,1
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60977935791016,5.459951942845395,100.0,"tensor([0.1390], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all  ev aunited the will be,  Together the  people,",0,0,72.26744079589844,6.331617495888158,100.0,"tensor([0.0304], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60978698730469,7.032356342516447,100.0,"tensor([0.0613], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60977172851562,7.659268991570723,100.0,"tensor([0.0151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.6097412109375,6.48368562397204,100.0,"tensor([0.0467], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev aunited the will be,  Together the  people,",0,0,72.26747131347656,6.4041902240953945,100.0,"tensor([0.0274], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.6097412109375,6.720549573396381,100.0,"tensor([0.0680], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev aowa the will be,  Together the  people,",0,0,75.17089080810547,7.919532534950657,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60974884033203,7.408672774465461,100.0,"tensor([0.6644], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all  ev aunited the will be,  Together the  people,",0,0,72.26744842529297,7.911973812705592,100.0,"tensor([0.0057], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.21866607666016,9.82399259868421,100.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a NXT the will be,  Together the  people,",0,0,78.44971466064453,10.625229363692434,100.0,"tensor([1.5101e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.21863555908203,8.16350611636513,100.0,1,1
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.21863555908203,5.71058349609375,100.0,"tensor([0.1126], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.2186508178711,5.938072445518092,100.0,"tensor([0.0831], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.21867370605469,5.888606984991776,100.0,"tensor([0.0892], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.2186508178711,5.878093518708882,100.0,"tensor([0.0857], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60972595214844,7.744738127055921,100.0,"tensor([0.0250], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.6097412109375,6.811253597861842,100.0,"tensor([0.0363], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60969543457031,9.253117932771382,100.0,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Kingdom the will be,  Together the  people,",0,0,72.21865844726562,8.023526161595395,100.0,"tensor([0.0055], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.60975646972656,6.672547029194079,100.0,"tensor([0.0751], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev aunited the will be,  Together the  people,",0,0,72.2674560546875,6.533846885279605,100.0,"tensor([0.0242], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a spotlight the will be,  Together the  people,",0,0,75.48587036132812,7.792765085320723,100.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a spotlight the will be,  Together the  people,",0,0,75.48588562011719,7.328320954975329,100.0,"tensor([0.0200], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.65281677246094,6.721571109169408,99.73574829101562,1,1
+" all  ev a Creator the will be,  Together the  people,",0,0,71.77584838867188,5.79728425678454,98.9814453125,"tensor([0.1015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,71.9786148071289,5.489875873766447,97.7379379272461,"tensor([0.1336], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,72.26116180419922,5.316911235608552,96.0052261352539,"tensor([0.1461], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Creator the will be,  Together the  people,",0,0,72.62388610839844,5.384921746504934,93.78076934814453,"tensor([0.1492], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Scholars the will be,  Together the  people,",0,0,78.0423583984375,4.990369937294408,91.0671157836914,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev aunited the will be,  Together the  people,",0,0,74.17489624023438,5.302328009354441,87.85787963867188,1,1
+" all  ev aunited the will be,  Together the  people,",0,0,74.75545501708984,5.939309210526315,84.16206359863281,"tensor([0.0831], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,82.26065826416016,7.485066945929276,79.9949722290039,"tensor([1.8860e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,83.06698608398438,8.834567742598685,75.31616973876953,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,81.37054443359375,8.094936009457237,70.11962127685547,"tensor([0.1310], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,84.94700622558594,7.04853515625,64.40707397460938,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,86.01969909667969,7.792905787417763,58.18257141113281,"tensor([0.0129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,84.40074157714844,6.973998380962171,51.44106674194336,"tensor([0.4993], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all  ev a Emir the will be,  Together the  people,",0,0,85.57747650146484,5.363555908203125,44.18761444091797,"tensor([0.1439], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,86.83314514160156,5.138279965049342,36.44746780395508,"tensor([0.1727], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,88.16781616210938,5.368456067537006,28.220626831054688,"tensor([0.1588], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,89.5813980102539,6.173691920230263,19.507091522216797,"tensor([0.0636], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,91.07398223876953,5.278676886307566,10.306862831115723,"tensor([0.1730], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Emir the will be,  Together the  people,",0,0,92.64546966552734,5.146331787109375,0.6199398040771484,"tensor([0.1837], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev aunited the will be,  Together the  people,",0,0,87.97662353515625,4.727775493421053,0.0,1,1
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04659271240234,5.330055638363486,0.0,"tensor([4.9044e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.6357421875,7.549229029605263,0.0,1,1
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04660034179688,5.5806640624999995,0.0,"tensor([2.6553e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63575744628906,5.749528423108552,0.0,1,1
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04660034179688,6.428664036800987,0.0,"tensor([1.1423e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04658508300781,9.947119140625,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04654693603516,11.075227436266447,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Neph the will be,  Together the  people,",0,0,96.04656982421875,11.166304738898026,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.6357421875,13.000963712993421,0.0,"tensor([0.2950], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.6357421875,10.044758043791118,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63578033447266,7.497791169819079,0.0,"tensor([0.0176], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63575744628906,7.235636821546052,0.0,"tensor([0.0221], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.6357421875,7.117995733963816,0.0,"tensor([0.0260], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all   skate a Revolution the will be,  Together the  people,",0,0,99.70997619628906,9.231198601973684,0.0,"tensor([1.6224e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.6357421875,11.02048982319079,0.0,1,1
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63573455810547,12.48853695518092,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Tranceall  ev a Revolution the will be,  Together the  people,",0,0,107.4930191040039,8.348121402138158,0.0,"tensor([1.7706e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63572692871094,18.435397820723683,0.0,1,1
+" Tranceall   Lov a Revolution the will be,  Together the  people,",0,0,113.87675476074219,11.699527138157894,0.0,"tensor([1.0784e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all  ev a Revolution the will be,  Together the  people,",0,0,87.63571166992188,14.421046206825658,0.0,1,1
+" all Wra � a Ukroads will be,  Together the  people,",0,0,129.2313690185547,17.457522101151316,0.0,"tensor([7.2932e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Malk a Ukroads will be,  Together the  people,",0,0,112.37962341308594,27.70973478618421,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................   Malk a Ukroads will be,  Together the  people,",0,0,116.75566864013672,31.26354851973684,0.0,"tensor([9.9963e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Kart aiverse the will be,  Together the  people,",0,0,104.74104309082031,25.520667146381577,0.0,"tensor([4.4049e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Kart aiverse the will be,  Together the �people,",0,0,130.09283447265625,34.063003700657895,0.0,"tensor([4.8664e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ����all ................  Gork aiverse the will be,  Together the �people,",0,0,133.57098388671875,24.99942434210526,0.0,"tensor([1.3647e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24907684326172,30.04014185855263,0.0,1,1
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24908447265625,8.048876310649671,0.0,"tensor([0.0103], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24909973144531,7.894497841282894,0.0,"tensor([0.0127], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24909973144531,7.831560315583881,0.0,"tensor([0.0118], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24906158447266,7.771028217516447,0.0,"tensor([0.0137], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24913024902344,7.968211605674342,0.0,"tensor([0.0111], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24908447265625,7.625706080386513,0.0,"tensor([0.0158], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.3628158569336,7.343845086348684,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24906921386719,7.367138671875,0.0,"tensor([0.0606], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24906921386719,7.93451505962171,0.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.36286926269531,8.320234118009868,0.0,"tensor([0.0025], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.3628158569336,8.119636615953947,0.0,"tensor([0.0095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24906921386719,7.616975483141447,0.0,"tensor([0.0498], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Niet aiverse the will be,  Together the  people,",0,0,105.24911499023438,8.026230982730263,0.0,"tensor([0.0102], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all ................  Ukrain aiverse the will be,  Together the  people,",0,0,106.01548767089844,6.841888748972039,0.0,"tensor([0.0155], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.3628158569336,6.442576197574013,0.0,"tensor([0.0356], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.36276245117188,9.012967722039473,0.0,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aiverse the will be,  Together the  people,",0,0,106.36280059814453,8.773930921052632,0.0,"tensor([0.0048], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aowa the will be,  Together the  people,",0,0,104.01358032226562,8.534942948190789,0.0,"tensor([0.0635], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Niet aowa the will be,  Together the  people,",0,0,104.01361846923828,8.916336862664474,0.0,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Ukrain aowa the will be,  Together the  people,",0,0,102.95896911621094,8.519199732730263,0.0,"tensor([0.0182], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Ukrain aowa the will be,  Together the  people,",0,0,102.95895385742188,7.564473041735197,0.0,"tensor([0.0157], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all�  Niet aowa the will be,  Together the  people,",0,0,117.47105407714844,6.650204949629934,0.0,"tensor([1.8563e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Niet aowa the will be,  Together the  people,",0,0,112.19517517089844,7.8795011821546055,0.0,1,1
+" all Archdemon  Niet aowa the will be,  Together the  people,",0,0,112.19512939453125,6.936229183799342,0.0,"tensor([0.0302], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Niet aowa the will be,  Together the  people,",0,0,112.1951675415039,9.887697882401316,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Niet aowa the will be,  Together the  people,",0,0,112.19517517089844,7.037695954975328,0.0,"tensor([0.0278], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon � aowa the will be,  Together the  people,",0,0,113.00526428222656,8.542439350328948,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Niet aiverse the will be,  Together the  people,",0,0,111.88047790527344,7.629713199013158,0.0,"tensor([0.0457], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon  Niet aiverse the will be,  Together the  people,",0,0,111.88050842285156,6.819237638774671,0.0,"tensor([0.0350], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� � aiverse the will be,  Together the  people,",0,0,113.40648651123047,6.973380319695724,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� � aunited the will be,  Together the  people,",0,0,110.45172119140625,16.45574244449013,0.0,"tensor([4.3503e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon � aunited the will be,  Together the  people,",0,0,111.94334411621094,16.475615491365133,0.0,"tensor([4.7431e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all�  Beir aiverse the will be,  Together the  people,",0,0,115.45332336425781,12.39111328125,0.0,"tensor([3.8612e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon idas aiverse the will be,  Together the  people,",0,0,108.51499938964844,8.529398386101974,0.0,1,1
+" all� idas aowa the will be,  Together the  people,",0,0,108.11857604980469,5.935483269942434,0.0,"tensor([0.1237], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all Archdemon idas aowa the will be,  Together the  people,",0,0,107.85530090332031,5.852988152754934,0.0,"tensor([0.1150], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas aowa the will be,  Together the  people,",0,0,99.79672241210938,6.515460526315789,0.0,1,1
+" all     idas aowa the will be,  Together the  people,",0,0,99.79669189453125,7.2749383223684205,0.0,"tensor([0.0226], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas aowa the will be,  Together the  people,",0,0,99.79670715332031,7.36738859477796,0.0,"tensor([0.0202], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas aowa the will be,  Together the  people,",0,0,99.79669189453125,7.020277163856908,0.0,"tensor([0.0284], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Ukrain aowa the will be,  Together the  people,",0,0,102.95901489257812,6.8043662623355265,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all________________________ idas aowa the will be,  Together the  people,",0,0,105.08109283447266,6.9272011204769735,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas aowa the will be,  Together the  people,",0,0,99.79671478271484,6.685688219572368,0.0,1,1
+" all     idas aowa the will be,  Together the  people,",0,0,99.79671478271484,8.906843647203948,0.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� idas a Nation the will be,  Together the  people,",0,0,106.00397491455078,9.094041683799341,0.0,"tensor([6.9994e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all oun idas a Nation the will be,  Together the  people,",0,0,104.80510711669922,9.898599403782894,0.0,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas a Nation the will be,  Together the  people,",0,0,97.02461242675781,13.169906455592105,0.0,"tensor([0.1624], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.29000091552734,13.247311883223684,0.0,"tensor([7.7583e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     idas a Nation the will be,  Together the  people,",0,0,97.02459716796875,10.551008686266448,0.0,"tensor([0.0580], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     eed a Nation the will be,  Together the  people,",0,0,97.08935546875,8.499376798930921,0.0,"tensor([0.0063], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     eed a Nationancies will be,  Together the  people,",0,0,111.508056640625,7.756489000822368,0.0,"tensor([7.6927e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� eed a Nation the will be,  Together the  people,",0,0,104.09675598144531,9.896953381990132,0.0,1,1
+" all �������� eed a Nation the will be,  Together the  people,",0,0,100.21217346191406,7.299062628495066,0.0,1,1
+" all     � a Nation the will be,  Together the  people,",0,0,101.28994750976562,5.915698884662829,0.0,"tensor([0.0277], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28990173339844,11.842310855263158,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28996276855469,12.785346422697367,0.0,"tensor([8.7456e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     OHN a Nation the will be,  Together the  people,",0,0,101.92123413085938,7.136513800370065,0.0,"tensor([0.0129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     OHN a Nation the will be,  Together the  people,",0,0,101.92123413085938,6.666979337993421,0.0,"tensor([0.0382], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28990936279297,10.57313810649671,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Beir a Nation the will be,  Together the  people,",0,0,104.85675811767578,11.73341642680921,0.0,"tensor([7.0551e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28992462158203,8.580874794407894,0.0,"tensor([0.2124], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all      Beir a Nation the will be,  Together the  people,",0,0,104.85676574707031,8.975911030016448,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Beir a Nation the will be,  Together the  people,",0,0,104.85678100585938,8.358783922697368,0.0,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all �������� idas a Nation the will be,  Together the  people,",0,0,100.15126037597656,7.262116442228618,0.0,1,1
+" all     idas a Nation the will be,  Together the  people,",0,0,97.02458190917969,8.30782534950658,0.0,"tensor([0.1814], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     eed a Nation the will be,  Together the  people,",0,0,97.08930969238281,7.331544253700658,0.0,"tensor([0.0205], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28993225097656,5.947152549342105,0.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Beir a Nation the will be,  Together the  people,",0,0,104.85678100585938,11.747128135279604,0.0,"tensor([7.6672e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28987884521484,7.515669330797698,0.0,"tensor([0.5999], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all     OHN a Nation the will be,  Together the  people,",0,0,101.92124938964844,6.617750308388158,0.0,"tensor([0.0232], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     OHN a Nation the will be,  Together the  people,",0,0,101.92125701904297,7.551372327302631,0.0,"tensor([0.0160], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28993225097656,8.546183696546052,0.0,"tensor([0.0121], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all�  Niet a Nation the will be,  Together the  people,",0,0,107.29088592529297,10.115956517269737,0.0,"tensor([3.1743e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all________________________  Niet a Nation the will be,  Together the  people,",0,0,104.57766723632812,7.647147409539474,0.0,"tensor([0.2319], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all �������� � a Nation the will be,  Together the  people,",0,0,104.59101104736328,7.432402600740131,0.0,"tensor([0.0180], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28995513916016,11.892761872944078,0.0,"tensor([0.0059], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all�  Aman a Nation the will be,  Together the  people,",0,0,108.40924835205078,7.729656018708881,0.0,"tensor([1.1499e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all      Aman a Nation the will be,  Together the  people,",0,0,100.82791137695312,6.884321032072369,0.0,1,1
+" all� idas a Nation the will be,  Together the  people,",0,0,106.0040283203125,6.827057206003289,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     elin a Nation the will be,  Together the  people,",0,0,100.34525299072266,6.162026495682565,0.0,1,1
+" all �������� � a Nation the will be,  Together the  people,",0,0,104.59103393554688,7.003776469983553,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     � a Nation the will be,  Together the  people,",0,0,101.28996276855469,10.731302682976974,0.0,"tensor([0.0179], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� � a Nation the will be,  Together the  people,",0,0,107.29802703857422,12.59369474712171,0.0,"tensor([2.5611e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all oun OHN a Nation the will be,  Together the  people,",0,0,109.78713989257812,10.972927374588815,0.0,"tensor([4.8187e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     OHN a Nation the will be,  Together the  people,",0,0,101.9212417602539,7.419668097245066,0.0,1,1
+" all      Beir a Nation the will be,  Together the  people,",0,0,104.85674285888672,9.748416298314144,0.0,"tensor([9.5021e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all� idas a Nation the will be,  Together the  people,",0,0,106.00399780273438,7.113706568667763,0.0,"tensor([0.0079], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all �������� � a Nation the will be,  Together the  people,",0,0,104.59097290039062,7.476449424342105,0.0,"tensor([0.0707], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" all     elin a Nation the will be,  Together the  people,",0,0,100.34526062011719,6.792197779605263,0.0,1,1
+" all     elin a Nation the will be,  Together the  people,",0,0,100.34524536132812,6.68627351459704,0.0,"tensor([0.0400], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" all     elin a Nation the will be,  Together the  people,",0,0,100.34524536132812,6.621896844161184,0.0,"tensor([0.0395], device='cuda:0', grad_fn=<ExpBackward0>)",0

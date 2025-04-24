@@ -1,4 +1,5 @@
 *.pt
 slurm_logs/
 .ipynb_checkpoints/
+fine_tuned_gpt2_sentiment/
 __pycache__/

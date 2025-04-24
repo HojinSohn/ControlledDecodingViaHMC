@@ -1,0 +1,364 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" I was a student from my first year in college, just going through the process of getting",0,0,50.35711669921875,6.854968904194079,10.0,"tensor([0.0329], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.37196350097656,3.8879927785773027,10.05453872680664,"tensor([0.6228], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my first year in college, just going through the process of getting",0,0,50.37199401855469,3.799224211040296,10.05453872680664,"tensor([0.7095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.371978759765625,4.917713687294408,10.05453872680664,"tensor([0.2262], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my first year in college, just going through the process of getting",0,0,50.37196731567383,4.588210577713816,10.05453872680664,"tensor([0.3344], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.3719596862793,4.578908819901316,10.05453872680664,"tensor([0.3472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.37198257446289,6.190254291735197,10.05453872680664,"tensor([0.0665], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.372039794921875,4.429853258634869,10.05453872680664,"tensor([0.3845], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.371986389160156,5.365992817125822,10.05453872680664,"tensor([0.1460], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.371978759765625,3.9176340203536184,10.05453872680664,"tensor([0.6298], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,50.37196350097656,3.972255345394737,10.05453872680664,"tensor([0.6185], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87409973144531,4.071594880756579,15.562898635864258,"tensor([0.5526], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87408447265625,7.061083341899671,15.562898635864258,"tensor([0.0263], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87403869628906,10.147980057565789,15.562898635864258,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87409210205078,5.236510587993421,15.562898635864258,"tensor([0.1764], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87405014038086,9.18372738486842,15.562898635864258,"tensor([0.0031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87408447265625,6.418639494243421,15.562898635864258,"tensor([0.0510], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87405776977539,6.417653294613487,15.562898635864258,"tensor([0.0528], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87407684326172,5.577395148026316,15.562898635864258,"tensor([0.1201], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,51.87407684326172,4.556640625,15.562898635864258,"tensor([0.3386], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my the year in college, just going through the process of getting",0,0,65.09828186035156,12.771975226151316,15.562898635864258,"tensor([1.6931e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, just going through the process of getting",0,0,54.8705940246582,10.155766216077302,26.55159568786621,1,1
+" I was a student from my first year in college, just going through the process of getting",0,0,54.87061309814453,10.766335577713816,26.55159568786621,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a Jinn from my first year in college, just going through the process of getting",0,0,69.07466125488281,13.589036800986841,26.55159568786621,"tensor([2.7888e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a bride from my first year in college, a going through the process of discovering",0,0,58.8390998840332,7.326146175986842,26.55159568786621,1,1
+" I was a bride from my first year in college, a going through the process of discovering",0,0,58.83912658691406,3.931172260485197,26.55159568786621,"tensor([0.6292], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a bride from my first year in college, a going through the process of discovering",0,0,58.839134216308594,4.127002595600329,26.55159568786621,"tensor([0.5274], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a bride from my first year in college, a going through the process of discovering",0,0,58.8390998840332,8.033401007401316,26.55159568786621,"tensor([0.0099], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a bride from my first year in college, a going through the process of discovering",0,0,58.839046478271484,4.441562692742599,26.55159568786621,"tensor([0.3587], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my first year in college, a going through the process of discovering",0,0,57.19926834106445,5.364622417249177,26.55159568786621,"tensor([0.8122], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my first year in college, a going through the process of discovering",0,0,57.199283599853516,4.08829988178454,26.55159568786621,"tensor([0.4983], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my first year in college, a going through the process of producing",0,0,61.28921127319336,5.0457519531249995,37.837181091308594,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11098861694336,4.701226485402961,37.837181091308594,"tensor([0.1163], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11103057861328,6.446465100740132,37.837181091308594,"tensor([0.0529], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.111045837402344,5.378588224712171,37.837181091308594,"tensor([0.1523], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11099624633789,4.4439453124999995,37.837181091308594,"tensor([0.3812], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11106491088867,4.422754548725329,37.837181091308594,"tensor([0.3737], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11105728149414,5.038624331825658,37.837181091308594,"tensor([0.1886], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.11104202270508,4.766621157997533,37.837181091308594,"tensor([0.2647], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,62.111019134521484,4.966037469161184,37.837181091308594,"tensor([0.2229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,62.22124481201172,5.4560193513569075,37.837181091308594,"tensor([0.1191], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,61.55256652832031,5.425129780016447,48.048099517822266,"tensor([0.1383], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,61.517486572265625,5.769031404194079,48.048099517822266,"tensor([0.0976], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of Dreams",0,0,84.27166748046875,5.55409513774671,48.048099517822266,"tensor([1.5739e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,61.55255126953125,5.483402292351974,48.048099517822266,1,1
+" I was a student from my school year in college, a going through the process of discovering",0,0,61.517452239990234,4.537759560032895,48.048099517822266,"tensor([0.3603], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,61.51737976074219,4.572816547594572,48.048099517822266,"tensor([0.3309], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,61.5174560546875,4.6052400287828945,48.048099517822266,"tensor([0.3215], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,61.55256652832031,4.631808311060855,48.048099517822266,"tensor([0.2987], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,61.51742172241211,4.751476408305921,48.048099517822266,"tensor([0.2835], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my school year in college, a going through the process of achieving",0,0,61.55260467529297,4.687632028680099,48.048099517822266,"tensor([0.2925], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,60.962074279785156,5.1846464458264805,57.06597900390625,"tensor([0.1828], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,60.99321746826172,5.170227693256579,57.06597900390625,"tensor([0.1729], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of achieving",0,0,60.96205139160156,4.79929841694079,57.06597900390625,"tensor([0.2794], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my school year in college, a going through the process of achieving",0,0,60.96202850341797,5.002579859683388,57.06597900390625,"tensor([0.2070], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a student from my school year in college, a going through the process of achieving",0,0,60.962005615234375,6.027784488075658,57.06597900390625,"tensor([0.0723], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a student from my school year in college, a going through the process of discovering",0,0,60.993194580078125,6.253912674753289,57.06597900390625,"tensor([0.0562], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year in college, a going through the process of achieving",0,0,64.15773010253906,5.85185546875,57.06597900390625,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year in college, a going through the process of discovering",0,0,64.07006072998047,6.804576994243421,57.06597900390625,"tensor([0.0367], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year in college, a going through the process of achieving",0,0,64.15772247314453,7.110005910773026,57.06597900390625,"tensor([0.0215], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year in college, a going through the process of achieving",0,0,64.15772247314453,5.716028474506579,57.06597900390625,"tensor([0.1085], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98077392578125,7.85674470600329,64.7872314453125,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98076629638672,9.188084010074013,64.7872314453125,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98075103759766,5.57250398334704,64.7872314453125,"tensor([0.1259], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98075866699219,5.638838276110198,64.7872314453125,"tensor([0.1090], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98074340820312,5.611853669819078,64.7872314453125,"tensor([0.1202], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of Unle",0,0,76.47982788085938,8.795651726973684,64.7872314453125,"tensor([9.8872e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young from my school year, college, a going through the process of achieving",0,0,67.98079681396484,9.36069914165296,64.7872314453125,1,1
+" I was a young Han my school year, college, a going through the process of achieving",0,0,75.09325408935547,7.29820556640625,64.7872314453125,"tensor([1.6851e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, college, a going through the process of achieving",0,0,75.09322357177734,4.928089021381579,64.7872314453125,"tensor([0.2291], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, college, a going through the process of achieving",0,0,75.09322357177734,4.923255037006578,64.7872314453125,"tensor([0.2281], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, college, a going through the process of achieving",0,0,74.46157836914062,5.050150660464638,70.7074966430664,"tensor([0.2008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of achieving",0,0,73.66316223144531,5.139528294613487,70.7074966430664,"tensor([0.4334], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of discovering",0,0,73.16537475585938,4.664682488692434,70.7074966430664,"tensor([0.4791], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Han my school year, school, a going through the process of achieving",0,0,73.66317749023438,4.911118999280427,70.7074966430664,"tensor([0.1466], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of discovering",0,0,73.16533660888672,4.709117367393092,70.7074966430664,"tensor([0.4686], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of achieving",0,0,73.66315460205078,4.82286376953125,70.7074966430664,"tensor([0.1433], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of discovering",0,0,73.16534423828125,4.763218287417763,70.7074966430664,"tensor([0.4511], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Han my school year, school, a going through the process of discovering",0,0,73.1653060913086,6.173712479440789,70.7074966430664,"tensor([0.0603], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of achieving",0,0,73.66314697265625,5.530490594161184,70.7074966430664,"tensor([0.0726], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of discovering",0,0,73.16531372070312,6.990678325452302,70.7074966430664,"tensor([0.0527], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, school, a going through the process of achieving",0,0,73.22735595703125,7.7035169099506575,74.19404602050781,"tensor([0.0089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of discovering",0,0,74.18980407714844,5.627058490953948,74.19404602050781,"tensor([0.0434], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.26337432861328,5.307116056743421,74.19404602050781,"tensor([0.1356], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of discovering",0,0,74.18978881835938,6.568512284128289,74.19404602050781,"tensor([0.0477], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.26338958740234,5.133653178967927,74.19404602050781,"tensor([0.1813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Protestants my school year, taught, a going through the process of discovering",0,0,82.00579071044922,5.339323987458881,74.19404602050781,"tensor([6.6150e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.26346588134766,5.918318256578948,74.19404602050781,1,1
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.26344299316406,4.538663522820723,74.19404602050781,"tensor([0.3478], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of discovering",0,0,74.18978881835938,4.679376863178454,74.19404602050781,"tensor([0.3229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.26335144042969,4.647645970394737,74.19404602050781,"tensor([0.2896], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.15125274658203,5.2736977025082235,75.0086669921875,"tensor([0.1678], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of discovering",0,0,74.0787582397461,5.776324784128289,75.0086669921875,"tensor([0.1081], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Han my school year, taught, a going through the process of achieving",0,0,74.15127563476562,5.471377724095395,75.0086669921875,"tensor([0.1274], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68576049804688,5.344659102590461,75.0086669921875,1,1
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68573760986328,4.103627415707237,75.0086669921875,"tensor([0.5336], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68578338623047,4.525405401932566,75.0086669921875,"tensor([0.3351], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68570709228516,5.861681486430921,75.0086669921875,"tensor([0.0893], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68573760986328,4.547627659847862,75.0086669921875,"tensor([0.3533], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68577575683594,5.121603875411184,75.0086669921875,"tensor([0.1866], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,69.68572235107422,4.485721628289474,75.0086669921875,"tensor([0.3469], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75758361816406,4.468985788445724,72.80887603759766,1,1
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75760650634766,4.1931611713610195,72.80887603759766,"tensor([0.4777], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.7575912475586,5.061415180407073,72.80887603759766,"tensor([0.1996], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75758361816406,4.521600020559211,72.80887603759766,"tensor([0.3479], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75758361816406,5.8105828536184205,72.80887603759766,"tensor([0.1034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,70.0336685180664,4.976360441509046,72.80887603759766,"tensor([0.0616], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75757598876953,7.6830322265625,72.80887603759766,"tensor([0.0537], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75753021240234,4.985347707648026,72.80887603759766,"tensor([0.2291], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.757568359375,5.079632568359375,72.80887603759766,"tensor([0.1958], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,68.75757598876953,6.6635896381578945,72.80887603759766,"tensor([0.0407], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64556121826172,5.543687037417763,67.3587875366211,"tensor([0.1229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.6456527709961,4.98515625,67.3587875366211,"tensor([0.2219], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young BYU my school year, taught, a going through the process of discovering",0,0,77.87896728515625,15.203572162828946,67.3587875366211,"tensor([2.1364e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64562225341797,5.604848761307566,67.3587875366211,1,1
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64566040039062,11.53844058388158,67.3587875366211,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64559173583984,7.732328073601973,67.3587875366211,"tensor([0.0137], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64561462402344,5.662385639391447,67.3587875366211,"tensor([0.1067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of achieving",0,0,70.89581298828125,9.435115131578947,67.3587875366211,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.64562225341797,5.25655228464227,67.3587875366211,"tensor([0.5687], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of discovering",0,0,69.6456298828125,11.255252878289474,67.3587875366211,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Icombe a young Buddhist my school year, taught, a going through the process of discovering",0,0,93.724365234375,6.681199244449013,58.666648864746094,"tensor([5.8784e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51344299316406,9.1059814453125,58.666648864746094,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51342010498047,4.0017141241776315,58.666648864746094,"tensor([0.5823], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51345825195312,4.585517321134868,58.666648864746094,"tensor([0.3408], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51344299316406,4.4083608526932565,58.666648864746094,"tensor([0.4217], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51345825195312,4.733786813836349,58.666648864746094,"tensor([0.2719], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51348876953125,5.173036595394737,58.666648864746094,"tensor([0.1797], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51347351074219,10.106343801398026,58.666648864746094,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,72.29281616210938,5.990889057360198,58.666648864746094,"tensor([0.0143], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,70.51345825195312,5.2871858295641445,58.666648864746094,"tensor([0.9738], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young BYU my school year, taught, a going through the process of cultivating",0,0,80.90481567382812,6.6122995476973685,46.529788970947266,"tensor([1.1274e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of generating",0,0,77.98511505126953,6.210080437911184,46.529788970947266,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63067626953125,4.070810418379934,46.529788970947266,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63066101074219,3.9322304173519735,46.529788970947266,"tensor([0.6058], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63067626953125,4.288838918585526,46.529788970947266,"tensor([0.4242], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63069152832031,4.262297620271381,46.529788970947266,"tensor([0.4202], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63067626953125,12.076938990542763,46.529788970947266,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.6307144165039,4.660057308799342,46.529788970947266,"tensor([0.3053], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63066864013672,5.081663754111842,46.529788970947266,"tensor([0.1929], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,72.63069152832031,6.585041889391447,46.529788970947266,"tensor([0.0456], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34196472167969,4.598101806640625,30.987564086914062,"tensor([0.3284], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34194946289062,4.5584466231496705,30.987564086914062,"tensor([0.3282], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34188842773438,5.1270912571957235,30.987564086914062,"tensor([0.1956], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,72.9240493774414,5.910277677837171,30.987564086914062,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34187316894531,3.8996835809004935,30.987564086914062,"tensor([0.0562], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34188842773438,3.97316605417352,30.987564086914062,"tensor([0.5832], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34188842773438,3.9308285361842104,30.987564086914062,"tensor([0.5943], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34193420410156,3.9894746479235197,30.987564086914062,"tensor([0.5937], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,75.34194946289062,4.360379188939144,30.987564086914062,"tensor([0.4306], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of forging",0,0,77.3091049194336,4.657081041837993,30.987564086914062,"tensor([0.0399], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93377685546875,4.787026495682566,11.988197326660156,1,1
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93383026123047,4.006113152754934,11.988197326660156,"tensor([0.5873], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93383026123047,3.9557697496916115,11.988197326660156,"tensor([0.5587], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93380737304688,4.0465148925781245,11.988197326660156,"tensor([0.5501], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93379211425781,4.354313258120888,11.988197326660156,"tensor([0.4057], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.93382263183594,4.292713687294408,11.988197326660156,"tensor([0.4437], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of cultivating",0,0,78.9337387084961,6.166663882606907,11.988197326660156,"tensor([0.0700], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my teen year, taught, a going through the process of forging",0,0,82.0621337890625,4.878689735814144,11.988197326660156,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my teen year, taught, a going through the process of cultivating",0,0,79.7672348022461,4.668624396073191,11.988197326660156,1,1
+" I was a young Buddhist my teen year, taught, a going through the process of cultivating",0,0,79.76721954345703,3.967076994243421,11.988197326660156,"tensor([0.6188], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19453430175781,4.139377955386513,0.0,1,1
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19454956054688,3.9561452765213816,0.0,"tensor([0.6099], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.1944808959961,3.937974146792763,0.0,"tensor([0.6162], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19445037841797,6.219693153782894,0.0,"tensor([0.0593], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.1944580078125,4.2468711451480265,0.0,"tensor([0.4476], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19448852539062,4.370517449629934,0.0,"tensor([0.3813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19451141357422,4.211986340974507,0.0,"tensor([0.4548], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19450378417969,4.343566252055921,0.0,"tensor([0.4597], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19447326660156,4.46935456928454,0.0,"tensor([0.3823], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19447326660156,4.307153962787829,0.0,"tensor([0.4436], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19448852539062,4.238636217619243,0.0,"tensor([0.4740], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19450378417969,4.27523771587171,0.0,"tensor([0.4569], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19454956054688,4.196994500411184,0.0,"tensor([0.4793], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of cultivating",0,0,78.19451904296875,4.180078446237665,0.0,"tensor([0.4687], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30329895019531,4.263358347039474,0.0,"tensor([0.3996], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30322265625,4.300709935238487,0.0,"tensor([0.4251], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my young year, taught, a going through the process of seeking",0,0,87.64533233642578,4.48135343852796,0.0,"tensor([2.9468e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30325317382812,4.180127916837994,0.0,1,1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30323028564453,3.9263430946751643,0.0,"tensor([0.6116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30323791503906,3.9908469752261513,0.0,"tensor([0.6083], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30326843261719,4.444207442434211,0.0,"tensor([0.3849], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30325317382812,7.150205592105263,0.0,"tensor([0.0259], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my freshman year, taught, a going through the process of seeking",0,0,82.16783905029297,6.063350637335526,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my young year, taught, a going through the process of seeking",0,0,83.50045776367188,4.559546540912828,0.0,"tensor([0.0878], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.7474365234375,4.71868896484375,0.0,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74748229980469,3.97674560546875,0.0,"tensor([0.5918], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,4.008386872944079,0.0,"tensor([0.5808], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74749755859375,4.007120875308388,0.0,"tensor([0.5980], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,3.975694515830592,0.0,"tensor([0.5694], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.7474365234375,4.323268207750822,0.0,"tensor([0.4405], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,4.3459524054276315,0.0,"tensor([0.4334], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74754333496094,4.3688720703124995,0.0,"tensor([0.4206], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74751281738281,4.345341411389803,0.0,"tensor([0.4268], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74751281738281,5.668211605674342,0.0,"tensor([0.1072], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30326080322266,4.946347848992598,0.0,1,1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30323791503906,3.97705078125,0.0,"tensor([0.6188], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.3032455444336,6.022329872532895,0.0,"tensor([0.0720], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30325317382812,4.2392231188322365,0.0,"tensor([0.4704], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30321502685547,4.743796900699013,0.0,"tensor([0.2765], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,5.107044741981908,0.0,"tensor([0.0178], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young BYU my freshman year, taught, a going through the process of seeking",0,0,80.43018341064453,4.6552589818050985,0.0,"tensor([0.4269], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74748992919922,4.850586901212993,0.0,"tensor([0.1763], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74744415283203,4.003787392064145,0.0,"tensor([0.5919], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.7474594116211,4.3720243755139805,0.0,"tensor([0.4078], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74754333496094,4.7917531866776315,0.0,"tensor([0.2458], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74752044677734,5.770943410773026,0.0,"tensor([0.1016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" enium was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,105.03685760498047,7.727949604235198,0.0,"tensor([4.0192e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30327606201172,6.656580232319079,0.0,1,1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30326843261719,3.9035336143092105,0.0,"tensor([0.6223], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30326843261719,4.288011410361842,0.0,"tensor([0.4598], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30326080322266,4.549489553351151,0.0,"tensor([0.3279], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30323028564453,4.8155967310855265,0.0,"tensor([0.2669], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, told, a going through the process of seeking",0,0,81.55142211914062,4.752839098478618,0.0,"tensor([0.0101], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young scripture my school year, taught, a going through the process of seeking",0,0,89.10565185546875,5.120968788548519,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74748992919922,5.253940301192434,0.0,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74755859375,4.0655273437499995,0.0,"tensor([0.5714], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74751281738281,4.561952611019737,0.0,"tensor([0.3463], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74749755859375,4.890610223067434,0.0,"tensor([0.2248], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,5.985881604646382,0.0,"tensor([0.0866], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74748992919922,4.665696957236842,0.0,"tensor([0.2964], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,9.67994962993421,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74739074707031,4.715693744860197,0.0,"tensor([0.3013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,5.602806974712171,0.0,"tensor([0.1184], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my freshman year, taught, a going through the process of seeking",0,0,78.30323028564453,5.594806229440789,0.0,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,3.951042416221217,0.0,"tensor([0.0514], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,3.903157766241776,0.0,"tensor([0.5879], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74745178222656,3.9366737767269737,0.0,"tensor([0.6043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74748229980469,3.9437111302425985,0.0,"tensor([0.6201], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74750518798828,4.40625578227796,0.0,"tensor([0.3953], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74749755859375,5.271752287212171,0.0,"tensor([0.1627], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,7.612588661595394,0.0,"tensor([0.0159], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74742889404297,4.620192357113487,0.0,"tensor([0.3140], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,4.911863949424342,0.0,"tensor([0.2550], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.7474365234375,5.164036158511513,0.0,"tensor([0.1793], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74746704101562,6.784341591282894,0.0,"tensor([0.0357], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my school year, taught, a going through the process of seeking",0,0,86.91302490234375,4.725436240748355,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74740600585938,4.371707313939145,0.0,1,1
+" I was a young School my school year, taught, a going through the process of seeking",0,0,86.91304016113281,5.059725791529605,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74740600585938,4.936571301912006,0.0,1,1
+" I was a young Gram my school year, taught, a going through the process of seeking",0,0,88.0393295288086,5.925372635690789,0.0,"tensor([5.8735e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my school year, taught, a going through the process of seeking",0,0,86.91304016113281,5.688193873355263,0.0,"tensor([0.3121], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my school year, taught, a going through the process of seeking",0,0,86.91300964355469,5.743366442228618,0.0,"tensor([0.1193], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young School my school year, taught, a going through the process of seeking",0,0,86.91297912597656,14.926924856085526,0.0,"tensor([1.0308e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I refused a young School my school year, taught, a going through the process of seeking",0,0,98.78982543945312,5.541640111019737,0.0,"tensor([8.2806e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74744415283203,7.551760382401316,0.0,1,1
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.7474594116211,14.413558799342105,0.0,"tensor([1.7105e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young BYU my school year, taught,king going through the process of seeking",0,0,98.29517364501953,7.898810135690789,0.0,"tensor([3.1260e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74738311767578,7.260924008018092,0.0,1,1
+" I was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,80.87063598632812,18.54489874588816,0.0,"tensor([2.4068e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, taught, a going through the process of seeking",0,0,80.74734497070312,6.3972322162828945,0.0,"tensor([0.0609], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" I was a young Buddhist my school year, telling, a going through the process of seeking",0,0,83.37652587890625,7.543460886101974,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ibus was a young Buddhist my school year, taught, a going through the process of seeking",0,0,101.67982482910156,19.690067331414472,0.0,"tensor([1.0127e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ibus was a young Gram my school year, telling, a going through the process of seeking",0,0,108.7488021850586,17.015455386513157,0.0,"tensor([1.1171e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" iewicz was a young Buddhist my school year, taught, a going through the process of seeking",0,0,104.55277252197266,19.68090691817434,0.0,"tensor([5.7878e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ises was a young Buddhist my school year, telling, a going through the process of seeking",0,0,105.02788543701172,9.804841051603619,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" miah was a young Buddhist my school year, telling, a going through the process of seeking",0,0,107.8266372680664,9.901295230263157,0.0,"tensor([9.9723e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" iologist was a young Buddhist my school year, telling, a going through the process of seeking",0,0,107.51560974121094,10.003642835115132,0.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" iologist was a young Buddhist my school year, telling, a going through the process of seeking",0,0,107.51567077636719,12.64363306949013,0.0,"tensor([9.8793e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" iologist was a young Buddhist my school year, telling, a going through the process of seeking",0,0,107.51567077636719,12.537032277960526,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,93.91094970703125,9.695506527549341,0.0,1,1
+" IU was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,93.91095733642578,4.067023347553454,0.0,"tensor([0.5279], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,93.91096496582031,4.06610107421875,0.0,"tensor([0.5385], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" IU was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,93.9110107421875,4.4135080437911185,0.0,"tensor([0.3766], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young Buddhist my freshman year, telling, a going through the process of seeking",0,0,93.91090393066406,4.460455643503289,0.0,"tensor([0.3727], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.5975570678711,4.28567472759046,0.0,1,1
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59757995605469,4.353014494243421,0.0,"tensor([0.4240], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59758758544922,4.762580309416118,0.0,"tensor([0.2695], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59759521484375,4.768840910259046,0.0,"tensor([0.2585], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59757995605469,4.819013093647204,0.0,"tensor([0.2655], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59756469726562,4.741697933799342,0.0,"tensor([0.2584], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59754943847656,4.7500263414884865,0.0,"tensor([0.2770], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.5975570678711,4.745579127261513,0.0,"tensor([0.2707], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59757995605469,5.451716694078947,0.0,"tensor([0.1393], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59758758544922,5.44904142680921,0.0,"tensor([0.1399], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59760284423828,5.350791208367599,0.0,"tensor([0.1492], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.5975341796875,14.779533305921053,0.0,"tensor([1.1635e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59752655029297,5.499961451480263,0.0,"tensor([0.1297], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59752655029297,5.879805072985198,0.0,"tensor([0.0867], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59754180908203,5.17643464740954,0.0,"tensor([0.1696], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" IU was a young school my freshman year, telling, a going through the journeys of seeking",0,0,101.79824829101562,6.306970857319079,0.0,"tensor([7.8929e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59758758544922,6.654619397615131,0.0,1,1
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59752655029297,6.369357781661184,0.0,"tensor([0.0569], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59749603271484,6.939975457442434,0.0,"tensor([0.0310], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59747314453125,6.536046078330592,0.0,"tensor([0.0479], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59757995605469,7.226015753495066,0.0,"tensor([0.0229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59759521484375,6.5356393914473685,0.0,"tensor([0.0473], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59756469726562,12.076400596217105,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59756469726562,7.722526469983553,0.0,"tensor([0.0142], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.5975570678711,7.3315673828125,0.0,"tensor([0.0208], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59754943847656,8.249200760690789,0.0,"tensor([0.0084], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59757232666016,6.965899979440789,0.0,"tensor([0.0283], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59750366210938,9.402306486430922,0.0,"tensor([0.0026], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IVERS was a young school my freshman year, telling, a going through the process of seeking",0,0,97.61595916748047,6.832759817023026,0.0,"tensor([2.9002e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" IU was a young school my freshman year, telling, a going through the process of seeking",0,0,90.59756469726562,6.430948036595394,0.0,1,1
+"CampIVERS was a young school my freshman year, telling, a going through the process of seeking",0,0,113.29955291748047,6.440163702713815,0.0,"tensor([6.8880e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"CampIU was a young school my freshman year, telling, a going through the process of seeking",0,0,111.44662475585938,8.044247918379934,0.0,"tensor([0.0723], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"CampIU was a young school my freshman year, telling, a going through the process of seeking",0,0,111.44656372070312,8.18171964946546,0.0,"tensor([0.0082], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97994995117188,8.02251554790296,0.0,"tensor([0.1213], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97990417480469,7.032973118832237,0.0,"tensor([0.0268], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97991943359375,7.4086143092105265,0.0,"tensor([0.0201], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97991180419922,7.11951904296875,0.0,"tensor([0.0258], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97991180419922,7.094592927631579,0.0,"tensor([0.0251], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp Colleges was a young school my freshman year, telling, a going through the process of seeking",0,0,108.97991180419922,8.989265522203947,0.0,"tensor([0.0040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19400024414062,8.005684621710525,0.0,"tensor([0.0086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.7325439453125,6.055051783511513,0.0,"tensor([0.9424], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73249053955078,4.02220458984375,0.0,"tensor([0.5886], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73240661621094,4.3299011230468745,0.0,"tensor([0.4483], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.732421875,4.303814376027961,0.0,"tensor([0.4361], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73243713378906,4.580186060855263,0.0,"tensor([0.3243], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19400024414062,4.9839021381578945,0.0,"tensor([0.0184], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19400024414062,5.714517372532895,0.0,"tensor([0.1126], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73246765136719,5.052246736225329,0.0,1,1
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19402313232422,5.3354032817639805,0.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73245239257812,5.466933079769737,0.0,1,1
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19396209716797,6.003171258223684,0.0,"tensor([0.0064], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73236846923828,5.953429533305921,0.0,"tensor([0.9711], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"Camp college was a young school my freshman year, telling, a going through the process of seeking",0,0,109.19401550292969,6.46614347759046,0.0,"tensor([0.0042], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina college was a young school my freshman year, telling, a going through the process of seeking",0,0,106.73245239257812,7.257345420435855,0.0,"tensor([0.2633], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"Camp college Was a young school my freshman year, telling, a going through the process of seeking",0,0,116.49667358398438,7.018717876233552,0.0,"tensor([1.5477e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Camp college was a young school my school year, telling, a going through the process of seeking",0,0,115.15550231933594,8.916683799342104,0.0,"tensor([0.0171], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Medina Hopkins transpired a young school my school year, telling, a happen through the process of seeking",0,0,140.42568969726562,8.76694271689967,0.0,"tensor([5.5245e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy Hopkins was a young school my school year, telling, a going through the process of discovering",0,0,114.83247375488281,9.262007863898026,0.0,1,1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,4.327321905838816,0.0,1,1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33258056640625,4.387797466077303,0.0,"tensor([0.3877], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33259582519531,4.34985640676398,0.0,"tensor([0.4092], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33259582519531,4.946390573601974,0.0,"tensor([0.2251], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.3325424194336,5.657369192023026,0.0,"tensor([0.1066], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,5.7258962530838815,0.0,"tensor([0.1009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33256530761719,5.588888389185855,0.0,"tensor([0.1143], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33248901367188,6.089171078330592,0.0,"tensor([0.0748], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,5.640057051809211,0.0,"tensor([0.1119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33257293701172,5.650753623560855,0.0,"tensor([0.1121], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,5.671710526315789,0.0,"tensor([0.1143], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33257293701172,5.494865337171053,0.0,"tensor([0.1257], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Columb college was a young school my school year, telling, a going through the process of discovering",0,0,114.65823364257812,5.624244449013157,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my college year, telling, a going through the process of discovering",0,0,109.90049743652344,5.429994603207237,0.0,1,1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33256530761719,4.407353130139803,0.0,"tensor([0.2494], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,4.408248419510691,0.0,"tensor([0.4054], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255767822266,4.4346763209292765,0.0,"tensor([0.3765], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,4.314459870990954,0.0,"tensor([0.4085], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33248901367188,4.334238152754934,0.0,"tensor([0.3907], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255767822266,4.35880416067023,0.0,"tensor([0.4275], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74268341064453,4.399496941817434,0.0,1,1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33255004882812,4.144633724814967,0.0,"tensor([0.0994], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.7426986694336,4.315770199424342,0.0,1,1
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33258819580078,4.719806550678454,0.0,"tensor([0.0589], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33248901367188,4.7070672286184205,0.0,"tensor([0.2901], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74266052246094,4.869663921155428,0.0,1,1
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.7426528930664,5.533560341282895,0.0,"tensor([0.1241], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74266052246094,5.76231111225329,0.0,"tensor([0.0967], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74267578125,5.489381810238487,0.0,"tensor([0.1301], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.7426528930664,5.307860364412006,0.0,"tensor([0.1635], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Occupy college was a young school my school year, telling, a going through the process of discovering",0,0,110.33261108398438,5.217161800986842,0.0,"tensor([0.0336], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Columb school was a young school my school year, telling, a going through the process of discovering",0,0,112.967529296875,5.262167197779605,0.0,"tensor([0.0118], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.7426986694336,4.278029913651316,0.0,1,1
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74264526367188,4.270725611636513,0.0,"tensor([0.4399], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74269104003906,4.907541375411184,0.0,"tensor([0.2413], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" Occupy school was a young school my school year, telling, a going through the process of discovering",0,0,108.74272155761719,5.205401932565789,0.0,"tensor([0.1697], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Columbi was a young school my school year, telling, a going through the process of discovering",0,0,106.2078857421875,5.201035991467927,0.0,1,1
+" Occupyi was a young school my school year, telling, a going through the process of discovering",0,0,109.98780059814453,4.334553608141447,0.0,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Columbi was a young school my school year, telling, a going through the process of discovering",0,0,106.20783996582031,4.220392488178454,0.0,1,1
+" Occupyi was a young school my school year, telling, a going through the process of discovering",0,0,109.98780822753906,4.523781866776316,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0

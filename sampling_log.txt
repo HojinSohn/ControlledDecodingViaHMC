@@ -1,0 +1,695 @@
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 72.3722 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army sergeant John T. Murphy.
+ | NLL: 85.3344 | Sentiment: 0.3594
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 107.4657 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 75.5415 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 81.0739 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 98.5877 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armyictional John T. Murphy.
+ | NLL: 79.0244 | Sentiment: 0.3584
+Accepted:  based on a memoir by U.S. Armybull John T. Murphy.
+ | NLL: 82.1297 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Armyictional John T. Murphy.
+ | NLL: 80.0449 | Sentiment: 0.3584
+Accepted:  based on a memoir by U.S. Army submar John T. Murphy.
+ | NLL: 90.3543 | Sentiment: 0.3624
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 93.2061 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armysea John T. Murphy.
+ | NLL: 81.4572 | Sentiment: 0.3554
+Accepted:  based on the memoir by U.S. Army publicity John T. Murphy.
+ | NLL: 87.5108 | Sentiment: 0.3602
+Accepted:  based on a memoir by U.S. ArmyINGTON John T. Murphy.
+ | NLL: 75.7094 | Sentiment: 0.3561
+Accepted:  based on a memoir by U.S. Army Raider John T. Murphy.
+ | NLL: 79.4464 | Sentiment: 0.3582
+Accepted:  based on a memoir by U.S. Army submar John T. Murphy.
+ | NLL: 81.1276 | Sentiment: 0.3624
+Accepted:  based on a memoir by U.S. Army sensation John T. Murphy.
+ | NLL: 79.4887 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. ArmyHonest John T. Murphy.
+ | NLL: 75.2783 | Sentiment: 0.3669
+Accepted:  based on a memoir by U.S. Armysb John T. Murphy.
+ | NLL: 93.1300 | Sentiment: 0.3569
+Accepted:  based on a memoir by U.S. Army submar John T. Murphy.
+ | NLL: 84.9855 | Sentiment: 0.3624
+Accepted:  based on a memoir by U.S. ArmySecondly John T. Murphy.
+ | NLL: 76.8423 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. ArmyPope John T. Murphy.
+ | NLL: 75.7428 | Sentiment: 0.3604
+Accepted:  based on a memoir by U.S. Army passionate John T. Murphy.
+ | NLL: 78.1768 | Sentiment: 0.3705
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 94.5875 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. ArmyCaptain John T. Murphy.
+ | NLL: 86.6481 | Sentiment: 0.3615
+Accepted:  based on the memoir by U.S. Army sailor John T. Murphy.
+ | NLL: 76.4610 | Sentiment: 0.3581
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy,
+ | NLL: 87.9476 | Sentiment: 0.3562
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 81.5843 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 80.2185 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John do. Murphy.
+ | NLL: 101.9503 | Sentiment: 0.3691
+Accepted:  based on the memoir by U.S. Army emulation John T. Murphy.
+ | NLL: 80.7988 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. ArmyRating John T. Murphy.
+ | NLL: 72.5311 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Army submar John T. Murphy.
+ | NLL: 77.9796 | Sentiment: 0.3624
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 78.6155 | Sentiment: 0.3585
+Accepted:  based on the memoir by U.S. Army Superintendent John T. Murphy.
+ | NLL: 84.0809 | Sentiment: 0.3552
+Accepted:  based on the memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 84.0610 | Sentiment: 0.3558
+Accepted:  based on a memoir by U.S. Army Newman John T. Murphy.
+ | NLL: 82.9447 | Sentiment: 0.3578
+Accepted:  based on a memoir by U.S. Army fascination John T. Murphy.
+ | NLL: 77.2699 | Sentiment: 0.3663
+Accepted:  based on a memoir by U.S. Army keyboards John T. Murphy.
+ | NLL: 97.2609 | Sentiment: 0.3588
+Accepted:  based on a memoir by U.S. Army sincerity John T. Murphy.
+ | NLL: 78.2900 | Sentiment: 0.3693
+Accepted:  based on a memoir by U.S. Army Catholicism John T. Murphy.
+ | NLL: 80.1428 | Sentiment: 0.3609
+Accepted:  based on a memoir by U.S. Armyverting John T. Murphy.
+ | NLL: 84.1539 | Sentiment: 0.3589
+Accepted:  based on a memoir by U.S. Army candid John T. Murphy.
+ | NLL: 88.9232 | Sentiment: 0.3626
+Accepted:  based on a memoir by U.S. Armyinen John T. Murphy.
+ | NLL: 84.3568 | Sentiment: 0.3571
+Accepted:  based on a memoir by U.S. Army submar John T. Murphy.
+ | NLL: 75.4918 | Sentiment: 0.3624
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 78.9100 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armyanswered John T. Murphy.
+ | NLL: 77.8221 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 85.7910 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armyclinical John T. Murphy.
+ | NLL: 86.4131 | Sentiment: 0.3621
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 74.9835 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 84.4943 | Sentiment: 0.3585
+Accepted:  based on the memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 84.7892 | Sentiment: 0.3546
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 95.5938 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army simulator John T. Murphy.
+ | NLL: 80.4193 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. ArmyDepth John T. Murphy.
+ | NLL: 80.0454 | Sentiment: 0.3596
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 86.5312 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 79.8153 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army firefighter John T. Murphy.
+ | NLL: 78.5151 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. Armyanswered John T. Murphy.
+ | NLL: 81.8156 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 83.0625 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 74.5019 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 83.9729 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 78.4839 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army firefighter John T. Murphy.
+ | NLL: 86.4902 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 81.2739 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 98.8478 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army Cyn John T. Murphy.
+ | NLL: 90.4055 | Sentiment: 0.3588
+Accepted:  based on a memoir by U.S. ArmyConsole John T. Murphy.
+ | NLL: 90.9069 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 97.3184 | Sentiment: 0.3585
+Accepted:  based on the memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 98.3190 | Sentiment: 0.3546
+Accepted:  based on a memoir by U.S. ArmydoctorJohn T. Murphy.
+ | NLL: 91.7969 | Sentiment: 0.3660
+Accepted:  based on a memoir by U.S. Armyconsole Johnh. Murphy.
+ | NLL: 109.4641 | Sentiment: 0.3623
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 89.0709 | Sentiment: 0.3573
+Accepted:  based on the memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 87.7024 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. Army submarJohn T. Murphy.
+ | NLL: 98.6092 | Sentiment: 0.3677
+Accepted:  based on a memoir by U.S. ArmyScoreJohn T. Murphy.
+ | NLL: 90.3215 | Sentiment: 0.3636
+Accepted:  based on a memoir by U.S. Army psychiat John B. Murphy.
+ | NLL: 93.2219 | Sentiment: 0.3654
+Accepted:  based on the memoir by U.S. ArmyINGTON John D. Murphy.
+ | NLL: 97.8194 | Sentiment: 0.3546
+Accepted:  based on a memoir by U.S. Army resolvingJohn Wh. Murphy.
+ | NLL: 97.0220 | Sentiment: 0.3721
+Accepted:  based on a memoir by U.S. Armyasio John T. Murphy.
+ | NLL: 91.5967 | Sentiment: 0.3563
+Accepted:  based on the memoir by U.S. Army CovenantJohn B. Murphy.
+ | NLL: 97.8119 | Sentiment: 0.3623
+Accepted:  based on a memoir by U.S. ArmyConsoleJOHN T. Murphy.
+ | NLL: 88.8760 | Sentiment: 0.3641
+Accepted:  based on a memoir by U.S. Army submarJohn T. Murphy.
+ | NLL: 97.5925 | Sentiment: 0.3677
+Accepted:  based on a memoir by U.S. Army Albion John T. Murphy.
+ | NLL: 89.4175 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army redes John T. Murphy.
+ | NLL: 114.7865 | Sentiment: 0.3622
+Accepted:  based on the memoir by U.S. Army Constable John*. Murphy.
+ | NLL: 89.0362 | Sentiment: 0.3597
+Accepted:  based on the memoir by U.S. ArmySlot Johnh. Murphy.
+ | NLL: 111.9576 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Army SergeantJohn T. Murphy.
+ | NLL: 91.4526 | Sentiment: 0.3638
+Accepted:  based on the memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 92.8342 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. ArmyEngineDebug John D. Murphy.
+ | NLL: 106.0681 | Sentiment: 0.3569
+Accepted:  based on the memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 88.1369 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. Army submarJohn T. Murphy.
+ | NLL: 89.1040 | Sentiment: 0.3677
+Accepted:  based on a memoir by U.S. ArmyLoading John T. Murphy.
+ | NLL: 104.2957 | Sentiment: 0.3563
+Accepted:  based on a memoir by U.S. Armyyout John T. Murphy.
+ | NLL: 101.4287 | Sentiment: 0.3601
+Accepted:  based on the memoir by U.S. Armyinse John H. Murphy.
+ | NLL: 89.2993 | Sentiment: 0.3580
+Accepted:  based on the memoir by U.S. ArmyPsyNetMessage Johnh. Murphy.
+ | NLL: 104.6289 | Sentiment: 0.3587
+Accepted:  based on a memoir by U.S. ArmyMaster John T. Murphy.
+ | NLL: 89.1825 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. ArmysworthJohn T- Murphy.
+ | NLL: 144.4111 | Sentiment: 0.3621
+Accepted:  based on the memoir by U.S. Armyfound John T. Murphy.
+ | NLL: 108.4669 | Sentiment: 0.3539
+Accepted:  based on a memoir by U.S. ArmygeistJohn T. Murphy.
+ | NLL: 92.0131 | Sentiment: 0.3620
+Accepted:  based on a memoir by U.S. Army cryst John T. Murphy.
+ | NLL: 97.2107 | Sentiment: 0.3658
+Accepted:  based on a memoir by U.S. ArmyModLoader John T. Murphy.
+ | NLL: 89.7527 | Sentiment: 0.3624
+Accepted:  based on the memoir by U.S. Army virtJohn T. Murphy.
+ | NLL: 93.9819 | Sentiment: 0.3656
+Accepted:  based on a memoir by U.S. Army Sergeant Johnv. Murphy.
+ | NLL: 107.1402 | Sentiment: 0.3635
+Accepted:  based on a memoir by U.S. Army Serving John T. Murphy.
+ | NLL: 96.5609 | Sentiment: 0.3606
+Accepted:  based on a memoir by U.S. Army Enemy Johnh. Murphy.
+ | NLL: 109.6517 | Sentiment: 0.3621
+Accepted:  based on a memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 89.7820 | Sentiment: 0.3626
+Accepted:  based on a memoir by U.S. Army cruiser John B. Murphy.
+ | NLL: 91.3230 | Sentiment: 0.3601
+Accepted:  based on a memoir by U.S. Army chauJOHN T. Murphy.
+ | NLL: 106.4845 | Sentiment: 0.3654
+Accepted:  based on the memoir by U.S. Army mathematician John work. Murphy.
+ | NLL: 95.7011 | Sentiment: 0.3667
+Accepted:  based on a memoir by U.S. ArmyConsoleJohn T. Murphy.
+ | NLL: 94.6425 | Sentiment: 0.3649
+Accepted:  based on a memoir by U.S. Armyディ John. Murphy.
+ | NLL: 103.3875 | Sentiment: 0.3644
+Accepted:  based on the memoir by U.S. Army Cortana John T. Murphy.
+ | NLL: 88.2098 | Sentiment: 0.3570
+Accepted:  based on the memoir by U.S. Army� John T. Murphy.
+ | NLL: 88.6954 | Sentiment: 0.3545
+Accepted:  based on a memoir by U.S. Armyorsi Johnh. Murphy.
+ | NLL: 111.5815 | Sentiment: 0.3620
+Accepted:  based on the memoir by U.S. Army chimpan John T. Murphy.
+ | NLL: 88.3097 | Sentiment: 0.3580
+Accepted:  based on the memoir by U.S. Army captcha John S. Murphy.
+ | NLL: 94.4314 | Sentiment: 0.3561
+Accepted:  based on the memoir by U.S. Armyケ John T. Murphy.
+ | NLL: 97.3757 | Sentiment: 0.3576
+Accepted:  based on a memoir by U.S. Army redes John T. Murphy.
+ | NLL: 91.7585 | Sentiment: 0.3622
+Accepted:  based on a memoir by U.S. Army ancestJohn T. Murphy.
+ | NLL: 89.4082 | Sentiment: 0.3657
+Accepted:  based on a memoir by U.S. ArmytersonJohn T. Murphy.
+ | NLL: 89.7487 | Sentiment: 0.3634
+Accepted:  based on a memoir by U.S. ArmytocJohn T. Murphy.
+ | NLL: 97.4724 | Sentiment: 0.3632
+Accepted:  based on a memoir by U.S. Army bartender John T. Murphy.
+ | NLL: 89.8649 | Sentiment: 0.3615
+Accepted:  based on the memoir by U.S. Army mathemat John don. Murphy.
+ | NLL: 95.7411 | Sentiment: 0.3735
+Accepted:  based on the memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 85.9069 | Sentiment: 0.3546
+Accepted:  based on a memoir by U.S. Army SergeantJohn T. Murphy.
+ | NLL: 90.9387 | Sentiment: 0.3638
+Accepted:  based on a memoir by U.S. Army SweeneyJohn D. Murphy.
+ | NLL: 91.8997 | Sentiment: 0.3638
+Accepted:  based on a memoir by U.S. Army� John T. Murphy.
+ | NLL: 92.9575 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army ancestJohn T. Murphy.
+ | NLL: 87.8976 | Sentiment: 0.3657
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 94.5303 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army Supports John T. Murphy.
+ | NLL: 89.3886 | Sentiment: 0.3618
+Accepted:  based on a memoir by U.S. Army mathemat John T. Murphy.
+ | NLL: 83.8348 | Sentiment: 0.3647
+Accepted:  based on a memoir by U.S. ArmySports John T. Murphy.
+ | NLL: 97.2464 | Sentiment: 0.3594
+Accepted:  based on a memoir by U.S. Armyhement John T. Murphy.
+ | NLL: 92.1427 | Sentiment: 0.3583
+Accepted:  based on a memoir by U.S. ArmyquartJohn being. Murphy.
+ | NLL: 111.2529 | Sentiment: 0.3669
+Accepted:  based on a memoir by U.S. Army opioJohn T. Murphy.
+ | NLL: 91.2948 | Sentiment: 0.3706
+Accepted:  based on a memoir by U.S. ArmyINGTON Identity-. Murphy.
+ | NLL: 90.4052 | Sentiment: 0.3552
+Accepted:  based on the memoir by U.S. Army submarJohn T. Murphy.
+ | NLL: 91.2933 | Sentiment: 0.3649
+Accepted:  based on the memoir by U.S. Army comrJohn T. Murphy.
+ | NLL: 92.5523 | Sentiment: 0.3719
+Accepted:  based on a memoir by U.S. ArmySaint John B. Murphy.
+ | NLL: 88.7101 | Sentiment: 0.3620
+Accepted:  based on the memoir by U.S. ArmyINGTONJohn T. Murphy.
+ | NLL: 86.3589 | Sentiment: 0.3586
+Accepted:  based on a memoir by U.S. ArmyarthedJohn T. Murphy.
+ | NLL: 94.4793 | Sentiment: 0.3604
+Accepted:  based on a memoir by U.S. ArmyThumbnail John T. Murphy.
+ | NLL: 93.6616 | Sentiment: 0.3572
+Accepted:  based on a memoir by U.S. Army opioJohn T. Murphy.
+ | NLL: 105.4983 | Sentiment: 0.3706
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 98.6888 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armyovember John T. Murphy.
+ | NLL: 110.0847 | Sentiment: 0.3578
+Accepted:  based on a memoir by U.S. ArmyCredits Johnh. Murphy.
+ | NLL: 112.1970 | Sentiment: 0.3643
+Accepted:  based on a memoir by U.S. ArmyConsoleJohn T. Murphy.
+ | NLL: 97.6461 | Sentiment: 0.3649
+Accepted:  based on a memoir by U.S. ArmyConsoleJohn T. Murphy.
+ | NLL: 88.6037 | Sentiment: 0.3649
+Accepted:  based on the memoir by U.S. Army subp John T. Murphy.
+ | NLL: 88.8170 | Sentiment: 0.3554
+Accepted:  based on a memoir by U.S. ArmyorcJohn T. Murphy.
+ | NLL: 99.1100 | Sentiment: 0.3616
+Accepted:  based on a memoir by U.S. Army submar Johnn. Murphy.
+ | NLL: 99.6032 | Sentiment: 0.3647
+Accepted:  based on a memoir by U.S. ArmySaint John T. Murphy.
+ | NLL: 89.4946 | Sentiment: 0.3604
+Accepted:  based on the memoir by U.S. Army Gladiator John T. Murphy.
+ | NLL: 89.4400 | Sentiment: 0.3568
+Accepted:  based on the memoir by U.S. ArmySlotJohn T. Murphy.
+ | NLL: 91.3215 | Sentiment: 0.3599
+Accepted:  based on a memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 86.5165 | Sentiment: 0.3626
+Accepted:  based on a memoir by U.S. Army Antar John T. Murphy.
+ | NLL: 90.1657 | Sentiment: 0.3603
+Accepted:  based on a memoir by U.S. Army psychiat John T. Murphy.
+ | NLL: 98.8688 | Sentiment: 0.3638
+Accepted:  based on a memoir by U.S. Army SweeneyJohn T. Murphy.
+ | NLL: 94.2744 | Sentiment: 0.3626
+Accepted:  based on a memoir by U.S. ArmyHandleJohn T. Murphy.
+ | NLL: 90.3988 | Sentiment: 0.3663
+Accepted:  based on a memoir by U.S. Armyatinum John T. Murphy.
+ | NLL: 88.7362 | Sentiment: 0.3596
+Accepted:  based on the memoir by U.S. Army submarJohn T. Murphy.
+ | NLL: 99.4725 | Sentiment: 0.3649
+Accepted:  based on a memoir by U.S. Army mathemat John S. Murphy.
+ | NLL: 88.0586 | Sentiment: 0.3656
+Accepted:  based on a memoir by U.S. Army therap John T. Murphy.
+ | NLL: 90.8921 | Sentiment: 0.3666
+Accepted:  based on the memoir by U.S. Army mathemat John T. Murphy.
+ | NLL: 91.2471 | Sentiment: 0.3620
+Accepted:  based on the memoir by U.S. Armygrave John T. Murphy.
+ | NLL: 88.7715 | Sentiment: 0.3543
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 89.7663 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army sergeantJohn T. Murphy.
+ | NLL: 99.7049 | Sentiment: 0.3646
+Accepted:  based on a memoir by U.S. Army paramedics John T. Murphy.
+ | NLL: 94.9461 | Sentiment: 0.3614
+Accepted:  based on a memoir by U.S. ArmySUP John T. Murphy.
+ | NLL: 92.5258 | Sentiment: 0.3602
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 90.8204 | Sentiment: 0.3573
+Accepted:  based on a memoir by U.S. Army Sweeney John M. Murphy.
+ | NLL: 100.5288 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army Sweeney John T. Murphy.
+ | NLL: 110.4581 | Sentiment: 0.3573
+Accepted:  based on the memoir by U.S. Army SweeneyJohnh. Murphy.
+ | NLL: 102.5184 | Sentiment: 0.3631
+Accepted:  based on a memoir by U.S. Armyanswered John T. Murphy.
+ | NLL: 89.0838 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army lawyJohn D. Murphy.
+ | NLL: 91.2899 | Sentiment: 0.3680
+Accepted:  based on a memoir by U.S. Army mathemat John T. Murphy.
+ | NLL: 89.7286 | Sentiment: 0.3647
+Accepted:  based on the memoir by U.S. Army ConstableJohn T. Murphy.
+ | NLL: 88.9763 | Sentiment: 0.3620
+Accepted:  based on a memoir by U.S. Armyathon John T. Murphy.
+ | NLL: 92.3882 | Sentiment: 0.3570
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 89.4958 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. ArmyCash John T. Murphy.
+ | NLL: 91.9757 | Sentiment: 0.3607
+Accepted:  based on a memoir by U.S. Army Nurse John T. Murphy.
+ | NLL: 93.5470 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. Army Sergeant John T. Murphy.
+ | NLL: 90.7294 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Army◼ David which. Murphy.
+ | NLL: 91.1031 | Sentiment: 0.3615
+Accepted:  based on a memoir by U.S. ArmyIBLEJohn I. Murphy.
+ | NLL: 90.7866 | Sentiment: 0.3672
+Accepted:  based on a memoir by U.S. Army bartendericut the. Murphy.
+ | NLL: 83.4871 | Sentiment: 0.3575
+Accepted:  based on a memoir by U.S. Army dexterity Sons-. Murphy.
+ | NLL: 94.4380 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. ArmyCredits Identity's. Murphy.
+ | NLL: 89.2096 | Sentiment: 0.3641
+Accepted:  based on a memoir by U.S. Armyterson Rodney T. Murphy.
+ | NLL: 88.1210 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Army� JOHN,. Murphy.
+ | NLL: 84.6586 | Sentiment: 0.3622
+Accepted:  based on a memoir by U.S. Armyverend selves-. Murphy.
+ | NLL: 86.6097 | Sentiment: 0.3625
+Accepted:  based on a memoir by U.S. Army McMhello T. Murphy.
+ | NLL: 88.4536 | Sentiment: 0.3560
+Accepted:  based on a memoir by U.S. ArmyoscopicJohn T. Murphy.
+ | NLL: 88.1743 | Sentiment: 0.3648
+Accepted:  based on a memoir by U.S. Army BarthJohn-. Murphy.
+ | NLL: 88.8755 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. Army Sweeney Kurt T. Murphy.
+ | NLL: 97.0013 | Sentiment: 0.3592
+Accepted:  based on a memoir by U.S. Army recl John-. Murphy.
+ | NLL: 104.8456 | Sentiment: 0.3575
+Accepted:  based on a memoir by U.S. Army◼John-. Murphy.
+ | NLL: 90.5976 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. Army Starshipaine T. Murphy.
+ | NLL: 84.5992 | Sentiment: 0.3558
+Accepted:  based on a memoir by U.S. Army cynicism booking K. Murphy.
+ | NLL: 90.0375 | Sentiment: 0.3695
+Accepted:  based on a memoir by U.S. Army Starshipyne T. Murphy.
+ | NLL: 95.4388 | Sentiment: 0.3546
+Accepted:  based on a memoir by U.S. Armyterson vec the. Murphy.
+ | NLL: 85.5483 | Sentiment: 0.3581
+Accepted:  based on a memoir by U.S. Armynov Ted-. Murphy.
+ | NLL: 90.3809 | Sentiment: 0.3585
+Accepted:  based on a memoir by U.S. Armyックoyle T. Murphy.
+ | NLL: 87.1031 | Sentiment: 0.3590
+Accepted:  based on a memoir by U.S. Army SergeantDick T. Murphy.
+ | NLL: 84.0499 | Sentiment: 0.3602
+Accepted:  based on a memoir by U.S. Army SergeantJohn-. Murphy.
+ | NLL: 86.5548 | Sentiment: 0.3630
+Accepted:  based on a memoir by U.S. ArmyHCR Coke R. Murphy.
+ | NLL: 90.5598 | Sentiment: 0.3609
+Accepted:  based on a memoir by U.S. Army Browse John's. Murphy.
+ | NLL: 85.3908 | Sentiment: 0.3615
+Accepted:  based on a memoir by U.S. Army◼ liberty-. Murphy.
+ | NLL: 88.0343 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. Army archaeDick T. Murphy.
+ | NLL: 85.7613 | Sentiment: 0.3595
+Accepted:  based on a memoir by U.S. Army Sergeantlicense-. Murphy.
+ | NLL: 85.5980 | Sentiment: 0.3592
+Accepted:  based on a memoir by U.S. Army)--aine-. Murphy.
+ | NLL: 90.2496 | Sentiment: 0.3532
+Accepted:  based on a memoir by U.S. Army Sergeant John-. Murphy.
+ | NLL: 86.9849 | Sentiment: 0.3578
+Accepted:  based on a memoir by U.S. Armyosponsors Compare T. Murphy.
+ | NLL: 86.6844 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army grapple Daryl the. Murphy.
+ | NLL: 85.6352 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army modernizationudi I. Murphy.
+ | NLL: 83.9991 | Sentiment: 0.3641
+Accepted:  based on a memoir by U.S. Army◼hello-. Murphy.
+ | NLL: 84.7071 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Armyantineieri the. Murphy.
+ | NLL: 87.8787 | Sentiment: 0.3513
+Accepted:  based on a memoir by U.S. Army unresJohn T. Murphy.
+ | NLL: 86.0073 | Sentiment: 0.3666
+Accepted:  based on a memoir by U.S. Army SergeantJohn T. Murphy.
+ | NLL: 88.3884 | Sentiment: 0.3638
+Accepted:  based on a memoir by U.S. Army Spielberg NYC the. Murphy.
+ | NLL: 86.8902 | Sentiment: 0.3576
+Accepted:  based on a memoir by U.S. Armyibli John T. Murphy.
+ | NLL: 98.1138 | Sentiment: 0.3596
+Accepted:  based on a memoir by U.S. Army SergeantJohn the. Murphy.
+ | NLL: 84.2888 | Sentiment: 0.3620
+Accepted:  based on a memoir by U.S. ArmyworkshopJohn the. Murphy.
+ | NLL: 96.8444 | Sentiment: 0.3627
+Accepted:  based on a memoir by U.S. Army patriotismlicense the- Murphy.
+ | NLL: 118.2343 | Sentiment: 0.3654
+Accepted:  based on a memoir by U.S. Armyonian booking K. Murphy.
+ | NLL: 86.9139 | Sentiment: 0.3604
+Accepted:  based on a memoir by U.S. Army mathemat Ambro C. Murphy.
+ | NLL: 87.5750 | Sentiment: 0.3676
+Accepted:  based on a memoir by U.S. ArmyapixelInternal the. Murphy.
+ | NLL: 84.6765 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. Army psychiatristsluster-. Murphy.
+ | NLL: 88.1073 | Sentiment: 0.3651
+Accepted:  based on a memoir by U.S. Army subp mosqu M. Murphy.
+ | NLL: 89.2432 | Sentiment: 0.3643
+Accepted:  based on a memoir by U.S. Army Sergeant John the. Murphy.
+ | NLL: 89.9144 | Sentiment: 0.3568
+Accepted:  based on a memoir by U.S. Army� Coke,. Murphy.
+ | NLL: 85.8541 | Sentiment: 0.3604
+Accepted:  based on a memoir by U.S. Armystreelman T. Murphy.
+ | NLL: 89.7751 | Sentiment: 0.3569
+Accepted:  based on a memoir by U.S. Army Sergeant Merge T. Murphy.
+ | NLL: 96.7440 | Sentiment: 0.3593
+Accepted:  based on a memoir by U.S. ArmyHCR Curt T. Murphy.
+ | NLL: 90.9757 | Sentiment: 0.3608
+Accepted:  based on a memoir by U.S. Army◼ Merge-. Murphy.
+ | NLL: 87.2606 | Sentiment: 0.3583
+Accepted:  based on a memoir by U.S. Armyciplinary John-. Murphy.
+ | NLL: 87.4138 | Sentiment: 0.3571
+Accepted:  based on a memoir by U.S. Army Sergeant Governors T. Murphy.
+ | NLL: 87.6169 | Sentiment: 0.3581
+Accepted:  based on a memoir by U.S. Armyッ John-. Murphy.
+ | NLL: 85.4195 | Sentiment: 0.3581
+Accepted:  based on a memoir by U.S. Army cynamus's. Murphy.
+ | NLL: 91.4772 | Sentiment: 0.3627
+Accepted:  based on a memoir by U.S. Army radial Seth T. Murphy.
+ | NLL: 87.5073 | Sentiment: 0.3578
+Accepted:  based on a memoir by U.S. Army Sergeant John M. Murphy.
+ | NLL: 97.3908 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. Army exorc John T. Murphy.
+ | NLL: 85.9340 | Sentiment: 0.3601
+Accepted:  based on a memoir by U.S. Army mathemat Kurt work. Murphy.
+ | NLL: 87.6814 | Sentiment: 0.3730
+Accepted:  based on a memoir by U.S. Armyggles Freeman K. Murphy.
+ | NLL: 90.5642 | Sentiment: 0.3605
+Accepted:  based on a memoir by U.S. Army psychologistemi T. Murphy.
+ | NLL: 96.7160 | Sentiment: 0.3616
+Accepted:  based on the memoir by U.S. Army arr John T. Murphy.
+ | NLL: 84.5467 | Sentiment: 0.3534
+Accepted:  based on a memoir by U.S. Armyulentlicense the. Murphy.
+ | NLL: 85.6346 | Sentiment: 0.3568
+Accepted:  based on a memoir by U.S. Army◼ John T. Murphy.
+ | NLL: 93.6390 | Sentiment: 0.3583
+Accepted:  based on a memoir by U.S. ArmystrongJohn the. Murphy.
+ | NLL: 86.9094 | Sentiment: 0.3673
+Accepted:  based on a memoir by U.S. Army therapefe T. Murphy.
+ | NLL: 87.3418 | Sentiment: 0.3657
+Accepted:  based on a memoir by U.S. Army proficiencyseed T. Murphy.
+ | NLL: 86.0781 | Sentiment: 0.3602
+Accepted:  based on a memoir by U.S. ArmyantyJohn T. Murphy.
+ | NLL: 96.4819 | Sentiment: 0.3619
+Accepted:  based on a memoir by U.S. Armyinson connect R. Murphy.
+ | NLL: 84.9985 | Sentiment: 0.3600
+Accepted:  based on a memoir by U.S. Army Racial Ted the. Murphy.
+ | NLL: 88.7071 | Sentiment: 0.3570
+Accepted:  based on a memoir by U.S. Armyティ Freeman T. Murphy.
+ | NLL: 95.0255 | Sentiment: 0.3611
+Accepted:  based on a memoir by U.S. Army submarthanks the. Murphy.
+ | NLL: 88.2671 | Sentiment: 0.3672
+Accepted:  based on a memoir by U.S. Army Combat Sons T. Murphy.
+ | NLL: 87.1470 | Sentiment: 0.3588
+Accepted:  based on a memoir by U.S. Army medals Molly-. Murphy.
+ | NLL: 89.8523 | Sentiment: 0.3639
+Accepted:  based on a memoir by U.S. Armypsey John-. Murphy.
+ | NLL: 90.4672 | Sentiment: 0.3581
+Accepted:  based on a memoir by U.S. Armystre Colt-. Murphy.
+ | NLL: 99.0507 | Sentiment: 0.3561
+Accepted:  based on a memoir by U.S. Army reclJohn T. Murphy.
+ | NLL: 87.1171 | Sentiment: 0.3635
+Accepted:  based on a memoir by U.S. Armysburgh Sons T. Murphy.
+ | NLL: 87.9908 | Sentiment: 0.3598
+Accepted:  based on a memoir by U.S. Armyissance Collective the. Murphy.
+ | NLL: 85.4809 | Sentiment: 0.3564
+Accepted:  based on a memoir by U.S. Armyティ John-. Murphy.
+ | NLL: 85.6871 | Sentiment: 0.3599
+Accepted:  based on a memoir by U.S. ArmyPsyNetMessageatto the. Murphy.
+ | NLL: 84.4183 | Sentiment: 0.3554
+Accepted:  based on a memoir by U.S. Army Sergeantlicense-. Murphy.
+ | NLL: 88.1644 | Sentiment: 0.3592
+Accepted:  based on a memoir by U.S. Army Barth Myster-. Murphy.
+ | NLL: 96.3940 | Sentiment: 0.3554
+Accepted:  based on a memoir by U.S. Armyospel Molly-. Murphy.
+ | NLL: 86.7896 | Sentiment: 0.3639
+Accepted:  based on the memoir by U.S. ArmyPgWalk-. Murphy.
+ | NLL: 84.1133 | Sentiment: 0.3561
+Accepted:  based on a memoir by U.S. Army Stanley selves the. Murphy.
+ | NLL: 90.5231 | Sentiment: 0.3580
+Accepted:  based on a memoir by U.S. Army psychologistlicense T. Murphy.
+ | NLL: 85.1540 | Sentiment: 0.3641
+Accepted:  based on a memoir by U.S. Army Barthlicense R. Murphy.
+ | NLL: 113.3326 | Sentiment: 0.3570
+Accepted:  based on a memoir by U.S. Army BarthJohn T. Murphy.
+ | NLL: 86.5061 | Sentiment: 0.3605
+Accepted:  based on a memoir by U.S. Armyinsonhello-. Murphy.
+ | NLL: 85.7322 | Sentiment: 0.3564
+Accepted:  based on a memoir by U.S. Army McM Morton T. Murphy.
+ | NLL: 88.4704 | Sentiment: 0.3540
+Accepted:  based on a memoir by U.S. ArmyPg Leslie be. Murphy.
+ | NLL: 88.3900 | Sentiment: 0.3660
+Accepted:  based on a memoir by U.S. Armyngth John the. Murphy.
+ | NLL: 88.8661 | Sentiment: 0.3572
+Accepted:  based on a memoir by U.S. Army psychiatristsLewis T. Murphy.
+ | NLL: 86.8667 | Sentiment: 0.3637
+Accepted:  based on a memoir by U.S. Armyafort Martha-. Murphy.
+ | NLL: 92.2624 | Sentiment: 0.3583
+Accepted:  based on a memoir by U.S. ArmyHCRJohn T. Murphy.
+ | NLL: 87.6025 | Sentiment: 0.3652
+Accepted:  based on a memoir by U.S. Army Starship ir-. Murphy.
+ | NLL: 94.6235 | Sentiment: 0.3570
+Accepted:  based on a memoir by U.S. Armyentle JOHN T. Murphy.
+ | NLL: 89.8500 | Sentiment: 0.3632
+Accepted:  based on a memoir by U.S. ArmyigiousLarry T. Murphy.
+ | NLL: 89.9379 | Sentiment: 0.3618
+Accepted:  based on a memoir by U.S. Army Starship John the. Murphy.
+ | NLL: 87.9507 | Sentiment: 0.3562
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Accepted:  based on a memoir by U.S. ArmyConsole Johnstad. Murphy.
+ | NLL: 88.0981 | Sentiment: 0.3631
+Accepted:  based on a memoir by U.S. Army theolog Morton and. Murphy.
+ | NLL: 91.2101 | Sentiment: 0.3599
+Accepted:  based on a memoir by U.S. Army Clint John T. Murphy.
+ | NLL: 90.6336 | Sentiment: 0.3599
+Accepted:  based on a memoir by U.S. ArmyArgsanger T. Murphy.
+ | NLL: 89.1162 | Sentiment: 0.3559
+Accepted:  based on a memoir by U.S. Army BarthJohn work. Murphy.
+ | NLL: 94.2857 | Sentiment: 0.3669
+Accepted:  based on a memoir by U.S. Army SergeantDave the. Murphy.
+ | NLL: 88.5447 | Sentiment: 0.3612
+Accepted:  based on a memoir by U.S. ArmyThumbnail John'. Murphy.
+ | NLL: 89.6173 | Sentiment: 0.3596
+Accepted:  based on a memoir by U.S. ArmyEngineDebug Daryl the. Murphy.
+ | NLL: 88.6185 | Sentiment: 0.3557
+Accepted:  based on a memoir by U.S. ArmyaminsJohn-. Murphy.
+ | NLL: 86.7217 | Sentiment: 0.3604
+Accepted:  based on a memoir by U.S. Armyrill Freeman T. Murphy.
+ | NLL: 89.5045 | Sentiment: 0.3587
+Accepted:  based on a memoir by U.S. Army SergeantIVERS T. Murphy.
+ | NLL: 85.5015 | Sentiment: 0.3600
+Accepted:  based on a memoir by U.S. Army kindredּ,. Murphy.
+ | NLL: 86.1592 | Sentiment: 0.3580
+Accepted:  based on a memoir by U.S. Army◼ Elliot T. Murphy.
+ | NLL: 86.4751 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. ArmySendJohn work. Murphy.
+ | NLL: 93.3299 | Sentiment: 0.3737
+Accepted:  based on a memoir by U.S. Armyigion Sons-. Murphy.
+ | NLL: 88.2180 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. Army SergeantJohn I. Murphy.
+ | NLL: 88.5854 | Sentiment: 0.3672
+Accepted:  based on a memoir by U.S. Army Sergeantians-. Murphy.
+ | NLL: 87.0852 | Sentiment: 0.3559
+Accepted:  based on a memoir by U.S. Army unres Sons the. Murphy.
+ | NLL: 85.9673 | Sentiment: 0.3602
+Accepted:  based on a memoir by U.S. ArmyRPG Dill A. Murphy.
+ | NLL: 87.7400 | Sentiment: 0.3593
+Accepted:  based on a memoir by U.S. ArmyDepthguyen-. Murphy.
+ | NLL: 89.9776 | Sentiment: 0.3610
+Accepted:  based on a memoir by U.S. Army biomedical selves T. Murphy.
+ | NLL: 102.1729 | Sentiment: 0.3651
+Accepted:  based on a memoir by U.S. Army Palest selves T. Murphy.
+ | NLL: 88.1556 | Sentiment: 0.3617
+Accepted:  based on a memoir by U.S. Army McMinson-. Murphy.
+ | NLL: 88.5534 | Sentiment: 0.3540
+Accepted:  based on a memoir by U.S. Army Support borough S. Murphy.
+ | NLL: 109.0110 | Sentiment: 0.3641
+ exploration of the origins of theerential genome and identifies some of the most important genetic | NLL: 91.4088 | Sentiment: 0.3873
+Rejected:  an exploration of the origins of the conduc genome and Jagu some of the most important genetic | NLL: 94.6573 | Sentiment: 0.3916
+Rejected:  a exploration of the origins of the human genome andxual some of the most important genetic | NLL: 98.1536 | Sentiment: 0.3776
+Rejected:  an exploration of the origins of theendez genome andanos some of the most important genetic | NLL: 96.7571 | Sentiment: 0.3765
+Rejected:  a exploration of the origins of the disobedience genome and corrid some of the most important genetic | NLL: 93.0642 | Sentiment: 0.3868
+Rejected:  an exploration of the origins of the answ genome andistani some of the most important genetic | NLL: 95.6524 | Sentiment: 0.3850
+Rejected:  an exploration of the origins of the solitary genome and dialect some of the most important genetic | NLL: 94.1766 | Sentiment: 0.3837
+Rejected:  an exploration of the origins of the surpr genome and Zombies some of the most important genetic | NLL: 99.7545 | Sentiment: 0.3862
+Rejected:  a exploration of the origins of the conclud genome andangers some of the most important genetic | NLL: 98.6735 | Sentiment: 0.3837
+Rejected:  a exploration of the origins of theaden genome andapo some of the most important genetic | NLL: 96.3631 | Sentiment: 0.3705
+Rejected:  a exploration of the origins of the suspic genome andandom some of the most important genetic | NLL: 97.5706 | Sentiment: 0.3852
+Rejected:  an exploration of the origins of the distingu genome andisks some of the most important genetic | NLL: 98.6770 | Sentiment: 0.3872
+Rejected:  an exploration of the origins of the answ genome andPhys some of the most important genetic | NLL: 96.7786 | Sentiment: 0.3859
+Rejected:  an exploration of the origins of thepapers genome and identifies some of the most important genetic | NLL: 96.5004 | Sentiment: 0.3817
+Accepted:  based on the memoir by U.S. Armyinson Dickinson-. Murphy.
+ | NLL: 88.0362 | Sentiment: 0.3519
+Accepted:  based on a memoir by U.S. Armyngth Elaine-. Murphy.
+ | NLL: 89.0831 | Sentiment: 0.3597
+Accepted:  based on a memoir by U.S. Army crateians T. Murphy.
+ | NLL: 89.1894 | Sentiment: 0.3548
+Accepted:  based on a memoir by U.S. Armyティ Sons T. Murphy.
+ | NLL: 90.4991 | Sentiment: 0.3611
+Accepted:  based on a memoir by U.S. Army pitfalls John T. Murphy.
+ | NLL: 88.6203 | Sentiment: 0.3625
+Accepted:  based on a memoir by U.S. Armyoub Kurt the. Murphy.
+ | NLL: 85.1548 | Sentiment: 0.3594
+Accepted:  based on a memoir by U.S. Armygeantaires-. Murphy.
+ | NLL: 89.4939 | Sentiment: 0.3594
+Accepted:  based on a memoir by U.S. Army Sergeanteson T. Murphy.
+ | NLL: 87.3872 | Sentiment: 0.3579
+Accepted:  based on a memoir by U.S. Army illiter John work. Murphy.
+ | NLL: 91.1781 | Sentiment: 0.3670
+Accepted:  based on a memoir by U.S. Armyearchers Morton the. Murphy.
+ | NLL: 91.8334 | Sentiment: 0.3564
+Accepted:  based on a memoir by U.S. Armybernieri M. Murphy.
+ | NLL: 89.4750 | Sentiment: 0.3554
+Accepted:  based on a memoir by U.S. Army──── Freeman T. Murphy.
+ | NLL: 86.8853 | Sentiment: 0.3574
+Accepted:  based on a memoir by U.S. Army Spielbergiver T. Murphy.
+ | NLL: 87.4752 | Sentiment: 0.3589
+Accepted:  based on a memoir by U.S. ArmyティJohn-. Murphy.
+ | NLL: 89.9652 | Sentiment: 0.3651
+Accepted:  based on the memoir by U.S. Army voucher Elias T. Murphy.
+ | NLL: 86.3347 | Sentiment: 0.3553
+Accepted:  based on a memoir by U.S. Army Canaver Corey the. Murphy.
+ | NLL: 86.9129 | Sentiment: 0.3592
+Accepted:  based on a memoir by U.S. ArmyxiaJohn T. Murphy.
+ | NLL: 95.6302 | Sentiment: 0.3613
+Accepted:  based on a memoir by U.S. Armyobbiesiens-. Murphy.
+ | NLL: 86.9082 | Sentiment: 0.3574
+Accepted:  based on a memoir by U.S. Army Palestluster the. Murphy.
+ | NLL: 86.7244 | Sentiment: 0.3606
+Accepted:  based on the memoir by U.S. Army AchievementsJohn the. Murphy.
+ | NLL: 88.5531 | Sentiment: 0.3628
+Accepted:  based on a memoir by U.S. Army McMistan the. Murphy.
+ | NLL: 84.7048 | Sentiment: 0.3523
+Accepted:  based on a memoir by U.S. Army greet fools H. Murphy.
+ | NLL: 86.9569 | Sentiment: 0.3669
+Accepted:  based on a memoir by U.S. Army novelistethe-. Murphy.
+ | NLL: 90.4216 | Sentiment: 0.3613
+Accepted:  based on a memoir by U.S. Armyowler Freeman-. Murphy.
+ | NLL: 88.5749 | Sentiment: 0.3566
+cted:  an exploration of the origins of theEY genome and identifies some of the most important genetic | NLL: 93.9773 | Sentiment: 0.3823
+Rejected:  an exploration of the origins of the answ genome and Models some of the most important genetic | NLL: 98.3071 | Sentiment: 0.3874
+Rejected:  an exploration of the origins of the awa genome and imagination some of the most important genetic | NLL: 92.0455 | Sentiment: 0.3895
+Rejected:  an exploration of the origins of the Yon genome and determines some of the most important genetic | NLL: 100.7812 | Sentiment: 0.3818
+Rejected:  a exploration of the origins of the代 genome and misunder some of the most important genetic | NLL: 96.9377 | Sentiment: 0.3839
+Rejected:  an exploration of the origins of the shine genome and identifies some of the most important genetic | NLL: 97.1450 | Sentiment: 0.3876
+Rejected:  an exploration of the origins of the noble genome and identifies some of the most important genetic | NLL: 95.2661 | Sentiment: 0.3928
+Rejected:  a exploration of the origins of the illustrious genome and taps some of the most important genetic | NLL: 92.6927 | Sentiment: 0.3835
+Rejected:  a exploration of the origins of theoney genome and attends some of the most important genetic | NLL: 96.1755 | Sentiment: 0.3801
+Rejected:  an exploration of the origins of themberg genome andahu some of the most important genetic | NLL: 95.2272 | Sentiment: 0.3797
+Rejected:  an exploration of the origins of theissan genome and tremend some of the most important genetic | NLL: 98.0497 | Sentiment: 0.3869
+Rejected:  a exploration of the origins of theameless genome andetus some of the most important genetic | NLL: 94.0706 | Sentiment: 0.3779
+Rejected:  an exploration of the origins of the human genome and isol some of the most important genetic | NLL: 93.2725 | Sentiment: 0.3797
+Rejected:  an exploration of the origins of the humanity genome anditability some of the most important genetic | NLL: 97.6708 | Sentiment: 0.3885
+Rejected:  a exploration of the origins of the pathway genome and identifies some of the most important genetic | NLL: 95.4213 | Sentiment: 0.3816
+Rejected:  a exploration of the origins of the advers genome andaccompan some of the most important genetic | NLL: 97.6540 | Sentiment: 0.3862
+Rejected:  an exploration of the origins of the Samar genome and misunder some of the most important genetic | NLL: 94.3708 | Sentiment: 0.3882

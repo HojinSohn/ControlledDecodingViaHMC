@@ -1,0 +1,229 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.34844970703125,2.246883030941612,0.0,"tensor([0.5003], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.34849548339844,2.3256437602796054,0.003209698246791959,"tensor([0.4687], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.34904479980469,4.901349840666119,0.03851635754108429,"tensor([0.0344], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.350135803222656,6.392282586348684,0.1059199869632721,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.35169982910156,2.5556666324013158,0.20310759544372559,"tensor([0.3691], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.353782653808594,2.6312647769325657,0.332392156124115,"tensor([0.3350], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.35637283325195,2.674994378340872,0.4937736988067627,"tensor([0.3241], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.35947036743164,4.426852256373355,0.687252402305603,"tensor([0.0558], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.36309814453125,2.8985563579358553,0.9128280282020569,"tensor([0.2476], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.36720657348633,3.958919163754112,1.170500636100769,"tensor([0.0871], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.37187194824219,8.018046489514802,1.4590352773666382,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.37656021118164,3.9828141061883224,1.7513439655303955,"tensor([0.0861], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.38175582885742,4.95501998098273,2.075749397277832,"tensor([0.0331], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.38747787475586,4.534715833162006,2.4322516918182373,"tensor([0.0504], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.39371109008789,12.631558388157895,2.8208510875701904,"tensor([1.4976e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.40044021606445,16.82716514185855,3.2415473461151123,"tensor([2.2572e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.40834045410156,6.517102693256579,3.7300217151641846,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human raceims being driven from the Earth, and the future was to be governed",0,0,82.345703125,16.795515522203946,4.250593185424805,"tensor([6.4053e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human raceWas being driven from the Earth, and the future was to be governed",0,0,67.28258514404297,7.386013312088815,4.78417444229126,1,1
+" the human raceWas being driven from the Earth, and the future was to be governed",0,0,67.30029296875,2.1769589072779603,5.307926654815674,"tensor([0.5258], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human raceWas being driven from the Earth, and the future was to be governed",0,0,67.32036590576172,2.122852847450658,5.8994832038879395,"tensor([0.5498], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human raceWas being driven from the Earth, and the future was to be governed",0,0,67.34273529052734,2.618819387335526,6.558843612670898,"tensor([0.3351], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.367042541503906,4.100187602796052,7.286007881164551,1,1
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.36146926879883,2.105185739617599,8.010210037231445,"tensor([0.5676], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.355995178222656,2.1253019634046053,8.718962669372559,"tensor([0.5634], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.35064697265625,2.1076729222347863,9.41226577758789,"tensor([0.5632], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.34538650512695,2.1460185803865133,10.090118408203125,"tensor([0.5405], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.34027862548828,2.166741461502878,10.752521514892578,"tensor([0.5429], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.33529281616211,2.200328304893092,11.39947509765625,"tensor([0.5191], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.330379486083984,2.5764083059210527,12.030978202819824,"tensor([0.3474], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human racewas being driven from the Earth, and the future was to be governed",0,0,62.32564163208008,2.591568314401727,12.6470308303833,"tensor([0.3472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.56105422973633,2.8582570929276314,13.247633934020996,1,1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.57089614868164,2.2972497237356087,13.863692283630371,"tensor([0.4601], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.58134460449219,3.0815114874588816,14.511847496032715,"tensor([0.2097], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was to be governed",0,0,53.59224319458008,6.447428813733553,15.192099571228027,"tensor([0.0072], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be governed",0,0,67.92971801757812,3.920863101356908,15.904448509216309,"tensor([5.5236e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be governed",0,0,68.03045654296875,5.557004266036184,16.760604858398438,"tensor([0.0184], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be governed",0,0,68.15879821777344,6.449307411595394,17.851966857910156,"tensor([0.0073], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be governed",0,0,68.31481170654297,6.502801192434211,19.17853355407715,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the dem race was being driven from the Earth, and the future was in be governed",0,0,83.49391174316406,6.824951814350329,20.740306854248047,"tensor([1.5538e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the next was in be retain",0,0,75.47613525390625,10.20531005859375,22.545305252075195,"tensor([0.6415], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be reckoned",0,0,63.74354934692383,5.032672440378289,24.51133918762207,1,1
+" the human race was being driven from the Earth, and the future was in be reckoned",0,0,63.5997428894043,7.623991313733552,26.3470458984375,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be reckoned",0,0,63.46821594238281,8.077050138774672,28.026090621948242,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in beworth",0,0,64.7360610961914,6.37490234375,29.562705993652344,"tensor([0.0020], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in beworth",0,0,64.5601806640625,6.005451403166118,30.916894912719727,"tensor([0.0115], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in beworth",0,0,64.41808319091797,5.572205874794408,32.01136016845703,"tensor([0.0177], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.41271209716797,3.702391293174342,32.857933044433594,1,1
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.30885696411133,2.8336766293174342,33.38391876220703,"tensor([0.2748], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.282989501953125,3.5011526007401317,33.514930725097656,"tensor([0.1433], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.33243942260742,4.562830232319079,33.264495849609375,"tensor([0.0468], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.45991897583008,4.4954487047697365,32.61908721923828,"tensor([0.0533], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be shall",0,0,59.66535949707031,5.6302438836348685,31.578704833984375,"tensor([0.0163], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"conservancythe human race was being driven from the Earth, and the future was in be shall",0,0,96.77418518066406,4.818685109991776,30.143348693847656,"tensor([3.8056e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be shall",0,0,60.31002426147461,8.30384457236842,28.31414794921875,1,1
+" the human race was being driven from the Earth, and the future was in be shall",0,0,60.74735641479492,7.985200580797697,26.09993553161621,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in be shall",0,0,61.257041931152344,6.9366506476151315,23.519155502319336,"tensor([0.0045], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the  America race was being driven from the Earth, and the future was in being Schwartz",0,0,98.2802734375,4.44195556640625,20.54340171813965,"tensor([8.3145e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being Heard",0,0,73.51715087890625,7.316147332442434,17.342998504638672,1,1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,65.40520477294922,2.814583547491776,14.486712455749512,1,1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,65.19966888427734,3.82808837890625,11.867422103881836,"tensor([0.0997], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being shall",0,0,63.59654235839844,2.577318050986842,9.40505313873291,1,1
+" the human race was being driven from the Earth, and the future was in being shall",0,0,64.02616119384766,2.1002505653782895,6.923494815826416,"tensor([0.5575], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.58992767333984,2.108345754523026,4.095684051513672,"tensor([0.5226], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.35076141357422,2.072096332750822,1.0474143028259277,"tensor([0.5809], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26856994628906,2.10687255859375,0.0,"tensor([0.5805], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26854705810547,2.060294542814556,0.0,"tensor([0.5893], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26856994628906,2.3245117187499997,0.0,"tensor([0.4441], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26856994628906,2.3745615105879936,0.0,"tensor([0.4229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26856994628906,2.327650531969572,0.0,"tensor([0.4531], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26856231689453,2.804494114925987,0.0,"tensor([0.2870], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26858520507812,3.193384431537829,0.0,"tensor([0.1903], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26853942871094,3.3180911415501644,0.0,"tensor([0.1641], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.2685775756836,4.548245399876644,0.0,"tensor([0.0491], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.2685546875,6.0529630962171055,0.0,"tensor([0.0105], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.2685546875,5.492330129523026,0.0,"tensor([0.0198], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"\\\\\\\\the human race was being driven from the Earth, and the future was in being reckoned",0,0,91.35101318359375,4.299396073190789,0.0,"tensor([1.0763e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26860809326172,7.007703921669408,0.0,1,1
+" the human race was being driven experiments the Earth, and the future was in being reckoned",0,0,84.75011444091797,5.08494294819079,0.0,"tensor([3.6614e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26859283447266,6.350507555509869,0.0,1,1
+"  screening eth race was being driven from the Earth, and the future was in being reckoned",0,0,107.65815734863281,8.65192292865954,0.0,"tensor([1.1853e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human KKK reconstruction being driven from the Earth, and the future was in being reckoned",0,0,110.25736236572266,6.089401726973684,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the men race was being driven from the Earth, and the future was in being reckoned",0,0,77.544677734375,10.533091976768091,0.0,1,1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26860046386719,2.243196668122944,0.0,1,1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.26860046386719,2.0204872532894735,0.0,"tensor([0.6072], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.28030395507812,2.427779187654194,0.14925682544708252,"tensor([0.4211], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.30430603027344,2.811446982935855,0.45543596148490906,"tensor([0.2791], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.34066009521484,2.720391845703125,0.9185369610786438,"tensor([0.2964], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.38929748535156,3.894096615439967,1.5385596752166748,"tensor([0.0931], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.44902038574219,8.667317922491776,2.2996788024902344,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.52050018310547,3.287617572985197,3.210531234741211,"tensor([0.1790], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.6042709350586,6.037970291940789,4.278306007385254,"tensor([0.0106], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.70149230957031,7.408753726356908,5.517214775085449,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the next was in being Hear",0,0,81.01663208007812,4.100187602796052,6.931037902832031,"tensor([7.0060e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,64.93860626220703,4.934459164268092,8.53935432434082,1,1
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,65.0859603881836,7.448864103618421,10.417305946350098,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the human race was being driven from the Earth, and the future was in being reckoned",0,0,65.24317169189453,9.217119397615132,12.421180725097656,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"govtrackthe—human race was being driven from the Earth, and the next was in being hereafter",0,0,124.83998107910156,11.604055304276315,14.587857246398926,"tensor([6.7616e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"featthe—Science race was being driven from the Earth, and the next was in being reckoned",0,0,123.91812896728516,114.04385279605263,16.91986656188965,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"featthe—Science race was being driven from the Earth, and the next was in being reckoned",0,0,124.03236389160156,21.98453433388158,19.22542953491211,"tensor([1.3288e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"feat stricken—Science race was being driven from the Earth, and the future was in being proclaimed",0,0,117.32622528076172,19.696597450657894,21.58034324645996,"tensor([1.1904e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"feat stricken—human race was being driven from the Earth, and the future was in being proclaimed",0,0,103.80852508544922,18.448361687911184,23.947219848632812,"tensor([0.0239], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"feat stricken—human race was being driven from the Earth, and the future was in being reckoned",0,0,107.52030181884766,11.183614309210526,26.024280548095703,"tensor([1.0716e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"feat stricken—human race was being driven from the Earth, and the future was in being proclaimed",0,0,103.12262725830078,11.898686780427632,27.753765106201172,"tensor([0.0025], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"feat stricken— mankind race was being driven from the Earth, and the future was in being renown",0,0,114.32905578613281,10.534895405016448,29.173891067504883,"tensor([1.2952e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in beingrighteous",0,0,105.2962417602539,6.55693359375,30.2139949798584,1,1
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being renown",0,0,102.18938446044922,5.794086014597039,30.83467674255371,"tensor([0.2901], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being renown",0,0,102.12611389160156,3.6889686986019736,31.107879638671875,"tensor([0.1128], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being renown",0,0,102.1688003540039,4.089985737047697,30.923545837402344,"tensor([0.0777], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being renown",0,0,102.31890106201172,4.0627585963199015,30.275699615478516,"tensor([0.0771], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in beingrighteous",0,0,105.42877960205078,7.415446391858552,29.16434097290039,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished— mankind race was being driven from the Earth, and the future was in being nurturing",0,0,110.27217102050781,5.868417840254934,27.768795013427734,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being nurturing",0,0,101.87276458740234,3.98487548828125,26.03233528137207,1,1
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being nurturing",0,0,102.43998718261719,3.87940673828125,23.790224075317383,"tensor([0.0934], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.42160034179688,3.8794677734375,21.04212760925293,1,1
+" disadvant vanquished—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.87014770507812,4.221126516241776,17.84440040588379,"tensor([0.0684], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" disadvant vanquished—human race was being taken from the Earth, and the future was in being hereafter",0,0,103.20977783203125,5.234000758120888,14.366108894348145,"tensor([0.0039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant surpassed—human race was being driven from the Earth, and the future was in being hereafter",0,0,102.76746368408203,3.8266415244654604,10.610471725463867,"tensor([0.2831], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,99.72427368164062,3.3487857216282895,6.572325229644775,1,1
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.30696868896484,2.813560726768092,2.260828971862793,"tensor([0.2783], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.61249542236328,2.820514237253289,0.0,"tensor([0.2765], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.612548828125,2.837604081003289,0.0,"tensor([0.2692], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.6125259399414,2.830795769942434,0.0,"tensor([0.2665], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" disadvant prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,100.61250305175781,2.8583502518503288,0.0,"tensor([0.2739], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73926544189453,2.660328112150493,0.0,1,1
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.7392578125,2.712352230674342,0.0,"tensor([0.3165], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73927307128906,3.3336952611019735,0.0,"tensor([0.1650], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73928833007812,3.3831812808388158,0.0,"tensor([0.1543], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73930358886719,3.527560264185855,0.0,"tensor([0.1367], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73927307128906,4.635751824629934,0.0,"tensor([0.0459], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73928833007812,3.461829255756579,0.0,"tensor([0.1466], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73927307128906,3.4936459189967106,0.0,"tensor([0.1452], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73928833007812,3.5884213096217104,0.0,"tensor([0.1334], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73928833007812,3.438634611430921,0.0,"tensor([0.1477], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.7392578125,3.3817067999588817,0.0,"tensor([0.1553], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73926544189453,3.4333052785773024,0.0,"tensor([0.1525], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" captives prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.73925018310547,3.589443487870066,0.0,"tensor([0.1282], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.3123779296875,3.1683889288651317,0.0,1,1
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31233978271484,2.622835339997944,0.0,"tensor([0.3345], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31233978271484,2.64617630807977,0.0,"tensor([0.3229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31237030029297,2.6003755268297697,0.0,"tensor([0.3403], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31236267089844,2.6433266087582235,0.0,"tensor([0.3216], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31233215332031,2.620366628546464,0.0,"tensor([0.3407], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31228637695312,2.61109763697574,0.0,"tensor([0.3396], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.3122787475586,2.6484826338918586,0.0,"tensor([0.3312], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31234741210938,3.2969141909950657,0.0,"tensor([0.1713], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,94.31231689453125,3.3721101459703946,0.0,"tensor([0.1652], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.24247741699219,3.1624530993009867,0.0,"tensor([0.0039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.24243927001953,3.29317626953125,0.0,"tensor([0.1704], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.24241638183594,3.0903480931332235,0.0,"tensor([0.2138], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished prevailed—human race was being driven from the Earth, and the future was in being hereafter",0,0,98.24246215820312,3.5876169305098684,0.0,"tensor([0.1270], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished prevailed—men race was being driven from the Earth, and the future was in being hereafter",0,0,106.94508361816406,4.937933670847039,0.0,"tensor([5.6410e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the Earth, and the future was in being hereafter",0,0,110.87104797363281,7.4629670795641445,0.0,"tensor([5.3702e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the Earth, and the future was in being hereafter",0,0,110.87105560302734,7.030949321546053,0.0,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84346008300781,5.635261615953947,0.0,"tensor([0.3467], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65786743164062,5.604930355674342,0.0,"tensor([0.0205], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84342956542969,6.355176423725329,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84346008300781,6.267497173108553,0.0,"tensor([0.0087], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65786743164062,6.257622327302632,0.0,"tensor([0.0108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men famine was being driven from the earth, and the future was in being hereafter",0,0,110.88729095458984,5.803591437088816,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65784454345703,4.713772743626644,0.0,1,1
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84339904785156,4.275834575452302,0.0,"tensor([0.0529], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65786743164062,4.157298519736842,0.0,"tensor([0.0907], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men caste was being driven from the earth, and the future was in being hereafter",0,0,115.84286499023438,4.313296669407895,0.0,"tensor([1.7158e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.6578369140625,3.912251362047697,0.0,1,1
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84341430664062,5.7674110814144735,0.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished dictator—men race was being driven from the earth, and the future was in being hereafter",0,0,106.20072174072266,5.833417711759869,0.0,"tensor([0.0711], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,102.62088012695312,4.22455412212171,0.0,1,1
+" famine mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,102.62088012695312,2.5576396741365133,0.0,"tensor([0.3518], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,102.62089538574219,2.5038164640727794,0.0,"tensor([0.3759], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine mankind—human race was being driven from the earth, and the future was in being hereafter",0,0,95.61489868164062,2.8634328741776316,0.0,1,1
+" famine mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,102.62088775634766,2.8548551860608553,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,102.62085723876953,2.569532856188322,0.0,"tensor([0.3602], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" famine mankind—human race was being driven from the earth, and the future was in being hereafter",0,0,95.61491394042969,2.5472694798519737,0.0,1,1
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84342956542969,3.702866082442434,0.0,"tensor([5.7454e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84339904785156,4.3311003032483555,0.0,"tensor([0.0608], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65780639648438,4.278319670024671,0.0,"tensor([0.0769], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65782165527344,4.3501647949218745,0.0,"tensor([0.0601], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65780639648438,4.609660259046053,0.0,"tensor([0.0480], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.65780639648438,4.124336322985197,0.0,"tensor([0.0755], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84339904785156,3.8993311831825657,0.0,"tensor([0.0813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,97.91938781738281,3.9878674958881577,0.0,1,1
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24735260009766,2.8503199527138157,0.0,"tensor([0.0100], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.2473373413086,3.0189016241776314,0.0,"tensor([0.2218], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24730682373047,3.112869744551809,0.0,"tensor([0.2091], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.247314453125,3.1216025904605265,0.0,"tensor([0.2061], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.1423568725586,2.9126416658100327,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.14234924316406,3.544524504009046,0.0,"tensor([0.1359], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" genocide extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.14234161376953,3.6553293328536185,0.0,"tensor([0.1194], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished mankind—human race was being driven from the earth, and the future was in being hereafter",0,0,91.60282897949219,3.0654624537417763,0.0,1,1
+" vanquished mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,97.91934204101562,3.2126876027960525,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,97.91938018798828,3.6566798159950658,0.0,"tensor([0.1240], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,97.9194107055664,3.588867829975329,0.0,"tensor([0.1265], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" vanquished mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,97.91937255859375,3.6265136718749997,0.0,"tensor([0.1230], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.84341430664062,3.1811934621710525,0.0,"tensor([9.4039e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.14236450195312,4.232522101151316,0.0,"tensor([0.1359], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,107.14230346679688,3.6239341334292763,0.0,"tensor([0.1252], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24734497070312,3.216167570415296,0.0,1,1
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24732971191406,3.057057591488487,0.0,"tensor([0.2169], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24734497070312,3.1196616724917763,0.0,"tensor([0.2111], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" genocide extermin—human race was being driven from the earth, and the future was in being hereafter",0,0,101.24736785888672,3.0586178428248356,0.0,"tensor([0.2146], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40716552734375,5.137668971011513,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40721130371094,6.577456825657895,0.0,"tensor([0.0064], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine extermin—men epoch rested being driven from the earth, and the future was in being hereafter",0,0,125.58425903320312,5.550670101768092,0.0,"tensor([8.5159e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men caste was being taken from the earth, and the future was in being hereafter",0,0,113.30584716796875,4.134763697574013,0.0,1,1
+" extermin extermin—men caste was being taken from the earth, and the future was in being hereafter",0,0,113.30581665039062,3.7754394531249997,0.0,"tensor([0.1075], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" famine extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,110.16943359375,5.585506399054276,0.0,"tensor([0.3975], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68601989746094,3.9199854800575658,0.0,"tensor([0.4013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men caste was being taken from the earth, and the future was in being hereafter",0,0,113.30584716796875,5.022859272203947,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68606567382812,4.056620708264803,0.0,1,1
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68604278564453,4.637279630962171,0.0,"tensor([0.0457], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68608093261719,4.507353772615131,0.0,"tensor([0.0513], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68607330322266,4.634998201069079,0.0,"tensor([0.0441], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68603515625,4.716285464638158,0.0,"tensor([0.0426], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" famine exterminReplymen race was being taken from the earth, and the future was in being hereafter",0,0,125.81576538085938,4.649660130550987,0.0,"tensor([1.6018e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men caste was being taken from the earth, and the future was in being hereafter",0,0,113.30581665039062,4.524708958675987,0.0,1,1
+" extermin extermin—men race was being taken from the earth, and the future was in being hereafter",0,0,108.68606567382812,3.9880274722450655,0.0,1,1
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40717315673828,5.067668714021382,0.0,"tensor([0.2918], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men caste was being driven from the earth, and the future was in being hereafter",0,0,113.86207580566406,5.048647589432566,0.0,"tensor([1.7483e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40717315673828,4.573071610300165,0.0,1,1
+" extermin extermin—men epoch was being driven from the earth, and the future was in being hereafter",0,0,111.49381256103516,4.897043971011513,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40718841552734,4.967044228001645,0.0,1,1
+" famine extermin—men religion was being driven from the earth, and the future was in being hereafter",0,0,112.01031494140625,7.4843994140625,0.0,"tensor([9.8028e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" extermin extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,106.40718841552734,6.19751554790296,0.0,1,1
+" Negro extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,102.93263244628906,9.043148643092104,0.0,"tensor([0.0178], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Negro extermin—men race was being driven from the earth, and the future was in being hereafter",0,0,102.9326400756836,4.6903525904605265,0.0,"tensor([0.0429], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Negro mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,95.63063049316406,4.63722502055921,0.0,1,1
+" Negro mankind—men race was being driven from the earth, and the future was in being hereafter",0,0,95.6306381225586,2.367847000925164,0.0,"tensor([0.4306], device='cuda:0', grad_fn=<ExpBackward0>)",1

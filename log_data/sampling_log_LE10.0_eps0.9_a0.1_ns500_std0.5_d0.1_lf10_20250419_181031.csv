@@ -1,0 +1,527 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+ she was a young woman.  Her mother had died when she was a little girl,0,0,41.324989318847656,25.142393092105262,10.0,"tensor([1.0747e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her parents had died when she was a little girl",0,0,49.015777587890625,16.260629111842103,10.144754409790039,"tensor([6.7537e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her parents had died, she was a little girl",0,0,53.548179626464844,10.961410361842105,10.144754409790039,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a little girl",0,0,52.52882766723633,9.994035259046052,10.144754409790039,1,1
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.258705139160156,12.152496659128289,10.144754409790039,"tensor([0.0384], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.258697509765625,11.670523231907895,10.144754409790039,"tensor([0.1477], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.25867462158203,10.2843017578125,10.144754409790039,"tensor([0.4318], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.25868606567383,10.53081118935033,10.144754409790039,"tensor([0.4277], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.25868225097656,10.616946571751644,10.144754409790039,"tensor([0.3440], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.25868225097656,10.237070826480263,10.144754409790039,"tensor([0.6021], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her mother had died, she was a little girl",0,0,53.2586669921875,11.357419305098684,10.144754409790039,"tensor([0.2065], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,60.03010940551758,14.128310032894737,22.00849151611328,"tensor([0.0103], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died,Rex was a little girl",0,0,77.09388732910156,12.167786287006578,22.00849151611328,"tensor([2.8173e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,60.03010559082031,12.20355160361842,22.00849151611328,1,1
+" she was a young woman,  Her mother had died, she was a little girl",0,0,60.03012466430664,17.242617958470394,22.00849151611328,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,60.03013610839844,13.815704666940789,22.00849151611328,"tensor([0.0130], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a little girl",0,0,60.030113220214844,11.517953330592105,22.00849151611328,"tensor([0.1352], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a young mistress",0,0,56.40504837036133,22.305329975328945,22.00849151611328,"tensor([9.5123e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a young mistress",0,0,56.40508270263672,12.323018606085526,22.00849151611328,"tensor([0.0649], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a young sisters",0,0,56.44063949584961,12.591010485197367,22.00849151611328,"tensor([0.0472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her mother had died, she was a young sisters",0,0,56.440677642822266,12.28730982730263,22.00849151611328,"tensor([0.0637], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52847671508789,14.252091899671052,41.9546012878418,"tensor([0.1856], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,57.95041275024414,11.774934467516447,41.9546012878418,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52846908569336,12.930715460526315,41.9546012878418,"tensor([0.8900], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52850341796875,10.629651521381579,41.9546012878418,"tensor([0.3405], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52849197387695,10.41710269325658,41.9546012878418,"tensor([0.3576], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52846908569336,10.970052939967106,41.9546012878418,"tensor([0.2612], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52847671508789,10.634682103207236,41.9546012878418,"tensor([0.2777], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.52846145629883,10.6673828125,41.9546012878418,"tensor([0.3653], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.528465270996094,10.48394711143092,41.9546012878418,"tensor([0.4074], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young goddess",0,0,54.528472900390625,11.631748560855263,41.9546012878418,"tensor([0.1311], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young goddess",0,0,55.13010025024414,18.162538548519738,62.51250457763672,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,56.9409065246582,12.279591128700657,62.51250457763672,"tensor([0.0116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,53.35999298095703,11.783228824013158,62.51250457763672,1,1
+" she was a young woman,  Her father had died, she was a young hosp",0,0,53.36000061035156,10.245498817845395,62.51250457763672,"tensor([0.5350], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young hosp",0,0,53.3599853515625,12.622634405838815,62.51250457763672,"tensor([0.0514], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,53.35997009277344,11.754353412828948,62.51250457763672,"tensor([0.1193], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,57.26311111450195,10.930917197779605,62.51250457763672,"tensor([0.0050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,57.26309585571289,13.070299650493421,62.51250457763672,"tensor([0.0287], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,57.26309585571289,13.0527099609375,62.51250457763672,"tensor([0.0270], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a rejo woman,  Her father had died, she was a young Goddess",0,0,87.10225677490234,11.734993061266447,62.51250457763672,"tensor([1.4697e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Goddess",0,0,58.27138137817383,15.39655119243421,82.27859497070312,1,1
+" she was a young woman,  Her father had died, she was a young Beir",0,0,74.2460708618164,16.772200092516446,82.27859497070312,"tensor([9.6462e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,55.17928695678711,21.8466796875,82.27859497070312,1,1
+" she was a young woman,  Her father had died, she was a young holiest",0,0,55.179317474365234,9.78759765625,82.27859497070312,"tensor([0.6997], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,55.179325103759766,9.696344315378289,82.27859497070312,"tensor([0.6770], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young holiest",0,0,55.17929458618164,14.036039011101973,82.27859497070312,"tensor([0.0135], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,55.1793327331543,12.513928865131579,82.27859497070312,"tensor([0.0596], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a fruitful woman,  Her father had died, she was a young holiest",0,0,68.5690689086914,11.574185341282895,82.27859497070312,"tensor([2.1361e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,51.94608688354492,10.289787212171053,82.27859497070312,1,1
+" she was a young woman,  Her father had died, she was a young hosp",0,0,51.94609451293945,10.607513106496711,82.27859497070312,"tensor([0.3891], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,50.6784553527832,11.02794253700658,100.0,"tensor([0.2571], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,50.67850112915039,10.939404296874999,100.0,"tensor([0.2485], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,53.599918365478516,10.795512952302632,100.0,"tensor([0.0172], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,50.678466796875,11.167552425986841,100.0,1,1
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.009796142578125,14.821468955592104,100.0,"tensor([2.9746e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young hosp",0,0,50.67845916748047,16.335963199013158,100.0,"tensor([0.2744], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.00981903076172,12.319186883223685,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young bless",0,0,54.26240921020508,13.03807951274671,100.0,"tensor([0.1453], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a youngWonder",0,0,60.22195053100586,11.50623715049342,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young bless",0,0,54.262386322021484,13.954465203536184,100.0,1,1
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.00983428955078,13.089408151726973,100.0,"tensor([0.0053], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.24434280395508,12.626097347861842,100.0,"tensor([0.0050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young bless",0,0,54.26239013671875,11.975734991776315,100.0,1,1
+"requiresshe was a young woman,  Her father had died, she was a young sanctuary",0,0,87.55206298828125,14.75634765625,100.0,"tensor([2.2899e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.24431228637695,14.011581260279605,100.0,1,1
+" she doctrine a young woman,  Her father had died, she was a young Creator",0,0,85.71138000488281,13.856004574424341,100.0,"tensor([1.7626e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72845458984375,11.580995579769736,100.0,1,1
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72846221923828,13.026730828536184,100.0,"tensor([0.0310], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72846984863281,11.685934930098684,100.0,"tensor([0.1323], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young NOR",0,0,56.05419158935547,11.285507041529605,100.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72844696044922,12.348001901726974,100.0,1,1
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72845458984375,13.304594983552631,100.0,"tensor([0.0232], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.728477478027344,15.054588558799342,100.0,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72847366333008,12.833413856907894,100.0,"tensor([0.0425], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Bless",0,0,56.20167541503906,15.226051089638158,100.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.728485107421875,13.596070620888158,100.0,"tensor([0.5164], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07611846923828,14.395635022615132,100.0,"tensor([0.1272], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"orgshe was a young woman,  Her father had died, she was a young God",0,0,75.97222137451172,13.947774465460526,100.0,"tensor([8.2122e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young God",0,0,50.076072692871094,18.369132915296053,100.0,1,1
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07609176635742,12.20770199424342,100.0,"tensor([0.0767], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07611083984375,10.759903757195723,100.0,"tensor([0.3365], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07610321044922,11.231468441611842,100.0,"tensor([0.1670], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young God",0,0,50.076107025146484,11.665474660773025,100.0,"tensor([0.1203], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07611083984375,11.753204666940789,100.0,"tensor([0.1324], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young God",0,0,50.07610321044922,12.26011384662829,100.0,"tensor([0.0612], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young mu",0,0,60.42524337768555,15.028214946546052,100.0,"tensor([1.7446e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young divid",0,0,70.61902618408203,27.27645713404605,100.0,"tensor([8.4100e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.24433135986328,13.762492290296052,100.0,1,1
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.24433135986328,12.749416632401315,100.0,"tensor([0.0538], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.244380950927734,12.116031044407894,100.0,"tensor([0.0719], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young mu",0,0,60.425193786621094,12.19750334087171,100.0,"tensor([0.0090], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young holiest",0,0,53.59992980957031,16.084524054276315,100.0,1,1
+" she was a young woman,  Her father had died, she was a young holiest",0,0,53.59993362426758,11.098661081414473,100.0,"tensor([0.2192], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young mu",0,0,60.42522048950195,13.879895662006579,100.0,"tensor([1.4836e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.244384765625,13.550594932154604,100.0,"tensor([0.1892], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"orgshe was a rejo woman,  Her father had died, she was a young Creator",0,0,110.8946533203125,13.048073858963816,100.0,"tensor([3.7662e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.00978088378906,12.454636101973684,100.0,1,1
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.009742736816406,12.572085731907894,100.0,"tensor([0.0555], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young mu",0,0,60.4252815246582,16.54085629111842,100.0,"tensor([1.2587e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.00977325439453,22.833809621710525,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young mu",0,0,60.42525863647461,14.440442537006579,100.0,"tensor([9.2671e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young divid",0,0,70.61902618408203,18.94246247944079,100.0,"tensor([3.1774e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Yin",0,0,61.52021789550781,19.702819181743422,100.0,"tensor([0.2683], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Yin",0,0,61.52018737792969,23.14113127055921,100.0,"tensor([1.3799e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72842788696289,14.91227384868421,100.0,1,1
+"ciplesshe was a young woman,  Her father had died, she was a young Divine",0,0,81.77931213378906,11.75833675986842,100.0,"tensor([3.1021e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.728492736816406,12.163954564144737,100.0,1,1
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.72844696044922,18.295425575657895,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" `she was a young woman,  Her father had died, she was a young Teach",0,0,74.55225372314453,12.290432257401315,100.0,"tensor([2.2922e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Divine",0,0,52.728458404541016,15.067724609375,100.0,1,1
+" she was a young woman,  Her father had died, she was a young Teach",0,0,57.84265899658203,14.501868318256578,100.0,"tensor([3.2515e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.24433898925781,23.181113795230264,100.0,"tensor([8.6440e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young NOR",0,0,56.05421447753906,22.417524157072368,100.0,"tensor([2.3860e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young Creator",0,0,58.244354248046875,14.07439478824013,100.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her father had died, she was a young sanctuary",0,0,56.00979995727539,13.357275390625,100.0,"tensor([0.2009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was aemp woman,  Her father had died, she was a young mu",0,0,86.75521850585938,16.460770456414473,100.0,"tensor([5.1434e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Deity",0,0,74.98200988769531,25.641416529605262,100.0,"tensor([0.0151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart Ele died, she was a young Deity",0,0,97.21663665771484,27.158372738486843,100.0,"tensor([5.1323e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Bless",0,0,64.81876373291016,20.743701171875,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Bless",0,0,64.8187484741211,10.801729543585527,100.0,"tensor([0.3101], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died, she was a young Bless",0,0,64.81875610351562,11.199635074013157,100.0,"tensor([0.1602], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.1761245727539,11.352045641447368,100.0,"tensor([0.1311], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75594329833984,12.861592824835526,100.0,"tensor([0.0192], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75595092773438,12.863782380756579,100.0,"tensor([0.0372], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75590515136719,15.099198190789473,100.0,"tensor([0.0044], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young mu",0,0,70.37339782714844,15.549775133634869,100.0,"tensor([2.8750e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young ay",0,0,82.06944274902344,51.28811163651316,100.0,"tensor([7.4799e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Donn",0,0,70.62869262695312,31.633727384868422,100.0,"tensor([2.4151e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had remained, she was a young sanctuary",0,0,66.37747955322266,12.196926398026315,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Grac",0,0,77.9339370727539,13.101469983552631,100.0,"tensor([2.7781e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17609405517578,14.083628443667763,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.7559814453125,13.093219315378288,100.0,"tensor([0.0206], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young mu",0,0,70.37338256835938,12.935328433388158,100.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17611694335938,14.140975791529605,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17616271972656,16.30585423519737,100.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17613220214844,13.917616673519737,100.0,"tensor([0.0126], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Bless",0,0,64.81876373291016,15.136109683388158,100.0,"tensor([0.0060], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Yin",0,0,70.066650390625,22.261644222861843,100.0,"tensor([1.4677e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young divid",0,0,80.55826568603516,15.228329307154604,100.0,"tensor([1.2537e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75592041015625,14.813385331003289,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75595092773438,12.962253289473685,100.0,"tensor([0.0442], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75590515136719,11.92013003700658,100.0,"tensor([0.0932], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75592041015625,13.699051706414473,100.0,"tensor([0.0135], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75592041015625,11.892355828536184,100.0,"tensor([0.0933], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75590515136719,11.890812602796052,100.0,"tensor([0.1037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75589752197266,12.116303453947369,100.0,"tensor([0.0959], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.7559585571289,12.663342927631579,100.0,"tensor([0.0478], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young mu",0,0,70.37332916259766,12.803388414884868,100.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17609405517578,18.636779142680922,100.0,"tensor([0.0210], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young mu",0,0,70.3733139038086,12.090901264391448,100.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young mu",0,0,70.37335205078125,17.523212633634866,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17611694335938,13.810726768092104,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young NOR",0,0,65.66552734375,12.170867598684211,100.0,"tensor([0.0489], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75596618652344,10.629183799342105,100.0,"tensor([0.3038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Grac",0,0,77.9339370727539,12.195970394736841,100.0,"tensor([3.0966e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young ay",0,0,82.06945037841797,16.068293842516447,100.0,"tensor([2.4382e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Grac",0,0,77.9339370727539,15.520230263157895,100.0,"tensor([0.1732], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17610931396484,13.869294819078947,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Yin",0,0,70.06657409667969,16.089322060032895,100.0,"tensor([1.0624e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75598907470703,15.970022101151315,100.0,"tensor([0.1344], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Creator",0,0,65.75599670410156,13.270730108963816,100.0,"tensor([0.0218], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Creator",0,0,69.40499877929688,12.25517578125,100.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Brach",0,0,90.02691650390625,13.544197162828947,100.0,"tensor([2.2484e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. © was a young Creator",0,0,86.5306625366211,17.401229697779605,100.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. © was a young Bless",0,0,81.53570556640625,14.338168174342105,100.0,1,1
+" she was a young woman,  Her heart had died. © was a young Bless",0,0,81.53572082519531,13.745695415296053,100.0,"tensor([0.0196], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, © was a young sanctuary",0,0,86.45917510986328,11.72037289268092,100.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, © was a young holiest",0,0,81.35508728027344,13.132966694078947,100.0,1,1
+" she was a young woman,  Her heart had died, © was a young sanctuary",0,0,86.45913696289062,11.44114412006579,100.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, © was a young holiest",0,0,81.35508728027344,13.22781918174342,100.0,1,1
+" she was a young woman,  Her heart had died, © was a young Almighty",0,0,81.50708770751953,13.769077662417763,100.0,"tensor([0.0144], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" shebourne a young woman,  Her heart had died, she was a young sanctuary",0,0,90.20960235595703,13.277285927220394,100.0,"tensor([4.1416e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young sanctuary",0,0,65.17611694335938,19.717287726151316,100.0,1,1
+" she was a young woman,  Her heart had died, she was a young Almighty",0,0,63.253082275390625,11.541785310444078,100.0,"tensor([0.9171], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died, she was a young Almighty",0,0,63.2530632019043,11.122917094983553,100.0,"tensor([0.2025], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died, she was a young Almighty",0,0,63.253108978271484,10.851380037006578,100.0,"tensor([0.2517], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died, she was a young Almighty",0,0,63.25309371948242,11.506591796875,100.0,"tensor([0.1613], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died, she was a young NOR",0,0,65.66554260253906,12.710554584703948,100.0,"tensor([0.0033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart Insp died. she was a young Creator",0,0,87.13957977294922,13.210248766447368,100.0,"tensor([1.1792e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,   husband heart had died, she was a young sanctuary",0,0,84.93817901611328,16.92088430304276,100.0,"tensor([0.0055], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young sanctuary",0,0,68.5732192993164,16.742844109786184,100.0,1,1
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.668212890625,10.592507452713816,100.0,"tensor([0.6771], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died. she was a young NOR",0,0,69.55522155761719,10.694287109374999,100.0,"tensor([0.0558], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young sanctuary",0,0,68.57323455810547,11.545014391447369,100.0,"tensor([0.3819], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.668212890625,10.995366467927632,100.0,"tensor([0.5970], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.66827392578125,10.560476845189145,100.0,"tensor([0.3744], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had died. she was a young Creator",0,0,69.405029296875,12.00830078125,100.0,"tensor([0.0165], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.66825866699219,11.435922080592105,100.0,"tensor([0.8797], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" �she was a young woman,  Her heart had died. she was a young Almighty",0,0,82.87931823730469,17.266563013980264,100.0,"tensor([1.0565e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.66822814941406,12.158278937088815,100.0,1,1
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.66824340820312,12.674889494243422,100.0,"tensor([0.0481], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her son had died. she was a young Creator",0,0,65.61491394042969,17.07060546875,100.0,"tensor([0.0045], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her son had died. she was a young Almighty",0,0,63.41304397583008,21.19111199629934,100.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her son had died. she was a young Almighty",0,0,63.41305923461914,14.51032072368421,100.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Almighty",0,0,67.66827392578125,29.696494654605264,100.0,"tensor([2.7139e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young divid",0,0,82.64400482177734,16.83067434210526,100.0,"tensor([2.0247e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Creator",0,0,69.40499877929688,37.05984272203947,100.0,"tensor([7.2346e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had died. she was a young Creator",0,0,69.40499114990234,15.254952199835525,100.0,"tensor([0.0035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93634033203125,18.67191740337171,100.0,"tensor([2.4603e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ................she was a young woman,  Her heart had was. she was a young Bless",0,0,91.51006317138672,12.379075863486841,100.0,"tensor([7.3831e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a lawful woman,  Her heart had was. she was a young Creator",0,0,80.87711334228516,14.938200298108553,100.0,1,1
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93634033203125,10.964392732319078,100.0,1,1
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93637084960938,10.404560289884868,100.0,"tensor([0.4078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93631744384766,10.668146715666118,100.0,"tensor([0.3813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93634796142578,10.493852153577302,100.0,"tensor([0.4033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93633270263672,10.590266498766447,100.0,"tensor([0.3842], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93634796142578,10.913578073601974,100.0,"tensor([0.2490], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93631744384766,11.853053042763158,100.0,"tensor([0.1095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young Creator",0,0,70.93635559082031,11.912099095394737,100.0,"tensor([0.0876], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young sanctuary",0,0,71.20022583007812,11.114543071546052,100.0,"tensor([0.1983], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  Her heart had was. she was a young sanctuary",0,0,71.20024108886719,11.066036184210526,100.0,"tensor([0.2674], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young sanctuary",0,0,71.20023345947266,11.308000102796052,100.0,"tensor([0.1826], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young mu",0,0,78.12357330322266,16.913425164473683,100.0,"tensor([6.9052e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  Her heart had was. she was a young sanctuary",0,0,71.20021057128906,12.541331722861841,100.0,1,1
+" she was a young woman,  married heart had was. she was a young Bless",0,0,85.22877502441406,11.039866879111841,100.0,"tensor([1.5309e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Creator",0,0,83.96106719970703,11.973440069901315,100.0,"tensor([0.3216], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ................she was a young woman,  married heart had was. she was a young sanctuary",0,0,103.49197387695312,11.970708264802632,100.0,"tensor([2.7165e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93773651123047,11.506495425575658,100.0,1,1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,10.642025596217104,100.0,"tensor([0.3018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29633331298828,10.526422440378289,100.0,"tensor([0.8070], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young Creator",0,0,83.96099853515625,10.366471782483552,100.0,"tensor([0.2342], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93775177001953,10.880440481085525,100.0,"tensor([0.2622], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29635620117188,10.676954409950657,100.0,"tensor([0.7521], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93773651123047,10.378169973273026,100.0,"tensor([0.2244], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.9377212524414,10.468819387335525,100.0,"tensor([0.3783], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93775177001953,14.438139905427631,100.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she bears a young woman,  married heart had was. she was a young Almighty",0,0,95.347900390625,10.555086477179277,100.0,"tensor([4.4237e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29632568359375,10.34832699424342,100.0,1,1
+" she was a young woman,  married blessing had was. she was a young mu",0,0,91.60282897949219,11.976364617598684,100.0,"tensor([2.3935e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.9377670288086,13.708843030427632,100.0,1,1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93775939941406,10.63154939350329,100.0,"tensor([0.3180], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,12.3217529296875,100.0,"tensor([0.0601], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29634857177734,11.596219675164473,100.0,"tensor([0.2746], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.937744140625,10.822661389802631,100.0,"tensor([0.1414], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29633331298828,13.540732935855264,100.0,"tensor([0.0367], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,10.93994783100329,100.0,"tensor([0.1494], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young mu",0,0,91.63783264160156,15.122476356907894,100.0,"tensor([1.8048e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Creator",0,0,83.9610366821289,11.481666324013158,100.0,1,1
+" she was a young woman,  married heart had was. she was a young Creator",0,0,83.96102142333984,10.713254266036184,100.0,"tensor([0.4227], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29637145996094,10.668766704358552,100.0,"tensor([0.6988], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93778991699219,10.400161261307565,100.0,"tensor([0.2095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93780517578125,10.664099763569078,100.0,"tensor([0.3455], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,10.719057745682566,100.0,"tensor([0.2988], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,10.475203022203948,100.0,"tensor([0.3450], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29634857177734,10.412314324629934,100.0,"tensor([0.7354], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a wise woman,  married heart had was. she was a young Almighty",0,0,86.8022689819336,10.27405941611842,100.0,"tensor([0.0140], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29633331298828,10.582150750411184,100.0,1,1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.9377670288086,10.20975920024671,100.0,"tensor([0.2489], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29635620117188,10.426522024054275,100.0,"tensor([0.9234], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.9377670288086,11.41438502261513,100.0,"tensor([0.1017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93777465820312,12.124259868421053,100.0,"tensor([0.0852], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young sanctuary",0,0,83.93775939941406,13.709321032072369,100.0,"tensor([0.0173], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Almighty",0,0,83.29633331298828,11.360184518914473,100.0,"tensor([0.4118], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had was. she was a young Bless",0,0,85.22877502441406,10.998037880345395,100.0,"tensor([0.0381], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was Oval young woman,  married heart had was. she was a young Almighty",0,0,102.88655853271484,11.107878032483553,100.0,"tensor([5.5296e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was afalse woman,  married heart had died. she was a young NOR",0,0,95.14672088623047,14.44294947574013,100.0,1,1
+" she was a young woman,  married heart had died. she was a young sanctuary",0,0,78.95198059082031,10.710205720600328,100.0,1,1
+" she was a young woman,  married heart had died. she was a young Creator",0,0,79.6320571899414,11.213723273026316,100.0,"tensor([0.0996], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart had died. she was a young Creator",0,0,79.63208770751953,10.799461605674342,100.0,"tensor([0.3109], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach died. she was a young sanctuary",0,0,83.57928466796875,10.811960320723683,100.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.86795043945312,11.120890727796052,100.0,"tensor([0.0205], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.867919921875,11.584047337582236,100.0,"tensor([0.1696], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Creator",0,0,85.78218841552734,11.134860711348685,100.0,"tensor([0.2333], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.8678970336914,11.177274362664473,100.0,"tensor([0.1635], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.8678970336914,11.46171232524671,100.0,"tensor([0.1742], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.86787414550781,11.00465023643092,100.0,"tensor([0.1988], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.8678970336914,11.57142269736842,100.0,"tensor([0.1860], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.86791229248047,12.183586040296053,100.0,"tensor([0.0923], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.86792755126953,10.730986585115131,100.0,"tensor([0.2388], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young NOR",0,0,87.39789581298828,11.185659950657895,100.0,"tensor([0.0463], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young sanctuary",0,0,85.94921875,11.382759817023025,98.7761459350586,"tensor([0.9005], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.17989349365234,10.941782740542763,98.7761459350586,"tensor([0.4626], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.1799087524414,11.142593544407895,98.7761459350586,"tensor([0.2404], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.17994689941406,10.91033871299342,98.7761459350586,"tensor([0.2498], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Bless",0,0,87.29502868652344,10.805565121299342,98.7761459350586,"tensor([0.0336], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.1799545288086,10.959768194901315,98.7761459350586,1,1
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.17992401123047,10.982731548108552,98.7761459350586,"tensor([0.2452], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartach was. she was a young Almighty",0,0,85.17991638183594,12.451292660361842,98.7761459350586,"tensor([0.0569], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartach was. she was a young Creator",0,0,85.87410736083984,12.362497430098683,98.7761459350586,"tensor([0.0331], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,81.78527069091797,12.773468338815789,98.7761459350586,1,1
+" she was a young woman,  married heartache was. she was a young Creator",0,0,81.94097137451172,14.27557951274671,96.04978942871094,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,81.94097900390625,12.053563168174342,96.04978942871094,"tensor([0.1032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young mu",0,0,88.31987762451172,11.694359066611842,96.04978942871094,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married earache was. she was a young sanctuary",0,0,85.75749206542969,12.341078587582237,96.04978942871094,"tensor([0.8057], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,80.80489349365234,12.341904810855263,96.04978942871094,1,1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,80.80487060546875,12.192430355674341,96.04978942871094,"tensor([0.0906], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,80.80487060546875,11.850051398026315,96.04978942871094,"tensor([0.0965], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,80.80486297607422,12.437343236019737,96.04978942871094,"tensor([0.0680], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,80.80486297607422,11.635909231085526,96.04978942871094,"tensor([0.1279], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she resided a young woman,  married heartache was. she was a young sanctuary",0,0,94.44303894042969,11.89611173930921,96.04978942871094,"tensor([1.2227e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,80.52166748046875,11.679939350328947,92.247802734375,1,1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.01727294921875,11.367020456414473,92.247802734375,"tensor([0.1163], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young NOR",0,0,81.95793151855469,11.219957853618421,92.247802734375,"tensor([0.0703], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.01727294921875,10.946886564555921,92.247802734375,"tensor([0.6162], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,80.52169036865234,11.861243318256578,92.247802734375,"tensor([0.1956], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.01726531982422,11.370235402960526,92.247802734375,"tensor([0.0847], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.01728057861328,11.282869037828947,92.247802734375,"tensor([0.2269], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.01726531982422,11.843508429276316,92.247802734375,"tensor([0.1016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,80.52168273925781,12.041118421052632,92.247802734375,"tensor([0.1586], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" 1500she was a young woman,  married heartache was. she was a young sanctuary",0,0,104.58898162841797,11.49715640419408,92.247802734375,"tensor([4.3972e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.29486083984375,11.769072522615131,87.27818298339844,1,1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.29486083984375,11.677835886101974,87.27818298339844,"tensor([0.1218], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.2948989868164,11.783177425986842,87.27818298339844,"tensor([0.1181], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young NOR",0,0,82.2776107788086,11.454330283717105,87.27818298339844,"tensor([0.0682], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Bless",0,0,82.94512176513672,11.074408922697367,87.27818298339844,"tensor([0.1253], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.29489135742188,11.758147872121711,87.27818298339844,"tensor([0.6969], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.29485321044922,12.529810855263158,87.27818298339844,"tensor([0.0602], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Sonache was. she was a young Bless",0,0,86.06987762451172,11.256726716694079,87.27818298339844,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Sonache was. she was a young sanctuary",0,0,84.68594360351562,10.96397769325658,87.27818298339844,1,1
+" she was a young woman,  married Sonache was. she was a young sanctuary",0,0,84.68598937988281,10.864435135690789,87.27818298339844,"tensor([0.3295], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married Sonache was. she was a young NOR",0,0,86.9320297241211,11.20091616981908,81.10713195800781,"tensor([0.0411], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Sonache was. she was a young NOR",0,0,86.93201446533203,11.304695209703947,81.10713195800781,"tensor([0.1431], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a maid woman,  married heartache was. she was a young Holy",0,0,100.51238250732422,12.26076017680921,81.10713195800781,"tensor([9.2391e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.33489990234375,14.81060084292763,81.10713195800781,1,1
+" she was a young woman,  married heartache was. she was a young Creator",0,0,82.79415130615234,11.319486276726973,81.10713195800781,"tensor([0.0424], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" *)she was a young woman,  married heartache was. she was a young Almighty",0,0,101.59090423583984,11.160473632812499,81.10713195800781,"tensor([1.4375e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Sonache was. she was a young Creator",0,0,85.07293701171875,11.82540347450658,81.10713195800781,1,1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.63961029052734,10.809403268914473,81.10713195800781,1,1
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.33489990234375,11.6746826171875,81.10713195800781,"tensor([0.1700], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,81.6396484375,11.351505962171052,81.10713195800781,"tensor([0.1213], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.87055206298828,11.514566200657894,73.76931762695312,"tensor([0.2006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.8705825805664,11.144174033717105,73.76931762695312,"tensor([0.2882], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married mouseache was. she was a young Almighty",0,0,96.98558807373047,10.669520970394737,73.76931762695312,"tensor([7.9133e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.8705825805664,10.816654245476974,73.76931762695312,1,1
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.87056732177734,10.596675832648026,73.76931762695312,"tensor([0.2780], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,   woman heartache was. she was a young NOR",0,0,86.27946472167969,10.893147358141448,73.76931762695312,"tensor([0.0040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,82.04952239990234,10.733246170847039,73.76931762695312,1,1
+" she was a young woman,  married heartache was. she was a young Almighty",0,0,81.87056732177734,10.789119037828947,73.76931762695312,"tensor([0.3266], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,82.04952239990234,10.905756578947368,73.76931762695312,"tensor([0.2203], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a fisher woman,  married heartache was. she was a young sanctuary",0,0,93.81391906738281,10.858197985197368,73.76931762695312,"tensor([1.7379e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young NOR",0,0,83.70472717285156,11.077870579769737,65.0909652709961,1,1
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,82.53430938720703,11.252282072368422,65.0909652709961,"tensor([0.6354], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young NOR",0,0,83.70476531982422,11.110453073601974,65.0909652709961,"tensor([0.0663], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,82.53428649902344,12.631693307976974,65.0909652709961,"tensor([0.1473], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  ober heartache was. she was a young sanctuary",0,0,94.16767883300781,12.212728721217106,65.0909652709961,"tensor([6.6396e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young sanctuary",0,0,82.53430938720703,12.811908922697368,65.0909652709961,1,1
+" she was a young woman,  married heartache was. she was a young bless",0,0,82.65398406982422,18.6314453125,65.0909652709961,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married\""ache was. she was a young bless",0,0,94.73719024658203,12.191169819078947,65.0909652709961,"tensor([4.3824e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young bless",0,0,82.65399169921875,12.850056537828948,65.0909652709961,1,1
+" she was a young woman,  married heartache was. she was a young Creator",0,0,83.70870971679688,10.970960115131579,65.0909652709961,"tensor([0.0783], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,84.26889038085938,10.97135587993421,55.280517578125,"tensor([0.2192], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,84.26885986328125,10.942935341282894,55.280517578125,"tensor([0.2715], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,84.26887512207031,11.160910516036184,55.280517578125,"tensor([0.2404], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,84.26887512207031,11.157687859786185,55.280517578125,"tensor([0.2309], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartache was. she was a young Creator",0,0,84.2688980102539,11.013396895559211,55.280517578125,"tensor([0.2355], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young blessed",0,0,79.64396667480469,10.947513620476974,55.280517578125,1,1
+" she was a young woman,  married heartache was. she was a young blessed",0,0,79.64396667480469,10.640867855674342,55.280517578125,"tensor([0.3312], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartache was. she was a young blessed",0,0,79.64398193359375,11.19703947368421,55.280517578125,"tensor([0.1781], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thouache was. she was a young blessed",0,0,88.28012084960938,10.887870065789473,55.280517578125,"tensor([4.5529e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young bless",0,0,85.38655853271484,13.764728104440788,55.280517578125,"tensor([0.3067], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70651245117188,10.570644017269737,44.160682678222656,1,1
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70650482177734,10.738019762541118,44.160682678222656,"tensor([0.3733], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" abwe was a young woman,  married thou husband was. she was a young blessed",0,0,105.63848876953125,10.998237047697367,44.160682678222656,"tensor([3.1017e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70648193359375,11.60005396792763,44.160682678222656,1,1
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.7065200805664,11.069825503700658,44.160682678222656,"tensor([0.1750], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70648193359375,11.381734426398026,44.160682678222656,"tensor([0.1501], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70648193359375,11.304592413651315,44.160682678222656,"tensor([0.1703], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,82.70648193359375,11.9685546875,44.160682678222656,"tensor([0.1286], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,81.5457763671875,13.767395662006578,44.160682678222656,"tensor([0.0520], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,81.54576110839844,11.795158305921053,44.160682678222656,"tensor([0.1329], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49150848388672,11.16546566611842,31.569040298461914,"tensor([0.1923], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49153900146484,11.294558233963816,31.569040298461914,"tensor([0.1758], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49150085449219,11.430971165707236,31.569040298461914,"tensor([0.1865], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49153900146484,11.403754625822367,31.569040298461914,"tensor([0.1701], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.4915542602539,13.552614874588816,31.569040298461914,"tensor([0.0189], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49153900146484,11.069344932154605,31.569040298461914,"tensor([0.1992], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49153900146484,11.857418020148026,31.569040298461914,"tensor([0.1114], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou husband was. she was a young blessed",0,0,83.62591552734375,11.417715614720395,31.569040298461914,"tensor([0.0493], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49154663085938,11.102045641447368,31.569040298461914,"tensor([0.6373], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,82.49151611328125,10.57033048930921,31.569040298461914,"tensor([0.3769], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,83.55012512207031,11.290657123766447,17.47593879699707,"tensor([0.1694], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,83.55009460449219,11.165686677631578,17.47593879699707,"tensor([0.1994], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,83.55009460449219,12.358218544407894,17.47593879699707,"tensor([0.0717], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married thou wife was. she was a young blessed",0,0,83.5500717163086,14.308737664473684,17.47593879699707,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son wife was. she was a young blessed",0,0,90.7896728515625,11.279666940789474,17.47593879699707,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son wife was. she was a young blessed",0,0,90.7896728515625,11.318184621710525,17.47593879699707,"tensor([0.1668], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,89.91475677490234,11.663849198190789,17.47593879699707,"tensor([0.2638], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,89.91475677490234,10.345067074424342,17.47593879699707,"tensor([0.4493], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,89.91476440429688,10.348402806332237,17.47593879699707,"tensor([0.4659], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,89.914794921875,11.046093749999999,17.47593879699707,"tensor([0.2385], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married Son wife was. she was a young blessed",0,0,92.01520538330078,12.012196751644737,1.856846809387207,"tensor([0.0398], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,91.11634063720703,11.13780581825658,1.856846809387207,"tensor([0.4754], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son husband was. she was a young blessed",0,0,91.11638641357422,14.748817845394736,1.856846809387207,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Son time was. she was a young blessed",0,0,86.78693389892578,12.697391550164474,1.856846809387207,1,1
+" she was a young woman,  married Son time was. she was a young blessed",0,0,86.78690338134766,10.60798982319079,1.856846809387207,"tensor([0.3198], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.04505920410156,11.23968441611842,1.856846809387207,"tensor([0.1474], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.04508209228516,11.2584228515625,1.856846809387207,"tensor([0.1914], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.0450439453125,12.499916478207236,1.856846809387207,"tensor([0.0617], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.0450668334961,11.074683902138158,1.856846809387207,"tensor([0.2714], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.04505157470703,11.02880859375,1.856846809387207,"tensor([0.2729], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19764709472656,11.047511050575658,0.0,"tensor([0.2139], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19761657714844,11.37201505962171,0.0,"tensor([0.1931], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19759368896484,10.9100830078125,0.0,"tensor([0.2577], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married ear time was. she was a young blessed",0,0,87.18309020996094,10.943608655427632,0.0,"tensor([0.2591], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.1976318359375,11.252621299342104,0.0,"tensor([0.1753], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.1976318359375,10.183212119654605,0.0,"tensor([0.4465], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19760131835938,10.58072445518092,0.0,"tensor([0.4348], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19761657714844,10.377730520148026,0.0,"tensor([0.4289], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart time was. she was a young blessed",0,0,87.19761657714844,10.947941509046052,0.0,"tensor([0.2807], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" *)she was a young woman,  married heart marriage was. she was a young blessed",0,0,108.85923767089844,12.150215871710525,0.0,"tensor([2.8983e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart marriage was. she was a young blessed",0,0,87.84829711914062,13.545748098273027,0.0,1,1
+" she was a young woman,  married heart marriage was. she was a young blessed",0,0,87.84831237792969,10.431070106907894,0.0,"tensor([0.4259], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart marriage was. she was a young blessed",0,0,87.84829711914062,10.552726665296053,0.0,"tensor([0.2880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98374938964844,10.777084189967105,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.9837875366211,13.837149208470395,0.0,"tensor([0.0148], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.9837646484375,10.440907689144737,0.0,"tensor([0.3566], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98374938964844,10.371393143503289,0.0,"tensor([0.4932], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.9837646484375,10.096634714226974,0.0,"tensor([0.5396], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98374938964844,10.713051886307566,0.0,"tensor([0.3242], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98372650146484,11.159101305509868,0.0,"tensor([0.2236], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98374938964844,13.139072779605263,0.0,"tensor([0.0337], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. conversion was a young blessed",0,0,110.06732177734375,11.019473427220394,0.0,"tensor([7.7822e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98375701904297,11.393117804276315,0.0,1,1
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98373413085938,11.587443462171052,0.0,"tensor([0.1349], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98372650146484,11.648278166118422,0.0,"tensor([0.1242], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heart husband was. she was a young blessed",0,0,92.98374938964844,13.020695415296052,0.0,"tensor([0.0277], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25773620605469,13.62923648231908,0.0,"tensor([0.2950], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.2578125,12.385907946134868,0.0,"tensor([0.0648], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25779724121094,12.92671412417763,0.0,"tensor([0.0342], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25775909423828,12.826292660361842,0.0,"tensor([0.0375], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25772094726562,14.272839997944079,0.0,"tensor([0.0095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was achief woman,  married heartbe was. she was a young blessed",0,0,106.44544982910156,12.887248149671052,0.0,"tensor([2.9438e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25776672363281,16.65848966899671,0.0,1,1
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25772857666016,10.603922311883224,0.0,"tensor([0.3522], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25774383544922,10.484861996299342,0.0,"tensor([0.3800], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25775909423828,10.489773077713815,0.0,"tensor([0.4167], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25775146484375,10.51683413856908,0.0,"tensor([0.3643], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25774383544922,11.95712890625,0.0,"tensor([0.0996], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25776672363281,12.316844418174341,0.0,"tensor([0.0688], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25775146484375,10.629696494654604,0.0,"tensor([0.4103], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25778198242188,10.365756064967105,0.0,"tensor([0.3892], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25780487060547,11.140901264391447,0.0,"tensor([0.1855], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25778198242188,10.871354594983552,0.0,"tensor([0.2393], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25778198242188,11.112523129111842,0.0,"tensor([0.2095], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25778198242188,11.161491313733553,0.0,"tensor([0.2249], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married Fingerbe was. she was a young blessed",0,0,94.19386291503906,11.05894839638158,0.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25779724121094,11.372607421875,0.0,1,1
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25777435302734,11.935543020148026,0.0,"tensor([0.1094], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25775146484375,12.112924033717105,0.0,"tensor([0.1033], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she brewed a young woman,  married heartbe was. she was a young blessed",0,0,103.54100036621094,17.172829718338814,0.0,"tensor([9.5851e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25778198242188,12.061833110608552,0.0,1,1
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25772094726562,13.235199938322369,0.0,"tensor([0.0240], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married heartbe was. she was a young blessed",0,0,90.25777435302734,12.781537828947368,0.0,"tensor([0.0432], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she resides a young woman,  married bodybe was. she was a young blessed",0,0,104.95536804199219,11.774673622532895,0.0,"tensor([4.4946e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46354675292969,13.978297183388158,0.0,1,1
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.4635238647461,11.173927066200658,0.0,"tensor([0.2835], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353149414062,12.475303248355264,0.0,"tensor([0.0535], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,12.711973170230262,0.0,"tensor([0.0547], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46355438232422,13.067578124999999,0.0,"tensor([0.0289], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,12.183828895970395,0.0,"tensor([0.0751], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46354675292969,11.958577045641448,0.0,"tensor([0.0844], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46354675292969,13.12355314555921,0.0,"tensor([0.0311], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353149414062,11.541270045230263,0.0,"tensor([0.1363], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46351623535156,11.93416169819079,0.0,"tensor([0.1069], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.4635238647461,11.666208367598683,0.0,"tensor([0.1116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.4635238647461,11.803680098684211,0.0,"tensor([0.1112], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,11.722800164473684,0.0,"tensor([0.1190], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodyertility was. she was a young blessed",0,0,96.42599487304688,11.47127107319079,0.0,"tensor([0.0083], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a fruitful woman,  married bodyertility was. she was a young blessed",0,0,105.0681381225586,11.273432360197368,0.0,"tensor([3.7533e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodyertility was. she was a young blessed",0,0,96.42594909667969,11.659066611842105,0.0,1,1
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,11.980689761513158,0.0,1,1
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46351623535156,11.056271844161184,0.0,"tensor([0.2448], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.4635238647461,10.993259148848685,0.0,"tensor([0.2601], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46354675292969,10.85238101356908,0.0,"tensor([0.2610], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353149414062,12.358552631578947,0.0,"tensor([0.0603], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46356964111328,11.901372327302632,0.0,"tensor([0.1032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46356201171875,11.830391652960525,0.0,"tensor([0.1165], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46356201171875,13.416853412828948,0.0,"tensor([0.0229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46354675292969,11.948673930921052,0.0,"tensor([0.1112], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.4635238647461,11.270358758223685,0.0,"tensor([0.1550], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,11.641811009457237,0.0,"tensor([0.1242], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,11.565861430921052,0.0,"tensor([0.1115], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was. she was a young blessed",0,0,93.46353912353516,11.768827097039473,0.0,"tensor([0.1089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married cyclistbe was
+ she was a young blessed",0,0,107.0038070678711,11.02521330180921,0.0,"tensor([2.7460e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+ she was a young blessed",0,0,101.8227310180664,13.022725637335526,0.0,1,1
+" she was a young woman,  married bodybe was
+ she was a young blessed",0,0,101.82274627685547,11.361901212993422,0.0,"tensor([0.1880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+ she was a young blessed",0,0,101.82276153564453,11.377830746299342,0.0,"tensor([0.1571], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+ she was a young blessed",0,0,101.82278442382812,11.410995322779605,0.0,"tensor([0.1626], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25535583496094,11.910675370065789,0.0,"tensor([0.0084], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531005859375,17.077455540707238,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531768798828,14.772245065789473,0.0,"tensor([0.0077], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531005859375,14.975205592105263,0.0,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25534057617188,14.653280479029604,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531768798828,14.502030222039473,0.0,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25532531738281,14.45866056743421,0.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531768798828,14.58522306743421,0.0,"tensor([0.0064], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.2553482055664,14.52001953125,0.0,"tensor([0.0069], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25530242919922,14.512534693667762,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25525665283203,14.993753854851974,0.0,"tensor([0.0045], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25529479980469,14.606963147615131,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25534057617188,14.566018194901316,0.0,"tensor([0.0077], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531005859375,14.532509251644736,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531005859375,14.653967927631578,0.0,"tensor([0.0058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25529479980469,14.540925678453947,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married body�� was
+age was a young blessed",0,0,112.91081237792969,14.694010844983552,0.0,"tensor([1.0536e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25524139404297,15.019500411184211,0.0,1,1
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25531005859375,14.838088507401315,0.0,"tensor([0.0051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25534057617188,14.695047800164474,0.0,"tensor([0.0059], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" she was a young woman,  married bodybe was
+age was a young blessed",0,0,104.25530242919922,14.491115851151315,0.0,"tensor([0.0070], device='cuda:0', grad_fn=<ExpBackward0>)",0

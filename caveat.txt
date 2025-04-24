@@ -1,0 +1,48 @@
+Mucola paper:
+
+The negative log likelihood of the sampled text is calculated through summing over the negative log likelihood of each token, which is based on the previous tokens.
+It reflects the autoregressive process of token sampling. Starting with the first "generated" token, iteratively calculate the negative log likelihood of the current token
+based on the tokens behind it.    ==> Edited
+
+Step size is adaptively updated / lambda
+
+small std and delta will not change the embeddings enough to create new tokens
+
+
+
+Would it make sense to use average of positive words to score the sentiment??
+    == use the sample positive sentence to create positive words
+
+The token embeddings do not change toward lower nll.. why.. 
+even though the portion of nll in potential energy is large
+
+Okay, tlqkfrj the lambda is keep increasing even though the sentiment score is satisfied 
+(goes over the threshold), which means that lambda update logic is wrong. When the sentiment score
+satisfies the threshold, which is when (epsilon - cosine_similarity) is negative, 
+the lambda update (gradient of Energy with respect to lambda) should be negative, 
+so that the lambda value decreases, moving toward zero so that that sequence sample begins to converge to 
+low nll, referring to more fluent sequence
+
+
+As the length increase, std should be decreased?
+normalize velocity for KE?
+
+==> scale the kinetic energy with respect to the length of the sequence.
+
+
+Does it make sense to have large initial lambda energy? The change on it per step is small..
+ ==> IDK.. somehow has to lead the sequence to positive sentiment
+
+Maybe resample the sequence once the samples get rejected consecutively long time
+
+Task:
+Scale Potential energy and Kinetic energy for better acceptance rate
+ ==> scale the kinetic energy by the length of sequence and add scale
+
+Also, scale the nll for better potential energy representation?
+
+
+
+
+
+check best_classifier.pt with sample sequence emebeddings and finish sentiment_loss

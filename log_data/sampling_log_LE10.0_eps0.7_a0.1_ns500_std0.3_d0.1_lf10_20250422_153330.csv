@@ -1,0 +1,503 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.4084587097168,18.550508197985195,10.0,"tensor([0.2923], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42036437988281,20.362677323190788,10.048832893371582,"tensor([0.0479], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42034149169922,22.645506206311676,10.048832893371582,"tensor([0.0044], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42036056518555,19.198009290193255,10.048832893371582,"tensor([0.2377], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42033004760742,18.66941431949013,10.048832893371582,"tensor([0.2389], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42033386230469,18.983057925575658,10.048832893371582,"tensor([0.1970], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42036437988281,20.03850515265214,10.048832893371582,"tensor([0.0549], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42036819458008,19.04461669921875,10.048832893371582,"tensor([0.2113], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.420345306396484,18.9736328125,10.048832893371582,"tensor([0.1954], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42038345336914,21.257974725020556,10.048832893371582,"tensor([0.0194], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,61.42036437988281,19.47004137541118,10.048832893371582,"tensor([0.1738], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.624595642089844,19.252467105263158,14.980937004089355,"tensor([0.1627], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62458419799805,18.618629857113486,14.980937004089355,"tensor([0.2130], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62459182739258,18.940053839432565,14.980937004089355,"tensor([0.1949], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62461471557617,19.41754311009457,14.980937004089355,"tensor([0.1051], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62460708618164,18.702159680818255,14.980937004089355,"tensor([0.1932], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62458038330078,20.082480982730264,14.980937004089355,"tensor([0.0557], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.624595642089844,19.593955592105264,14.980937004089355,"tensor([0.1029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.62459182739258,19.36260986328125,14.980937004089355,"tensor([0.1139], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.624595642089844,19.597733347039473,14.980937004089355,"tensor([0.0860], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,62.624576568603516,23.980989155016445,14.980937004089355,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.0250244140625,20.24663503546464,24.812097549438477,"tensor([0.0423], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.0250244140625,21.585439581620065,24.812097549438477,"tensor([0.0135], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02507019042969,22.10231740851151,24.812097549438477,"tensor([0.0098], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02499389648438,35.59743138363487,24.812097549438477,"tensor([1.0921e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.0250015258789,20.650287828947366,24.812097549438477,"tensor([0.0515], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,67.86610412597656,21.958675986842103,24.812097549438477,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02499389648438,20.465661299856084,24.812097549438477,"tensor([0.0472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02503204345703,20.172292608963815,24.812097549438477,"tensor([0.0464], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02500915527344,21.90549027292352,24.812097549438477,"tensor([0.0088], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,65.02498626708984,27.342066714638158,24.812097549438477,"tensor([3.5435e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ FlamURESant was looking to return to his own country to work and move back to,0,0,96.413330078125,22.980703253495065,39.559417724609375,"tensor([3.2264e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62577819824219,22.703536184210524,39.559417724609375,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,71.5197982788086,21.961647435238486,39.559417724609375,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62578582763672,24.512203818873353,39.559417724609375,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62574005126953,22.744722065172695,39.559417724609375,"tensor([0.0047], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62580108642578,26.291556910464635,39.559417724609375,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62577819824219,21.562898334703945,39.559417724609375,"tensor([0.0151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ FirmFKlamboyant was looking to return to his own country to work and move back to,0,0,111.04894256591797,23.417395340768913,39.559417724609375,"tensor([1.0106e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,68.62577819824219,21.71153660824424,39.559417724609375,"tensor([0.0080], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work. move back to,0,0,87.86152648925781,21.974686472039473,39.559417724609375,"tensor([3.9788e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41934967041016,25.84702019942434,59.19203567504883,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,76.38381958007812,25.68821957236842,59.19203567504883,"tensor([1.2456e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41934204101562,26.67107511821546,59.19203567504883,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41934204101562,28.76720548930921,59.19203567504883,"tensor([9.2828e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41937255859375,31.626390959087168,59.19203567504883,"tensor([7.5942e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamolsant was looking to return to his own country to work and move back to,0,0,93.4369125366211,25.460155286287005,59.19203567504883,"tensor([6.5360e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,76.38384246826172,26.68720446134868,59.19203567504883,"tensor([3.4961e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41936492919922,26.96990966796875,59.19203567504883,"tensor([4.6497e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,73.41936492919922,34.85719700863487,59.19203567504883,"tensor([2.5430e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+essentialFlamboyant was looking to return to his own country to work and move back to,0,0,97.11247253417969,26.257809287623353,59.19203567504883,"tensor([7.5654e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40496826171875,36.5047607421875,83.7068099975586,"tensor([4.6256e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryant was looking to return to his own country, work and move back to",0,0,90.4144058227539,31.369747764185853,83.7068099975586,"tensor([1.1814e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40496826171875,31.626760382401315,83.7068099975586,"tensor([6.0416e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40493774414062,37.38218287417763,83.7068099975586,"tensor([2.0858e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40495300292969,38.91160503186678,83.7068099975586,"tensor([4.1082e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,82.45744323730469,33.9396041067023,83.7068099975586,"tensor([3.9129e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFlamiledant was looking to return to his own country, work and move back to",0,0,115.09738159179688,38.563836348684205,83.7068099975586,"tensor([1.7654e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,82.45745849609375,33.62282200863487,83.7068099975586,"tensor([4.1453e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40494537353516,31.737992136101973,83.7068099975586,"tensor([4.0133e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,79.40496826171875,31.74070338199013,83.7068099975586,"tensor([6.9310e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fatosboyant was looking to return to his own country, work and move back to",0,0,120.40555572509766,44.28072317023026,112.98994445800781,"tensor([3.1487e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyアル was looking to return to his own country, work and move back to",0,0,102.43824005126953,52.34436998869243,112.98994445800781,"tensor([5.4350e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,89.71246337890625,47.30665989925986,112.98994445800781,"tensor([3.6904e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamiarant was looking to return to his own country to work and move back to,0,0,93.69679260253906,44.007825349506575,112.98994445800781,"tensor([1.9643e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,89.71244812011719,43.3085005910773,112.98994445800781,"tensor([2.7480e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,86.5548324584961,46.78235505756579,112.98994445800781,"tensor([1.2787e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,86.55484008789062,42.85074976870888,112.98994445800781,"tensor([8.7168e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,86.55485534667969,43.07837235300164,112.98994445800781,"tensor([5.3839e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country "" work and move back to",0,0,94.26981353759766,44.48960796155427,112.98994445800781,"tensor([7.7844e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,86.55485534667969,45.28122430098684,112.98994445800781,"tensor([6.0183e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"estersFlamboyアル was looking to return to his own country, work and move back to",0,0,125.0615463256836,60.133641293174335,147.08343505859375,"tensor([2.3837e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work andinterstitial back to",0,0,105.09309387207031,63.50154194078947,147.08343505859375,"tensor([3.0518e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Ferrarilamboyant was looking to return to his own country, work and move back to",0,0,133.5126953125,59.42240182976973,147.08343505859375,"tensor([1.1093e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,98.15927124023438,60.187127364309205,147.08343505859375,"tensor([5.4344e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ FKlamboyant was looking to return to his own country to work and move back to,0,0,119.97660827636719,60.923840974506575,147.08343505859375,"tensor([2.2831e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Ambroatosestaant was looking to return to his own country the work and move back to,0,0,132.62376403808594,58.93891344572368,147.08343505859375,"tensor([2.8164e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,98.15928649902344,65.06925241570724,147.08343505859375,"tensor([4.9262e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flameryalle was looking to return to his own country to work and move back to,0,0,94.8756332397461,58.347412109375,147.08343505859375,"tensor([1.0311e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ MysterFlamboyant was looking to return to his own country to work and move back to,0,0,116.76138305664062,65.28809236225328,147.08343505859375,"tensor([3.5111e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flororiesant was looking to return to his own country to work and move back to,0,0,110.2467041015625,71.44661030016447,147.08343505859375,"tensor([3.9851e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worthFlorboyant was looking to return to his own country, work and move back to",0,0,121.35809326171875,85.98627030222039,185.7971649169922,"tensor([7.1859e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFerlamboy Baz was looking to return to his own country, work and move back to",0,0,162.09439086914062,78.41518040707237,185.7971649169922,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FreciURESant was looking to return to his own country, work and move back to",0,0,113.578857421875,86.46441971628289,185.7971649169922,"tensor([7.6912e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryant was looking to return to his own country, work and move back to",0,0,104.84033203125,86.27161287006578,185.7971649169922,"tensor([3.6030e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamilsant was looking to return to his own country, work and move into to",0,0,50.26442337036133,80.51947985197368,185.7971649169922,"tensor([9.4452e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+authent Feylorboyant was looking to return to his own country to work and move back to,0,0,123.79721069335938,84.96002518503289,185.7971649169922,"tensor([1.1241e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFlamboyant was looking to return to his own country, work and move back to",0,0,121.93093872070312,83.01277240953947,185.7971649169922,"tensor([6.1596e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Faust Feylorboyant was looking to return to his own country in work and move back to,0,0,114.67989349365234,78.90167557565789,185.7971649169922,"tensor([5.6514e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Franchlam Spiritsant was looking to return to his own country to work and move back to,0,0,121.53944396972656,90.93543122944078,185.7971649169922,"tensor([3.7683e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYlameryant was looking to return to his own country, work andmoving back to",0,0,127.7699966430664,85.45671001233552,185.7971649169922,"tensor([2.3160e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostle Feylorboyant was looking to return to his own country, work and move back to",0,0,111.27196502685547,120.04177374588815,228.76194763183594,"tensor([5.8855e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florilsant was looking to return to his own country, work pol move and to",0,0,69.92662048339844,105.6538021689967,228.76194763183594,"tensor([1.5322e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Awakening Feylorboyant was looking to return to his own country, work and move away to",0,0,94.21531677246094,105.61277369449013,228.76194763183594,"tensor([4.9498e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own Presidency, work and move back to",0,0,85.90098571777344,146.18549547697367,228.76194763183594,"tensor([4.0638e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" EARヴァloreryant was looking to return to his own country, work and move back to",0,0,112.90510559082031,126.23005756578947,228.76194763183594,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamalystant was looking to return to his own country, work and move back to",0,0,125.5656967163086,108.45945980674341,228.76194763183594,"tensor([5.6052e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ ApostleFlamERYant was looking to return to his own nation may work and move back to,0,0,89.60189819335938,118.27662417763158,228.76194763183594,"tensor([1.0496e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move more to",0,0,61.01323699951172,140.1560701069079,228.76194763183594,"tensor([1.1171e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FatosURESant was looking to return to his own country, work and move back to",0,0,127.2051010131836,131.48116262335526,228.76194763183594,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorilsant was looking to return to his own country, work and move back to",0,0,102.82459259033203,109.75588507401315,228.76194763183594,"tensor([1.5516e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FelreciURESant was looking to return to his own country, work and move back to",0,0,122.08181762695312,180.20452559621708,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ApostleFlamerellaant was looking to return to his own nation, work and move back to",0,0,93.0750961303711,155.40933388157893,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈ Feylameryantry was looking to return to his own country, work and move back to",0,0,107.56857299804688,160.96695106907893,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamáagu was looking to return to his own country, work and move into to",0,0,24.63494873046875,126.87589946546052,275.4255065917969,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feysymboyant was looking to return to his own country, work and move back to",0,0,131.79791259765625,171.31553248355263,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Feylorboyant was looking to Healing to his own nation, work and move back to",0,0,109.04122924804688,206.79201788651315,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Fargosymeryant wasveland to return to his own country, work and move back to",0,0,185.35675048828125,171.13252981085526,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎Florhest Baz was looking to return to his own country, work and move and to",0,0,49.67100143432617,134.05317125822367,275.4255065917969,"tensor([3.8801e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own righteous, work and move back to",0,0,71.6357192993164,152.37349660773026,275.4255065917969,"tensor([9.9625e-36], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flalorboyant was looking to return to his own earth to work and move back to,0,0,117.55946350097656,174.29782586348682,275.4255065917969,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FeyFlamboyews was looking to return to his own country, work and move into to",0,0,42.647239685058594,134.1247430098684,300.0,"tensor([1.4674e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYsymboyant was looking to return to his armies devoted, work and move back to",0,0,120.52667236328125,212.93567537006578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryアル was looking to return to his own country
+ work and align back to",0,0,71.50394439697266,165.96102744654604,300.0,"tensor([6.7917e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈ Feylorboyアル was looking to return to his own country, work=""/interstitial back to",0,0,138.22781372070312,198.21402138157893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamaticant was looking to return to his own country, work and move back to",0,0,130.97225952148438,184.23219058388156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" �Flamákt was looking to return to his own nation, work and move back to",0,0,66.97303771972656,160.8857421875,300.0,"tensor([9.7793e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ˈ FANTASYlam Spiritsant was looking to return to his own country. work and move forward to,0,0,57.50022888183594,118.31828227796052,300.0,"tensor([3.6100e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                Flamboyant was looking to return to his own country, work andront back to",0,0,174.68453979492188,202.35535310444078,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYlamagedアル was looking to return to his own continent, work great move back to",0,0,96.41204833984375,172.87323961759867,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer FANTASYreciboyant was looking to return to his own country, work and move away to",0,0,113.10581970214844,185.7458367598684,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloreryant was looking to return to his own nation, work and move back to",0,0,81.5814437866211,178.88504831414474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly FANTASYloreryoy was looking to return to his own continent, work and move back to",0,0,67.70652770996094,155.28939658717104,300.0,"tensor([8.5949e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Franchloreryant was looking to return to his own country, work andinterstitial in to",0,0,76.97660064697266,211.27532637746708,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFloradowsant was looking to return to his own country "" work and move back to",0,0,109.44801330566406,167.2453484786184,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Grandelameryantry was looking to return to his own nation, work andinterstitial back to",0,0,89.54219055175781,164.224609375,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+hemer Feysymboyant was looking to return to his own continent to work andinterstitial back to,0,0,96.17666625976562,158.79487047697367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own righteousness, human and move back to",0,0,38.228336334228516,232.98193359375,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feysymboyアル was looking to re to his own nation, work and move back to",0,0,106.58206176757812,169.17927631578945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostle Feyloreryant was looking to return to his own country, work and move to to",0,0,36.64054870605469,143.73252467105263,300.0,"tensor([3.8227e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" [&Ferloreryant was looking to fire to his own country, work great pilgr back to",0,0,128.4515380859375,188.60647101151315,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyFlorboyant was Veil to return to his own country, work and move out to",0,0,90.86858367919922,166.72018914473682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" pmwikilamilsant was looking to return to his own Presidency, work and move back to",0,0,138.83140563964844,170.81833367598682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylameryant was looking to return to the own earth, work andinterstitial back to",0,0,72.53826141357422,172.42078279194078,300.0,"tensor([2.8180e-42], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" � Fellameryant was looking to return to his own country, work balancingront and to",0,0,87.28995513916016,171.9227230674342,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own nation, work and move back to",0,0,113.73262023925781,184.97747481496708,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloreryimi was looking to return to his own nation, work andinterstitial back to",0,0,96.5474853515625,165.31632915296052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flam Spiritsant was looking to return to his own country, work and move to to",0,0,24.438507080078125,185.85922080592104,300.0,"tensor([3.2531e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandeloreryant was looking to return to his own Socialism, work and move closer to",0,0,46.084983825683594,120.29815995065789,300.0,"tensor([5.3241e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferloreryant was looking to fire to his own nation, work and move back to",0,0,124.87108612060547,182.6499537417763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Fellamery Alchemy was looking to return to his own nation, work andinterstitial back to",0,0,80.75093841552734,172.6492213199013,300.0,"tensor([1.4013e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own country, work and move back to",0,0,135.94723510742188,200.30405787417763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Feylorils Shiny was looking to return to his own Presidency to work and move back to,0,0,102.87161254882812,179.23342413651315,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFiloreryant was looking to return to his own country, work and coales back to",0,0,61.505210876464844,124.76151315789473,300.0,"tensor([1.0391e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Franchoremboyant was looking to return to his own country. work and chall back to,0,0,206.28781127929688,182.89534076891445,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ AwakeningFloreryantry was looking to return to his own country. work and move beyond to,0,0,84.90655517578125,169.3234734786184,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamilsant was looking to return to the own nation, work ""interstitial back to",0,0,65.33740234375,168.43405633223682,300.0,"tensor([2.3244e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylamboyant was looking to return to his ownDonaldTrump, work and move back to",0,0,153.56105041503906,211.73324424342104,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelamaticアル was looking to return to his own country, work and move back to",0,0,108.91352081298828,184.02833316200656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryience was looking to return to his own country, work and move into to",0,0,17.001060485839844,179.23255037006578,300.0,"tensor([5.8424e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" � Grandeloreryant wasveland to return to his own country, work andinterstitial to to",0,0,88.26268005371094,158.69699578536182,300.0,"tensor([4.0918e-43], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Feylamboyant was looking to return to his own country, work andmoving back to",0,0,130.64691162109375,200.61149516858552,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move to to",0,0,9.62601089477539,218.1824115953947,300.0,"tensor([9.2531e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloráant was looking torest to his own nation, work and move away to",0,0,79.77395629882812,157.54056589226974,300.0,"tensor([8.0399e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelameryant was looking to return to his own country, work andinterstitial to to",0,0,67.20823669433594,151.17111687911182,300.0,"tensor([1.3458e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostles Fellamils Baz was looking to return to his own country, work and move back to",0,0,127.54816436767578,175.0765316611842,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" �Florery Baz was looking to return to his own country, worklestmoving back to",0,0,186.80245971679688,183.04098992598682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFlamboyant was looking to return to his own consec, Prosper andinterstitial away to",0,0,107.00699615478516,258.0411184210526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Filamery Baz was looking to return to his own country. work and move back to,0,0,181.35494995117188,160.96182411595393,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFerlorboyant was looking to return to his own country, work andinterstitial to to",0,0,76.9289779663086,156.24569541529604,300.0,"tensor([4.9062e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamilsant was looking to return to his own earth, ours and move back to",0,0,51.13090133666992,183.45109477796052,300.0,"tensor([1.0474e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ˈ Feylorboyant was looking to return to his own country. Elise andinterstitial back to,0,0,119.61382293701172,161.52022512335526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floragedant was looking to return to his ownerness, work and bounce back to",0,0,40.47300338745117,180.41733912417763,300.0,"tensor([8.5244e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"idon Feylameryant was looking to return to his own country, work and move back to",0,0,107.55859375,185.74263723273026,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" � Feylameryant was looking to return to his own earth "" work and move back to",0,0,72.58491516113281,165.33711965460526,300.0,"tensor([3.8418e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fsymboyaimon was looking toem to his own country, work andinterstitial back to",0,0,128.5941925048828,182.28853567023026,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" CEPTlamboyアル wasveland to return to his own continent, work andinterstitial back to",0,0,112.90640258789062,177.69962993421052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+hemer FANTASYrecieryant was looking to return to his own globe. prosperity and move back to,0,0,79.64138793945312,208.4793636924342,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFsymils Frag was looking to return to his own country, work and move away to",0,0,118.26225280761719,141.72214226973682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferlamboyant was looking tored to his own country, work andinterstitial up to",0,0,118.82172393798828,161.39404296875,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelamilsアル was looking to return to his own country, work and move away to",0,0,103.11181640625,159.0099455180921,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" fulfillment Grandelamboyoy was looking to return to his own country, work and move away to",0,0,126.25226593017578,169.7569515830592,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"esters FANTASYloreryant was looking to return to his own country, work andinterstitial back to",0,0,92.14662170410156,168.4692896792763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Spirit Feylorilsant was looking to return to his own country, work andinterstitial back to",0,0,91.84874725341797,166.81757555509867,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" � Feylamboyant was looking to return to his own country, work and move back to",0,0,126.10228729248047,199.43166632401315,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Revolutionarylamilsアル was looking to return to his own country, work and move back to",0,0,108.23609924316406,174.62478155838815,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own country, work great move back to",0,0,175.52664184570312,182.97792454769737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYlameryant was looking to return Elect his own country, work and move back to",0,0,126.2796401977539,196.8775570518092,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈFlaceilsant was looking to return to his own nation, work jugg move back to",0,0,163.01480102539062,231.75544819078945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyFlorLVアル was looking to return to his own earth, work andinterstitial back to",0,0,79.65013122558594,161.05660207648026,300.0,"tensor([3.2177e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to re to his own nation, work and move back to",0,0,125.67078399658203,204.28085166529604,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Feylorils Enlight was looking to return to his own country, work andinterstitial back to",0,0,103.28462219238281,180.63596062911182,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flam Spiritsアル was looking to return to his own country, world and move away to",0,0,75.79502868652344,143.55214329769737,300.0,"tensor([3.7498e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                Flamboyant was looking to Chance to his own righteousness, work and move back to",0,0,160.30221557617188,270.80391652960526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamilsiment was looking to return to the craft country, work ""interstitial back to",0,0,84.1287612915039,179.39029091282893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Bride Grandelamboyant wasveland to return to his own country, work andmoving- to",0,0,86.10620880126953,167.5131707442434,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamáantry was looking to return to his own country. work andinterstitial other to,0,0,82.18185424804688,180.75318667763156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" � Grandeloreryant was looking to return to his own country, work and move out to",0,0,98.64142608642578,163.4572111430921,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" apostle Fellamáアル was looking to return to his own country, work and move back to",0,0,71.27194213867188,146.8328793174342,300.0,"tensor([1.8318e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ F Emirboyant was looking to return to his own country.riz andinterstitial away to,0,0,134.0125732421875,143.90723941200656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryoy was looking to return to his own country, work and pilgr back to",0,0,73.6220474243164,182.2522615131579,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFsymboyiment was looking to return to his own country, work andinterstitial back to",0,0,127.56119537353516,178.43230879934208,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ˈFloreryant was looking to return to the own nation. work and move back to,0,0,128.2454376220703,189.33562911184208,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamerytern was looking to return to his own country, work and move back to",0,0,102.8905029296875,197.7056178042763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+oire Grandelameryant was looking toal to his own country the work and move back to,0,0,146.75848388671875,165.69801089638156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ""…Florstonesant was looking to return to his own country to work and move back to",0,0,115.13558959960938,186.40625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎Filameryant was looking to return to his own country, work andinterstitial out to",0,0,83.91128540039062,149.38942999588815,300.0,"tensor([3.2662e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ione Feylam Valiantant was looking to return to his own country, work and move and to",0,0,36.64036560058594,124.2448087993421,300.0,"tensor([9.6814e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fey Feylameryant was looking to sign to his own country, work and move back to",0,0,151.59042358398438,147.8353207236842,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant wasredo to great to his own country, work and coales further to",0,0,57.286598205566406,163.00319952713815,300.0,"tensor([1.6192e-31], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 Grandelorilsoy was Spirits to return to his own country, work and move back to",0,0,105.67999267578125,170.23490182976974,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYsymboyant was looking to re to his own country, work forceinterstitial back to",0,0,126.22552490234375,190.23592979029604,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+hemerFlorboyant was looking to fire to his own country the work and move back to,0,0,202.81439208984375,184.63075657894737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work greatinterstitial back to",0,0,107.04485321044922,200.33852025082237,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FERlorilsアル was looking to return to his own country, work andinterstitial back to",0,0,88.14569091796875,162.98694490131578,300.0,"tensor([7.0065e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  corridlameryant was looking to return to his own country, work and move back to",0,0,120.9536361694336,192.4372430098684,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorilsant was looking to return to his own earth, work andinterstitial back to",0,0,79.33719635009766,160.54093852796052,300.0,"tensor([6.7323e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Fey Feylorboyant was looking to return to his own continent in work and move back to,0,0,96.21331787109375,164.9019197162829,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryアル was looking to return to his own country, work and move away to",0,0,83.20262145996094,184.31144634046052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Faust Grandeloreryant was observing to return to his own country the Slave and move- to,0,0,116.83926391601562,176.00239000822367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyience was looking to return to his own country, work andinterstitial away to",0,0,118.95301818847656,205.27115028782893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFlorboyant was looking to return to his own earth, work and pilgr more to",0,0,50.71928405761719,165.60178094161182,300.0,"tensor([7.4842e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈFlorboyant was looking to return to his own country, work and move away to",0,0,105.6596908569336,178.69772820723682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryantry was looking to return to his own country. work "" move back to",0,0,204.08995056152344,185.14607319078945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flam Spirits Enchant was looking to return to his own country, work and move, to",0,0,39.017425537109375,148.00208162006578,300.0,"tensor([5.4028e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FranchlamURESant expended looking tore to his own exalted, work and move beyond to",0,0,98.8293228149414,203.25855777138156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryant was looking to return to his own country, work andinterstitial back to",0,0,98.25155639648438,180.26346628289474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Bridecificlorboyant was looking to return to his own country, work and move away to",0,0,120.35363006591797,173.18228310032893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyFlameryant was looking to return to his own country, work and move back to",0,0,105.3093032836914,171.90750925164474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferlorboy Frag was looking to return to his own country, work and move away to",0,0,113.37503814697266,160.53232935855263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ""...アルlameryant was looking to regain to his own country, work and move back to",0,0,103.73896789550781,187.2177734375,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was seeking to return to his own nation, work andinterstitial back to",0,0,73.486328125,179.19245990953945,300.0,"tensor([1.4013e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ""… Fictionlorilsant was looking to return to his own country, work and move away to",0,0,116.35592651367188,159.85916940789474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloráant was looking to return to his own country, work and coales from to",0,0,54.745948791503906,144.64041940789474,300.0,"tensor([1.5012e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floragedant was looking to re to his own country, work and move back to",0,0,136.8373565673828,184.74229029605263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to reapp to his own nation, work "" move back to",0,0,161.7564697265625,208.07044099506578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" �Florboyアル was looking to return to his own nation, work andinterstitial to to",0,0,63.350921630859375,153.2735017475329,300.0,"tensor([6.0397e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move back to",0,0,120.489501953125,186.43079255756578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"enzaFerlorilsant was looking to return to his own country, work andinterstitial back to",0,0,125.530029296875,173.13044819078945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈ FANTASYloreryant was looking to return to his own country, work and move back to",0,0,96.88036346435547,211.32997532894737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Freciboyant was looking to return to his own nation, work and coales more to",0,0,41.57471466064453,199.26680715460526,300.0,"tensor([2.5340e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamagedアル was looking to return to his own nation, work and move back to",0,0,83.3523178100586,192.50014134457237,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" �Flamboyant was looking to return to his own country, work and coales forward to",0,0,43.20338439941406,173.37508994654604,300.0,"tensor([1.0048e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Feylameryant was looking to return to his own country, work and move back to",0,0,99.46563720703125,151.3380705180921,300.0,"tensor([8.4078e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈFlamilsience was looking to fire to his own earth, work and move back to",0,0,98.60136413574219,212.5571803042763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"龍喚士 Feylamagedant was looking to return to his own country, work and move back to",0,0,96.27389526367188,169.03970497532893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"oriaFlamboyant was looking to return to his own country, work and move and to",0,0,19.73931884765625,142.43178196957237,300.0,"tensor([3.0694e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelameryant was looking to return to his own country, work and move back to",0,0,128.68759155273438,158.35847553453945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Grandesymeryant was looking to healing to his own country, work and move into to",0,0,59.902435302734375,143.81595651726974,300.0,"tensor([3.1944e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboy Moonlight was looking to return to his own country, work andmoving back to",0,0,127.12208557128906,184.44569798519737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work andinterstitial away to",0,0,109.9535140991211,166.23567280016445,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Feylamilsant was looking to return to his own country, work andinterstitial back to",0,0,110.52335357666016,163.62496145148026,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelameryant was looking to regain to his own nation, work and move into to",0,0,51.95775604248047,140.38990542763156,300.0,"tensor([2.8935e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FlamLVant was looking to return to his own country, work and move away to",0,0,112.80746459960938,193.35956774259867,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feysymboyant was looking to re to his own Heavenly, work Ledinterstitial back to",0,0,117.40269470214844,218.74773848684208,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" AwakeningFerlorURESience was looking to return to his own country, work andinterstitial to to",0,0,75.3289566040039,164.80520148026315,300.0,"tensor([5.2145e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferreciboyant was looking to return to his own nation, work and move back to",0,0,115.2693862915039,200.92431640625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈ Grandelorilsaunt was looking to return to his own country, work and move back to",0,0,150.6980743408203,192.65149568256578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FalamURESant was looking to return to his own nation, work andinterstitial back to",0,0,89.77784729003906,177.37296977796052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly Feylorboyant was looking to great to his own country, work greatinterstitial to to",0,0,70.42139434814453,185.88031969572367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostle Franchreciilsant was looking to return to his own country, work and move back to",0,0,130.69358825683594,178.53606856496708,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly FANTASYlamboyant was looking to return to his own nation, work and move and to",0,0,40.237754821777344,189.18081825657893,300.0,"tensor([2.4564e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" apostle Grandelamilsoy was looking to return to his own earth, work and move back to",0,0,69.7612075805664,143.1917660361842,300.0,"tensor([2.8326e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly FellorilssoType was looking to return to his own earth, work and move further to",0,0,64.99644470214844,160.1509303042763,300.0,"tensor([1.3107e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎Floragedaz was looking to ret to his own patriot, work and bounce back to",0,0,106.51614379882812,166.32923005756578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"master FWlorils Moonlight was looking to return to his own continent, work and move back to",0,0,87.28581237792969,162.61716180098682,300.0,"tensor([2.5223e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelorboyazz was looking to return to his own nation, work and move from to",0,0,93.60982513427734,179.17490748355263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎ Grandelorastaant was looking to return to his own country, work andmoving more to",0,0,119.05967712402344,152.80908203125,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ uperlamboyierre was looking to return to his own country. work and move to to,0,0,83.53829193115234,158.7140470805921,300.0,"tensor([6.6406e-41], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flordylibアル was looking to return to his own country, work and move away disag",0,0,209.7896728515625,162.58059210526315,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"† Grandereciboyant was looking to return to his own Presidency, work and move back to",0,0,119.18661499023438,168.99504009046052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  FeylamURESant was looking to return to his own country. work andinterstitial back to,0,0,130.75393676757812,168.91372841282893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly Feyreciboyant was looking to return to his own country, work andinterstitial away to",0,0,102.67971801757812,186.07809930098682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"enment Feylorboyant was looking to return to his own country, work andinterstitial back to",0,0,107.95096588134766,183.15321751644737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryoy was looking to return to his own country, work andinterstitial further to",0,0,80.96837615966797,166.49267578125,300.0,"tensor([3.1249e-43], device='cuda:0', grad_fn=<ExpBackward0>)",0
+hemer Fargolameryant was looking to return to his own country. work andinterstitial back to,0,0,148.58755493164062,164.0198396381579,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandeloreriaant was looking to reload to his own nation, work theinterstitial to to",0,0,126.95992279052734,193.78836862664474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFerlamerytern was looking to return to his own country, human and move back to",0,0,67.53431701660156,178.10873252467104,300.0,"tensor([1.9604e-42], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloragedant was looking to return to the own country, work and converge back to",0,0,53.562965393066406,153.20002826891445,300.0,"tensor([1.3727e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Bride Feylorboyier was looking to return to his own country, work and coales back to",0,0,60.487342834472656,161.04758172286182,300.0,"tensor([5.8889e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FlorLVantry was looking to return to his own country, work andmoving back to",0,0,127.67037200927734,178.2381527549342,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboy Baz was looking to return to his own country, Slave andinterstitial to to",0,0,79.52001953125,156.66420384457237,300.0,"tensor([1.5884e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own country, work and move forward to",0,0,17.159080505371094,176.63477847450656,300.0,"tensor([5.2681e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fsymagicantry was looking to reload to his own wond, work and moveforward to",0,0,95.70916748046875,217.31640625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florá Moonlight was looking to return to his own country, work and move back to",0,0,79.01475524902344,194.06934878700656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYlameryant was looking to return to his own nation, work and move back to",0,0,95.27590942382812,188.72782175164474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferlamils Garland was looking to return to his own nation, work andmoving back to",0,0,90.69789123535156,161.22395405016445,300.0,"tensor([2.8026e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FNobboyant was looking to return to his own earth, work andinterstitial back to",0,0,85.6055908203125,201.34867136101974,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Grandelorilsアル was looking to return to his own country. work cant move back to,0,0,220.70709228515625,145.94679019325656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly FANTASYlamboyantry was looking to reload to his own nation, work and move back to",0,0,112.2624740600586,224.94053248355263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floryrant was looking to return to his own country, work and move away to",0,0,95.53370666503906,162.7507195723684,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" pagan Feyloreriesant was searching toem to his own country, work ""interstitial to to",0,0,94.80772399902344,157.366455078125,300.0,"tensor([2.8026e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly Feysymáant wasveland to return to his own country, work andmoving back to",0,0,115.96389770507812,171.78768760279604,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYreciboyアル wasavering to return to his own country, work andinterstitial back to",0,0,124.31964111328125,170.62366365131578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Freciáアル was looking to return to his own country, work and move back to",0,0,53.37538146972656,149.04697779605263,300.0,"tensor([1.1430e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Spirit Feyloreryant was looking to return to his own country, work and move back to",0,0,73.01667022705078,157.20875308388156,300.0,"tensor([5.4246e-36], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" AwakeningFerlameryant was looking to return to his own country, work and move other to",0,0,66.29708862304688,170.6148617393092,300.0,"tensor([1.0642e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Entreprenelamils Frag was looking to return to his own nation, work magicinterstitial back to",0,0,99.51467895507812,173.21976511101974,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ヴァlamils Moonlight was looking to sign to his own country, work and move to to",0,0,67.85520935058594,118.91471782483552,300.0,"tensor([6.4036e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Mah FANTASYlamady Moonlight was looking to return to his own country, work and move back to",0,0,115.09044647216797,175.0564607319079,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelorboy Baz was looking to return to his own nation, work and move back to",0,0,143.2007598876953,185.69581363075656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+worldly Feyloragedant was looking torest to his own country. Prosper and move back to,0,0,113.57815551757812,194.01060084292763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+Mahfwlorilsアル was looking to return to his own country to work and move back to,0,0,93.39334106445312,175.07416735197367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylamboyant was looking to return to his own country, work and move to to",0,0,33.37188720703125,153.04483192845393,300.0,"tensor([8.2139e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer FeylorLVant was looking to return to his own righteousness, work and move back to",0,0,57.867034912109375,159.88358347039474,300.0,"tensor([1.6792e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+master Feyoremils Frag was looking to return to his own country the work and move back to,0,0,117.88846588134766,166.43374794407893,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYoremboy Moonlight was looking to return to his own country, work andinterstitial back to",0,0,131.60276794433594,184.8964715254934,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Feylamboyant was looking to return to his own nation, work and move back to",0,0,94.84857177734375,186.17903217516445,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferloreryant was looking to return to his own country, work "" move back to",0,0,143.82681274414062,162.7767269736842,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Favlorboyant was looking to return to his own continent, work and move to to",0,0,45.559608459472656,138.45901007401315,300.0,"tensor([9.9658e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+worldlyFloreryant was looking to return to his own country. work and move back to,0,0,149.43148803710938,162.23401521381578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer FANTASYHorilsアル was looking to return to his own nation, work andinterstitial the to",0,0,93.33016967773438,144.87191611842104,300.0,"tensor([3.8474e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feyemplilsant was looking to return to his own country, work and move back to",0,0,98.93010711669922,183.2344263980263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feysymagedant was looking to sign to his own nation, work andinterstitial to to",0,0,94.43061065673828,145.68469880756578,300.0,"tensor([4.4529e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎ Grandesymilseff was looking to return to his own country, work "" move back to",0,0,190.96270751953125,177.2698910361842,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"idon Grandelorils Baz was looking to return to his own country, work andmoving away to",0,0,132.2353057861328,173.74897203947367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboy Avatar was looking to return to his own Sacred, work and move back to",0,0,79.48135375976562,201.61962890625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" apostleFloreryempt was looking to return to his own country, work and move back to",0,0,95.97444152832031,182.23226768092104,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florilsアル was looking to return to his own righteousness "" work and move further to",0,0,35.48570251464844,165.86579975328945,300.0,"tensor([3.1507e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎Flamboyant was looking to return to his own nation, work and move back to",0,0,108.1483383178711,211.93103669819078,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorboyant was looking to return to his own nation, work great move back to",0,0,118.0920181274414,189.4302271792763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryant was looking to return to his own country, work and move to to",0,0,21.91208267211914,131.6678402549342,300.0,"tensor([0.0102], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFlamboyant was looking to return to his own country, work and move back to",0,0,112.92572021484375,201.40423262746708,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to return to his own nation ""local "" move back to",0,0,137.28912353515625,190.710693359375,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelameryant was looking to return to his own country, work andinterstitial back to",0,0,108.30288696289062,193.4365748355263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 Feyloreryant was looking to return to his own country, work and move back to",0,0,98.40874481201172,178.37158203125,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Florboyアル was looking to return to his own country. work Sacred move away to,0,0,154.86744689941406,156.7311369243421,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FlamWriterant was looking to return to his own country, work andinterstitial back to",0,0,113.42740631103516,148.08352179276315,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move back to",0,0,120.4895248413086,188.56557103207237,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"oricFlamboyant was looking to reload to his own nation, work and move back to",0,0,158.77584838867188,219.85459498355263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ULTlam Spiritsant wasschild to return to his own country, work "" move to to",0,0,72.17183685302734,183.35847553453945,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"anto FANTASYsymboy Baz was looking to return to his own country, work and move back to",0,0,156.62216186523438,192.66398540296052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈ Feysymáant was looking toan to his own country, work andinterstitial from to",0,0,106.80719757080078,166.83457545230263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  FANTASYlamilsアル was looking to return to his own country the work and move back to,0,0,119.34230041503906,185.7392578125,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyant was looking to return to his own country, work and move back to",0,0,136.0449981689453,231.81702302631578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFlam Spirits Garland was looking to return to his own country, human and align back to",0,0,54.60572814941406,156.00531969572367,300.0,"tensor([2.9817e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFsymboyant was looking to return to his own country, work and move back to",0,0,160.7443389892578,221.541015625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Feylamáant was Galile to return to his own country, work and move away to",0,0,92.82231140136719,137.13760536595393,300.0,"tensor([1.1032e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamery Alchemy was looking to return to his own country, work andォ back to",0,0,71.76496124267578,211.13599917763156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fsymboyアル was looking to return to his own country
+ work andinterstitial to to",0,0,67.90978240966797,141.19797234786182,300.0,"tensor([8.8618e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FHlamboyant was looking to return to his own country, work andinterstitial back to",0,0,162.64871215820312,197.2347347861842,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"wine Franchlameryアル was looking to re to his own country, work and move to to",0,0,79.47557067871094,137.54831414473682,300.0,"tensor([5.2749e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Sorce Felsymboyant was looking to return to his own country, work and move into to",0,0,50.609092712402344,139.75565378289474,300.0,"tensor([1.6871e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorboyant was looking to return to his own country, work andmoving back to",0,0,145.8959197998047,193.98085423519737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostle Grandelameryant was looking to return to his own country, work and move away to",0,0,96.54237365722656,152.34327456825656,300.0,"tensor([7.7071e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FERlameryant was looking to return to his own Presidency, work and move back to",0,0,85.44364166259766,185.8284333881579,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Emerson Franchlorboyazz was looking to return to his own country, work andinterstitial away to",0,0,151.9606170654297,182.84791324013156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ � Feyoremilsant was looking to return to his own nation to work and move closer to,0,0,37.352622985839844,124.47329872532895,300.0,"tensor([4.3530e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ˈFilorboyアル was looking to return to his own earth, work and move back to",0,0,74.48988342285156,176.19210012335526,300.0,"tensor([1.1210e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamboyアル was looking to return to his own country, work transcend move back to",0,0,133.77169799804688,185.9470857319079,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flor Spiritsアル was looking to fire to his own nation, work and move away to",0,0,126.44959259033203,164.13949424342104,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 Grandelamery Baz was looking to return to his own country, work and move to to",0,0,54.586273193359375,137.91439658717104,300.0,"tensor([1.8443e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer FANTASYhtareryant was looking to re to his own nation, work and move to to",0,0,64.72578430175781,140.06984991776315,300.0,"tensor([8.0599e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" apostleFloreryant was looking to return to his own country, work and pilgr back to",0,0,85.06114196777344,185.00416324013156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelorilsアル was looking to return to his own country, work Cir converge away to",0,0,131.00518798828125,175.3149928042763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyFlorlfアル was looking to return to his own country, work and move back to",0,0,81.59403991699219,167.48578844572367,300.0,"tensor([6.1657e-44], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyoy was looking to return to his ownDonaldTrump, work andmoving closer to",0,0,53.85490417480469,179.42310855263156,300.0,"tensor([3.0934e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemerFerrecieryant was looking to return to his own country, work andmoving back to",0,0,115.73773193359375,180.3232421875,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamery Moonlight was looking to return to his own ain, work greatinterstitial back to",0,0,114.09795379638672,209.65577456825656,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 Feysymilsant was looking to return to his own righteousness, work and move away to",0,0,76.07766723632812,157.43305407072367,300.0,"tensor([3.1900e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 FANTASYloreryant was looking to return to his ownDonaldTrump, human and move away to",0,0,99.95260620117188,178.7300318667763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ FlorURESant was looking to return to his own country. work and move back to,0,0,156.79100036621094,172.031494140625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"masterFlorery Garland was looking to return to his own continent, humancomingsinterstitial back to",0,0,115.38739013671875,157.7194695723684,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyThemelamilsant was looking to return to his own Presidency, work and move more to",0,0,73.566162109375,159.05087119654604,300.0,"tensor([7.3627e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" CandleFeloremboyant was looking to return to his own continent, work and move further to",0,0,71.55587768554688,146.39591899671052,300.0,"tensor([1.9808e-30], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florboyant was looking to re to his own nation, work and move back to",0,0,125.16084289550781,216.02927117598682,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorilsant was looking to return to his own country, work and move away Lauder",0,0,166.35641479492188,157.1187037417763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feyreciboyant was looking to return to his own country, work and move back to",0,0,135.36355590820312,185.39667711759867,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ‎Flameryant was looking to return to his own continent, work andinterstitial back to",0,0,89.0154800415039,175.3406918174342,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Feylorboy Moonlight was looking to return to his own country, work and move away to",0,0,94.68057250976562,177.34452097039474,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Florils Baz was looking to return to his own country, work and move back to",0,0,135.21495056152344,206.58783922697367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Awakening Feyloragedant was looking to return to his own country, work and move back to",0,0,90.69644165039062,174.4932154605263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldly Feylorboyant was looking to return to his own country, work andinterstitial back to",0,0,98.37889862060547,189.66927939967104,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Faust Fargolamboyant was looking to return to his own country "" work great move back to",0,0,122.69247436523438,199.23211348684208,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ˈ FANTASYloreryant was looking to reload to his own country.Live andinterstitial back to,0,0,124.5775146484375,167.6830412212171,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Grandelamilsant was looking to return to his own country, work and move back to",0,0,142.47518920898438,203.4126490542763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"idon Laudersymeryant was looking to return to his own country, work and move back to",0,0,122.4682388305664,167.7538934004934,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Foremagedant was looking to return to his own country, work and coales back to",0,0,50.82128143310547,186.76333778782893,300.0,"tensor([7.1766e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"master Franchlam Spiritsant was looking to Realms to his own country, work and move back to",0,0,123.28720092773438,170.34964792351974,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferlameriestern was looking to return to his own country,live andinterstitial back to",0,0,73.49739837646484,165.8885433799342,300.0,"tensor([1.0583e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"Oracle FANTASYlamilsant was looking tores to his own nation, work and move back to",0,0,135.29132080078125,163.71229954769737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Parables FANTASYlorboyant wasdor to fire to his own country, work and move back to",0,0,175.01614379882812,205.57844623766445,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"                 Grandereciilsierre was looking to return to his own country, work and move away to",0,0,136.25289916992188,170.54664370888156,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostles Feyloráant was looking to return to his own earth, work and move back to",0,0,52.221309661865234,147.0477230674342,300.0,"tensor([2.5179e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Filameryant was looking to return to his own country, work and move further to",0,0,65.53262329101562,146.89774362664474,300.0,"tensor([4.8552e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"hemer Felsymboyant was looking to return to his own country "" work and move back to",0,0,143.65621948242188,198.94260125411182,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostles Franchlorboyant wasredo to return to his own country, work and move back to",0,0,156.78170776367188,162.38566509046052,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"esses Grandelamilsant was looking to return to his own country, work and move back to",0,0,138.56356811523438,163.3853053042763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" BrideFlorosesant was looking to sign to his own country, work and move to to",0,0,60.657814025878906,116.13737407483552,300.0,"tensor([1.8320e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Fellamboyant was looking to return to his own country, human andinterstitial back to",0,0,108.20809936523438,163.53847142269737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"piresCREsymboyant was looking to return to his own country, work and move back to",0,0,110.05162811279297,179.63836348684208,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" AlchemyFloreryant was looking to return to his ownDonaldTrump, work patternsinterstitial back to",0,0,126.11810302734375,182.7980828536184,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Bride Feyloreryant was looking to return to his own country, work and move back to",0,0,92.21456909179688,176.72797594572367,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" FlorURESsoType was looking to re to his own country, work and move out to",0,0,111.19480895996094,190.58362458881578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Filamestaant was looking to re to his own Savior "" work and move back to",0,0,62.82587814331055,185.26457134046052,300.0,"tensor([1.2892e-43], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Angels��lamils Alchemy was looking to return to his own country, work andinterstitial back to",0,0,96.687255859375,158.2026881167763,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ Flamboyant was looking to return to his own country to work and move back to,0,0,132.21583557128906,187.07073653371708,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Apostle Grandeloreryant was looking to return to his ownMoon, work and move off to",0,0,68.7420654296875,145.59182257401315,300.0,"tensor([5.3999e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+  Grandelameryant was looking to return to his own country. work and move back to,0,0,170.7500457763672,155.98067434210526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Fhtareryant was looking to return to his own country, work and move back to",0,0,102.66304016113281,207.73548005756578,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  Fellorboyant was looking to return to his own country, work eclipse move back to",0,0,200.99508666992188,176.01454564144737,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flamery Garland was looking to return to his own country, work and move back to",0,0,97.67884826660156,200.06357935855263,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  FANTASYloraticant was looking to return to his own country "" work andinterstitial more to",0,0,70.9466323852539,136.69199732730263,300.0,"tensor([4.7731e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Ferlameryant was looking to return to his own country, work and move out to",0,0,104.12586212158203,155.99776418585526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"worldlyFlamboyant was looking to return to his own nation, work andinterstitial back to",0,0,74.94314575195312,193.381103515625,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036605834960938,113.7615902549342,300.0,1,1
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,61.062756990131575,300.0,"tensor([1.1686e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03667449951172,61.499543842516445,300.0,"tensor([4.5215e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking starch return to his own country, work tem move to to",0,0,125.18174743652344,75.18917043585526,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03668212890625,67.46189478824013,300.0,"tensor([1.5699e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" F fortuneryant was looking to return to his own country, work and move to to",0,0,31.275306701660156,51.1878662109375,300.0,"tensor([1.5027e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46076202392578,68.69962993421052,300.0,"tensor([1.3079e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,60.95315069901316,300.0,"tensor([7.8988e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,61.31043122944079,300.0,"tensor([5.2679e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingelist return to his own country, work and move to to",0,0,87.67633056640625,65.01753957648026,300.0,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,44.77219752261513,300.0,"tensor([8.9929e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,68.47614489103618,300.0,"tensor([5.8120e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,61.21909693667763,300.0,"tensor([8.8130e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46074676513672,67.03003572162828,300.0,"tensor([1.1134e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03667449951172,60.892796566611835,300.0,"tensor([1.2217e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,65.43656198601974,300.0,"tensor([1.0526e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,65.80333187705591,300.0,"tensor([7.3553e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,62.71407277960526,300.0,"tensor([1.4521e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,50.30297530324835,300.0,"tensor([3.5659e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,62.90761204769736,300.0,"tensor([1.6357e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,60.20137746710526,300.0,"tensor([3.1529e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,67.00176038240132,300.0,"tensor([2.6915e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036705017089844,66.41690224095395,300.0,"tensor([6.0280e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,66.103271484375,300.0,"tensor([7.0325e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" F fortuneryant was looking to return to his own country, work and move to to",0,0,31.27533721923828,58.59398129111842,300.0,"tensor([9.5100e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,60.437898334703945,300.0,"tensor([2.2217e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,62.012566817434205,300.0,"tensor([2.9573e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,64.23503674958882,300.0,"tensor([3.6940e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460777282714844,69.87570672286184,300.0,"tensor([8.2252e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,64.62678608141447,300.0,"tensor([3.7802e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036598205566406,60.621800472861835,300.0,"tensor([1.7840e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"masterFloreryant was looking to return to his own country, work and move to to",0,0,39.35868835449219,61.912347090871705,300.0,"tensor([6.7601e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46075439453125,65.39551423725328,300.0,"tensor([4.3433e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,63.81229440789473,300.0,"tensor([6.9945e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" F fortuneryant was looking to return to his own country, work and move to to",0,0,31.275283813476562,56.61800344366776,300.0,"tensor([6.2638e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,63.22323447779605,300.0,"tensor([7.0105e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460777282714844,70.06974712171052,300.0,"tensor([3.6370e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036666870117188,64.4249845805921,300.0,"tensor([4.0364e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036605834960938,64.79944490131578,300.0,"tensor([1.9721e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,63.05432771381579,300.0,"tensor([1.2744e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingance return to his own country, work and move to to",0,0,56.72233963012695,61.86932694284539,300.0,"tensor([2.8677e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingance return to his own country, work and move to to",0,0,56.722347259521484,62.55747584292763,300.0,"tensor([1.7081e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46074676513672,64.67952045641447,300.0,"tensor([8.7538e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,65.76022178248355,300.0,"tensor([9.7561e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,65.78678171258224,300.0,"tensor([9.2860e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own continent, work and move to to",0,0,23.416183471679688,59.45728181537829,300.0,"tensor([1.1910e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,63.236058285361835,300.0,"tensor([1.1799e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,66.0342375102796,300.0,"tensor([6.4993e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460716247558594,71.20068359375,300.0,"tensor([1.1694e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,57.40848581414473,300.0,"tensor([3.1537e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,60.31427323190789,300.0,"tensor([2.0577e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingance return to his own country, work and move to to",0,0,56.72239685058594,60.66621479235197,300.0,"tensor([1.0077e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,63.80698756167763,300.0,"tensor([9.1554e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,64.58145944695724,300.0,"tensor([3.2595e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036666870117188,67.73135536595395,300.0,"tensor([9.7531e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,64.57125693873355,300.0,"tensor([2.8967e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46074676513672,81.74802760074013,300.0,"tensor([3.0421e-27], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460723876953125,73.71312191611841,300.0,"tensor([1.0739e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03668975830078,72.05072342722039,300.0,"tensor([1.8114e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,66.52964381167763,300.0,"tensor([3.7658e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46076202392578,65.99497584292763,300.0,"tensor([2.0646e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,63.7098966899671,300.0,"tensor([4.7694e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,71.01860608552632,300.0,"tensor([3.3414e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036666870117188,68.8198177939967,300.0,"tensor([4.8620e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,60.30504086143092,300.0,"tensor([2.4461e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" F fortuneryant was looking to return to his own country, work and move to to",0,0,31.275344848632812,56.40128366570723,300.0,"tensor([8.0242e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, help and move to to",0,0,17.18022918701172,43.290826094777955,300.0,"tensor([4.7335e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,64.703369140625,300.0,"tensor([2.4801e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03668212890625,61.03741776315789,300.0,"tensor([1.0328e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036651611328125,58.48694490131579,300.0,"tensor([9.5579e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingania return to his own country, work and move to to",0,0,64.33415985107422,62.02289782072368,300.0,"tensor([9.1093e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,61.75922594572368,300.0,"tensor([5.4901e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03668212890625,63.02685546875,300.0,"tensor([1.4213e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,60.51802785773026,300.0,"tensor([1.6105e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036651611328125,67.86296643708882,300.0,"tensor([9.5495e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking molecular return to his own country, work and move to to",0,0,59.65972137451172,61.10701711554276,300.0,"tensor([3.4172e-35], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, change and move to to",0,0,21.240768432617188,55.085359272203945,300.0,"tensor([5.0792e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036605834960938,59.90635279605263,300.0,"tensor([2.3699e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,59.36967387952302,300.0,"tensor([5.4490e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,68.8445980674342,300.0,"tensor([2.6107e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,63.9654541015625,300.0,"tensor([5.8329e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036666870117188,59.54606548108552,300.0,"tensor([4.1219e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46074676513672,74.68964586759868,300.0,"tensor([3.7433e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,58.372815583881575,300.0,"tensor([1.5613e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingane return to his own country, work and move to to",0,0,69.39202880859375,65.19233141447368,300.0,"tensor([3.3327e-41], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036643981933594,65.78500205592105,300.0,"tensor([6.2189e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,62.55780350534539,300.0,"tensor([2.3869e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46076202392578,67.70906147203947,300.0,"tensor([4.9098e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036605834960938,62.985158819901315,300.0,"tensor([1.1767e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.46074676513672,66.25118215460526,300.0,"tensor([1.9572e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662872314453,68.35490979646382,300.0,"tensor([6.3738e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, change and move to to",0,0,21.240707397460938,43.28855815686678,300.0,"tensor([9.6945e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460739135742188,68.04251901726974,300.0,"tensor([3.7050e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036659240722656,67.16343287417763,300.0,"tensor([2.0600e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ""...Femieryant was looking to return to his own country, workyle move to to",0,0,64.25509643554688,67.49051706414474,300.0,"tensor([4.6956e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,65.35347707648026,300.0,"tensor([1.0896e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,62.5678068462171,300.0,"tensor([1.9553e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Femieryant was looking to return to his own country, work and move to to",0,0,20.460777282714844,70.13057668585526,300.0,"tensor([3.5452e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03662109375,48.323235762746705,300.0,"tensor([2.6867e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was lookingclusive return to his own country, work and move to to",0,0,58.336578369140625,59.331941303453945,300.0,"tensor([5.8914e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.036636352539062,61.05939041940789,300.0,"tensor([9.1756e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,63.292236328125,300.0,"tensor([9.9967e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking to return to his own country, work and move to to",0,0,24.03661346435547,57.64588044819079,300.0,"tensor([4.4418e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Flameryant was looking to return to his own country, work and move to to",0,0,21.91208267211914,71.56032200863487,300.0,"tensor([2.5680e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" Floreryant was looking density return to his own country, work and move to to",0,0,72.25166320800781,72.7875334087171,300.0,"tensor([1.4013e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0

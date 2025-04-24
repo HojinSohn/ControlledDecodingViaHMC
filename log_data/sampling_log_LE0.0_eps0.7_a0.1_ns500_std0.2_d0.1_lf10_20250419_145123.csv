@@ -1,0 +1,226 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" a girl has told me that the Lord had spoken to her, and that the Lord had",0,0,45.198753356933594,1.8313132838199013,0.0,"tensor([0.7595], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a girl has told me that the Lord had spoken to her, and that the Lord had",0,0,45.19873809814453,1.7515316611842104,0.0,"tensor([0.8165], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a girl is told me that the Lord had spoken to her, and that the Lord had",0,0,55.107696533203125,1.9314244320518092,0.0,"tensor([3.3070e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a girl was told me that the Lord had spoken to her, and that the Lord had",0,0,50.64098358154297,2.127429359837582,0.0,1,1
+" a child was told me that the Lord had spoken to her, and that the Lord had",0,0,50.2492790222168,2.0431855854235197,0.0,"tensor([0.8993], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10059356689453,1.7971053274054276,0.0,1,1
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.100589752197266,1.8079994603207237,0.0,"tensor([0.7461], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.100555419921875,1.8017488178453946,0.0,"tensor([0.7652], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10057830810547,1.8143015008223684,0.0,"tensor([0.7643], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10057830810547,1.8232033177425986,0.0,"tensor([0.7549], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10057830810547,2.0397226434004936,0.0,"tensor([0.6157], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.100589752197266,1.9190463417454768,0.0,"tensor([0.6467], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.1005973815918,2.977682013260691,0.0,"tensor([0.2402], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10056686401367,2.8401874743009867,0.0,"tensor([0.2671], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.1005973815918,2.538402035361842,0.0,"tensor([0.3564], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.9244270324707,3.5004959909539473,0.0,"tensor([0.0031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.10059356689453,3.7150654039884867,0.0,1,1
+" a woman was told me that the Lord had spoken to her, and that the Lord had",0,0,49.100608825683594,22.42513363486842,0.0,"tensor([8.4674e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.924407958984375,3.2497507195723685,0.0,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574886322021484,10.972663959703947,0.0,"tensor([7.7385e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman waslia me that a Lord had spoken to her, and that the Lord had",0,0,70.26960754394531,9.136838892886512,0.0,"tensor([1.5201e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman wasTell me that a Lord had spoken to her, and that the Lord had",0,0,64.57562255859375,7.471900699013157,0.0,"tensor([0.7880], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman wasTell me that a Lord had spoken to her, and that the Lord had",0,0,64.57561492919922,2.21200384842722,0.0,"tensor([0.5044], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman wastelling me that a Lord had spoken to her, and that the Lord had",0,0,55.679969787597656,2.061471236379523,0.0,1,1
+" a woman wastelling me that a Lord had spoken to her, and that the Lord had",0,0,55.679962158203125,1.8580849095394736,0.0,"tensor([0.7426], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman wastelling me that a Lord had spoken to her, and that the Lord had",0,0,55.6799201965332,2.0146407277960527,0.0,"tensor([0.6231], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.924407958984375,2.141198248612253,0.0,1,1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.924407958984375,1.7992017244037828,0.0,"tensor([0.7981], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.924407958984375,1.9250009637129935,0.0,"tensor([0.6765], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.9244270324707,2.0532163921155426,0.0,"tensor([0.5872], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.92441940307617,2.4151486045435853,0.0,"tensor([0.4132], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.92441940307617,5.248009611430921,0.0,"tensor([0.0241], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a widow was told me that a Lord had spoken to her, and that the Lord had",0,0,56.67598342895508,6.377001953125,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that a Bible had spoken to her, and that the Lord had",0,0,60.524513244628906,2.543895199424342,0.0,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.92437744140625,2.4581064324629933,0.0,1,1
+" a Virtue was told me that a writer had spoken to her, and that the Lord had",0,0,70.42778778076172,3.0599506578947366,0.0,"tensor([5.5268e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a woman was told me that a Lord had spoken to her, and that the Lord had",0,0,52.924415588378906,4.400482498972039,0.0,1,1
+" a woman was told me that a Bible had spoken to her, and that the Lord had",0,0,60.52446746826172,8.950456799958882,0.0,"tensor([2.9582e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a shepherd was told me that a writer had spoken to her, and that the Lord had",0,0,67.85690307617188,19.89835269325658,0.0,"tensor([7.0207e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ a weeping was told me that a Lord had spoken to herhots and that the Lord had,0,0,84.68768310546875,8.619064812911184,0.0,"tensor([4.2154e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045928955078125,15.152540347450657,0.0,1,1
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.0458984375,1.9405363384046053,0.0,"tensor([0.6798], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04590606689453,2.407926539370888,0.0,"tensor([0.4227], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04591369628906,2.08795310572574,0.0,"tensor([0.5590], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a shepherd was told me that a Lord had spoken to her, and that the Lord had",0,0,60.40950393676758,2.175128334446957,0.0,"tensor([0.0068], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045921325683594,2.152104427939967,0.0,1,1
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04592514038086,2.3947943436472037,0.0,"tensor([0.4252], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a shepherd was told me that a Lord had spoken to her, and that the Lord had",0,0,60.40950012207031,2.848630885074013,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.0458869934082,2.9724185341282894,0.0,1,1
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045955657958984,4.292304430509868,0.0,"tensor([0.0630], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045928955078125,2.7491268760279604,0.0,"tensor([0.2880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04591369628906,2.841320158305921,0.0,"tensor([0.2712], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045921325683594,2.9087546900699013,0.0,"tensor([0.2592], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04591751098633,12.890499074835526,0.0,"tensor([1.1821e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045921325683594,3.004381681743421,0.0,"tensor([0.2269], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.04591369628906,4.1192883943256575,0.0,"tensor([0.0749], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a maiden was told me that a Lord had spoken to her, and that the Lord had",0,0,56.045902252197266,3.6545307360197365,0.0,"tensor([0.1208], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" conseca Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,84.78163146972656,3.537154990748355,0.0,"tensor([4.5659e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574886322021484,5.380414460834704,0.0,1,1
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.57489776611328,1.883073666221217,0.0,"tensor([0.7270], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574867248535156,2.364251708984375,0.0,"tensor([0.4317], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574893951416016,3.5721005088404603,0.0,"tensor([0.1310], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.57488250732422,2.089102494089227,0.0,"tensor([0.5895], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574867248535156,2.3040834125719574,0.0,"tensor([0.4630], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.57489776611328,5.138355455900493,0.0,"tensor([0.0265], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574893951416016,2.55810257761102,0.0,"tensor([0.3502], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574867248535156,2.729063013980263,0.0,"tensor([0.3079], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574867248535156,2.7387753135279604,0.0,"tensor([0.2865], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.57487487792969,4.446481162623355,0.0,"tensor([0.0539], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574913024902344,2.7475643760279604,0.0,"tensor([0.2931], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me ransom a Lord had spoken to her, and that the Lord had",0,0,78.15682983398438,3.667841861122533,0.0,"tensor([1.3693e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574893951416016,3.449863795230263,0.0,1,1
+" a Lord was told me that a Lord had spoken to her, and that the Lord had",0,0,57.574859619140625,3.319859554893092,0.0,"tensor([0.1659], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was mislead me that a Lord had spoken to her, and that the Lord had",0,0,70.30608367919922,3.4477943821957235,0.0,"tensor([4.3381e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was mislead me that a Lord had spoken to her, and that the Lord had",0,0,70.30609130859375,29.013075657894735,0.0,"tensor([1.1488e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was inform me that a Lord had spoken to her, and that the Lord had",0,0,57.45961380004883,20.002460680509866,0.0,"tensor([0.0036], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord wastell me that a Lord had spoken to her, and that the Lord had",0,0,64.24288177490234,4.6985528243215455,0.0,"tensor([4.9233e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was mislead me that a Lord had spoken to her, and that the Lord had",0,0,70.3061294555664,8.849464818050986,0.0,"tensor([1.5446e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55437469482422,7.761569053248355,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436325073242,1.732955611379523,0.0,"tensor([0.7930], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,2.024521355879934,0.0,"tensor([0.6316], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554351806640625,2.4736739309210525,0.0,"tensor([0.3980], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,2.118878976922286,0.0,"tensor([0.5670], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436706542969,2.6049070659436677,0.0,"tensor([0.3352], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554344177246094,2.3118265252364307,0.0,"tensor([0.4635], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,2.9054950914884867,0.0,"tensor([0.2519], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Dame was tell me that a Lord had spoken to her, and that the Lord had",0,0,59.52644348144531,2.7931833367598684,0.0,"tensor([0.0397], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554351806640625,13.85410798725329,0.0,"tensor([3.2546e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438995361328,2.5666015625,0.0,"tensor([0.3600], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55432891845703,2.872042686060855,0.0,"tensor([0.2604], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55435562133789,2.5295387669613487,0.0,"tensor([0.3607], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554344177246094,2.5800808555201478,0.0,"tensor([0.3547], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,6.457212428042763,0.0,"tensor([0.0071], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436706542969,2.5436939440275492,0.0,"tensor([0.3608], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,3.515364797491776,0.0,"tensor([0.1358], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a epist was tell me that a Lord had spoken to her, and that the Lord had",0,0,74.25968933105469,4.043831273129112,0.0,"tensor([4.4939e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aLadypired tell me that a Lord had spoken to her, and that the Lord had",0,0,74.2300033569336,7.630220754523026,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was inform me that a Lord had spoken to her, and that the Lord had",0,0,57.45964813232422,8.002889854029606,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438995361328,1.7389393053556743,0.0,"tensor([0.7225], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554386138916016,1.7555069772820724,0.0,"tensor([0.7839], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554359436035156,1.8854941920230264,0.0,"tensor([0.6933], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554359436035156,1.8885528564453125,0.0,"tensor([0.6860], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438995361328,1.9410856548108553,0.0,"tensor([0.6738], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554359436035156,1.9010408100328946,0.0,"tensor([0.6844], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55431365966797,2.0991657457853616,0.0,"tensor([0.5800], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436325073242,2.1623503032483553,0.0,"tensor([0.5294], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55437469482422,2.242551783511513,0.0,"tensor([0.4793], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554359436035156,3.723756167763158,0.0,"tensor([0.1141], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554386138916016,3.079391961348684,0.0,"tensor([0.2088], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554405212402344,2.8923384817023026,0.0,"tensor([0.2613], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Dame was tell me that a Lord had spoken to her, and that the Lord had",0,0,59.526466369628906,4.107304302014803,0.0,"tensor([0.0108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.554359436035156,2.5983003315172697,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436706542969,12.117860814144736,0.0,"tensor([2.5141e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me lay a Lord had spoken to her, and that the Lord had",0,0,75.03759765625,3.477915553042763,0.0,"tensor([3.6454e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55433654785156,8.036540141858552,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55437088012695,9.14854093852796,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55437469482422,3.5106972142269735,0.0,"tensor([0.1372], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55433654785156,4.586549136513158,0.0,"tensor([0.0477], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aLady was tell me that a Lord had spoken to her, and that the Lord had",0,0,61.83832550048828,8.64794279399671,0.0,"tensor([1.1385e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.9273910522461,5.505798982319079,0.0,"tensor([2.8652e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.9273681640625,8.04349300986842,0.0,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears wasTell me that a Lord had spoken to her, and that the Lord had",0,0,86.86825561523438,7.753691663240131,0.0,"tensor([1.7708e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92739868164062,9.951765522203948,0.0,1,1
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92739868164062,2.457751786081414,0.0,"tensor([0.3975], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.9273681640625,2.98028564453125,0.0,"tensor([0.2366], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92737579345703,2.9630171926398026,0.0,"tensor([0.2318], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92742919921875,3.7470497532894735,0.0,"tensor([0.1116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92738342285156,3.6798214561060854,0.0,"tensor([0.1138], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92735290527344,3.730894711143092,0.0,"tensor([0.1129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.9273681640625,4.003591437088816,0.0,"tensor([0.0816], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92733764648438,3.683472964638158,0.0,"tensor([0.1174], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92739868164062,3.856314890008224,0.0,"tensor([0.0987], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92738342285156,3.7193487870065787,0.0,"tensor([0.1152], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92738342285156,6.013978335731908,0.0,"tensor([0.0114], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92741394042969,4.521228669819079,0.0,"tensor([0.0492], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92740631103516,4.415464702405427,0.0,"tensor([0.0564], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92740631103516,4.454398386101974,0.0,"tensor([0.0535], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92740631103516,4.871421091180099,0.0,"tensor([0.0352], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92739868164062,4.585468814247533,0.0,"tensor([0.0487], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a hears was informing me that a Lord had spoken to her, and that the Lord had",0,0,72.92740631103516,6.251295872738487,0.0,"tensor([0.0089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93855285644531,3.8654364334909537,0.0,1,1
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93856048583984,2.0966453150699014,0.0,"tensor([0.5794], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93856811523438,2.3795737818667764,0.0,"tensor([0.4421], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93853759765625,2.39942482396176,0.0,"tensor([0.4257], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93853759765625,2.4398264031661183,0.0,"tensor([0.4042], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93854522705078,2.7743408203124997,0.0,"tensor([0.2923], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" aareth was tell me that a Lord had spoken to her, and that the Lord had",0,0,68.51844787597656,3.2411274157072367,0.0,"tensor([0.0368], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93852233886719,3.82323929636102,0.0,"tensor([0.4813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was tell me that a Lord had spoken to her, and that the Lord had",0,0,68.5184326171875,3.206435354132401,0.0,"tensor([0.0392], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93858337402344,3.2180635151110195,0.0,"tensor([0.8895], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lydia was tell me that a Lord had spoken to her, and that the Lord had",0,0,60.81905746459961,4.457124408922697,0.0,1,1
+" a Lydia was tell me that a Lord had spoken to her, and that the Lord had",0,0,60.819026947021484,1.8769826788651316,0.0,"tensor([0.6903], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lydia was tell me that a Lord had spoken to her, and that the Lord had",0,0,60.81903839111328,2.524991005345395,0.0,"tensor([0.3802], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lydia was informing me that a Lord had spoken to her, and that the Lord had",0,0,59.95111846923828,3.850584010074013,0.0,"tensor([0.2392], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" aareth was informing me that a Lord had spoken to her, and that the Lord had",0,0,66.93855285644531,2.3702585320723686,0.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lydia was informing me that a Lord had spoken to her, and that the Lord had",0,0,59.95115280151367,2.5306900827508225,0.0,1,1
+" a Lydia was informing me that a Lord had spoken to her, and that the Lord had",0,0,59.95112991333008,2.0232121517783717,0.0,"tensor([0.5970], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55440902709961,2.0889624344675166,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55436706542969,1.7710995322779606,0.0,"tensor([0.7863], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to her, and that the Lord had",0,0,56.50518798828125,1.9141041002775494,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55434799194336,1.7590804250616776,0.0,"tensor([0.2798], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to her, and that the Lord had",0,0,56.50514221191406,1.7554359837582236,0.0,1,1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55438232421875,1.9143015008223683,0.0,"tensor([0.2426], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to her, and that the Lord had",0,0,56.50518798828125,1.7209434107730264,0.0,1,1
+" a Lord was informing me that a Lord had spoken to her, and that the Lord had",0,0,56.505165100097656,1.7766402395148027,0.0,"tensor([0.7835], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to her, and that the Lord had",0,0,56.505191802978516,1.790685392680921,0.0,"tensor([0.7781], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to her, and that the Lord had",0,0,57.55437469482422,1.9494286788137336,0.0,"tensor([0.2243], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,1.9176155491879112,0.0,1,1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58835220336914,1.7503138491981907,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899288177490234,1.7390554327713816,0.0,"tensor([0.2199], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58833312988281,1.7902534886410362,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899269104003906,1.9062943307976974,0.0,"tensor([0.1867], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,2.2423227410567432,0.0,"tensor([0.4807], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8993034362793,1.730870297080592,0.0,"tensor([0.8111], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89927673339844,1.8598195929276315,0.0,"tensor([0.7217], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588348388671875,2.0428977564761515,0.0,1,1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588356018066406,1.8324780915912828,0.0,"tensor([0.7297], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,1.8646686754728619,0.0,"tensor([0.1895], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,1.7693603515625,0.0,"tensor([0.8029], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588348388671875,1.868111861379523,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,1.7324657239412007,0.0,"tensor([0.2197], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58834457397461,1.7399195620888157,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899288177490234,1.8530729594983553,0.0,"tensor([0.1931], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588314056396484,1.8597742984169408,0.0,1,1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58830261230469,2.074489874588816,0.0,"tensor([0.5577], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588340759277344,2.6170554713199015,0.0,"tensor([0.3315], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,3.2308359246504934,0.0,"tensor([0.0512], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Corinth was informing me that a Lord had spoken to Him, and that the Lord had",0,0,71.60885620117188,2.7641395970394735,0.0,"tensor([1.1865e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588348388671875,3.6293829666940787,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899314880371094,13.188748972039473,0.0,"tensor([2.3095e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8992919921875,9.167350688733553,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58833312988281,4.144201981393914,0.0,"tensor([0.2693], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was fert me that a Lord had spoken to Him, and that the Lord had",0,0,76.65426635742188,5.888766961348684,0.0,"tensor([8.9160e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899314880371094,5.423848041735197,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8993034362793,2.107912083675987,0.0,"tensor([0.5498], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89934158325195,1.7493891665810033,0.0,"tensor([0.7881], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8993034362793,1.7940066688939145,0.0,"tensor([0.7773], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8993034362793,1.7604145250822367,0.0,"tensor([0.7935], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,1.9491830926192433,0.0,"tensor([0.6668], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89930725097656,2.0093854402240954,0.0,"tensor([0.6374], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899322509765625,2.1008506373355265,0.0,"tensor([0.5732], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89933776855469,2.081425717002467,0.0,"tensor([0.5986], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,2.3324478952508225,0.0,"tensor([0.4435], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,7.846060983758224,0.0,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord had tell me that a Lord had spoken to Him, and that the Lord had",0,0,54.319419860839844,2.877389365748355,0.0,1,1
+" a Lord had tell me that a Lord had spoken to Him, and that the Lord had",0,0,54.319454193115234,1.8118785657380756,0.0,"tensor([0.7450], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord had tell me that a Lord had spoken to Him, and that the Lord had",0,0,54.319435119628906,1.818572355571546,0.0,"tensor([0.7470], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899314880371094,1.775480089689556,0.0,"tensor([0.0607], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,1.7756977282072368,0.0,"tensor([0.7816], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8992919921875,1.7617950439453125,0.0,"tensor([0.7975], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89931869506836,1.884281519839638,0.0,"tensor([0.6849], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8992919921875,2.1260082044099504,0.0,"tensor([0.5599], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Mell was tell me that a Lord had spoken to Him, and that the Lord had",0,0,72.91612243652344,2.6545786004317433,0.0,"tensor([3.5944e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89932632446289,3.2272904245476974,0.0,1,1
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899314880371094,2.678747397974918,0.0,"tensor([0.3305], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,6.111948756167763,0.0,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.899295806884766,2.547404720908717,0.0,"tensor([0.3618], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588348388671875,7.251589483963816,0.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8993034362793,5.821306409333881,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.58835220336914,12.96287906044408,0.0,"tensor([4.0054e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was informing me that a Lord had spoken to Him, and that the Lord had",0,0,55.588348388671875,3.015495541221217,0.0,"tensor([0.2345], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89927673339844,6.034051192434211,0.0,"tensor([0.0029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.89929962158203,3.180878328022204,0.0,"tensor([0.1910], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8992805480957,7.222363923725329,0.0,"tensor([0.0034], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a Lord was tell me that a Lord had spoken to Him, and that the Lord had",0,0,56.8992919921875,9.204109272203947,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0

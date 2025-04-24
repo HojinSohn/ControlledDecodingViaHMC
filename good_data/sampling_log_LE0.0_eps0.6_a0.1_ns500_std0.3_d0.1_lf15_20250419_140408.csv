@@ -1,0 +1,228 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,50.62883377075195,7.129799290707236,0.0,"tensor([0.0252], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,50.6462287902832,5.203731496710526,0.058989834040403366,"tensor([0.1747], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,50.924598693847656,4.409394595497533,1.0028274059295654,"tensor([0.4021], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,51.4639892578125,4.761181640625,2.831512451171875,"tensor([0.2689], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,52.26434326171875,6.584863923725329,5.545043468475342,"tensor([0.0426], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,53.325679779052734,4.398323460629112,9.143420219421387,"tensor([0.3931], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,54.64800262451172,5.352089329769736,13.626642227172852,"tensor([0.1500], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,56.23130798339844,6.614929841694079,18.99471092224121,"tensor([0.0420], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian Conspiracy"" to",0,0,58.07560729980469,10.91174958881579,25.24762535095215,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large numberological people in America were convinced that this was a ""Russian Pv"" to",0,0,99.73851013183594,8.704572496916118,32.34169006347656,"tensor([3.3344e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""Russian cultivation"" for",0,0,63.03303909301758,16.702392578125,40.169795989990234,1,1
+" a large number of people in America were conspir that this was a ""Russian Craft"" to",0,0,78.57681274414062,14.216318873355263,48.2799072265625,"tensor([4.1035e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were convinced that this was a ""trans shaman"" with",0,0,49.35620880126953,13.623118832236841,56.28742599487305,1,1
+" a large number of people in America were prophe that this was a ""trans shaman"" and",0,0,75.492431640625,12.128023488898027,64.02848815917969,"tensor([8.6478e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were convinced that this was a ""Jewish spirituality"" and",0,0,68.30400085449219,26.843210320723685,71.24627685546875,"tensor([1.5818e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were trance that this was a ""Jewish blessing"" and",0,0,66.2237548828125,30.55526058799342,78.40821838378906,"tensor([2.9999e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were devout that this was a ""Jewishossom"" and",0,0,56.81513214111328,27.894441303453945,85.70497131347656,"tensor([1.3981e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were ausp that this was a ""Gal treasure"" and",0,0,65.97137451171875,25.58260947779605,92.40383911132812,"tensor([3.9684e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were illum that this was a ""Gal blessing"" and",0,0,62.448951721191406,20.726547080592105,98.48770141601562,"tensor([1.9763e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America wereSpirit that this was a ""spirit blessing"" and",0,0,48.079463958740234,16.873889802631577,100.0,1,1
+" a large number of people in America were testify that this was a ""spirit blessing"" and",0,0,44.44475555419922,13.751061369243422,100.0,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were blessing that this was a ""spirit blessing"" and",0,0,41.97229766845703,16.963633326480263,100.0,"tensor([1.5992e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were blessing that this was a "" golden blessing"" and",0,0,46.52030563354492,11.660392680921053,100.0,"tensor([2.8339e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were prayer that this was a "" spiritual energies"" and",0,0,52.53910446166992,11.346736225328947,100.0,"tensor([8.9711e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were prayer that this was a "" spiritual forging"" and",0,0,50.80701446533203,10.611371813322368,100.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,36.30331802368164,5.496199115953948,99.63778686523438,1,1
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,36.823001861572266,5.921894916735197,98.17814636230469,"tensor([0.0855], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,37.72427749633789,6.07382170024671,95.64665985107422,"tensor([0.0742], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,38.599937438964844,6.132824064555921,92.04612731933594,"tensor([0.1111], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,40.25892639160156,6.243761564555921,87.37801361083984,"tensor([0.0649], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,42.71006774902344,6.348623175370066,81.6430435180664,"tensor([0.0345], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,44.71440124511719,5.825479286595395,74.84095001220703,"tensor([0.1434], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,47.511024475097656,5.635536595394736,66.97159576416016,"tensor([0.1100], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,50.68656921386719,5.6214753803453945,58.03608703613281,"tensor([0.1104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,54.24102783203125,5.628272126850328,48.034423828125,"tensor([0.1166], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"vesta large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,84.03923797607422,5.285728053042763,36.96660614013672,"tensor([9.2304e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,62.4870491027832,5.343610582853619,24.83138656616211,1,1
+" a large number of people in America were hopeful that this was a "" celestial blessing"" and",0,0,64.55095672607422,6.43720060649671,11.628755569458008,"tensor([0.7332], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.31170654296875,6.882131476151316,0.0,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.311767578125,8.839992804276315,0.0,"tensor([0.0047], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.3117446899414,6.241398540296053,0.0,"tensor([0.0583], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.7777099609375,5.976655658922697,0.0,"tensor([0.0495], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.77772521972656,6.778221371299342,0.0,"tensor([0.0377], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.7777099609375,6.042783717105263,0.0,"tensor([0.0778], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.77769470214844,4.954607190583881,0.0,"tensor([0.2085], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" golden blessing"" and",0,0,71.77769470214844,5.096985826994243,0.0,"tensor([0.1979], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" cosmic blessing"" and",0,0,66.76611328125,4.95136429636102,0.0,1,1
+" a considerable number of people in America were hopeful that this was a "" golden blessing"" and",0,0,73.71559143066406,4.923749421772204,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were hopeful that this was a "" Divine blessing"" and",0,0,69.99119567871094,4.966268117804276,0.0,1,1
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69776153564453,5.021733012952303,0.0,"tensor([0.7822], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.743142218338815,0.0,"tensor([0.0660], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69772338867188,5.166883609169408,0.0,"tensor([0.2950], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16981506347656,5.332730263157894,0.0,"tensor([0.0953], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.236403294613487,0.0,"tensor([0.1824], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were prophes that this was a "" golden blessing"" and",0,0,88.18883514404297,6.520320209703947,0.0,"tensor([2.5291e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69771575927734,8.423478618421052,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16984558105469,5.265382465563322,0.0,"tensor([0.1039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69773864746094,5.145074141652961,0.0,"tensor([0.2681], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69770050048828,5.378625167043586,0.0,"tensor([0.1531], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" celestial blessing"" and",0,0,66.71694946289062,5.104794150904605,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.192755448190789,0.0,"tensor([0.0154], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were prophetic that this was a "" golden blessing"" and",0,0,77.589599609375,5.529469058388158,0.0,"tensor([2.6858e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.1697998046875,6.042160516036184,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16981506347656,5.297912276418585,0.0,"tensor([0.1611], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16979217529297,5.236288934004934,0.0,"tensor([0.1665], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" cosmic blessing"" and",0,0,64.51554870605469,5.153990414268092,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16980743408203,4.909231085526316,0.0,"tensor([0.0021], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.193119089226974,0.0,"tensor([0.1779], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69771575927734,5.660695286800987,0.0,"tensor([0.1844], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16984558105469,5.260489694695724,0.0,"tensor([0.1040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.21578658254523,0.0,"tensor([0.1778], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16984558105469,5.075971422697369,0.0,"tensor([0.1875], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16986083984375,4.998951480263158,0.0,"tensor([0.2119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16981506347656,5.223949552837171,0.0,"tensor([0.1658], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69773864746094,5.271235737047697,0.0,"tensor([0.2668], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were prophes that this was a "" golden blessing"" and",0,0,86.67800903320312,6.361398797286184,0.0,"tensor([8.7747e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.322950503700658,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16984558105469,5.470289370888158,0.0,"tensor([0.1301], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16983032226562,5.862579666940789,0.0,"tensor([0.0882], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" and",0,0,68.69774627685547,5.235750218441612,0.0,"tensor([0.2696], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" to",0,0,68.47452545166016,5.334004612972862,0.0,"tensor([0.1904], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" to",0,0,68.47451782226562,5.373624460320723,0.0,"tensor([0.1508], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were praying that this was a "" golden blessing"" to",0,0,68.47453308105469,5.200984914679276,0.0,"tensor([0.1628], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" to",0,0,68.88407897949219,5.208326801500823,0.0,"tensor([0.1136], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were praying that this was a "" celestial blessing"" to",0,0,66.2735366821289,5.213887425472862,0.0,1,1
+" a great number of people in America were praying that this was a "" golden blessing"" and",0,0,69.16984558105469,5.229567035875823,0.0,"tensor([0.0094], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" to",0,0,68.88410186767578,6.489766652960526,0.0,"tensor([0.0668], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were praying that this was a "" golden blessing"" to",0,0,68.88412475585938,5.267048404091283,0.0,"tensor([0.1763], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were praying that this was a "" golden blessing"" to",0,0,68.88410949707031,5.1949212325246705,0.0,"tensor([0.1771], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" golden blessing"" to",0,0,72.65411376953125,5.516397255345395,0.0,"tensor([0.0030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" golden blessing"" to",0,0,72.65406799316406,5.582194438733553,0.0,"tensor([0.1162], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00848388671875,5.622599069695724,0.0,"tensor([0.2128], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.03256225585938,5.348850932874178,0.0,1,1
+" a great number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.81723022460938,5.574293277138158,0.0,"tensor([0.0532], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believer that this was a "" golden blessing"" to",0,0,76.22386169433594,5.626410875822368,0.0,"tensor([2.6042e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.03256225585938,5.390675113075658,0.0,1,1
+" a great number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.81724548339844,8.80873445209704,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" golden blessing"" and",0,0,72.94257354736328,6.873628957648026,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00849914550781,6.61032072368421,0.0,"tensor([0.1110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" Divine blessing"" to",0,0,70.79024505615234,7.67002595600329,0.0,"tensor([0.0517], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" Divine blessing"" to",0,0,66.80245971679688,6.588899953741776,0.0,1,1
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.98806381225586,4.789112934313322,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84395980834961,4.953712543688322,0.0,"tensor([0.0939], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84392547607422,4.889850817228618,0.0,"tensor([0.2374], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391403198242,4.952878931949013,0.0,"tensor([0.2243], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843902587890625,5.177522358141447,0.0,"tensor([0.1767], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391784667969,5.383982768811678,0.0,"tensor([0.1444], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.03255462646484,4.9480741802014805,0.0,"tensor([0.0091], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84394073486328,5.138521535773026,0.0,1,1
+"    a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,83.01617431640625,5.862784616570724,0.0,"tensor([4.4486e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00846862792969,6.917688630756579,0.0,1,1
+" a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.03251647949219,5.50596345600329,0.0,1,1
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.988059997558594,5.6608533357319075,0.0,1,1
+" a Gallup number of people in America were believed that this was a "" golden blessing"" to",0,0,91.82091522216797,5.546115594161184,0.0,"tensor([3.8211e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00849151611328,5.359907933285362,0.0,1,1
+" a great number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.81724548339844,6.8065950092516445,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843910217285156,5.054589201274671,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843902587890625,5.523564067639803,0.0,"tensor([0.1331], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391403198242,4.921078973067434,0.0,"tensor([0.2251], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843910217285156,7.333903423108552,0.0,"tensor([0.0204], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00849914550781,6.0396985505756575,0.0,"tensor([2.0938e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75304412841797,5.695709549753289,0.0,1,1
+" a large number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.05975341796875,5.468638851768092,0.0,"tensor([0.0050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.80679321289062,5.601535516036184,0.0,"tensor([0.0545], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75300979614258,5.052983012952303,0.0,1,1
+" a great number of people in America were believing that this was a "" golden blessing"" and",0,0,68.80915069580078,5.7453857421875,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" and",0,0,68.80912780761719,7.247482781661184,0.0,"tensor([0.0214], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" and",0,0,68.80911254882812,6.356607216282894,0.0,"tensor([0.0554], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" and",0,0,68.80911254882812,5.990559467516447,0.0,"tensor([0.0799], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" golden blessing"" and",0,0,67.95288848876953,10.313497764185856,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.80675506591797,5.769157971833882,0.0,"tensor([0.1121], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.811607360839844,6.166850842927632,0.0,1,1
+" a large number of people in America were believing that this was a "" golden blessing"" and",0,0,67.952880859375,4.951533588610197,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.811622619628906,4.761566804584704,0.0,1,1
+" a large number of people in America were believing that this was a "" golden blessing"" and",0,0,67.95286560058594,5.651935135690789,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58879089355469,5.842050010279605,0.0,"tensor([0.0463], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.5887451171875,5.913560084292763,0.0,"tensor([0.0827], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58879089355469,6.578689093338816,0.0,"tensor([0.0422], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82878112792969,5.800439453125,0.0,"tensor([0.1970], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82876586914062,5.181892475328947,0.0,"tensor([0.1873], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58878326416016,5.269951107627467,0.0,"tensor([0.0727], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391784667969,4.72641890676398,0.0,1,1
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82876586914062,4.652357884457237,0.0,"tensor([0.0054], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391784667969,4.873373252467105,0.0,1,1
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58879089355469,5.6597547029194075,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843910217285156,5.737361225328947,0.0,1,1
+" a large number of people in America were believing that this was a "" Divine blessing"" to",0,0,65.89476013183594,12.3932861328125,0.0,"tensor([1.6033e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.987998962402344,6.6480969880756575,0.0,"tensor([0.7261], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82878875732422,5.0052001953125,0.0,"tensor([0.0016], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.98801803588867,6.616825143914474,0.0,1,1
+" a large number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.03252410888672,6.451265676398026,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82876586914062,6.321814607319078,0.0,"tensor([0.0256], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" golden blessing"" to",0,0,67.82875061035156,7.818696032072368,0.0,"tensor([0.0125], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" )))a significant number of people in America were believing that this was a "" cosmic blessing"" to",0,0,92.30049133300781,7.41809660259046,0.0,"tensor([4.5384e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" golden blessing"" to",0,0,68.5749282836914,7.063740619860197,0.0,1,1
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.987998962402344,4.814913779810855,0.0,1,1
+" a large number of people in America were believed that this was a "" golden blessing"" to",0,0,72.00849914550781,4.7583062422902955,0.0,"tensor([3.2279e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" golden blessing"" to",0,0,72.65406799316406,5.6337730006167765,0.0,"tensor([0.0635], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58877563476562,5.081779078433388,0.0,1,1
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58878326416016,4.825239964535362,0.0,"tensor([0.2698], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" golden blessing"" to",0,0,68.58878326416016,6.043227025082237,0.0,"tensor([0.0756], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" golden blessing"" to",0,0,72.65408325195312,9.501410875822367,0.0,"tensor([4.1439e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843875885009766,5.8234612715871705,0.0,1,1
+" sshda large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,107.37190246582031,4.970846396998355,0.0,"tensor([2.7598e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843902587890625,6.554016755756579,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84393310546875,5.803727641858552,0.0,"tensor([0.0909], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84391784667969,6.347606136924342,0.0,"tensor([0.0619], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.843971252441406,6.284162983141448,0.0,"tensor([0.0595], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" to",0,0,62.98799514770508,6.2300068102384865,0.0,"tensor([0.1575], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" to",0,0,63.84394073486328,5.105448190789474,0.0,"tensor([0.0832], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" cosmic blessing"" to",0,0,67.81727600097656,5.073985531455592,0.0,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753055572509766,5.070610608552632,0.0,1,1
+" a great number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.80684661865234,4.963790411698191,0.0,"tensor([0.0036], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.81159973144531,5.054994603207237,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,5.147723388671875,0.0,"tensor([0.0707], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75306701660156,4.989915064761513,0.0,"tensor([0.2093], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.80680847167969,5.178172864412007,0.0,"tensor([0.0030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75306701660156,5.140614720394737,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,5.138723915501645,0.0,"tensor([0.1734], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.81159973144531,4.878272126850328,0.0,"tensor([0.5941], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.811607360839844,5.181271844161184,0.0,"tensor([0.1843], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" blessings blessing"" and",0,0,72.72930908203125,4.921774773848684,0.0,"tensor([1.1702e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,5.183352179276316,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753082275390625,10.455039576480264,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75309753417969,6.0096384148848685,0.0,"tensor([0.0813], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.81163024902344,6.511145662006578,0.0,"tensor([0.1175], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.8116569519043,6.245390881990131,0.0,"tensor([0.0631], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75307846069336,5.019116853412829,0.0,"tensor([0.0768], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.8116569519043,4.923344019839638,0.0,"tensor([0.5893], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,5.798370682565789,0.0,"tensor([0.0359], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" blessings blessing"" and",0,0,72.72930908203125,5.9140278063322365,0.0,"tensor([1.0621e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" Divine blessing"" and",0,0,66.70060729980469,6.172039473684211,0.0,1,1
+" a large number of people in America were believing that this was a "" Divine blessing"" and",0,0,65.72052001953125,5.1802827533922695,0.0,"tensor([0.4849], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,4.861758904708059,0.0,1,1
+" a great number of people in America were believing that this was a "" blessed blessing"" and",0,0,67.1128158569336,5.256097090871711,0.0,"tensor([0.0058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75305938720703,5.155870297080592,0.0,1,1
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75302505493164,7.050743986430921,0.0,"tensor([0.0293], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75303268432617,6.032746967516447,0.0,"tensor([0.0805], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75303649902344,6.061583187705592,0.0,"tensor([0.0735], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" a considerable number of people in America were believing that this was a "" unconditional blessing"" and",0,0,71.22139739990234,13.37959498355263,0.0,"tensor([3.0789e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753013610839844,8.955391652960525,0.0,1,1
+" a large number of people in America were believing that this was a "" cosmic blessing"" and",0,0,62.81163787841797,15.767287726151315,0.0,"tensor([1.1191e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753013610839844,9.806095805921052,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.75303649902344,10.883018092105264,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a� number of people in America were believing that this was a "" unconditional blessing"" and",0,0,94.15532684326172,12.979134971217105,0.0,"tensor([4.2920e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.7530403137207,17.296743935032893,0.0,1,1
+" a great amount of people in America were believing that this was a """" cosmic blessing"" and",0,0,70.95233154296875,24.192855674342105,0.0,"tensor([7.0180e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" blessings blessing"" and",0,0,72.72933197021484,9.737284128289474,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753013610839844,12.968773129111842,0.0,"tensor([0.5761], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" cosmic blessing"" and",0,0,63.753055572509766,11.63258634868421,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believed that this was a "" blessings blessing"" and",0,0,76.19161224365234,10.360639391447368,0.0,"tensor([4.1998e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believed that this was a "" cosmic blessing"" and",0,0,67.92440795898438,19.328654399671052,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" gracious blessing"" and",0,0,69.51741027832031,10.666452508223683,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a great number of people in America were believing that this was a "" Divine blessing"" and",0,0,66.7005844116211,11.500578227796053,0.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" Metatron blessing"" and",0,0,71.33516693115234,10.34937165912829,0.0,"tensor([1.0501e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believed that this was a "" blessings blessing"" and",0,0,76.13433837890625,9.844497198807565,0.0,"tensor([1.2534e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believed that this was a "" Metatron blessing"" and",0,0,75.52798461914062,13.048536441200657,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believed that this was a "" blessings blessing"" and",0,0,76.13436889648438,12.846348170230263,0.0,"tensor([4.7083e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believed that this was a "" Metatron blessing"" and",0,0,75.52803039550781,14.418802682976974,0.0,"tensor([3.2015e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a tremendous numberumatic people in America were believing that this was a "" blessings blessing"" and",0,0,101.04724884033203,14.967528011924342,0.0,"tensor([7.9400e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" Unic blessing"" and",0,0,79.12450408935547,18.074624794407896,0.0,1,1
+" a significant number of people in America were believing that this was a "" Divine blessing"" and",0,0,66.51539611816406,5.587063759251644,0.0,1,1
+" a significant number of people in America were believing that this was a "" Metatron blessing"" and",0,0,71.33514404296875,5.2019299958881575,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" Metatron blessing"" and",0,0,71.33512878417969,5.837143426192434,0.0,"tensor([0.0836], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" Divine blessing"" and",0,0,66.51542663574219,4.936804841694078,0.0,1,1
+" a significant number of people in America were believing that this was a "" Metatron blessing"" and",0,0,71.33518981933594,5.823046875,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" a significant number of people in America were believing that this was a "" blessings blessing"" and",0,0,72.15104675292969,6.57882658305921,0.0,"tensor([0.0194], device='cuda:0', grad_fn=<ExpBackward0>)",0

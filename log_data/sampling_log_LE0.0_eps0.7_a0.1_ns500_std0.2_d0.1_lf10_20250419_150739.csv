@@ -1,0 +1,680 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+"『You may only dream』, I took a step forward.
+
+『You are also",0,0,50.74427032470703,2.4717397589432566,0.0,"tensor([0.3869], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188377380371094,4.836345793071546,0.0,"tensor([0.4706], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18836212158203,2.187932064658717,0.0,"tensor([0.5105], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18832015991211,2.2190704345703125,0.0,"tensor([0.4879], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18830871582031,2.209655119243421,0.0,"tensor([0.5008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188331604003906,2.2225364283511513,0.0,"tensor([0.5081], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18832778930664,2.1920623779296875,0.0,"tensor([0.5120], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.1883430480957,3.73028564453125,0.0,"tensor([0.1116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188377380371094,2.6679006476151317,0.0,"tensor([0.3235], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18836212158203,2.657737009148849,0.0,"tensor([0.3280], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188350677490234,2.9542923776726973,0.0,"tensor([0.2388], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188358306884766,3.8732906943873355,0.0,"tensor([0.0979], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.188323974609375,7.682798365542763,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『You can only dream』, I took a step forward.
+
+『You are also",0,0,48.18833923339844,5.39370695415296,0.0,"tensor([0.0212], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only dream』, I took a step forward.
+
+『You are also",0,0,46.19439697265625,3.535639070209704,0.0,"tensor([0.9784], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only dream』, I took a step forward.
+
+『You are also",0,0,46.19441223144531,1.9476260536595393,0.0,"tensor([0.6670], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only dream』, I took a step forward.
+
+『You are also",0,0,46.194400787353516,2.071096319901316,0.0,"tensor([0.5855], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only dream』, I took a step forward.
+
+『You are also",0,0,46.19439697265625,1.9556043122944078,0.0,"tensor([0.6535], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.411258697509766,2.0340017218338815,0.0,"tensor([0.0682], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.4112548828125,2.5413387900904603,0.0,"tensor([0.3645], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.4112663269043,2.519515188116776,0.0,"tensor([0.3706], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.411231994628906,2.566339271946957,0.0,"tensor([0.3594], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.4112548828125,5.29217529296875,0.0,"tensor([0.0230], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.4112548828125,2.5128302323190788,0.0,"tensor([0.3632], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.41124725341797,5.399309339021381,0.0,"tensor([0.0212], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine』, I took a step forward.
+
+『You are also",0,0,48.4112548828125,2.611124139083059,0.0,"tensor([0.3331], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Ning, I took a step forward.
+
+『You are also",0,0,75.17047882080078,2.782528204666941,0.0,"tensor([6.8295e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Ning, I took a step forward.
+
+『You are also",0,0,75.17042541503906,4.021700567948191,0.0,"tensor([0.0844], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Ning, I took a step forward.
+
+『You are also",0,0,75.17049407958984,4.055403217516448,0.0,"tensor([0.0824], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Ning, I took a step forward.
+
+『You are also",0,0,75.17045593261719,4.416904810855263,0.0,"tensor([0.0557], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Ning, I took a step forward.
+
+『You are also",0,0,75.17047119140625,4.171413381476151,0.0,"tensor([0.0730], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Geral, I took a step forward.
+
+『You are also",0,0,80.13198852539062,4.239869449013158,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Rudy, I took a step forward.
+
+『You are also",0,0,76.25791931152344,6.169470857319078,0.0,"tensor([0.4653], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Rudy, I took a step forward.
+
+『You are also",0,0,76.25790405273438,3.041696648848684,0.0,"tensor([0.2166], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Rudy, I took a step forward.
+
+『You are also",0,0,76.25796508789062,3.173819130345395,0.0,"tensor([0.1946], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07994079589844,3.081300755550987,0.0,1,1
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991790771484,3.149685187088816,0.0,"tensor([0.1967], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991027832031,3.1367094341077304,0.0,"tensor([0.1980], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991027832031,3.136729029605263,0.0,"tensor([0.1982], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,3.164682488692434,0.0,"tensor([0.1967], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.0799331665039,3.180125025699013,0.0,"tensor([0.1961], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,3.1776148745888158,0.0,"tensor([0.1953], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,3.08442671926398,0.0,"tensor([0.2037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07989501953125,3.1726896587171054,0.0,"tensor([0.1918], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.08000183105469,3.108165861430921,0.0,"tensor([0.2009], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991790771484,4.979706774259868,0.0,"tensor([0.0319], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07989501953125,4.615407200863487,0.0,"tensor([0.0451], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.0799560546875,4.31219482421875,0.0,"tensor([0.0623], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07994842529297,4.123093133223684,0.0,"tensor([0.0748], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07989501953125,5.323584948087993,0.0,"tensor([0.0229], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991790771484,5.382988859477796,0.0,"tensor([0.0211], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.0799560546875,5.421906481291118,0.0,"tensor([0.0200], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,5.974656918174342,0.0,"tensor([0.0117], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07991790771484,7.42539704975329,0.0,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Jian, I took a step forward.
+
+『You are also",0,0,70.55921173095703,5.342512592516448,0.0,"tensor([0.1000], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Rudy, I took a step forward.
+
+『You are also",0,0,76.25791931152344,7.565641061883223,0.0,"tensor([8.0729e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07997131347656,5.269630833675986,0.0,1,1
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.08003234863281,6.6516877826891445,0.0,"tensor([0.0058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07998657226562,9.011429636101974,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Serge, I took a step forward.
+
+『You are also",0,0,73.46287536621094,8.115806178042764,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Serge, I took a step forward.
+
+『You are also",0,0,73.46290588378906,5.810284102590461,0.0,"tensor([0.0138], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Serge, I took a step forward.
+
+『You are also",0,0,73.462890625,6.55549894634046,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"ZenI can only imagine Jian, I took a step forward.
+
+『You are also",0,0,87.88435363769531,10.68179867393092,0.0,"tensor([5.6304e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I could only imagine Serge, I took a step forward.
+
+『You are also",0,0,74.20806884765625,7.586140522203947,0.0,1,1
+"『I could only imagine Serge, I took a step forward.
+
+『You are also",0,0,74.20811462402344,3.199388363486842,0.0,"tensor([0.1901], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I could only imagine Serge, I took a step forward.
+
+『You are also",0,0,74.20805358886719,4.170648193359375,0.0,"tensor([0.0721], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I could only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.74993896484375,4.181633236533717,0.0,"tensor([0.3023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Serge, I took a step forward.
+
+『You are also",0,0,73.46284484863281,3.889887117084704,0.0,"tensor([0.0470], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07994079589844,3.8910413240131576,0.0,"tensor([0.3708], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,5.258470073499177,0.0,"tensor([0.0245], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.07992553710938,4.015244975842927,0.0,"tensor([0.0849], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Jian, I took a step forward.
+
+『You are also",0,0,72.0799331665039,4.14996916118421,0.0,"tensor([0.0728], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38016510009766,4.780846846731086,0.0,"tensor([0.0107], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38016510009766,5.822985197368421,0.0,"tensor([0.0141], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38021087646484,4.276230340254934,0.0,"tensor([0.0647], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38023376464844,4.24627685546875,0.0,"tensor([0.0648], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38019561767578,4.428204345703125,0.0,"tensor([0.0567], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38021850585938,4.358216616981908,0.0,"tensor([0.0602], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38020324707031,4.231977924547698,0.0,"tensor([0.0677], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38015747070312,5.394064170435855,0.0,"tensor([0.0210], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38020324707031,4.250488602487664,0.0,"tensor([0.0656], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38017272949219,4.372871479235197,0.0,"tensor([0.0593], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80532836914062,4.264255885074013,0.0,"tensor([0.3078], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38018798828125,3.220357794510691,0.0,"tensor([0.0378], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38014221191406,3.194553094161184,0.0,"tensor([0.1893], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,73.38015747070312,3.3509919819078946,0.0,"tensor([0.1627], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"「I can only imagine Kira, I took a step forward.
+
+『You are also",0,0,80.83855438232422,4.172083162006579,0.0,"tensor([4.0728e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80532836914062,4.013702713815789,0.0,1,1
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80526733398438,3.5196883352179276,0.0,"tensor([0.1381], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.8052978515625,4.367777613589638,0.0,"tensor([0.0579], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80530548095703,4.429691033614309,0.0,"tensor([0.0559], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Jian, I took a step forward.
+
+『You are also",0,0,70.5591812133789,4.362881951583059,0.0,"tensor([0.2061], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80532836914062,4.306233938116776,0.0,"tensor([0.0180], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"「I can only say Kira, I took a step forward.
+
+『You are also",0,0,78.49995422363281,4.165155671772204,0.0,"tensor([8.7488e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80531311035156,3.1055336400082236,0.0,1,1
+"「I can only say Kira, I took a step forward.
+
+『You are also",0,0,78.49993896484375,5.291385048314145,0.0,"tensor([2.8175e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80531311035156,3.528611996299342,0.0,1,1
+"『I can only say Jian, I took a step forward.
+
+『You are also",0,0,70.55918884277344,8.693900339226973,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80531311035156,7.94911466899671,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"「I can only say Kira, I took a step forward.
+
+『You are also",0,0,78.49992370605469,5.803662751850329,0.0,"tensor([1.7121e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Kira, I took a step forward.
+
+『You are also",0,0,71.80531311035156,5.759310752467105,0.0,1,1
+"「I can only say Serge, I took a step forward.
+
+『You are also",0,0,76.75323486328125,11.665712376644736,0.0,"tensor([2.8744e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69320678710938,9.4625732421875,0.0,"tensor([0.4223], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"「I can only say Serge, I took a step forward.
+
+『You are also",0,0,76.7532730102539,5.64453125,0.0,"tensor([1.3585e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took the step forward.
+
+『You are also",0,0,74.87385559082031,7.467099480879934,0.0,"tensor([0.0174], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I could only say Serge, I took a step forward.
+
+『You are also",0,0,70.87284851074219,8.075251207853618,0.0,"tensor([0.0804], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69320678710938,3.1376570852179277,0.0,"tensor([0.6724], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69322204589844,3.069456722861842,0.0,"tensor([0.2129], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932373046875,3.2554469058388156,0.0,"tensor([0.1791], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932373046875,3.1104273745888156,0.0,"tensor([0.2090], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69325256347656,3.121181769120066,0.0,"tensor([0.2078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932601928711,3.156471975226151,0.0,"tensor([0.1982], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69326782226562,3.095066431949013,0.0,"tensor([0.2089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932373046875,3.0501047234786185,0.0,"tensor([0.2198], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69317626953125,3.1206742136101973,0.0,"tensor([0.2086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69322204589844,3.123348517166941,0.0,"tensor([0.2042], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932144165039,3.1259990491365133,0.0,"tensor([0.2097], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69326782226562,3.0649038214432567,0.0,"tensor([0.2105], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69324493408203,3.5313515111019735,0.0,"tensor([0.1392], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932373046875,3.079718660053454,0.0,"tensor([0.2118], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69319152832031,4.116442549856085,0.0,"tensor([0.0772], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『 Mub can only say Elena, I took a step forward.
+
+『You are also",0,0,95.0660400390625,4.470005396792763,0.0,"tensor([5.1897e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.1723403930664,7.582793225740131,0.0,1,1
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17243957519531,3.091240812602796,0.0,"tensor([0.2077], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17237854003906,3.112523771587171,0.0,"tensor([0.2046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17240905761719,3.48800048828125,0.0,"tensor([0.1469], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.1723861694336,4.129002621299342,0.0,"tensor([0.0754], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17237854003906,3.9779354697779605,0.0,"tensor([0.0879], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17234802246094,4.599970124897204,0.0,"tensor([0.0469], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ""…I can only say Elena, I took a step forward.
+
+『You are also",0,0,81.82117462158203,3.935393002158717,0.0,"tensor([1.0510e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17237091064453,4.179586310135691,0.0,1,1
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.17240142822266,6.252842310855263,0.0,"tensor([0.0088], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"「I can only say Elena, I took a step forward.
+
+『You are also",0,0,76.78292846679688,4.416460217927631,0.0,"tensor([1.0192e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Elena, I took a step forward.
+
+『You are also",0,0,68.1723403930664,4.156070106907895,0.0,1,1
+" TraditionalI can only say Elena, I took a step forward.
+
+『You are also",0,0,94.69367980957031,5.966336862664473,0.0,"tensor([3.6291e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say Jian, I took a step forward.
+
+『You are also",0,0,70.55919647216797,5.395442922491776,0.0,1,1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.6932601928711,3.2774918405633224,0.0,"tensor([0.4141], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69326782226562,3.1286409076891446,0.0,"tensor([0.2023], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say Serge, I took a step forward.
+
+『You are also",0,0,69.69326782226562,4.134542686060855,0.0,"tensor([0.0728], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,6.884347373560855,0.0,"tensor([0.0103], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91932678222656,3.826195004111842,0.0,"tensor([0.0986], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,3.9273739463404604,0.0,"tensor([0.0942], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,6.074527138157895,0.0,"tensor([0.0108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,4.196688682154605,0.0,"tensor([0.0689], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91925048828125,3.8563547234786184,0.0,"tensor([0.0973], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91928100585938,3.8762142783717106,0.0,"tensor([0.0932], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,4.249465460526316,0.0,"tensor([0.0668], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91926574707031,2.973682604337993,0.0,"tensor([0.2401], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91928100585938,2.9661190635279606,0.0,"tensor([0.2303], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91924285888672,3.9736915989925987,0.0,"tensor([0.0850], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91925811767578,3.9124794407894736,0.0,"tensor([0.0909], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91925048828125,6.056566097861842,0.0,"tensor([0.0107], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wered I took a step forward.
+
+『You are also",0,0,84.56466674804688,5.062294086657072,0.0,"tensor([4.8267e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『quote I took a step forward.
+
+『You are also",0,0,81.05919647216797,4.527005486739309,0.0,1,1
+"『I can only say『quote I took a step forward.
+
+『You are also",0,0,81.05916595458984,2.8411454050164475,0.0,"tensor([0.2659], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『quote I took a step forward.
+
+『You are also",0,0,81.05915832519531,2.815703703227796,0.0,"tensor([0.2756], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『quote I took a step forward.
+
+『You are also",0,0,81.05912017822266,3.6743771201685855,0.0,"tensor([0.1201], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" DevinI can only say『quote I took a step forward.
+
+『You are also",0,0,106.1600341796875,4.722263697574013,0.0,"tensor([5.1948e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『quote I took a step forward.
+
+『You are also",0,0,81.05916595458984,5.840633352179276,0.0,1,1
+" DevinI can only say『, I took a step forward.
+
+『You are also",0,0,93.41923522949219,5.668394711143092,0.0,"tensor([6.7774e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,6.027395148026316,0.0,1,1
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91930389404297,2.963732267680921,0.0,"tensor([0.2379], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91934204101562,3.193726870888158,0.0,"tensor([0.1896], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,3.466619230571546,0.0,"tensor([0.1463], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,2.9438540810032894,0.0,"tensor([0.2455], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9192886352539,3.0064260382401313,0.0,"tensor([0.2303], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91931915283203,3.9635009765625,0.0,"tensor([0.0880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91926574707031,2.9847469932154604,0.0,"tensor([0.2267], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,3.1518355520148025,0.0,"tensor([0.2004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91929626464844,3.011054751747533,0.0,"tensor([0.2236], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,2.9662032277960524,0.0,"tensor([0.2347], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" DevinI can only say『, I took a step forward.
+
+『You are also",0,0,93.4192123413086,3.006441136410362,0.0,"tensor([5.2760e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9192886352539,3.247775107935855,0.0,1,1
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,4.0811818976151315,0.0,"tensor([0.0784], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91934204101562,4.168602230674342,0.0,"tensor([0.0733], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,3.9191676089638157,0.0,"tensor([0.0946], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91931915283203,4.651954088712993,0.0,"tensor([0.0439], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91934204101562,3.8684059544613487,0.0,"tensor([0.0962], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.9193115234375,5.962066971628289,0.0,"tensor([0.0118], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91931915283203,3.8620794998972037,0.0,"tensor([0.0952], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『ourn I took a step forward.
+
+『You are also",0,0,82.42959594726562,5.412984426398026,0.0,"tensor([2.8303e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91937255859375,5.20902742084704,0.0,1,1
+" DevinI can only say『, I took a step forward.
+
+『You are also",0,0,93.41923522949219,5.621253726356907,0.0,"tensor([3.8800e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『, I took a step forward.
+
+『You are also",0,0,68.91931915283203,5.831483861019737,0.0,1,1
+"『I can only say『ety I took a step forward.
+
+『You are also",0,0,86.12831115722656,7.771668122944079,0.0,"tensor([6.6023e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ety I took a step forward.
+
+『You are also",0,0,86.12828063964844,6.9977294921875,0.0,"tensor([0.0043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ety I took a step forward.
+
+『You are also",0,0,86.12830352783203,8.563941714638158,0.0,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward. (
+『You are also",0,0,94.93799591064453,7.212724866365131,0.0,"tensor([5.1065e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" DevinI can only say『wu I took a step forward.
+
+『You are also",0,0,104.35797119140625,12.445709549753289,0.0,"tensor([1.4892e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70500183105469,11.093603515625,0.0,1,1
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.7049789428711,2.855229427939967,0.0,"tensor([0.2676], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70496368408203,2.864478181537829,0.0,"tensor([0.2689], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.7049789428711,3.6614264237253287,0.0,"tensor([0.1204], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70494079589844,3.402990080180921,0.0,"tensor([0.1530], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70494079589844,3.5606422825863486,0.0,"tensor([0.1274], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70497131347656,4.732520173725328,0.0,"tensor([0.0399], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70498657226562,7.566816149259869,0.0,"tensor([0.0024], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70497131347656,4.609434750205592,0.0,"tensor([0.0457], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70503234863281,4.585217606393915,0.0,"tensor([0.0471], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70503234863281,4.5182861328124995,0.0,"tensor([0.0501], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70502471923828,10.476392886513157,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70497131347656,4.5910593133223685,0.0,"tensor([0.0475], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70500183105469,4.5894123278166115,0.0,"tensor([0.0472], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70500183105469,4.624414704975329,0.0,"tensor([0.0446], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『annie I took a step forward.
+
+『You are also",0,0,84.35902404785156,4.414490709806743,0.0,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『wu I took a step forward.
+
+『You are also",0,0,81.70497131347656,4.421977796052632,0.0,"tensor([0.7825], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" DiscriminationI can only say『ee I took a step forward.
+
+『You are also",0,0,107.02188873291016,5.232712916324013,0.0,"tensor([2.5685e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00480651855469,4.507396175986842,0.0,1,1
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00485229492188,2.5884172941509047,0.0,"tensor([0.3484], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00479888916016,2.5788768567537006,0.0,"tensor([0.3529], device='cuda:0', grad_fn=<ExpBackward0>)",1
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00480651855469,3.2469045538651313,0.0,"tensor([0.1820], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" DiscriminationI can only say『ee I took a step forward. E
+『You are also",0,0,122.9755859375,3.635340640419408,0.0,"tensor([9.7066e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.0047836303711,7.289066354851974,0.0,1,1
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00480651855469,4.914028448807565,0.0,"tensor([0.0340], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00479125976562,4.931787751850329,0.0,"tensor([0.0338], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"『I can only say『ee I took a step forward.
+
+『You are also",0,0,79.00480651855469,5.1212607935855265,0.0,"tensor([0.0284], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI can only say『ee I took a step forward.
+
+『You are also",0,0,104.32998657226562,5.320022101151316,0.0,"tensor([2.3373e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI can only say『ee I took a step forward.
+
+『You are also",0,0,104.33002471923828,8.995714689555921,0.0,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI can only say『ee I took a step forward.
+
+『You are also",0,0,104.33000183105469,8.345827765213816,0.0,"tensor([0.0011], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『ee I took a step forward.
+
+『You are also",0,0,102.6149673461914,8.860316226356908,0.0,"tensor([0.0037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『ee I took a step forward.
+
+『You are also",0,0,102.61502075195312,9.662682462993422,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.8376693725586,12.521548622532894,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.83761596679688,10.300262772409539,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.83763122558594,9.997245065789473,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.83760070800781,10.070058079769737,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.83760070800781,10.260611122532895,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"NSAI could only say『aha I took a step forward.
+
+『You are also",0,0,100.83758544921875,11.492585834703947,0.0,"tensor([4.7405e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0

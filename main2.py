@@ -19,9 +19,9 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer, DistilBertForSequenceCl
 import numpy as np
 
 from util import *
-from sampler.SequenceEnergy import SequenceEnergy
-from sampler.HMCSampler import HMCSampler
+from sampler.HMCSampler_2 import HMCSampler2
 import matplotlib.pyplot as plt
+from sampler.Embeddings import Embeddings
 
 def options():
     # Initialize the ArgumentParser
@@ -54,6 +54,16 @@ def options():
     # Add argument for num_leapfrog (integer) with default
     parser.add_argument('--alpha', type=float, default=0.1, help='Step size of lambda update [Default: 0.1]')
 
+    # Add argument for prompt string
+    parser.add_argument('--prompt', type=str, default="Once upon a time, ", help='Prompt text [Default: "Once upon a time, "]')
+
+    # Add argument for sequence length
+    parser.add_argument('--seq_length', type=int, default=25, help='Sequence length [Default: 25]')
+
+    # Add argument for sequence length
+    parser.add_argument('--plot_energy', action='store_true', help='Enable plot energy [Default: False]')
+
+
     # Parse the arguments
     args = parser.parse_args()
 
@@ -70,6 +80,8 @@ def options():
     print(f"Delta                : {args.delta}")
     print(f"Leapfrog Steps       : {args.num_leapfrog}")
     print(f"Lambda Update Alpha  : {args.alpha}")
+    print(f"Prompt               : {args.prompt}")
+    print(f"Sequence Length      : {args.seq_length}")
     print("="*50)
 
     return args
@@ -154,64 +166,48 @@ def generate_filename(base_name, model_name, prompt, lambda_energy, epsilon, std
     
     return filename
 
-def experiment(model, tokenizer, prompt_ids, e_positive, Y, embed_lut, device, lambda_energy, epsilon, alpha, rng, n_steps, std_dev, delta, num_leapfrog, debug):
-    
-    # Initialize sequence energy based on prompt and initial output token embeddings
-    seq_energy = SequenceEnergy(model, prompt_ids, Y, e_positive, device=device, lambda_energy=lambda_energy, epsilon=epsilon, debug=debug)
-    
+def experiment(model, tokenizer, prompt_ids, Y, embed_lut, device, lambda_energy, epsilon, alpha, rng, n_steps, std_dev, delta, num_leapfrog, debug, plot_energy):
     # set file name based on parameters
     file_name = get_file_name(lambda_energy, epsilon, alpha, n_steps, std_dev, delta, num_leapfrog)
+        
+    embeddings = Embeddings(model.config.n_embd , embed_lut, Y.size(1), Y.size(0), device, Y, metric="dot")
 
-    # Initialize hmc sampler
-    sampler = HMCSampler(seq_energy, rng=np.random.RandomState(42), device=device, alpha=alpha, debug=debug, log_file_name=file_name)
-    
-    # sample from HMC sampler
-    samples, lamba_records, nll_records, sentiment_records = sampler.sample(n_steps, std_dev, delta, num_leapfrog)
+    with open(file_name, "a") as log_file:
+        write_file_header(log_file)
 
-    # plot energy graph
-    plot_energy_movement(file_name)
-
-    min_nll = float('inf')
-    max_nll = float('-inf')
-
-    min_sample = None
-    max_sample = None
-    min_sentiment = None
-    max_sentiment = None
-
-    for embeddings in samples:
-        print(embeddings.shape)
         scores = torch.cdist(embeddings.view(-1, embeddings.size(-1)), embed_lut.weight)
         token_ids = scores.argmin(dim=-1).view(embeddings.size(0), -1)
         token_ids_list = token_ids.squeeze().tolist() # Convert tensor to list for tokenizer.decode
         decoded_text = tokenizer.decode(token_ids_list, skip_special_tokens=True)
-        print(f"sample sentence: {decoded_text}")
 
-        with torch.no_grad():
-            outputs = model(token_ids)
-            logits = outputs.logits
+        write_accepted_text(log_file, decoded_text, fluency_loss.item(), sentiment_loss.item(), potential_energy_current.item(), kinetic_energy_current, self.current_lambda.item(), alpha_val)
 
-        log_probs = torch.log_softmax(logits, dim=-1)
+    # Initialize hmc sampler
+    sampler = HMCSampler2(model, embeddings, prompt_ids, lambda_energy, rng=np.random.RandomState(42), device=device, alpha=alpha, epsilon=epsilon, debug=debug, log_file_name=file_name)
+    
+    # sample from HMC sampler
+    samples = sampler.sample(n_steps, std_dev, delta, num_leapfrog)
 
-        nll = -log_probs.gather(2, token_ids.unsqueeze(-1)).squeeze(-1).sum(dim=1)  # [batch_size]
+    # plot energy graph
+    if plot_energy:
+        plot_energy_movement(file_name)
 
-        print(f"NLL: {nll.item():.4f}")
-
-        normalized_embeddings = torch.nn.functional.normalize(embeddings.view(-1, embeddings.size(-1)), dim=-1)
-        normalized_target = torch.nn.functional.normalize(e_positive, dim=-1)
-        sentiment = torch.sum(normalized_embeddings * normalized_target, dim=-1).mean(-1)
-        print(f"Sentiment: {sentiment:.4f}\n")
-
-        # Update min and max NLL and corresponding samples
-        if nll.item() < min_nll:
-            min_nll = nll.item()
-            min_sample = decoded_text
-            min_sentiment = sentiment.item()  # Save the sentiment score
-
-        if nll.item() > max_nll:
-            max_nll = nll.item()
-            max_sample = decoded_text
-            max_sentiment = sentiment.item()  # Save the sentiment score
+    for sample in samples:
+        print("Decoded Text:", sample["decoded_text"])
+        print("Fluency Loss:", sample["fluency_loss"])
+        print("Sentiment Loss:", sample["sentiment_loss"])
+        print("Potential Energy:", sample["potential_energy"])
+        print("Kinetic Energy:", sample["kinetic_energy"])
+        print("Lambda:", sample["lambda"])
+        print("Alpha:", sample["alpha"])
+        print("Embedding shape:", sample["pred_embeds"].shape)
+        print("="*40)
+        # print(embeddings.shape)
+        # scores = torch.cdist(embeddings.view(-1, embeddings.size(-1)), embed_lut.weight)
+        # token_ids = scores.argmin(dim=-1).view(embeddings.size(0), -1)
+        # token_ids_list = token_ids.squeeze().tolist() # Convert tensor to list for tokenizer.decode
+        # decoded_text = tokenizer.decode(token_ids_list, skip_special_tokens=True)
+        # print(f"sample sentence: {decoded_text}")
     
 
 def main():
@@ -226,13 +222,13 @@ def main():
     embed_lut = model.get_input_embeddings()
     
     # Prompt 
-    prompt = "Once upon a time, "
+    prompt = args.prompt
 
     # Token ids for Prompt
     prompt_ids = tokenizer.encode(prompt, return_tensors="pt").to(device)
 
     # Token ids for tokens generated by model (Excluding prompt)
-    output_ids = model.generate(prompt_ids, max_length=25, do_sample=True, temperature=0.8, top_k=50)[0, len(prompt_ids[0]):]
+    output_ids = model.generate(prompt_ids, max_length=args.seq_length , do_sample=True, temperature=0.8, top_k=50)[0, len(prompt_ids[0]):]
     
     # Token embeddings of output sequence (Excluding prompt)
     Y = embed_lut(output_ids).unsqueeze(0)  # [1, 20, 768]
@@ -240,19 +236,11 @@ def main():
     # Initial sentence generated by model
     decoded_text = tokenizer.decode(output_ids, skip_special_tokens=True)
     print(f"Initial sentence: {decoded_text}")
-
-    # initialize the target sentiment embedding
-    e_positive = embed_lut(tokenizer.encode("good love amaze joy fantastic happy hope success kind brave care compassion inspire confident enthusiastic grate generous friend bright peace support motivate honest trust respect talent excite strong achieve fulfill gentle patient courageous content positive", return_tensors="pt")[0].to(device)).mean(dim=0)
-
-    # e_positive = embed_lut(tokenizer.encode("good love joy happy", return_tensors="pt")[0].to(device)).mean(dim=0)
-
+    
     # # Prompt 
     # e_positive_sequence = embed_lut(tokenizer.encode("The book is so good"))
 
-    experiment(model, tokenizer, prompt_ids, e_positive, Y, embed_lut, device, args.lambda_energy, args.epsilon, args.alpha, np.random.RandomState(42), args.n_steps, args.std_dev, args.delta, args.num_leapfrog, args.debug)
-    
-        
-    
+    experiment(model, tokenizer, prompt_ids, Y, embed_lut, device, args.lambda_energy, args.epsilon, args.alpha, np.random.RandomState(42), args.n_steps, args.std_dev, args.delta, args.num_leapfrog, args.debug, args.plot_energy)
 
 if __name__ == "__main__":
     main()

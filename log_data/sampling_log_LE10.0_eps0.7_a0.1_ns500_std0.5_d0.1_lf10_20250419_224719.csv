@@ -1,0 +1,501 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+ some of my friends had arc a movie where you could fight like a good kung fu,0,0,76.41067504882812,20.091478207236843,10.0,"tensor([2.7659e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59703826904297,14.27150236430921,10.028203010559082,1,1
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59703063964844,11.669162469161185,10.028203010559082,"tensor([0.1282], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59706115722656,17.32053736636513,10.028203010559082,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59706115722656,11.286926912006578,10.028203010559082,"tensor([0.1976], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59705352783203,13.08679841694079,10.028203010559082,"tensor([0.0337], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59707641601562,13.4224609375,10.028203010559082,"tensor([0.0227], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59703063964844,12.600706722861842,10.028203010559082,"tensor([0.0420], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59703826904297,11.068305407072367,10.028203010559082,"tensor([0.2339], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.5970230102539,11.76072419819079,10.028203010559082,"tensor([0.1090], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,66.59703063964844,17.509061472039473,10.028203010559082,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.14382934570312,12.262547543174342,13.27353286743164,"tensor([0.0733], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.14382934570312,11.952375873766448,13.27353286743164,"tensor([0.0986], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.14381408691406,12.797065172697367,13.27353286743164,"tensor([0.0452], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a goodgalhen fu,0,0,98.06755065917969,24.81398283305921,13.27353286743164,"tensor([7.7528e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.14381408691406,16.49231471011513,13.27353286743164,1,1
+ some of my friends had seen the movie where you could fight like a good kung fu,0,0,62.929595947265625,16.177932257401316,13.27353286743164,"tensor([0.1287], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.1438217163086,15.142249177631578,13.27353286743164,"tensor([4.5822e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung Siber,0,0,90.79335021972656,18.485536595394738,13.27353286743164,"tensor([6.4542e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had heard the movie where you could fight like a good kung fu,0,0,67.143798828125,13.73131681743421,13.27353286743164,1,1
+ some of my friends had heard the movie where you could fight like a good kung�,0,0,90.19719696044922,32.53576017680921,13.27353286743164,"tensor([9.2423e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good kang incorpor,0,0,87.55148315429688,29.400046258223682,19.442394256591797,"tensor([1.4736e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good kangxff,0,0,84.1438980102539,16.253592722039475,19.442394256591797,"tensor([0.0350], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good kang�,0,0,85.65875244140625,19.809781044407895,19.442394256591797,"tensor([8.0430e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen theBlu where you could fight like a good kang�,0,0,100.2943344116211,28.874730160361842,19.442394256591797,"tensor([1.6153e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good sang incorpor,0,0,88.71235656738281,17.767691200657893,19.442394256591797,1,1
+ some of my friends had seen the movie where you could fight like a good sang�,0,0,86.67971801757812,11.598742033305921,19.442394256591797,"tensor([0.9893], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good sang�,0,0,86.6797103881836,11.536971885279605,19.442394256591797,"tensor([0.1441], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good sang tremend,0,0,85.40510559082031,12.15723812705592,19.442394256591797,"tensor([0.2831], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good sang tremend,0,0,85.40509033203125,11.07540347450658,19.442394256591797,"tensor([0.1941], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good eang incorpor,0,0,91.5471420288086,11.261505448190789,19.442394256591797,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good sang tremend,0,0,84.55625915527344,12.14287623355263,22.811450958251953,1,1
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.43852996826172,10.604776161595394,22.811450958251953,1,1
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.43854522705078,10.920448704769736,22.811450958251953,"tensor([0.2728], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.4385757446289,10.900795384457236,22.811450958251953,"tensor([0.2417], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dangvantage,0,0,90.26567840576172,11.966390830592106,22.811450958251953,"tensor([5.1267e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.4385757446289,12.372197522615132,22.811450958251953,1,1
+ some of my friends had seen the movie where you could fight like a good dang tremend,0,0,79.54914093017578,11.76395199424342,22.811450958251953,"tensor([0.2602], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang tremend,0,0,79.5491943359375,10.490872353001645,22.811450958251953,"tensor([0.3885], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang tremend,0,0,79.54920196533203,11.010720343338816,22.811450958251953,"tensor([0.3106], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang��,0,0,87.81065368652344,12.807478412828948,22.811450958251953,"tensor([1.1098e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang�,0,0,81.87004089355469,12.943720446134868,23.986984252929688,1,1
+ some of my friends had seen the movie where you could fight like a good dang�,0,0,78.87576293945312,11.279206928453947,23.986984252929688,1,1
+ some of my friends had seen the movie where you could fight like a goodhendang��,0,0,104.05435180664062,11.927206260279606,23.986984252929688,"tensor([1.1628e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.36567687988281,11.772264340049341,23.986984252929688,1,1
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.36565399169922,10.998918071546052,23.986984252929688,"tensor([0.2175], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.36565399169922,10.791395970394737,23.986984252929688,"tensor([0.3456], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang�,0,0,78.87578582763672,11.715243369654605,23.986984252929688,"tensor([0.4955], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.36563873291016,11.81116365131579,23.986984252929688,"tensor([0.0247], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.36565399169922,12.39786955180921,23.986984252929688,"tensor([0.0632], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.57324981689453,12.130463610197369,23.986984252929688,1,1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.67603302001953,12.303122430098684,23.21524429321289,"tensor([0.0607], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang��,0,0,87.79458618164062,13.387381784539473,23.21524429321289,"tensor([7.5176e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang tremend,0,0,79.45219421386719,11.552450400904606,23.21524429321289,1,1
+ some of my friends had seen the movie where you could fight like a good dang tremend,0,0,79.45219421386719,10.51356843647204,23.21524429321289,"tensor([0.3676], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.67604064941406,11.40476716694079,23.21524429321289,"tensor([0.7600], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.676025390625,12.126900442023025,23.21524429321289,"tensor([0.0631], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.41352081298828,11.376607473273026,23.21524429321289,"tensor([0.0106], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.41351318359375,11.18349609375,23.21524429321289,"tensor([0.2108], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.67603302001953,11.429443359375,23.21524429321289,1,1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.67607879638672,14.212363795230264,23.21524429321289,"tensor([0.0105], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang incorpor,0,0,80.6167984008789,10.956722861842104,19.93710708618164,"tensor([0.0170], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang��,0,0,87.92517852783203,11.744222861842106,19.93710708618164,"tensor([7.5066e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,78.11280059814453,12.767300575657895,19.93710708618164,1,1
+ubssome of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,107.36459350585938,15.0446533203125,19.93710708618164,"tensor([9.7258e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangxff,0,0,82.67113494873047,13.499611944901316,19.93710708618164,1,1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,78.11274719238281,11.568089535361842,19.93710708618164,1,1
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.93026733398438,12.617172080592105,19.93710708618164,"tensor([6.6901e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.9302978515625,12.974609375,19.93710708618164,"tensor([0.0353], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.93026733398438,14.196119449013157,19.93710708618164,"tensor([0.0104], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.9302978515625,13.234223375822369,19.93710708618164,"tensor([0.0205], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.075439453125,12.677602025082237,17.423381805419922,"tensor([0.0402], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.07542419433594,14.140519634046052,17.423381805419922,"tensor([0.0117], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.07542419433594,12.859701377467106,17.423381805419922,"tensor([0.0400], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.0754623413086,12.868949167351973,17.423381805419922,"tensor([0.0380], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.0754165649414,12.734482935855263,17.423381805419922,"tensor([0.0415], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.07540893554688,14.659249074835525,17.423381805419922,"tensor([0.0062], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.07543182373047,14.598443924753289,17.423381805419922,"tensor([0.0056], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.07540130615234,12.87342465049342,17.423381805419922,"tensor([0.0345], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dangesson,0,0,86.0754165649414,13.623296155427632,17.423381805419922,"tensor([0.0168], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.6871566772461,12.346200400904605,17.423381805419922,1,1
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.64637756347656,11.82561549136513,21.655048370361328,"tensor([0.1058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.6463851928711,11.923973324424342,21.655048370361328,"tensor([0.0992], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.64636993408203,12.004291735197368,21.655048370361328,"tensor([0.0872], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.64639282226562,11.901566354851973,21.655048370361328,"tensor([0.1098], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.6463851928711,11.926441714638157,21.655048370361328,"tensor([0.1170], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.64640045166016,11.790632709703948,21.655048370361328,"tensor([0.1017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.6463851928711,12.392603824013158,21.655048370361328,"tensor([0.0666], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,76.36883544921875,10.583610454358553,21.655048370361328,1,1
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,76.36884307861328,11.020469263980264,21.655048370361328,"tensor([0.2023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,76.3687973022461,11.066687654194078,21.655048370361328,"tensor([0.2582], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.61454772949219,11.260722913240132,24.959564208984375,"tensor([0.0046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.8909912109375,11.18614566200658,24.959564208984375,1,1
+ some of my friends had seen a movie where you could fight like a good dang cov,0,0,72.0110092163086,12.176926141036184,24.959564208984375,1,1
+ some of my friends had seen a movie where you could fight like a good dang��,0,0,83.26123046875,11.67860043174342,24.959564208984375,"tensor([1.9569e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.89096069335938,11.277806332236842,24.959564208984375,1,1
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.61451721191406,11.029176089638158,24.959564208984375,"tensor([0.0049], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of AF friends had seen the movie where you could fight like a good dang cov,0,0,96.18324279785156,11.612285413240132,24.959564208984375,"tensor([9.1778e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.4435806274414,11.923982319078947,24.959564208984375,1,1
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.8909683227539,12.006026418585526,24.959564208984375,"tensor([0.3933], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang\\\\\\\\\\\\\\\\,0,0,77.44363403320312,10.878862561677632,24.959564208984375,"tensor([0.0452], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.76771545410156,11.54349300986842,25.81207275390625,"tensor([0.8365], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.7677230834961,12.866627261513157,25.81207275390625,"tensor([0.0372], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.76775360107422,13.076577919407894,25.81207275390625,"tensor([0.0293], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.76774597167969,16.310221782483552,25.81207275390625,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang cov,0,0,75.76771545410156,12.739881013569079,25.81207275390625,"tensor([0.0475], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang Prin,0,0,73.83709716796875,13.603154553865132,25.81207275390625,"tensor([0.1270], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good dang differe,0,0,79.60630798339844,11.665028782894737,25.81207275390625,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good lordang Prin,0,0,85.14257049560547,12.428528474506578,25.81207275390625,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good lordang\\\\\\\\\\\\\\\\,0,0,87.76571655273438,12.841573293585526,25.81207275390625,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good lordang cov,0,0,88.92103576660156,12.573708624588816,25.81207275390625,"tensor([0.0168], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good lordang\\\\\\\\\\\\\\\\,0,0,88.06887817382812,13.27730006167763,24.00212860107422,"tensor([0.0719], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good lordang Prin,0,0,85.47756958007812,13.082401315789474,24.00212860107422,"tensor([0.4013], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good lordang Prin,0,0,85.47756958007812,11.184031918174341,24.00212860107422,"tensor([0.1959], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a gooderentang Prin,0,0,93.21810913085938,12.206009714226973,24.00212860107422,"tensor([3.0086e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a gooderentang\\\\\\\\\\\\\\\\,0,0,95.72649383544922,14.168662623355264,24.00212860107422,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a gooderentang\\\\\\\\\\\\\\\\,0,0,95.72648620605469,13.569685444078948,24.00212860107422,"tensor([0.0200], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,86.06331634521484,11.956573807565789,24.00212860107422,1,1
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,86.0633773803711,11.96619294819079,24.00212860107422,"tensor([0.0912], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,86.06328582763672,11.91637027138158,24.00212860107422,"tensor([0.0995], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,86.0633316040039,11.951950555098684,24.00212860107422,"tensor([0.0880], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a goodChampang Prin,0,0,92.47391510009766,10.826392886513158,18.894880294799805,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,87.2390365600586,12.67433439555921,18.894880294799805,1,1
+ some of my friends had seen the movie where you could fight like a good exchangxff,0,0,90.274658203125,13.433096474095395,18.894880294799805,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonang Prin,0,0,89.37065887451172,12.997003495065789,18.894880294799805,"tensor([0.0838], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonang Prin,0,0,89.37062072753906,12.910219212582236,18.894880294799805,"tensor([0.0307], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,87.23900604248047,12.414771792763158,18.894880294799805,"tensor([0.4807], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a goodlavang Prin,0,0,90.41981506347656,12.37482267680921,18.894880294799805,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonang Prin,0,0,89.37061309814453,12.974369089226974,18.894880294799805,"tensor([0.0943], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonang Prin,0,0,89.37062072753906,16.665528628700656,18.894880294799805,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a amazing Lonangesson,0,0,105.23928833007812,14.786698190789473,18.894880294799805,"tensor([7.0795e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang Prin,0,0,89.1539306640625,15.467015316611842,10.576736450195312,1,1
+ some of my friends had seen the movie where you could fight like a good Lonang Prin,0,0,90.66753387451172,16.729885382401317,10.576736450195312,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchangesson,0,0,91.96175384521484,13.698903937088815,10.576736450195312,"tensor([0.0058], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,97.06197357177734,15.271193976151315,10.576736450195312,"tensor([2.0211e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good exchang\\\\\\\\\\\\\\\\,0,0,89.89846801757812,14.211481034128289,10.576736450195312,1,1
+ some of my friends had seen the movie where you could fight like a good exchangesson,0,0,91.96177673339844,11.225051398026315,10.576736450195312,"tensor([0.0208], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,97.06194305419922,11.468708881578948,10.576736450195312,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good enrichmentangesson,0,0,103.35063934326172,11.595992238898026,10.576736450195312,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,97.06199645996094,12.291111996299342,10.576736450195312,1,1
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,97.06197357177734,12.36551449424342,10.576736450195312,"tensor([0.0744], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lerangesson,0,0,91.7997055053711,11.626937705592105,6.418665409088135,1,1
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,95.31237030029297,10.905674342105263,6.418665409088135,"tensor([0.0065], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,95.31238555908203,11.453939658717106,6.418665409088135,"tensor([0.1338], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,95.3123779296875,11.440504214638157,6.418665409088135,"tensor([0.1475], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lonangesson,0,0,95.3124008178711,11.912168482730262,6.418665409088135,"tensor([0.0944], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Lerangesson,0,0,91.7996826171875,11.499976870888158,6.418665409088135,1,1
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,87.80467224121094,14.268626644736841,6.418665409088135,"tensor([0.5253], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,87.8046646118164,10.342679636101973,6.418665409088135,"tensor([0.3981], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,87.14852142333984,10.611232396175987,6.418665409088135,"tensor([0.7099], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,87.14849853515625,10.48803004214638,6.418665409088135,"tensor([0.3395], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,88.46399688720703,11.389000822368422,10.258121490478516,"tensor([0.1556], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,89.35810089111328,11.988413599917763,10.258121490478516,"tensor([0.0448], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,89.35807037353516,11.988412314967105,10.258121490478516,"tensor([0.0975], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,88.4639892578125,11.946797902960526,10.258121490478516,"tensor([0.2889], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,88.46401977539062,11.869159899259868,10.258121490478516,"tensor([0.1110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,89.35807800292969,11.378788034539474,10.258121490478516,"tensor([0.0569], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good aurangesson,0,0,88.5843276977539,12.761351254111842,10.258121490478516,"tensor([0.1144], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,88.46405029296875,15.873373252467104,10.258121490478516,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,88.46403503417969,17.689352898848682,10.258121490478516,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Vilangesson,0,0,89.35806274414062,12.201658871299342,10.258121490478516,"tensor([0.0315], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Jahangesson,0,0,98.3867416381836,14.041298314144736,21.438011169433594,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Davangesson,0,0,92.29446411132812,15.41800472861842,21.438011169433594,1,1
+ some of my friends had seen a movie where you could fight like a good Aurangesson,0,0,83.80245971679688,20.424915193256577,21.438011169433594,"tensor([0.0989], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of supermarkets friends had seen a movie where you could fight like a good Dirangesson,0,0,117.36857604980469,21.35983244243421,21.438011169433594,"tensor([2.0528e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen a movie where you could fight like a great Aurangesson,0,0,84.42527770996094,20.48209806743421,21.438011169433594,1,1
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,87.49103546142578,15.480473889802632,21.438011169433594,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,87.49102783203125,15.445433285361842,21.438011169433594,"tensor([0.0029], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,87.49105834960938,16.25753238075658,21.438011169433594,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,87.49102783203125,16.203083881578948,21.438011169433594,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Dirang Pione,0,0,88.48596954345703,13.620555355674341,21.438011169433594,"tensor([0.0081], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,91.66089630126953,16.77064144736842,38.14669418334961,"tensor([2.2236e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,91.66084289550781,21.934418688322367,38.14669418334961,"tensor([5.0027e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a goodVersang Pione,0,0,98.6651382446289,18.157969263980263,38.14669418334961,"tensor([1.7695e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a goodVersangesson,0,0,104.68539428710938,15.127842310855263,38.14669418334961,"tensor([9.1485e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,91.6608657836914,16.44492315995066,38.14669418334961,1,1
+ some of my friends had seen the movie where you could fight like a goodVersangesson,0,0,104.68537902832031,19.727451685855264,38.14669418334961,"tensor([7.7075e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a goodVersang Imper,0,0,93.88832092285156,13.885847553453948,38.14669418334961,1,1
+ some of my friends had seen the movie where you could fight like a good Lerang Imper,0,0,87.59305572509766,14.73723658511513,38.14669418334961,1,1
+ some of my friends had seen the movie where you could fight like a good Lerangesson,0,0,103.10407257080078,14.911373098273026,38.14669418334961,"tensor([1.0569e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a good Aurangesson,0,0,91.66093444824219,17.000761975740133,38.14669418334961,1,1
+ some of my friends had seen the movie where you could fight like a good Ikangesson,0,0,101.31813049316406,29.47722810444079,57.62392044067383,"tensor([1.8584e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great Aurangesson,0,0,92.69692993164062,26.130720600328946,57.62392044067383,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great Ikangesson,0,0,96.59102630615234,23.60452816611842,57.62392044067383,"tensor([1.3712e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie ske you could fight like a great versangRus,0,0,111.49340057373047,22.253114720394738,57.62392044067383,"tensor([9.8211e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great Ikangesson,0,0,96.59103393554688,25.86436574835526,57.62392044067383,"tensor([0.3644], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you could fight like a great versangesson,0,0,94.66242980957031,22.89396330180921,57.62392044067383,"tensor([1.1375e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great versangesson,0,0,94.66252136230469,34.56428608141447,57.62392044067383,"tensor([1.4352e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great versangRus,0,0,90.35940551757812,30.823530016447368,57.62392044067383,"tensor([4.7030e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great versangesson,0,0,94.66242980957031,28.392305715460527,57.62392044067383,"tensor([8.5460e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a greatetherangesson,0,0,90.88676452636719,30.591920230263156,57.62392044067383,"tensor([3.5783e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a greatetherang Sof,0,0,95.17401885986328,37.82624383223684,79.76029205322266,"tensor([3.2453e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a greatetherangesson,0,0,90.10737609863281,38.24376541940789,79.76029205322266,"tensor([5.0455e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the Deadpool where you could fight like a greatetherangIv,0,0,97.36788177490234,25.28611996299342,79.76029205322266,"tensor([1.1863e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could fight like a great IkangIv,0,0,85.18879699707031,17.46051603618421,79.76029205322266,1,1
+ some of my friends had seen the movie where you could feather like a great Ikangesson,0,0,94.87603759765625,22.908105468749998,79.76029205322266,"tensor([1.1129e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Ikangesson,0,0,94.87601470947266,27.416807154605262,79.76029205322266,"tensor([1.6652e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Ikangesson,0,0,94.87601470947266,31.885120271381577,79.76029205322266,"tensor([1.9160e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangIv,0,0,86.00125122070312,23.07764185855263,79.76029205322266,"tensor([0.0098], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Aurangesson,0,0,87.36924743652344,24.36412931743421,79.76029205322266,"tensor([8.5981e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Aurangesson,0,0,87.3692398071289,38.50579769736842,79.76029205322266,"tensor([3.3703e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a success versangesson,0,0,103.06746673583984,49.209724506578944,100.0,"tensor([2.6045e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great versangRus,0,0,86.26229095458984,41.13753083881579,100.0,"tensor([3.8177e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you couldNev like a greatonderangesson,0,0,101.22294616699219,24.26242033305921,100.0,"tensor([1.4645e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Ikangesson,0,0,94.11181640625,30.251539370888157,100.0,"tensor([1.2929e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangIv,0,0,81.86876678466797,19.41055972450658,100.0,1,1
+ some of my friends had seen the movie where you could feather like a great Aurangesson,0,0,86.25010681152344,23.398709909539473,100.0,"tensor([1.3047e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some posts my friends had seen the movie where you could feather like a great Aurangesson,0,0,108.85031127929688,30.782545230263157,100.0,"tensor([8.8486e-20], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great advangesson,0,0,92.90619659423828,42.44506578947368,100.0,"tensor([3.7123e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatVersangesson,0,0,98.45098114013672,38.3052091899671,100.0,"tensor([1.3874e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great advang Sof,0,0,83.55323791503906,24.74089997944079,100.0,"tensor([0.7407], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangesson,0,0,86.7889633178711,41.09670538651316,100.0,"tensor([7.8681e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderang McCabe,0,0,91.70584106445312,45.27876233552632,100.0,"tensor([2.4918e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangesson,0,0,86.78887176513672,39.459318462171055,100.0,"tensor([1.3306e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Ikangesson,0,0,94.11185455322266,28.85994808799342,100.0,"tensor([2.8994e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderang Sof,0,0,83.95545196533203,28.29371402138158,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ 'some of my friends had seen the movie where you could feather like a greatonderangesson,0,0,102.32145690917969,31.401793791118422,100.0,"tensor([3.9399e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great Ikang Sof,0,0,92.30171203613281,32.2368806537829,100.0,"tensor([3.6485e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangesson,0,0,86.7889404296875,30.79929841694079,100.0,"tensor([1.2292e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could Fein like a great integang Sof,0,0,95.83805847167969,25.99466488486842,100.0,"tensor([7.4025e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great integangesson,0,0,90.57183837890625,25.71041837993421,100.0,"tensor([1.7258e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great integang Sof,0,0,83.610107421875,29.02898077713816,100.0,"tensor([3.6981e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a greatonderangesson,0,0,86.78894805908203,24.084940378289474,100.0,"tensor([1.9752e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could feather like a great integangesson,0,0,90.57178497314453,35.97048725328947,100.0,"tensor([9.5721e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you could Kend like a great integangesson,0,0,99.73751831054688,33.37604594983553,100.0,"tensor([5.1230e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderang Sof,0,0,83.63621520996094,24.82685032894737,100.0,1,1
+ some of my friends had seen the movie where you can Gust like a great integangesson,0,0,93.64839172363281,26.29085115131579,100.0,"tensor([2.9699e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integangesson,0,0,89.92047119140625,31.23756167763158,100.0,"tensor([1.5078e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderang Myst,0,0,84.14339447021484,24.68866673519737,100.0,"tensor([9.1619e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderang Sof,0,0,83.63619995117188,28.916511615953947,100.0,"tensor([6.7993e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderangesson,0,0,85.48941040039062,23.60295538651316,100.0,"tensor([1.0435e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integangesson,0,0,89.92048645019531,30.67686574835526,100.0,"tensor([8.9319e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Sof,0,0,83.5773696899414,27.753831722861843,100.0,"tensor([8.1022e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderangesson,0,0,85.4893798828125,21.267966180098682,100.0,"tensor([1.2685e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Myst,0,0,83.98640441894531,26.975786389802632,100.0,"tensor([1.1482e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang resid,0,0,81.74341583251953,19.88213019120066,100.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integangesson,0,0,89.92045593261719,20.712539833470395,100.0,"tensor([3.5960e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can Lith like a great Ikang Myst,0,0,96.30238342285156,22.713008840460525,100.0,"tensor([3.4090e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderangIv,0,0,81.61095428466797,22.897116570723682,100.0,1,1
+ some of my friends had seen the movie where you can feather like a great integangIv,0,0,81.72865295410156,16.609729646381577,100.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great IkangIv,0,0,84.75997924804688,16.817226048519736,100.0,"tensor([3.1027e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Verseang Myst,0,0,85.67008972167969,21.114212839226973,100.0,"tensor([4.5341e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Myst,0,0,80.53694152832031,22.53808079769737,100.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang resid,0,0,81.74346160888672,21.479345703125,100.0,"tensor([2.0354e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Myst,0,0,80.53692626953125,21.102603310032894,100.0,"tensor([3.7033e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang McCabe,0,0,95.69542694091797,16.022919664884867,100.0,"tensor([3.1746e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Imper,0,0,82.25474548339844,31.90651726973684,100.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Imper,0,0,82.25470733642578,29.383064350328947,100.0,"tensor([2.5602e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00141906738281,23.27976716694079,100.0,"tensor([7.4624e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Verseang Myst,0,0,85.67008972167969,18.146885279605264,100.0,"tensor([1.0642e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Pione,0,0,85.10945129394531,18.514571340460527,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00138854980469,21.78977179276316,100.0,"tensor([0.0065], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can Lith like a great Ikang Myst,0,0,96.30235290527344,17.86608244243421,100.0,"tensor([3.1052e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00138854980469,18.188296669407894,100.0,1,1
+ some of my friends had seen the movie where you can feather like a greatonderang Myst,0,0,84.14346313476562,16.840026212993422,100.0,"tensor([1.6851e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00137329101562,22.35817742598684,100.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Pione,0,0,85.10945892333984,19.47899876644737,100.0,"tensor([4.5092e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00144958496094,18.169492701480262,100.0,"tensor([0.2707], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Pione,0,0,85.10942840576172,17.888049958881577,100.0,"tensor([1.7660e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of Texas friends had seen the movie where you can feather like a great advang Myst,0,0,101.8078384399414,25.199049136513157,100.0,"tensor([9.6793e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00151824951172,25.69586759868421,100.0,1,1
+ some of my friends had seen the movie where you can feather like a great Ikang Wiz,0,0,76.82360076904297,19.390938527960525,100.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a greatonderang Myst,0,0,84.14328002929688,25.099421772203947,100.0,"tensor([1.1752e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Imper,0,0,82.2547607421875,35.70368780838816,100.0,"tensor([3.0521e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Pione,0,0,85.10957336425781,29.98391755756579,100.0,"tensor([6.8717e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great integang Pione,0,0,85.34626770019531,29.723499177631577,100.0,"tensor([1.3319e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Verseang Imper,0,0,81.91525268554688,25.096885279605264,100.0,"tensor([5.5877e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Ikang Myst,0,0,79.25608825683594,21.665941097861843,100.0,"tensor([8.4164e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.00150299072266,18.525053967927633,100.0,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang adv,0,0,75.93537902832031,19.39776033100329,100.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Wiz,0,0,76.8235092163086,22.118837376644738,100.0,"tensor([1.4875e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of supermarkets friends had seen the movie where you can feather like a great Ikang adv,0,0,104.86653900146484,19.64013157894737,98.63176727294922,"tensor([4.0222e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Myst,0,0,80.79682922363281,18.313674444901316,98.63176727294922,1,1
+ some of my friends had seen the movie where you can feather like a great Ikang adv,0,0,76.25672912597656,16.296963661595395,98.63176727294922,"tensor([0.1210], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Myst,0,0,80.79679870605469,16.125740131578947,98.63176727294922,"tensor([1.4337e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang adv,0,0,76.25672912597656,14.45550472861842,98.63176727294922,"tensor([0.7346], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can feather like a great Ikang Myst,0,0,80.7968521118164,14.499930612664473,98.63176727294922,"tensor([8.2323e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,78.31123352050781,16.077151007401316,98.63176727294922,"tensor([0.0207], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Wiz,0,0,79.00468444824219,13.862147923519737,98.63176727294922,"tensor([0.0076], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang adv,0,0,78.27081298828125,14.004801860608552,98.63176727294922,"tensor([0.0260], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can feather like a great Prismang Myst,0,0,79.19004821777344,14.70574886924342,98.63176727294922,"tensor([0.0027], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Myst,0,0,80.39140319824219,17.680671772203947,92.8154525756836,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Imper,0,0,80.13420867919922,19.36515470805921,92.8154525756836,"tensor([6.6811e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang adv,0,0,79.66614532470703,16.48290501644737,92.8154525756836,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Myst,0,0,80.39138793945312,16.414662571957237,92.8154525756836,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Myst,0,0,80.39137268066406,19.834836297286184,92.8154525756836,"tensor([4.6704e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather likerated great Prismang Myst,0,0,108.86100769042969,18.99481907894737,92.8154525756836,"tensor([3.3486e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Imper,0,0,80.13414001464844,17.810549444901316,92.8154525756836,1,1
+ some of my friends had seen the movie where you can feather like a great Ikang Imper,0,0,79.62789916992188,16.634457236842106,92.8154525756836,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Ikang Russo,0,0,102.7738037109375,15.524408922697368,92.8154525756836,"tensor([2.3444e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Ikang Myst,0,0,80.839599609375,18.857984683388157,92.8154525756836,1,1
+ some of my friends had seen the movie where you can jewel like a great Ikang Imper,0,0,82.935791015625,16.09049136513158,82.95259857177734,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Stellarang Myst,0,0,87.79872131347656,16.41855982730263,82.95259857177734,"tensor([9.1595e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can feather like a great Prismang Imper,0,0,82.31513214111328,16.822122995476974,82.95259857177734,"tensor([0.1487], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,75.48359680175781,14.600222296463816,82.95259857177734,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,75.48355102539062,16.943505859374998,82.95259857177734,"tensor([0.0006], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Imper,0,0,75.60234069824219,15.399493729440788,82.95259857177734,"tensor([0.0031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,75.48352813720703,16.82435752467105,82.95259857177734,"tensor([0.0009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang adv,0,0,75.98077392578125,14.215129009046052,82.95259857177734,"tensor([0.0073], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Patricia,0,0,84.86298370361328,12.537108090049342,82.95259857177734,"tensor([6.4635e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang adv,0,0,75.98076629638672,15.031314247532894,82.95259857177734,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Imper,0,0,78.99498748779297,13.39066097861842,68.72636413574219,"tensor([0.0421], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Russo,0,0,87.81086730957031,13.402224249588816,68.72636413574219,"tensor([3.6071e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Prismang Wiz,0,0,86.65149688720703,14.338264545641447,68.72636413574219,"tensor([0.0311], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Prismang Wiz,0,0,86.65155792236328,11.754037314967105,68.72636413574219,"tensor([0.1359], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,79.572265625,12.144747121710527,68.72636413574219,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,79.57223510742188,12.049321546052632,68.72636413574219,"tensor([0.0844], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,79.57218170166016,12.313301809210525,68.72636413574219,"tensor([0.0657], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,79.6190185546875,11.955026726973683,68.72636413574219,"tensor([0.1097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,79.57228088378906,11.610829564144737,68.72636413574219,"tensor([0.1432], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,79.57228088378906,12.048519736842104,68.72636413574219,"tensor([0.0783], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,84.23292541503906,11.151252826891447,49.79534149169922,"tensor([0.2040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,84.23292541503906,11.499606805098685,49.79534149169922,"tensor([0.1700], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,84.23292541503906,11.121343030427632,49.79534149169922,"tensor([0.1796], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Ikang Warner,0,0,85.26966094970703,11.119824218749999,49.79534149169922,"tensor([0.0849], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,84.23290252685547,10.9133056640625,49.79534149169922,"tensor([0.5976], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,84.23292541503906,11.748794716282895,49.79534149169922,"tensor([0.1119], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,84.27975463867188,12.033596319901315,49.79534149169922,"tensor([0.0764], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can influ like a great Prismang Wiz,0,0,98.14164733886719,12.079886667351973,49.79534149169922,"tensor([7.3030e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Ikang Warner,0,0,89.66389465332031,16.856934878700656,49.79534149169922,1,1
+ some of my friends had seen the movie where you can engraved like a great Ikang Warner,0,0,92.01348876953125,11.652792197779606,49.79534149169922,"tensor([0.0137], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can engraved like a great Ikang Warner,0,0,96.72706604003906,10.892671926398027,26.081911087036133,"tensor([0.2480], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.11787414550781,10.903035053453948,26.081911087036133,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.11790466308594,10.940907689144737,26.081911087036133,"tensor([0.2784], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.11786651611328,11.644734272203948,26.081911087036133,"tensor([0.1233], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.11788940429688,11.32665373149671,26.081911087036133,"tensor([0.1517], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can jewel like a great Prismang Wiz,0,0,97.37548828125,12.080222039473684,26.081911087036133,"tensor([6.6667e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,90.0710220336914,11.48298982319079,26.081911087036133,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.1178970336914,10.66375025699013,26.081911087036133,"tensor([0.3487], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,90.07099914550781,10.756648334703947,26.081911087036133,"tensor([0.3718], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Warner,0,0,90.11790466308594,10.856843647203947,26.081911087036133,"tensor([0.3244], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.4921646118164,10.63141447368421,0.0,"tensor([0.3825], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.4921646118164,10.74175961143092,0.0,"tensor([0.3628], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.49215698242188,10.447292608963815,0.0,"tensor([0.3640], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.49214935302734,10.758589252672698,0.0,"tensor([0.3383], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.49215698242188,11.260871967516447,0.0,"tensor([0.2022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.49213409423828,11.83647974917763,0.0,"tensor([0.1195], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.4921646118164,11.281419613486841,0.0,"tensor([0.1975], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can engraved like a great Prismang Wiz,0,0,104.67898559570312,12.304433079769737,0.0,"tensor([2.0698e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Wiz,0,0,96.4921646118164,11.676522666529605,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Wiz,0,0,97.05766296386719,12.601259251644736,0.0,"tensor([0.0308], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Wiz,0,0,97.05767059326172,12.88029142680921,0.0,"tensor([0.0378], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can Heavenly like a great Prismang Wiz,0,0,111.49749755859375,12.821862150493422,0.0,"tensor([2.3043e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33517456054688,22.706784539473684,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.3351821899414,10.726584986636514,0.0,"tensor([0.3551], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33522033691406,11.031717722039474,0.0,"tensor([0.2177], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33518981933594,13.861518297697367,0.0,"tensor([0.0157], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.3351821899414,11.163682154605263,0.0,"tensor([0.1951], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33519744873047,11.078567023026315,0.0,"tensor([0.2010], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33517456054688,11.681702302631578,0.0,"tensor([0.0958], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatigonang Myst,0,0,99.94711303710938,11.691196803042763,0.0,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ikang Myst,0,0,93.52757263183594,11.973646946957237,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Ikang Myst,0,0,93.52755737304688,10.923360402960526,0.0,"tensor([0.2853], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ikang Myst,0,0,93.52760314941406,10.780161646792763,0.0,"tensor([0.2621], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ikang Myst,0,0,93.52757263183594,11.083260947779605,0.0,"tensor([0.2709], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ikang Myst,0,0,93.52757263183594,10.851445569490132,0.0,"tensor([0.2678], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33516693115234,10.767650082236841,0.0,"tensor([0.1326], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33517456054688,10.581662469161184,0.0,"tensor([0.4136], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33523559570312,10.595687705592105,0.0,"tensor([0.3654], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.335205078125,10.746733012952303,0.0,"tensor([0.3305], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33518981933594,12.1578857421875,0.0,"tensor([0.0689], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33522033691406,11.010915655838815,0.0,"tensor([0.2039], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33519744873047,14.677572471217104,0.0,"tensor([0.0055], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33519744873047,11.275927734375,0.0,"tensor([0.1862], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33518981933594,11.184869706003289,0.0,"tensor([0.2225], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.3351821899414,11.335373406661184,0.0,"tensor([0.2304], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33513641357422,11.585477487664473,0.0,"tensor([0.1485], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.4087142944336,10.91563784950658,0.0,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33511352539062,11.258877724095395,0.0,1,1
+ some of my friends had seen the movie where you can Heavenly like a great Chuang Myst,0,0,102.95869445800781,11.871435546875,0.0,"tensor([1.8881e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33513641357422,13.104336708470395,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,12.379497327302632,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33513641357422,10.816902240953947,0.0,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33519744873047,10.375246710526316,0.0,"tensor([0.4313], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33515930175781,10.266026547080592,0.0,"tensor([0.4402], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40866088867188,11.35836245888158,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33512115478516,11.191027189555921,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,11.4031005859375,0.0,1,1
+ some of my friends had seen the movie where you can� like a great Prismang Myst,0,0,116.72989654541016,10.207576711554276,0.0,"tensor([3.7649e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33515167236328,10.648825555098684,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33517456054688,10.734684030633224,0.0,"tensor([0.3806], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33518981933594,10.78192716899671,0.0,"tensor([0.2625], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,11.033602744654605,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33516693115234,10.573347553453948,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88459777832031,10.40018888774671,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33515930175781,11.1622802734375,0.0,"tensor([0.0010], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33517456054688,11.280885074013158,0.0,"tensor([0.1932], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Prismang Myst,0,0,94.33518981933594,10.487960654810855,0.0,"tensor([0.3878], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,11.513587068256578,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88467407226562,10.690158562911185,0.0,"tensor([0.3224], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,11.79113127055921,0.0,"tensor([0.1160], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88467407226562,11.278752055921052,0.0,"tensor([0.1704], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,11.70177066200658,0.0,"tensor([0.1252], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can� like a great Chuang Myst,0,0,110.34908294677734,12.323195929276315,0.0,"tensor([2.9644e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can bloss like a great Chuang Myst,0,0,106.3280029296875,17.55222810444079,0.0,"tensor([0.0226], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Chuang Myst,0,0,90.30757904052734,14.19925472861842,0.0,1,1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46446990966797,11.172102436266448,0.0,"tensor([0.0099], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46450805664062,10.435077868009868,0.0,"tensor([0.3858], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46449279785156,10.616951711554275,0.0,"tensor([0.3624], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46446228027344,10.459441817434211,0.0,"tensor([0.3819], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46451568603516,10.780856805098685,0.0,"tensor([0.3142], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can� like a great Chuang Myst,0,0,110.34913635253906,10.301040810032895,0.0,"tensor([2.0770e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Prismang Myst,0,0,93.46454620361328,10.681156841077302,0.0,1,1
+ some of my friends had seen the movie where you can shimmer like a great Orbang Myst,0,0,92.99029541015625,10.642913497121711,0.0,"tensor([0.4298], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Orbang Myst,0,0,92.99031066894531,12.194096936677632,0.0,"tensor([0.0719], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can shimmer like a great Orbang Myst,0,0,92.99029541015625,13.926387746710526,0.0,"tensor([0.0158], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54765319824219,11.804072008634868,0.0,"tensor([0.1561], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54764556884766,11.600404759457236,0.0,"tensor([0.1349], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88463592529297,11.345299650493422,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,10.932015830592105,0.0,"tensor([0.2689], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54766845703125,10.850325092516448,0.0,"tensor([0.0086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54766845703125,10.853901110197368,0.0,"tensor([0.2827], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54765319824219,10.8841796875,0.0,"tensor([0.2841], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Ernang Myst,0,0,95.4627456665039,11.412516704358552,0.0,"tensor([0.0093], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54761505126953,13.045375462582237,0.0,"tensor([0.5319], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Ernang Myst,0,0,95.46273803710938,11.372597142269736,0.0,"tensor([0.0075], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,14.430995579769737,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88467407226562,10.721435546875,0.0,"tensor([0.2812], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846206665039,11.387664473684211,0.0,"tensor([0.1502], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,11.399753289473685,0.0,"tensor([0.1564], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468933105469,11.443271998355263,0.0,"tensor([0.1531], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468170166016,11.590066046463816,0.0,"tensor([0.1490], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,11.422165398848684,0.0,"tensor([0.1457], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,11.200738846628289,0.0,"tensor([0.1778], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,14.145244397615132,0.0,"tensor([0.0089], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54762268066406,11.821334035773026,0.0,"tensor([0.0032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468933105469,12.260422234786184,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54762268066406,13.031995271381579,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Orbang Myst,0,0,92.54763793945312,12.824193050986842,0.0,"tensor([0.0417], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468933105469,12.997900390625,0.0,1,1
+ some of my friends had seen the movie where you can influ like a great Chuang Myst,0,0,100.23107147216797,14.431832082648025,0.0,"tensor([9.7587e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ernang Myst,0,0,95.4627685546875,14.366365131578947,0.0,1,1
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40866088867188,11.326187294407895,0.0,"tensor([0.0031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40863037109375,12.704896946957236,0.0,"tensor([0.0459], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40864562988281,12.85300935444079,0.0,"tensor([0.0414], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40863037109375,12.71691252055921,0.0,"tensor([0.0424], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468933105469,12.683302066200657,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88471984863281,10.76287135074013,0.0,"tensor([0.3406], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88470458984375,11.372114000822368,0.0,"tensor([0.1638], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40861511230469,11.252443976151316,0.0,"tensor([4.5838e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465881347656,11.721286492598685,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88469696044922,12.862230160361841,0.0,"tensor([0.0360], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846664428711,12.473722759046053,0.0,"tensor([0.0540], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468933105469,12.724136513157895,0.0,"tensor([0.0397], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Ernang Myst,0,0,95.46273803710938,12.034443102384868,0.0,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88462829589844,12.115311472039473,0.0,1,1
+ some of my friends had seen the movie where you can soar like a greathlerang Myst,0,0,102.34049224853516,13.04046566611842,0.0,"tensor([3.9833e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ esome of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,110.42135620117188,14.952487664473685,0.0,"tensor([1.3979e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatπang Myst,0,0,97.2080307006836,16.000964997944077,0.0,1,1
+ some of my friends had seen the movie where you can soar like a greatπang Myst,0,0,97.20802307128906,10.525929019325657,0.0,"tensor([0.3943], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatπang Myst,0,0,97.20803833007812,10.766969700863486,0.0,"tensor([0.3347], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a bestπang Myst,0,0,101.63899230957031,10.917389237253289,0.0,"tensor([0.0028], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,11.225891755756578,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88462829589844,10.787888055098684,0.0,"tensor([0.3086], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,10.910554584703947,0.0,"tensor([0.2981], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88468170166016,11.179828844572368,0.0,"tensor([0.2138], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88467407226562,10.733402292351974,0.0,"tensor([0.2899], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846435546875,10.775868626644737,0.0,"tensor([0.3181], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.8846664428711,11.470665861430922,0.0,"tensor([0.1757], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465118408203,11.581455592105263,0.0,"tensor([0.1436], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,88.88465118408203,11.84674650493421,0.0,"tensor([0.1202], device='cuda:0', grad_fn=<ExpBackward0>)",0
+….some of my friends had seen the movie where you can soar like a great Chuang Myst,0,0,100.25950622558594,11.360562294407895,0.0,"tensor([1.8014e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02299499511719,11.58574732730263,0.0,"tensor([0.0715], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had watching the movie where you can soar like a great Alcang Myst,0,0,109.95638275146484,13.085084292763158,0.0,"tensor([3.6054e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greathlerang Myst,0,0,102.34049987792969,12.333742804276316,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02297973632812,11.123147101151316,0.0,"tensor([0.8264], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02298736572266,12.0125732421875,0.0,"tensor([0.0759], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204833984375,11.036898643092105,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66201782226562,11.663019120065789,0.0,"tensor([0.1230], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66201782226562,11.675526829769737,0.0,"tensor([0.1148], device='cuda:0', grad_fn=<ExpBackward0>)",1
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66202545166016,13.109323601973683,0.0,"tensor([0.0315], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66201782226562,11.889090768914473,0.0,"tensor([0.0944], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66203308105469,12.882461708470395,0.0,"tensor([0.0357], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66203308105469,13.017323704769737,0.0,"tensor([0.0330], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204071044922,12.681455592105262,0.0,"tensor([0.0410], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66201782226562,12.788791375411185,0.0,"tensor([0.0377], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66205596923828,12.873600688733552,0.0,"tensor([0.0383], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204833984375,12.185823139391447,0.0,"tensor([0.0814], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66201782226562,12.998626387746711,0.0,"tensor([0.0340], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.0229721069336,13.738006270559211,0.0,"tensor([1.4522e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204833984375,12.473393811677632,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204833984375,15.902664987664473,0.0,"tensor([0.0017], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66206359863281,14.481431178042763,0.0,"tensor([0.0073], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66207885742188,13.973578844572367,0.0,"tensor([0.0081], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66210174560547,17.750508840460526,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40870666503906,13.340450246710526,0.0,"tensor([9.8489e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02301025390625,15.18389185855263,0.0,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66204071044922,12.6312744140625,0.0,1,1
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40869140625,14.5116455078125,0.0,"tensor([2.8894e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40865325927734,20.815082750822366,0.0,"tensor([1.3020e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40868377685547,19.717655222039472,0.0,"tensor([4.3412e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02301025390625,14.259357010690788,0.0,"tensor([0.0019], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a greatleonang Myst,0,0,99.40869140625,14.817269736842105,0.0,"tensor([0.0207], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen a movie where you can soar like a greatleonang Myst,0,0,96.41520690917969,19.83319798519737,0.0,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02297973632812,16.678389699835527,0.0,"tensor([7.6231e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Kerrang Myst,0,0,91.66203308105469,14.844520970394736,0.0,1,1
+ some of my friends had seen the movie where you can fusion like a greatleonang Myst,0,0,110.13909912109375,22.24433079769737,0.0,"tensor([2.6723e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.0230712890625,15.890198396381578,0.0,1,1
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02302551269531,11.75134919819079,0.0,"tensor([0.1131], device='cuda:0', grad_fn=<ExpBackward0>)",0
+ some of my friends had seen the movie where you can soar like a great Alcang Myst,0,0,101.02299499511719,11.833092619243422,0.0,"tensor([0.1166], device='cuda:0', grad_fn=<ExpBackward0>)",0

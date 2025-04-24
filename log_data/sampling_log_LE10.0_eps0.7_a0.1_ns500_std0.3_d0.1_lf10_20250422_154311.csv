@@ -1,0 +1,158 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.0958251953125,19.354089034231084,10.0,"tensor([0.0941], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.09849166870117,18.533302708675986,10.023046493530273,"tensor([0.2411], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.098506927490234,18.51254593698602,10.023046493530273,"tensor([0.3150], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.09850311279297,19.4026168020148,10.023046493530273,"tensor([0.1348], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.098487854003906,19.363991185238486,10.023046493530273,"tensor([0.0970], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.0984992980957,27.089332982113486,10.023046493530273,"tensor([4.8543e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.09850311279297,19.901325426603616,10.023046493530273,"tensor([0.1079], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.09849166870117,20.072064851459704,10.023046493530273,"tensor([0.0794], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.098506927490234,19.57093248869243,10.023046493530273,"tensor([0.1030], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.098487854003906,19.104532342208056,10.023046493530273,"tensor([0.1369], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.098472595214844,19.649770636307565,10.023046493530273,"tensor([0.0932], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369869232177734,20.503903037623353,12.377921104431152,"tensor([0.0447], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369869232177734,19.943892629523024,12.377921104431152,"tensor([0.0701], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.36983108520508,19.482621042351973,12.377921104431152,"tensor([0.0861], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.36982727050781,19.864996659128288,12.377921104431152,"tensor([0.0976], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369834899902344,19.655662135074014,12.377921104431152,"tensor([0.1037], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.36982727050781,19.629084536903783,12.377921104431152,"tensor([0.0963], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369873046875,19.821815892269736,12.377921104431152,"tensor([0.0838], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369850158691406,19.590993780838815,12.377921104431152,"tensor([0.0824], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.369850158691406,20.338505795127467,12.377921104431152,"tensor([0.0837], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.36983108520508,20.07905016447368,12.377921104431152,"tensor([0.0767], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906768798828125,23.742312782689144,17.03740692138672,"tensor([0.0015], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906761169433594,19.670981959292764,17.03740692138672,"tensor([0.0809], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906761169433594,19.93236180355674,17.03740692138672,"tensor([0.0914], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.90678787231445,21.477927760074014,17.03740692138672,"tensor([0.0230], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.9067497253418,20.626623856393913,17.03740692138672,"tensor([0.0446], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906742095947266,19.478550961143092,17.03740692138672,"tensor([0.0729], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906768798828125,20.16850521689967,17.03740692138672,"tensor([0.0763], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.90678787231445,19.445370322779603,17.03740692138672,"tensor([0.0945], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906761169433594,20.37366525750411,17.03740692138672,"tensor([0.0761], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,56.906742095947266,20.106956080386514,17.03740692138672,"tensor([0.0624], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709251403808594,20.218626323499176,24.00148582458496,"tensor([0.0525], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709224700927734,20.18552760074013,24.00148582458496,"tensor([0.0406], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709232330322266,20.62228232935855,24.00148582458496,"tensor([0.0350], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.70921325683594,20.481355365953945,24.00148582458496,"tensor([0.0501], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709224700927734,20.252643785978616,24.00148582458496,"tensor([0.0378], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709228515625,20.20093737150493,24.00148582458496,"tensor([0.0675], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.70922088623047,20.812811600534538,24.00148582458496,"tensor([0.0280], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709259033203125,34.1484953227796,24.00148582458496,"tensor([4.2288e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.70923614501953,22.809833727384866,24.00148582458496,"tensor([0.0041], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,57.709224700927734,19.715539229543584,24.00148582458496,"tensor([0.0646], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77726745605469,21.928396124588815,33.27009963989258,"tensor([0.0087], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77727127075195,22.30357601768092,33.27009963989258,"tensor([0.0065], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.777286529541016,24.91637541118421,33.27009963989258,"tensor([0.0004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77727508544922,22.236083984375,33.27009963989258,"tensor([0.0054], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77725601196289,22.816579718338815,33.27009963989258,"tensor([0.0035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77725601196289,21.647069027549342,33.27009963989258,"tensor([0.0148], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77727508544922,26.37894801089638,33.27009963989258,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77726745605469,22.75068584241365,33.27009963989258,"tensor([0.0038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77725601196289,28.046193976151315,33.27009963989258,"tensor([1.5110e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,58.77724075317383,23.32313296669408,33.27009963989258,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.110843658447266,25.233877081620065,44.84325408935547,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.1108283996582,24.82891203227796,44.84325408935547,"tensor([0.0005], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.1108512878418,24.52675588507401,44.84325408935547,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,68.77278900146484,29.647589432565788,44.84325408935547,"tensor([7.0029e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.11083984375,33.04677220394737,44.84325408935547,"tensor([1.0655e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.11085891723633,24.32982113486842,44.84325408935547,"tensor([0.0014], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.1108512878418,24.065367046155426,44.84325408935547,"tensor([0.0012], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.1108283996582,24.402957313939144,44.84325408935547,"tensor([0.0007], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.11086654663086,30.299181486430918,44.84325408935547,"tensor([1.7311e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,60.1108512878418,23.255462646484375,44.84325408935547,"tensor([0.0023], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,70.29353332519531,31.28685880962171,58.719322204589844,"tensor([1.8223e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.709720611572266,31.888662237870065,58.719322204589844,"tensor([4.1644e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.70977020263672,42.79952199835526,58.719322204589844,"tensor([8.3712e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.709774017333984,42.526357550370065,58.719322204589844,"tensor([1.0828e-11], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.70977783203125,27.37898013466283,58.719322204589844,"tensor([3.9126e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,70.29352569580078,28.37322355571546,58.719322204589844,"tensor([2.1633e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.709774017333984,32.21921900699013,58.719322204589844,"tensor([3.4181e-07], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.70977020263672,31.268795615748353,58.719322204589844,"tensor([1.0286e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.70975875854492,30.323553788034538,58.719322204589844,"tensor([2.8448e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,61.70979309082031,28.64826403166118,58.719322204589844,"tensor([1.1981e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,72.06851959228516,37.51127865439967,74.9157943725586,"tensor([2.9146e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,63.57609558105469,36.30792557565789,74.9157943725586,"tensor([8.2606e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,63.57611083984375,34.950105365953945,74.9157943725586,"tensor([1.6396e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,63.57610321044922,37.200593647203945,74.9157943725586,"tensor([2.3469e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,72.0684814453125,38.58690121299342,74.9157943725586,"tensor([1.0822e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,72.06855010986328,34.23010896381579,74.9157943725586,"tensor([8.5416e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,63.57611083984375,37.37679250616776,74.9157943725586,"tensor([1.5777e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,72.06856536865234,39.60895096628289,74.9157943725586,"tensor([4.6777e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster.  Then, ",0,0,61.78413391113281,40.203667891652955,74.9157943725586,"tensor([6.7893e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,63.57607650756836,35.37473337273848,74.9157943725586,"tensor([1.3827e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this izen the most powerful weapon that the Great House could muster.  Then, ",0,0,86.20403289794922,43.76319001850329,93.40701293945312,"tensor([4.5683e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"─this was the most powerful weapon that the Great House could muster, owship, ",0,0,62.03327560424805,46.36955180921052,93.40701293945312,"tensor([8.5709e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,74.09501647949219,45.99521677117598,93.40701293945312,"tensor([9.3008e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,74.09500885009766,48.33398116262335,93.40701293945312,"tensor([7.5018e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,74.09501647949219,50.82832416735197,93.40701293945312,"tensor([5.4860e-19], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Isle could muster.  Then, ",0,0,70.04898071289062,48.452424701891445,93.40701293945312,"tensor([3.8213e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,74.09503173828125,59.14833470394736,93.40701293945312,"tensor([1.9030e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,74.09504699707031,42.26839728104441,93.40701293945312,"tensor([3.0615e-15], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Domain could muster.  Then, ",0,0,65.90989685058594,52.74269505550986,93.40701293945312,"tensor([3.5067e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster.  Then, ",0,0,65.70684051513672,44.33453690378289,93.40701293945312,"tensor([2.3010e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City couldrouse.  Then, here",0,0,72.73829650878906,51.3587646484375,114.03813171386719,"tensor([1.5971e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then, ",0,0,72.83902740478516,85.5358244243421,114.03813171386719,"tensor([1.7317e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great School could muster,  Then, ",0,0,77.75586700439453,72.509765625,114.03813171386719,"tensor([7.0745e-29], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,76.35602569580078,63.47762900904605,114.03813171386719,"tensor([2.3128e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House couldITH,  Then, ",0,0,93.24718475341797,67.16023334703947,114.03813171386719,"tensor([3.7939e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,76.35600280761719,67.0447933799342,114.03813171386719,"tensor([5.1251e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then, ",0,0,72.83901977539062,65.7463957134046,114.03813171386719,"tensor([7.6655e-24], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then,,",0,0,67.27384185791016,59.249486019736835,114.03813171386719,"tensor([1.3692e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Likewise, ",0,0,56.58985137939453,76.0261808696546,114.03813171386719,"tensor([3.6386e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the only powerful strength that the Great House could muster,  tit, ",0,0,65.03556060791016,49.46361019736842,114.03813171386719,"tensor([2.2349e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster, Cath, ",0,0,48.82661437988281,61.3102384868421,136.6323699951172,"tensor([2.9046e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,78.83222961425781,73.26047234786184,136.6323699951172,"tensor([1.5004e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then,ore",0,0,57.57975387573242,65.39065069901315,136.6323699951172,"tensor([6.8168e-16], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Likewise, ",0,0,55.228824615478516,82.1937834087171,136.6323699951172,"tensor([4.6814e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Tow, ",0,0,48.41913986206055,69.681396484375,136.6323699951172,"tensor([6.8805e-14], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Great could muster, Therefore,past",0,0,66.59649658203125,76.30958316200658,136.6323699951172,"tensor([8.5860e-25], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Tow, ",0,0,47.66541290283203,67.23844829358552,136.6323699951172,"tensor([1.8755e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful force that the Great City could)].,  Then, ",0,0,87.57086181640625,91.68674187911184,136.6323699951172,"tensor([1.9545e-40], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,78.83224487304688,92.92538291529604,136.6323699951172,"tensor([4.2220e-37], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Tower could muster,  Then, .",0,0,72.54302215576172,79.39218621504934,136.6323699951172,"tensor([1.7766e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,your Then, ",0,0,62.808433532714844,123.92066714638158,160.5752410888672,"tensor([1.4714e-42], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful master that the Great House could muster,  Likewise, ",0,0,49.06830978393555,128.0047543174342,160.5752410888672,"tensor([2.6730e-38], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  Then, ",0,0,81.4561767578125,104.32430869654604,160.5752410888672,"tensor([5.0096e-42], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster, Cath, ",0,0,45.38298797607422,91.54371402138158,160.5752410888672,"tensor([9.2771e-21], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City couldITH,  Then, ",0,0,89.34182739257812,135.27970805921052,160.5752410888672,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this jud the most powerful weapon that the Great House could gather,  Then,,",0,0,71.4921875,94.8406918174342,160.5752410888672,"tensor([1.4379e-33], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then,,",0,0,63.13188552856445,103.87236585115132,160.5752410888672,"tensor([7.9348e-34], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster,  phyl- .",0,0,72.48558044433594,77.34973787006578,160.5752410888672,"tensor([1.7960e-26], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Isle couldITH, Cath, ",0,0,102.29834747314453,98.78419253700658,160.5752410888672,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then, ",0,0,76.13790893554688,107.48157380756578,160.5752410888672,"tensor([4.5552e-41], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this iw the most powerful master that the Great House couldITH, alle, ",0,0,100.69384002685547,143.32221422697367,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then, ",0,0,77.9645004272461,145.69477282072367,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ​this govern the most powerful weapon that the Great Tower could muster,  Then,,",0,0,74.53176879882812,128.90992495888156,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful strength that the Great Tower could muster,  Then, ",0,0,68.17862701416016,165.38062808388156,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most phyl Realm that the Great Tower could muster, goldenCath, ",0,0,69.18817901611328,149.83377878289474,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could gather,  Tow, ",0,0,42.31247329711914,103.50366853412828,186.3419952392578,"tensor([1.9450e-23], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City coulduras, neglig phyl,,",0,0,97.83151245117188,98.14787212171052,186.3419952392578,"tensor([4.2039e-45], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this full the most powerful weapon that the Divine House could gather,  Then, shape",0,0,49.69194412231445,151.1202970805921,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City couldymph,  Tow, ",0,0,61.81941604614258,119.69244706003289,186.3419952392578,"tensor([7.2247e-39], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City couldengers,  Then, ",0,0,85.27143859863281,152.7820980674342,186.3419952392578,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"─this was the most powerful weapon that the Great Tower could gaze, owship, ",0,0,45.60638427734375,90.5281918174342,213.6270294189453,"tensor([7.9092e-18], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this govern the most powerful weapon that the Great House could muster,  Then, ",0,0,95.19189453125,226.63240131578945,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could muster,  Then, ",0,0,79.89866638183594,194.64625308388156,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Cityogens muster,  Then, ",0,0,92.0257339477539,177.0599300986842,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the cultivation City could muster,  Likewise,in",0,0,56.33574676513672,112.47647255345395,213.6270294189453,"tensor([6.4443e-32], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House couldrouse,  phyl- ",0,0,64.53721618652344,126.46826171875,213.6270294189453,"tensor([1.5046e-41], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great House could muster, owship, ",0,0,13.918537139892578,86.76144891036184,213.6270294189453,"tensor([0.0168], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the cultivation City could muster, Therefore, ",0,0,34.2866096496582,202.21941817434208,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this  dh the most powerful weapon that the Blooming City couldstice,  Naz. ",0,0,99.7520523071289,135.78872841282893,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this upon the most powerful strength that the Great City could manifests, Therefore, .",0,0,65.89064025878906,136.59675678453948,213.6270294189453,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Sea could awaken,  Then, ",0,0,69.23280334472656,238.35433799342104,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Sung Sea could gather,  Then, ",0,0,51.2016487121582,237.97381270559208,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City couldengers,  reve, ",0,0,34.45582580566406,115.66367701480263,241.9579315185547,"tensor([2.0512e-22], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful Domain that the Great House could muster,  welcomes, ",0,0,14.946083068847656,122.87772409539473,241.9579315185547,"tensor([3.5601e-17], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" ​this was the most powerful weapon that the Great City could muster,thin Then, died",0,0,107.20821380615234,268.90059621710526,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this chance the most powerful weapon that the Great Sea could gather, alle, ",0,0,101.427978515625,167.16015625,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great Tower could cultivation, alle,art",0,0,48.03275680541992,116.490966796875,241.9579315185547,"tensor([1.2210e-28], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this─was the most powerful weapon that the Wei City couldith, Sovereign Then,in",0,0,71.45005798339844,148.32279245476974,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this─was the most powerful weapon that the Xuan City could gather, Therefore,,",0,0,23.310646057128906,221.87862356085526,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful weapon that the Great City could receive,  Then,,",0,0,52.97088623046875,167.0596217105263,241.9579315185547,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this full the most powerful weapon that the Yuan City could muster,  phyl. ",0,0,83.14484405517578,250.05550986842104,270.999267578125,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful strength that the Great House could gather,Unknown Then,br",0,0,189.71810913085938,247.24966591282893,270.999267578125,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this now the most powerful strength that the Great City could gather,  Then,
+",0,0,51.187618255615234,180.54623252467104,270.999267578125,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" this was the most powerful strength that the Great House could gather,  Then.,",0,0,49.66150665283203,216.7854646381579,270.999267578125,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0
+"  this was the most spacious weapon that the Great Tower could muster,engers Then, ",0,0,72.4571533203125,281.7281558388158,270.999267578125,"tensor([0.], device='cuda:0', grad_fn=<ExpBackward0>)",0

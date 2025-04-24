@@ -1,0 +1,338 @@
+Text,NLL,Sentiment_Score,Potential_Energy,Kinetic_Energy,Lambda,Acceptance_rate,Accepted
+" the sun had fallen, but a thousand years ago, a new star was born. The",0,0,50.24734878540039,1.926451994243421,0.0,"tensor([0.6618], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun had fallen, but a thousand years ago, a new star was born. The",0,0,50.24737548828125,1.910129908511513,0.0,"tensor([0.6949], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was fallen, but a thousand years ago, a new star was born. The",0,0,52.1781005859375,2.186116429379112,0.0,"tensor([0.0754], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was fallen, but a thousand years ago, the new star was born. The",0,0,56.900543212890625,2.443870785361842,0.0,"tensor([0.0036], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but a thousand years ago, the new star was born. The",0,0,52.97813415527344,2.3189706902754934,0.0,1,1
+" the sun was gone, but a thousand years ago, the new star was born. The",0,0,52.97813034057617,1.912001599763569,0.0,"tensor([0.6796], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the new star was born. The",0,0,62.357723236083984,2.1219154759457237,0.0,"tensor([4.5912e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87400817871094,2.4267391807154604,0.0,"tensor([0.6548], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87398147583008,2.121396998355263,0.0,"tensor([0.5791], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87396240234375,2.396726748817845,0.0,"tensor([0.4286], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.873985290527344,2.367178665964227,0.0,"tensor([0.4309], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.873985290527344,2.8369574295847038,0.0,"tensor([0.2768], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87397766113281,6.525310315583882,0.0,"tensor([0.0069], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.874000549316406,6.832178376850329,0.0,"tensor([0.0050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.873966217041016,4.4277099609374995,0.0,"tensor([0.0572], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the new star was born. The",0,0,62.35771179199219,4.012020713404605,0.0,"tensor([0.0516], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.873992919921875,5.18038330078125,0.0,"tensor([0.0429], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87398910522461,3.3743221885279606,0.0,"tensor([0.1638], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.874000549316406,4.094193950452302,0.0,"tensor([0.0788], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the thousand years ago, the next star was born. The",0,0,61.87400436401367,5.665819670024671,0.0,"tensor([0.0161], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the 6000 years ago, the next star was born. The",0,0,63.20774841308594,3.724321224814967,0.0,"tensor([0.0294], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the 6000 years ago, the next star was born. The",0,0,63.20771408081055,5.039534398129112,0.0,"tensor([0.0295], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the 6000 years ago, the next star was born. The",0,0,63.20775604248047,5.341313412314967,0.0,"tensor([0.0221], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the 6000 years ago, the next star was born. The",0,0,63.20771789550781,6.565896767064144,0.0,"tensor([0.0067], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04635620117188,20.576485402960525,0.0,"tensor([2.8434e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04637908935547,4.801913291529605,0.0,"tensor([0.0378], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04634857177734,4.576588520250822,0.0,"tensor([0.0471], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04635620117188,4.966560444078947,0.0,"tensor([0.0314], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the galaxies was gone, but the Klingon years ago, the next star was born. The",0,0,80.90838623046875,5.958783922697369,0.0,"tensor([4.7208e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.0463638305664,7.276584344161184,0.0,1,1
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04638671875,2.237563283819901,0.0,"tensor([0.4991], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04638671875,2.6102895636307566,0.0,"tensor([0.3369], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04638671875,2.6673622532894736,0.0,"tensor([0.3259], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04634857177734,2.6349705746299343,0.0,"tensor([0.3266], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the Klingon years ago, the next star was born. The",0,0,73.04637908935547,3.5637113872327304,0.0,"tensor([0.1311], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was goneield but the asteroid years ago, the next star was born. The",0,0,92.50096130371094,4.22909513774671,0.0,"tensor([2.4612e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid years ago, the next star was born. The",0,0,69.96565246582031,7.353658896998355,0.0,1,1
+" the sun was gone, but the asteroid years ago, the next star was born. The",0,0,69.96562957763672,2.806908537212171,0.0,"tensor([0.2860], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the Sun was gone, but the asteroid years ago, the next star was born. The",0,0,70.95104217529297,3.551942202919408,0.0,"tensor([0.0503], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroidifa ago, the next star was born. The",0,0,87.7143783569336,3.40252685546875,0.0,"tensor([8.0563e-09], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid years ago, the next star was born. The",0,0,69.96564483642578,3.968273283305921,0.0,1,1
+" the sun was gone, but the asteroid years ago, the next star was born. The",0,0,69.96565246582031,4.460560366981908,0.0,"tensor([0.0540], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid years ago, the next star was born. The",0,0,69.96564483642578,4.261536929481908,0.0,"tensor([0.0656], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the neutron years ago, the next star was born. The",0,0,73.62899017333984,4.005044716282895,0.0,"tensor([0.0022], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid trillion ago, the next star was born. The",0,0,81.07206726074219,4.183705861944901,0.0,"tensor([4.1638e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the nano trillion ago, the next star was born. The",0,0,79.18022918701172,4.369607704564145,0.0,"tensor([0.3932], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the asteroid trillion ago, the next star was born. The",0,0,81.07206726074219,2.661349326685855,0.0,"tensor([0.0489], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid trillion ago, the next star was born. The",0,0,81.07201385498047,2.712428042763158,0.0,"tensor([0.3091], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid trillion ago, the next star was born. The",0,0,81.07203674316406,2.7620990953947366,0.0,"tensor([0.2915], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the asteroid trillion ago, the next star was born. The",0,0,81.07202911376953,2.735250372635691,0.0,"tensor([0.3032], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32009887695312,2.698186613384046,0.0,1,1
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.188312088815789,0.0,"tensor([0.1959], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32008361816406,3.102418919613487,0.0,"tensor([0.2035], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.179443359375,0.0,"tensor([0.1968], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.135105494449013,0.0,"tensor([0.2046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.1316004702919407,0.0,"tensor([0.2050], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.1775014776932564,0.0,"tensor([0.1957], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.320068359375,3.14459228515625,0.0,"tensor([0.2043], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.3200912475586,3.1600116930509867,0.0,"tensor([0.1950], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.3201675415039,3.132821494654605,0.003514927579089999,"tensor([0.2031], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32099914550781,3.103953150699013,0.04685000702738762,"tensor([0.2054], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32266998291016,4.169591000205592,0.13000530004501343,"tensor([0.0723], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32513427734375,4.257523707339638,0.2529808580875397,"tensor([0.0672], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.32836151123047,4.077543559827302,0.4157768487930298,"tensor([0.0783], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.33240509033203,4.247162828947368,0.6183932423591614,"tensor([0.0667], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.33724212646484,4.1446186266447365,0.8608301877975464,"tensor([0.0757], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.34285736083984,4.096559223375822,1.14308762550354,"tensor([0.0777], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.34925842285156,4.198787006578947,1.4651652574539185,"tensor([0.0698], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.35649108886719,4.184207313939145,1.8270633220672607,"tensor([0.0694], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.36447143554688,4.170025634765625,2.2287819385528564,"tensor([0.0737], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.37328338623047,3.8027163856907893,2.670320987701416,"tensor([0.1038], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.38300323486328,4.505402575041118,3.15851092338562,"tensor([0.0504], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.39348602294922,4.1404367547286185,3.686521053314209,"tensor([0.0740], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.40478515625,4.143419125205592,4.254351615905762,"tensor([0.0751], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.41687774658203,4.085724840666118,4.862001895904541,"tensor([0.0783], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.4298095703125,5.55695158305921,5.509471893310547,"tensor([0.0178], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.44349670410156,5.985641961348684,6.1967620849609375,"tensor([0.0117], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.45795440673828,5.433992084703947,6.923872947692871,"tensor([0.0198], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.47322845458984,5.554079718338816,7.690803527832031,"tensor([0.0175], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.48930358886719,5.453929379111842,8.497553825378418,"tensor([0.0200], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy trillion ago, the next star was born. The",0,0,73.5061264038086,4.835661878083881,9.344123840332031,"tensor([0.0369], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.27842712402344,14.371173416940788,10.237344741821289,"tensor([2.7792e-12], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Lyndon ago, the next star was Dealer. The",0,0,110.71537017822266,7.341005987870066,11.107421875,"tensor([2.1227e-13], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Izan ago, the next star was born. The",0,0,92.4881820678711,11.26922543174342,12.059643745422363,1,1
+" the sun was gone, but the Billion Lyndon ago, the next star was born. The",0,0,90.40145111083984,4.063384046052631,13.012260437011719,"tensor([0.5567], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Lyndon ago, the next star was born. The",0,0,90.38683319091797,3.7197831003289474,13.721949577331543,"tensor([0.1112], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Lyndon ago, the next star was born. The",0,0,90.3730239868164,3.8482107062088815,14.390395164489746,"tensor([0.1009], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.56128692626953,3.952596885279605,15.017598152160645,1,1
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.59929656982422,3.5368350380345395,15.659414291381836,"tensor([0.1343], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.6442642211914,3.560318475020559,16.41957664489746,"tensor([0.1378], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.69625854492188,3.539987021998355,17.298086166381836,"tensor([0.1351], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.7552719116211,3.6317646227384865,18.294940948486328,"tensor([0.1205], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.82119750976562,3.6744262695312497,19.41014289855957,"tensor([0.1210], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.89422607421875,3.7759566457648024,20.64369010925293,"tensor([0.1077], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,87.97425079345703,4.143727513363487,21.99558448791504,"tensor([0.0741], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.06121063232422,3.8506180612664473,23.4658260345459,"tensor([0.1004], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.15522003173828,3.874754574424342,25.054412841796875,"tensor([0.0960], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.25621032714844,4.015191329152961,26.7613468170166,"tensor([0.0841], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.36427307128906,3.9340817100123355,28.586627960205078,"tensor([0.0895], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.47697448730469,3.984656404194079,30.49156379699707,"tensor([0.0843], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.59440612792969,4.400927734375,32.47615051269531,"tensor([0.0569], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.71562957763672,4.11710847553454,34.52443313598633,"tensor([0.0751], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.83921813964844,4.835396535773026,36.61367416381836,"tensor([0.0355], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,88.96981048583984,4.836788779810855,38.82126235961914,"tensor([0.0360], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,89.10746765136719,4.456494783100329,41.14719772338867,"tensor([0.0537], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,89.2475357055664,5.479305869654605,43.51409149169922,"tensor([0.0190], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,89.39456939697266,4.8679761384662825,45.999332427978516,"tensor([0.0360], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Lyndon ago, the next star was born. The",0,0,89.5440902709961,5.813231136924342,48.525535583496094,"tensor([0.0140], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born. The",0,0,70.84220123291016,5.5576171875,51.170082092285156,1,1
+" the sun was gone, but the galaxy eternity ago, the next star was born. The",0,0,70.74502563476562,5.37834761770148,53.884788513183594,"tensor([0.0221], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born. The",0,0,70.65007019042969,5.614338764391447,56.53986358642578,"tensor([0.0166], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the Orion was gone, but the galaxy eternity ago, the next star was born. The",0,0,78.69346618652344,5.7023572419819075,59.12337112426758,"tensor([4.4738e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born. The",0,0,70.46755981445312,6.018891344572368,61.64127731323242,1,1
+" the galaxies was gone, but the galaxy eternity ago, the next star was born.
+",0,0,78.81958770751953,9.888844058388157,64.09358215332031,"tensor([5.1836e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the galaxies was gone, but the galaxy eternity ago, the next star was born.
+",0,0,78.82181549072266,8.17373046875,66.47799682617188,"tensor([0.0013], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,68.04469299316406,8.640134148848684,68.84503936767578,1,1
+" the sun was gone, but the galaxyathom ago, the next star was born.
+",0,0,80.64961242675781,5.580563193873355,71.1434326171875,"tensor([5.2182e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,67.80567932128906,4.77722746196546,73.32759857177734,1,1
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,67.69731140136719,8.718599660773027,75.36090087890625,"tensor([0.0008], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy YEAR ago, the next star was born.
+",0,0,66.85479736328125,11.916164679276315,77.2875747680664,"tensor([6.5429e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,67.49829864501953,8.813624974300987,79.09384155273438,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,67.41078186035156,11.570055509868421,80.73493957519531,"tensor([4.3094e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxyathom ago, the next star was born.
+",0,0,71.86222839355469,9.806216591282894,82.2694091796875,"tensor([2.7703e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the Orion was gone, but the galaxy eternity ago, the next star was born.
+",0,0,73.36993408203125,10.426166735197368,83.68617248535156,"tensor([2.7475e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,67.18457794189453,9.65322265625,84.97850799560547,"tensor([0.1374], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was forgotten, but the galaxy eternity ago, the next star was born.
+",0,0,68.42411041259766,9.216420384457237,86.17190551757812,"tensor([0.0001], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,72.79572296142578,8.489382452713816,87.24373626708984,"tensor([1.0812e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy eternity ago, the next star was born.
+",0,0,72.69050598144531,7.033262232730263,88.16345977783203,"tensor([0.0040], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy YEAR ago, the next star was born.
+",0,0,72.17235565185547,6.847608706825658,88.85441589355469,"tensor([0.0078], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the Orion was gone, but the galaxy eternity ago, the next star was born.
+",0,0,79.58918762207031,6.511753443667763,89.29187774658203,"tensor([3.8917e-06], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy YEAR ago, the next star was born.
+",0,0,72.09247589111328,6.616105571546052,89.49946594238281,1,1
+" the sun was gone, but the galaxy YEAR ago, the next star was born.
+",0,0,72.09530639648438,5.052205617804276,89.47718048095703,"tensor([0.0295], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,68.32929229736328,5.115461168791119,89.207275390625,1,1
+" the sun was gone, but the galaxy Years ago, the next star was born pres
+",0,0,86.2387466430664,4.598369076377467,88.67025756835938,"tensor([8.3707e-10], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,66.24913787841797,4.436669600637336,87.8478012084961,1,1
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,68.67449188232422,4.0458984375,86.72036743164062,"tensor([0.0085], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,68.87178802490234,5.645178865131578,85.2988052368164,"tensor([0.0163], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,69.10762023925781,5.3934082031249995,83.59965515136719,"tensor([0.0211], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,69.38159942626953,5.2472373560855265,81.6257553100586,"tensor([0.0250], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,69.694091796875,4.968069618626645,79.374267578125,"tensor([0.0326], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,70.04518127441406,5.201846474095395,76.84502410888672,"tensor([0.0259], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,70.43470764160156,5.114383095189145,74.03819274902344,"tensor([0.0280], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,70.86282348632812,5.032988538240131,70.95376586914062,"tensor([0.0296], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,71.32945251464844,4.818314722964638,67.59175109863281,"tensor([0.0379], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,71.83467864990234,4.8069213867187495,63.9521369934082,"tensor([0.0376], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,72.37834930419922,4.722914203844573,60.03492736816406,"tensor([0.0414], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxyYears ago, the next star was born.
+",0,0,76.67486572265625,4.174970446134869,55.84012222290039,"tensor([0.0018], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the galaxies was gone, but the galaxy Years ago, the next star was born.
+",0,0,78.8762435913086,3.441793020148026,51.36814498901367,"tensor([0.0313], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,72.59486389160156,3.465696314761513,46.594879150390625,1,1
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,73.37620544433594,4.597741056743421,41.515567779541016,"tensor([0.0471], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,75.69642639160156,4.488383403577303,36.12860870361328,"tensor([0.0114], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,76.48575592041016,6.20384521484375,30.441513061523438,"tensor([0.0092], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,77.31362915039062,6.268241159539474,24.476821899414062,"tensor([0.0088], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,78.1800537109375,5.989979954769737,18.234535217285156,"tensor([0.0116], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,79.08500671386719,6.931575734991776,11.714656829833984,"tensor([0.0046], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.02738189697266,6.024344675164474,4.925093173980713,"tensor([0.0110], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,6.04097900390625,0.0,"tensor([0.0109], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,6.168083753083882,0.0,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the neb was gone, but the galaxy Forever ago, the next star was born.
+",0,0,92.85995483398438,6.438103284333882,0.0,"tensor([4.0335e-08], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the meg Years ago, the next star was born.
+",0,0,88.2276840209961,5.930198910361842,0.0,1,1
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.7468139648437497,0.0,1,1
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.434498034025493,0.0,"tensor([0.1562], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.4631723504317433,0.0,"tensor([0.1432], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.460899593955592,0.0,"tensor([0.1433], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.4397518760279606,0.0,"tensor([0.1535], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76227569580078,3.520236045435855,0.0,"tensor([0.1377], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76228332519531,3.4404592413651316,0.0,"tensor([0.1486], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.4485023900082235,0.0,"tensor([0.1467], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76231384277344,3.4317970677425986,0.0,"tensor([0.1509], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76229858398438,3.4205868369654606,0.0,"tensor([0.1514], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76224517822266,3.513080797697368,0.0,"tensor([0.1402], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76225280761719,3.4335134405838814,0.0,"tensor([0.1480], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226043701172,3.4918701171874997,0.0,"tensor([0.1403], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.4391781455592105,0.0,"tensor([0.1457], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76228332519531,3.4161062140213816,0.0,"tensor([0.1490], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.4873804995888156,0.0,"tensor([0.1415], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76228332519531,3.401373933490954,0.0,"tensor([0.1554], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76229095458984,4.508787777549342,0.0,"tensor([0.0513], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71094512939453,5.721172774465461,0.0,"tensor([0.0059], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,6.287544973273026,0.0,"tensor([0.0084], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxyYears ago, the next star was born.
+",0,0,84.37820434570312,5.965379574424342,0.0,"tensor([0.0003], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Forever ago, the next star was born.
+",0,0,89.35038757324219,5.264823512027138,0.0,"tensor([0.0002], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,7.234844006990132,0.0,1,1
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.7109146118164,4.174368446751645,0.0,"tensor([0.0726], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76221466064453,4.125583367598684,0.0,"tensor([0.1956], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the next star was born.
+",0,0,79.76226806640625,3.451009328741776,0.0,"tensor([0.1458], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71086120605469,4.030754651521382,0.0,"tensor([0.0319], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71090698242188,4.413822214226974,0.0,"tensor([0.0559], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,4.169992868523849,0.0,"tensor([0.0704], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71090698242188,4.410162674753289,0.0,"tensor([0.0584], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71087646484375,4.416313733552632,0.0,"tensor([0.0548], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71090698242188,4.2048699629934205,0.0,"tensor([0.0686], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the next star was born.
+",0,0,80.71092224121094,4.15333251953125,0.0,"tensor([0.0731], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96459197998047,4.2039846319901315,0.0,"tensor([0.0555], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.9645767211914,4.191660027754934,0.0,"tensor([0.0723], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,4.172953073601974,0.0,"tensor([0.0719], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96461486816406,4.189709793893915,0.0,"tensor([0.0697], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.964599609375,5.495091488486842,0.0,"tensor([0.0190], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96460723876953,5.767051295230263,0.0,"tensor([0.0146], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96456909179688,6.424764854029605,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,6.798978464226973,0.0,"tensor([0.0052], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.964599609375,6.156135639391447,0.0,"tensor([0.0097], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.9645767211914,6.428433388157894,0.0,"tensor([0.0074], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,5.846294844777961,0.0,"tensor([0.0137], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.964599609375,5.791992829975329,0.0,"tensor([0.0140], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the Billion Years ago, the new star was born.
+",0,0,79.76024627685547,4.864573267886513,0.0,"tensor([0.1139], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the new star was born.
+",0,0,80.24833679199219,4.903115362870066,0.0,"tensor([0.0213], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the galaxies was gone, but the galaxy Years ago, the new star was born.
+",0,0,86.72804260253906,4.5851703844572365,0.0,"tensor([7.3218e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Years ago, the new star was born.
+",0,0,80.24835205078125,4.534889622738487,0.0,1,1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.964599609375,4.1219745836759865,0.0,"tensor([0.0377], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,4.266590640419408,0.0,"tensor([0.0652], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,4.332203112150493,0.0,"tensor([0.0595], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96463775634766,4.148329564144737,0.0,"tensor([0.0740], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy LONG ago, the new star was born.
+",0,0,81.65232849121094,3.939853387129934,0.0,"tensor([0.0460], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,3.6940236944901317,0.0,"tensor([0.2253], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96460723876953,4.081536865234375,0.0,"tensor([0.0801], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,4.227016730057565,0.0,"tensor([0.0663], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.9645767211914,4.310658665707237,0.0,"tensor([0.0643], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,3.998906828227796,0.0,"tensor([0.0837], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96460723876953,4.274818179481908,0.0,"tensor([0.0648], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,4.135337428042763,0.0,"tensor([0.0729], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.9645767211914,4.153800884046053,0.0,"tensor([0.0717], device='cuda:0', grad_fn=<ExpBackward0>)",1
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.96458435058594,5.732306229440789,0.0,"tensor([0.0151], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the galaxy Forever ago, the new star was born.
+",0,0,80.964599609375,5.945764802631579,0.0,"tensor([0.0120], device='cuda:0', grad_fn=<ExpBackward0>)",0
+" the sun was gone, but the meg Years ago, the new star was born.
+",0,0,88.35452270507812,4.778140419407895,0.0,"tensor([2.4306e-05], device='cuda:0', grad_fn=<ExpBackward0>)",0

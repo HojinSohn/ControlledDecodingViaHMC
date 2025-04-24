@@ -1,1 +1,2 @@
-python main.py --device cpu --lambda_energy 2.0 --epsilon 0.02 --n_steps 500 --std_dev 0.2 --delta 0.3 --num_leapfrog 5
+sbatch scholar.sh python main.py --device cuda --lambda_energy 50 --epsilon 0.65 --n_steps 100 --std_dev 0.1 --delta 
+0.1 --num_leapfrog 40 --alpha 1.0 --debug
