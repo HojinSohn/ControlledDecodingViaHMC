@@ -182,7 +182,7 @@ def save_samples(samples, filename):
        writer = csv.writer(file)
        # Write header
        writer.writerow([
-           "Decoded Text", "Fluency Loss", "Sentiment Loss",
+           "Text", "Fluency Loss", "Sentiment Loss",
            "Potential Energy", "Kinetic Energy", "Lambda", "Accepted"
        ])
       
