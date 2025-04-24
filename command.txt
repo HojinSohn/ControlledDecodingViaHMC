@@ -1,2 +1,6 @@
 sbatch scholar.sh python main.py --device cuda --lambda_energy 50 --epsilon 0.65 --n_steps 100 --std_dev 0.1 --delta 
 0.1 --num_leapfrog 40 --alpha 1.0 --debug
+
+sbatch scholar.sh python main2.py --device cuda --lambda_energy 10.0 --epsilon 0.7 --n_steps 10 --std_dev 0.5 --delta 0.1 --num_leapfrog 10 --alpha 0.1 --debug
+
+sbatch scholar.sh python main2.py --device cuda --lambda_energy 10.0 --epsilon 0.7 --n_steps 10 --std_dev 0.35 --delta 0.1 --num_leapfrog 12 --alpha 0.1 --prompt "The book is" --seq_length 40

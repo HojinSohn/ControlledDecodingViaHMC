@@ -64,7 +64,7 @@ def get_file_name(lambda_energy, epsilon, alpha, n_steps, std_dev, delta, num_le
 
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = (
-        f"log_data/sampling_log_LE{lambda_energy}_eps{epsilon}_a{alpha}_ns{n_steps}_"
+        f"sample_data/{lambda_energy}_eps{epsilon}_a{alpha}_ns{n_steps}_"
         f"std{std_dev}_d{delta}_lf{num_leapfrog}_{timestamp}.csv"
     )
     return filename

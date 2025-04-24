@@ -201,7 +201,7 @@ class HMCSampler2:
         samples = []
         potentials = []
 
-        samples.append(self.embeddings.pred_embeds.clone().detach())
+        # samples.append(self.embeddings.pred_embeds.clone().detach())
     
         num_accepts = 0
 
@@ -238,6 +238,27 @@ class HMCSampler2:
                 
                 current_potential_energy = potential_energy_previous
 
+                if i == 0:
+                    with torch.no_grad():
+                        # save to samples
+                        fluency_loss, sentiment_loss = self.compute_loss(pred_embeds, probs)
+                        # Save all relevant data in the sample
+                        accepted_token_ids = self.embeddings.get_projected_tokens()
+                        token_ids_list = accepted_token_ids.squeeze().tolist() # Convert tensor to list for tokenizer.decode
+                        decoded_text = tokenizer.decode(token_ids_list, skip_special_tokens=True)
+                        samples.append({
+                            "pred_embeds": self.embeddings.pred_embeds.clone().detach(),
+                            "decoded_text": decoded_text,
+                            "fluency_loss": fluency_loss.item(),
+                            "sentiment_loss": sentiment_loss.item(),
+                            "potential_energy": potential_energy_previous.item(),
+                            "kinetic_energy": kinetic_energy_previous,
+                            "lambda": self.current_lambda.item(),
+                            # "alpha": 1,
+                            "Accepted": True
+                        })
+
+
                 # Update by multiple leapfrog steps to get a new sample.
                 for step in range(num_leapfrogs):
                     #
@@ -260,7 +281,7 @@ class HMCSampler2:
                         f"Kinetic Energy: {kinetic_energy_current}, "
                         f"Total Energy: {potential_energy_current.item() + kinetic_energy_current}, "
                         f"Lambda: {self.current_lambda.item()}, "
-                        f"Alpha: {alpha_val}, ")
+                        f"Alpha: {alpha_val.item()}, ")
 
                 if accept_new:
                     # Accept new samples.
@@ -287,7 +308,8 @@ class HMCSampler2:
 
                     prev_token_ids_list = sampled_token_ids
 
-                    samples.append(self.embeddings.pred_embeds.clone().detach())
+                    # samples.append(self.embeddings.pred_embeds.clone().detach())
+
                     # Save all relevant data in the sample
                     samples.append({
                         "pred_embeds": self.embeddings.pred_embeds.clone().detach(),
@@ -297,7 +319,7 @@ class HMCSampler2:
                         "potential_energy": potential_energy_current.item(),
                         "kinetic_energy": kinetic_energy_current,
                         "lambda": self.current_lambda.item(),
-                        "alpha": alpha_val,
+                        # "alpha": alpha_val.item(),
                         "Accepted": True
                     })
                     # potentials.append(potential_energy_current.item())
@@ -322,7 +344,7 @@ class HMCSampler2:
                         "potential_energy": potential_energy_current.item(),
                         "kinetic_energy": kinetic_energy_current,
                         "lambda": self.current_lambda.item(),
-                        "alpha": alpha_val,
+                        # "alpha": alpha_val.item(),
                         "Accepted": False
                     })
 
