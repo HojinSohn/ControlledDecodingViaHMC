@@ -7,10 +7,10 @@ class PerplexityEvaluator:
     def __init__(self, device, debug=False):
         self.device = device
         self.debug = debug
-        self.model = model_name = GPT2LMHeadModel.from_pretrained("gpt2-xl")
+        self.model = model_name = GPT2LMHeadModel.from_pretrained("distilgpt2")
         self.model.to(device)
         self.model.eval()
-        self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2-xl")
+        self.tokenizer = GPT2Tokenizer.from_pretrained("distilgpt2")
         self.tokenizer.pad_token = self.tokenizer.eos_token
 
 
