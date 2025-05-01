@@ -1,23 +1,20 @@
 '''
-Get the sampling works for one prompt: "The movie was"
-The sample sequence should looks different that the initial sequence
-Issue:
+This is main script for running the HMC sampler on a language model.
+Intializes the model, tokenizer, and other parameters.
+Samples initial sentences from the model and then runs the HMC sampler starting from the generated sentences.
 
-1. The initial sequence is sampled by greedy, repeating sentence issue arises. Need to sample initial sequence through top-p, top-k, or beam search
-2. Currently, assumes the batch size is 1. In the case when there are multiple batches, need to change the code accordingly
-3. Maybe read prompts from input file?
-4. Currently rejecting all samples. Issue with energy function or leap frong steps
+Saves the generated samples to a CSV file.
+For debugging purpose, plot the energy movement during the sampling process.
 '''
 
 import argparse
 import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer, DistilBertForSequenceClassification, DistilBertTokenizer
 import numpy as np
-
 from util import *
-from sampler.HMCSampler_2 import HMCSampler2
+from Sampler.HMCSampler_2 import HMCSampler2
 import matplotlib.pyplot as plt
-from sampler.Embeddings import Embeddings
+from Sampler.Embeddings import Embeddings
 from Evaluators.Evaluators import PerplexityEvaluator, SentimentEvaluator
 
 def options():

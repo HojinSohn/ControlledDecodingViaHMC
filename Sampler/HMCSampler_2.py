@@ -1,17 +1,16 @@
 ''' 
-
+This file implements the Hamiltonian Monte Carlo (HMC) sampler for generating text samples.
+The HMC sampler uses gpt2 (fluency) loss and sentiment loss to generate text samples with desired fluency and sentiment.
+The sampler uses Hamiltonian dynamics to explore the parameter space of the language model. Acceptance-rejection sampling 
+is used to accept or reject new samples based on the potential and kinetic energies of the system.
 '''
 import torch 
 import gc
 import numpy as np
 from util import *
 from transformers import GPT2LMHeadModel, GPT2Tokenizer, DistilBertForSequenceClassification, DistilBertTokenizer
-from sampler.losses.gpt2_loss import GPT2Loss as FluencyLoss
-from sampler.losses.sentiment_loss import SentimentLoss as SentimentLoss
-import torch.optim as optim
-
-DEBUG_ACCEPT = False
-
+from Sampler.losses.gpt2_loss import GPT2Loss as FluencyLoss
+from Sampler.losses.sentiment_loss import SentimentLoss as SentimentLoss
 
 class HMCSampler2:
     

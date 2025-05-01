@@ -1,12 +1,10 @@
-import torch.nn as nn
-import torch
-
-import torch.nn.functional as F
-
-
 '''
 This class is wrapper for the token embbedings being optimized wrt potential energy.
 '''
+
+import torch.nn as nn
+import torch
+import torch.nn.functional as F
 
 class Embeddings(nn.Module): 
     def __init__(
