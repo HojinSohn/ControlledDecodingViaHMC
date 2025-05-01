@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from finetune import GPT2SentimentClassifier
+from sentiment_fintune.finetune import GPT2SentimentClassifier
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 

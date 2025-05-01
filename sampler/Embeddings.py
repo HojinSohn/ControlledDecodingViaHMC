@@ -4,6 +4,10 @@ import torch
 import torch.nn.functional as F
 
 
+'''
+This class is wrapper for the token embbedings being optimized wrt potential energy.
+'''
+
 class Embeddings(nn.Module): 
     def __init__(
         self,

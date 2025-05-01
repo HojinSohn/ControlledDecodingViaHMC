@@ -29,7 +29,7 @@ class GPT2Loss:
         # Fluency term: -log P_LM(project(Y) | x)
         # shape of token_ids: (1, token length)
 
-        # (pred_embeds, self.pred_embeds), _, (pred_probs, softmax_pred_probs)
+        # (pred_embeds, self.pred_embeds), (pred_probs, softmax_pred_probs)
         pred_embeds, pred_probs = preds
 
         pred_embeds = pred_embeds[0]

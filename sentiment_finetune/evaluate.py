@@ -1,3 +1,10 @@
+'''
+Evaluate accepted texts using perplexity and sentiment analysis.
+This script reads a CSV file containing accepted texts, computes their perplexity and sentiment scores,
+and saves the results to a new CSV file.
+and plot the energy movement.
+'''
+
 import pandas as pd
 import argparse
 from Evaluators.Evaluators import PerplexityEvaluator, SentimentEvaluator

@@ -1,3 +1,10 @@
+'''
+This script fine-tunes a GPT-2 model for sentiment classification on the SST2 dataset.
+It uses the Hugging Face Transformers library for model and tokenizer loading,
+and the Datasets library for loading and processing the SST2 dataset.
+The model is trained using a linear classifier on top of the GPT-2 embeddings.
+'''
+
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 import torch
 import torch.nn as nn
@@ -45,7 +52,8 @@ def tokenize_function(examples):
     return tokenizer(examples['sentence'], padding="max_length", truncation=True)
 
 def load_data():
-    dataset = load_dataset("stanfordnlp/imdb")
+    # Load the SST2 dataset
+    dataset = load_dataset("stanfordnlp/sst2")
     train_data = dataset["train"]
     # validation_data = dataset["validation"]
     test_data = dataset["test"]
