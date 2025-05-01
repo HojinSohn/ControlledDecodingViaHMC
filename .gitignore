@@ -4,3 +4,4 @@ slurm_logs/
 fine_tuned_gpt2_sentiment/
 __pycache__/
 **/__pycache__/
+*.ipynb
