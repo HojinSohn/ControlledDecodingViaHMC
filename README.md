@@ -64,14 +64,15 @@ sbatch scholar.sh python main2.py \
 
 
 ## Dependencies
-Core Dependencies (for model training and optimization):
-torch
-transformers
-numpy
 
-## Additional Libraries (for data recording and visualization):
-gc (for garbage collection)
-pandas (for data manipulation)
-matplotlib (for plotting)
-csv (for CSV file handling)
-datetime
+### Core Dependencies (for model training and optimization):
+- `torch`
+- `transformers`
+- `numpy`
+
+### Additional Libraries (for data recording and visualization):
+- `gc` (for garbage collection)
+- `pandas` (for data manipulation)
+- `matplotlib` (for plotting)
+- `csv` (for CSV file handling)
+- `datetime`
