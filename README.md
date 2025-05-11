@@ -49,7 +49,7 @@ Used the **SLURM workload manager** to submit and schedule training jobs efficie
 
 ### Example SLURM Command
 ```bash
-sbatch scholar.sh python main2.py \
+sbatch scholar.sh python main_v2.py \
   --device cuda \
   --lambda_energy 10.0 \
   --epsilon 0.7 \
