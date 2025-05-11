@@ -25,6 +25,7 @@ Typical decoding methods like greedy search or beam search lack control over sem
 
 ### Prompt:
 The book is
+
 **Generated Output:**
 > The book is an appreciation of a book by John Steinbeckania and we are sure this is a first time the booknat
 
@@ -33,6 +34,7 @@ The book is
 
 ### Prompt:
 Once upon a time
+
 **Generated Output:**
 > the Spirit was the blessing by the great sweep of powerful Solar's   At first, the cosmos was just a flat patch of time,  but...
 
