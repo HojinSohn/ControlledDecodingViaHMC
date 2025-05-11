@@ -1,4 +1,4 @@
-[Project PDF](./Sentiment Controlled Decoding Via HMC.pdf)
+[Project PDF](docs/Presentation.pdf)
 
 # Controlled Decoding via Hamiltonian Monte Carlo
 
