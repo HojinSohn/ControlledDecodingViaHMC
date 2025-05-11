@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+OLD VERSION
 SequenceEnergy: Wrapper for sequence embeddings and energy computation
 """
 

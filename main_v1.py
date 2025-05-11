@@ -1,4 +1,5 @@
 '''
+OLD VERSION
 Get the sampling works for one prompt: "The movie was"
 
 The sample sequence should looks different that the initial sequence
