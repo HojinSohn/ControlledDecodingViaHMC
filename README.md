@@ -27,6 +27,7 @@ Typical decoding methods like greedy search or beam search lack control over sem
 The book is
 **Generated Output:**
 > The book is an appreciation of a book by John Steinbeckania and we are sure this is a first time the booknat
+
 > The book is about the time he was told by his parents that it was "a good idea" for him to start resusc
 ---
 
@@ -34,6 +35,7 @@ The book is
 Once upon a time
 **Generated Output:**
 > the Spirit was the blessing by the great sweep of powerful Solar's   At first, the cosmos was just a flat patch of time,  but...
+
 > the world was the Jewel by the great light of Gaia Solar.  At first, the cosmos was just a small fragment of time, but...
 
 ---
