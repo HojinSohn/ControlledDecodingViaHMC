@@ -60,6 +60,8 @@ sbatch scholar.sh python main2.py \
   --alpha 0.1 \
   --prompt "Once upon a time," \
   --seq_length 25
+```
+
 
 ## Dependencies
 Core Dependencies (for model training and optimization):
