@@ -42,8 +42,21 @@ Once upon a time,
 
 ---
 
+## Compute Environment
+
 All experiments and model training were conducted on the **Scholar computing cluster** provided by **Purdue University**.  
 Used the **SLURM workload manager** to submit and schedule training jobs efficiently.
 
-Command for experiment:
-
+### Example SLURM Command
+```bash
+sbatch scholar.sh python main2.py \
+  --device cuda \
+  --lambda_energy 10.0 \
+  --epsilon 0.7 \
+  --n_steps 1000 \
+  --std_dev 0.30 \
+  --delta 0.1 \
+  --num_leapfrog 10 \
+  --alpha 0.1 \
+  --prompt "Once upon a time," \
+  --seq_length 25
