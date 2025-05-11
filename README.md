@@ -1,4 +1,5 @@
-[Project PDF](docs/Presentation.pdf)
+Project Summary: [Project PDF](docs/Presentation.pdf)
+![Project Preview](docs/Presentation.png)
 
 # Controlled Decoding via Hamiltonian Monte Carlo
 
