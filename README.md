@@ -1,3 +1,5 @@
+[Project PDF](./Sentiment Controlled Decoding Via HMC.pdf)
+
 # Controlled Decoding via Hamiltonian Monte Carlo
 
 This project uses **Hamiltonian Monte Carlo (HMC)** to guide the generation of **fluent, sentiment-controlled** text sequences from a pretrained language model (GPT-2). Specifically, it optimizes the **input token embeddings** of GPT-2 to generate **positive sentences** given a minimal prompt (e.g., `"The book"` → `"The book is very good"`).
