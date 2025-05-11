@@ -60,3 +60,16 @@ sbatch scholar.sh python main2.py \
   --alpha 0.1 \
   --prompt "Once upon a time," \
   --seq_length 25
+
+## Dependencies
+Core Dependencies (for model training and optimization):
+torch
+transformers
+numpy
+
+## Additional Libraries (for data recording and visualization):
+gc (for garbage collection)
+pandas (for data manipulation)
+matplotlib (for plotting)
+csv (for CSV file handling)
+datetime
