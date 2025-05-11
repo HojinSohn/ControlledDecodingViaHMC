@@ -21,7 +21,7 @@ Typical decoding methods like greedy search or beam search lack control over sem
 
 ---
 
-## ✨ Example Outputs
+## Example Outputs
 
 ### Prompt:
 The book is
