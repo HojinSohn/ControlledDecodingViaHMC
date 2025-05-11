@@ -33,14 +33,17 @@ The book is
 ---
 
 ### Prompt:
-Once upon a time
+Once upon a time,
 
 **Generated Output:**
-> the Spirit was the blessing by the great sweep of powerful Solar's   At first, the cosmos was just a flat patch of time,  but...
+> Once upon a time, the Spirit was the blessing by the great sweep of powerful Solar's   At first, the cosmos was just a flat patch of time,  but...
 
-> the world was the Jewel by the great light of Gaia Solar.  At first, the cosmos was just a small fragment of time, but...
+> Once upon a time, the world was the Jewel by the great light of Gaia Solar.  At first, the cosmos was just a small fragment of time, but...
 
 ---
 
 All experiments and model training were conducted on the **Scholar computing cluster** provided by **Purdue University**.  
 Used the **SLURM workload manager** to submit and schedule training jobs efficiently.
+
+Command for experiment:
+
