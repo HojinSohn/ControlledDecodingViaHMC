@@ -77,5 +77,6 @@ sbatch scholar.sh python main2.py \
 - `csv` (for CSV file handling)
 - `datetime`
 
-Project Summary: [Project PDF](docs/Presentation.pdf)
+## Project Summary 
+[Project PDF](docs/Presentation.pdf)
 ![Project Preview](docs/Presentation.png)
